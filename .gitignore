@@ -1,0 +1,21 @@
+# Local reference materials and generated lesson artifacts
+/sources/
+/output/
+/units/*/*
+!/units/*/plan.md
+/harness/control/
+/harness/validation/
+
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local configuration and credentials
+.DS_Store
+.env
+.env.*
+!.env.example
+*.pem
+*.key

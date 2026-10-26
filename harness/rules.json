@@ -1,0 +1,330 @@
+{
+  "version": "1.1.0",
+  "schema_version": 1,
+  "allowed_scope": [
+    "범위 내",
+    "보충·심화",
+    "제외"
+  ],
+  "source_roles": [
+    "primary",
+    "secondary",
+    "comparison",
+    "standard"
+  ],
+  "plan_fields": [
+    "unit",
+    "curriculum",
+    "objectives",
+    "target_slides",
+    "minutes",
+    "design",
+    "slides"
+  ],
+  "slide_fields": [
+    "number",
+    "title",
+    "message",
+    "content_ids",
+    "visual",
+    "source_ids",
+    "layout",
+    "character"
+  ],
+  "review_categories": [
+    "science",
+    "curriculum",
+    "visual"
+  ],
+  "max_retries": 2,
+  "roles": {
+    "analysis": [
+      "research"
+    ],
+    "image": [
+      "assets"
+    ],
+    "production": [
+      "drafts"
+    ],
+    "judge": [],
+    "sample": [
+      "drafts/representatives"
+    ]
+  },
+  "stages": {
+    "research": {
+      "pre": [
+        "G07"
+      ],
+      "post": [
+        "G01",
+        "G07"
+      ]
+    },
+    "plan": {
+      "pre": [
+        "G01",
+        "G07"
+      ],
+      "post": [
+        "G01",
+        "G02",
+        "G07"
+      ]
+    },
+    "image": {
+      "pre": [
+        "G01",
+        "G02",
+        "G03",
+        "G07"
+      ],
+      "post": [
+        "G01",
+        "G02",
+        "G03",
+        "G04",
+        "G07"
+      ]
+    },
+    "prototype": {
+      "pre": [
+        "G01",
+        "G02",
+        "G03",
+        "G04",
+        "G07"
+      ],
+      "post": [
+        "G01",
+        "G02",
+        "G03",
+        "G04",
+        "G07",
+        "G08"
+      ]
+    },
+    "design_confirmation": {
+      "pre": [
+        "G01",
+        "G02",
+        "G03",
+        "G04",
+        "G07",
+        "G08"
+      ],
+      "post": [
+        "G01",
+        "G02",
+        "G03",
+        "G04",
+        "G07",
+        "G08",
+        "G09"
+      ]
+    },
+    "production": {
+      "pre": [
+        "G01",
+        "G02",
+        "G03",
+        "G04",
+        "G07",
+        "G08",
+        "G09"
+      ],
+      "post": [
+        "G01",
+        "G02",
+        "G03",
+        "G04",
+        "G05",
+        "G07",
+        "G08",
+        "G09"
+      ]
+    },
+    "review": {
+      "pre": [
+        "G01",
+        "G02",
+        "G03",
+        "G04",
+        "G05",
+        "G07",
+        "G08",
+        "G09"
+      ],
+      "post": [
+        "G01",
+        "G02",
+        "G03",
+        "G04",
+        "G05",
+        "G06",
+        "G07",
+        "G08",
+        "G09"
+      ]
+    }
+  },
+  "gates": {
+    "G01": {
+      "target": "research/",
+      "condition": "nonempty sources and content; all sources resolve; scope classified; supplementary rationale recorded",
+      "rollback": "research"
+    },
+    "G02": {
+      "target": "plan.md",
+      "condition": "all required fields; slide count and unique sequence match; included content covered; excluded content absent",
+      "rollback": "plan"
+    },
+    "G03": {
+      "target": "approvals.json",
+      "condition": "human evidence bound to unit and semantic plan hash; simulation forbidden in production",
+      "rollback": "plan"
+    },
+    "G04": {
+      "target": "assets/manifest.json",
+      "condition": "all planned assets present, hashed, sourced, reviewed; no unused or missing planned IDs",
+      "rollback": "image"
+    },
+    "G05": {
+      "target": "drafts/",
+      "condition": "valid PPTX and DOCX; slide/script counts match; nonempty notes and Source: per slide",
+      "rollback": "production"
+    },
+    "G06": {
+      "target": "checks/reviews.json and figma/mapping.json",
+      "condition": "all slides rendered and reviewed in every category; no open issues; current hashes; one unique Figma node per slide",
+      "rollback": "cause"
+    },
+    "G07": {
+      "target": "protected baseline",
+      "condition": "original paths and file hashes unchanged; trusted baseline required",
+      "rollback": "stop"
+    },
+    "G08": {
+      "target": "design-review/reference-lock.json and review.json",
+      "condition": "all seven reference-bound layouts, current artifacts and real visual comparison evidence; no unverified criteria",
+      "rollback": "prototype"
+    },
+    "G09": {
+      "target": "design-review/approvals.json and feedback.json",
+      "condition": "current seven-type reference/candidate human confirmation; no unresolved feedback",
+      "rollback": "prototype"
+    }
+  },
+  "design_review": {
+    "types": [
+      "cover",
+      "part",
+      "objectives",
+      "contents",
+      "figure",
+      "table_formula",
+      "comparison"
+    ],
+    "criteria": [
+      "title_hierarchy",
+      "visual_scale",
+      "spacing",
+      "image_background",
+      "borders",
+      "layout_fidelity",
+      "typography",
+      "character_identity",
+      "branding"
+    ],
+    "optional_criteria": [
+      "borders",
+      "character_identity"
+    ],
+    "locked_properties": [
+      "kind",
+      "bbox",
+      "fill",
+      "font_family",
+      "font_size",
+      "font_weight",
+      "alignment",
+      "character_asset_id"
+    ],
+    "bbox_tolerance": 0,
+    "required_roles": {
+      "cover": [
+        "title",
+        "author",
+        "characters",
+        "tsherpa_logo",
+        "sci_eum_logo"
+      ],
+      "part": [
+        "part_label",
+        "title",
+        "question"
+      ],
+      "objectives": [
+        "title",
+        "objectives_box",
+        "numbered_list",
+        "guide_character"
+      ],
+      "contents": [
+        "title",
+        "part_blocks"
+      ],
+      "figure": [
+        "title",
+        "figure"
+      ],
+      "table_formula": [
+        "title",
+        "table_or_formula"
+      ],
+      "comparison": [
+        "title",
+        "panels"
+      ]
+    },
+    "branding": {
+      "tsherpa_only_first_slide": true,
+      "cover_type": "cover",
+      "role": "tsherpa_logo",
+      "locked_properties": [
+        "bbox",
+        "visible_bbox",
+        "asset_sha256"
+      ],
+      "source": "actual reference slide logo object, with visible pixels and image crop transform; no fixed 210x60 box"
+    }
+  },
+  "tool_gates": {
+    "image-generate": [
+      "G01",
+      "G02",
+      "G03",
+      "G07"
+    ],
+    "figma-preview": [
+      "G01",
+      "G02",
+      "G03",
+      "G04",
+      "G07",
+      "G08"
+    ],
+    "figma-publish": [
+      "G01",
+      "G02",
+      "G03",
+      "G04",
+      "G05",
+      "G06",
+      "G07",
+      "G08",
+      "G09"
+    ]
+  }
+}
