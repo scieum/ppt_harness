@@ -1,0 +1,19 @@
+{
+  "sources": [
+    "../equations-v05/w122-sulfur-given.png",
+    "../equations-v05/w122-sulfur-target.png"
+  ],
+  "operation": "원본 검정 글자 픽셀을 유지하고 균일 배경 RGB(233,246,246)를 알파로 제거. 수식 재입력·생성 없음.",
+  "common_scale": 1.44,
+  "ink_height_source_pixels": {
+    "given": [
+      47,
+      48
+    ],
+    "target": 48
+  },
+  "slides": [
+    19,
+    20
+  ]
+}

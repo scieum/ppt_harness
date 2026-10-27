@@ -1,0 +1,62 @@
+[
+  {
+    "id": "brown-boy",
+    "source": "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/assets/characters/body/references/body_student_water_cup.png",
+    "copy": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-02_헤스법칙/assets/characters-v17/brown-boy-original.png",
+    "sha256": "8045eecfde6a0ad01f2f05a9a47246568ab43d60d4a6f2b8b64f26a2885469a0",
+    "derived": "units/3-02_헤스법칙/assets/characters-v17/brown-boy-classroom.png",
+    "derived_sha256": "f7b91685260629607fff978ffe66b1b9fdc3038dce1ff7625baad83788fd2486",
+    "method": "built-in image_gen, original-specific identity-preserving edit",
+    "purpose": "교복 수업 안내·생각·설명·확인",
+    "identity_review": "원본의 얼굴·머리·검정 눈·비율 대조; 사용자 디자인 확인 대기",
+    "placed": "units/3-02_헤스법칙/assets/characters-v17/brown-boy-placed.png",
+    "placed_sha256": "3c05ff9157db51c209a0ea47eb61776c76e5036c7264c149a147433efd5ad6cf",
+    "placement_transform": "투명 외곽 여백만 크롭, 가로세로 비율 유지",
+    "user_approved": false
+  },
+  {
+    "id": "glasses-boy",
+    "source": "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/assets/characters/body/references/body_student_flask_observation.png",
+    "copy": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-02_헤스법칙/assets/characters-v17/glasses-boy-original.png",
+    "sha256": "6c163e1552786bc14ccdb3c9513c47e456ccf371b3e5e27b83c64d45ef5cc904",
+    "derived": "units/3-02_헤스법칙/assets/characters-v17/glasses-boy-classroom.png",
+    "derived_sha256": "957eada83693f1eed855ff4d680497ed545edf8ead36171025be018e2149cdf4",
+    "method": "built-in image_gen, original-specific identity-preserving edit",
+    "purpose": "교복 수업 안내·생각·설명·확인",
+    "identity_review": "원본의 얼굴·머리·검정 눈·비율 대조; 사용자 디자인 확인 대기",
+    "placed": "units/3-02_헤스법칙/assets/characters-v17/glasses-boy-placed.png",
+    "placed_sha256": "ae3630d3973a36b624044c097441e39290706794428240edce1b04b4a2a7c5bd",
+    "placement_transform": "투명 외곽 여백만 크롭, 가로세로 비율 유지",
+    "user_approved": false
+  },
+  {
+    "id": "long-hair-girl",
+    "source": "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/assets/characters/body/references/body_student_two_flasks.png",
+    "copy": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-02_헤스법칙/assets/characters-v17/long-hair-girl-original.png",
+    "sha256": "9b436745499b47772b9c38ff953d3e5fa3253f7c6a55ffdc02ac36d01dc72e66",
+    "derived": "units/3-02_헤스법칙/assets/characters-v17/long-hair-girl-classroom.png",
+    "derived_sha256": "c0d66baf2eea21e1d8397928a7b7bba0d09cd8a6b84e684e0a9eadf93155cbe9",
+    "method": "built-in image_gen, original-specific identity-preserving edit",
+    "purpose": "교복 수업 안내·생각·설명·확인",
+    "identity_review": "원본의 얼굴·머리·검정 눈·비율 대조; 사용자 디자인 확인 대기",
+    "placed": "units/3-02_헤스법칙/assets/characters-v17/long-hair-girl-placed.png",
+    "placed_sha256": "cf6c4912fbd95db3db61246472568370c550d863adf8afe1d0245c9475b7c387",
+    "placement_transform": "투명 외곽 여백만 크롭, 가로세로 비율 유지",
+    "user_approved": false
+  },
+  {
+    "id": "wavy-hair-girl",
+    "source": "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/assets/characters/body/references/body_student_winter_ball.png",
+    "copy": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-02_헤스법칙/assets/characters-v17/wavy-hair-girl-original.png",
+    "sha256": "39e27b75219978f82d9c0caaefd099729eacee5e09ce0cc0416a9403d38e64fd",
+    "derived": "units/3-02_헤스법칙/assets/characters-v17/wavy-hair-girl-classroom.png",
+    "derived_sha256": "433da9f8e3ab7e6cbf53a77443e5c4be7ca7fa1b8e3b23e894221188fdb2c744",
+    "method": "built-in image_gen, original-specific identity-preserving edit",
+    "purpose": "교복 수업 안내·생각·설명·확인",
+    "identity_review": "원본의 얼굴·머리·검정 눈·비율 대조; 사용자 디자인 확인 대기",
+    "placed": "units/3-02_헤스법칙/assets/characters-v17/wavy-hair-girl-placed.png",
+    "placed_sha256": "b59e74f4a1b3234ff1a3cf84a86d7d42c43f12d1efcf1f4a46a9cc75e195e955",
+    "placement_transform": "투명 외곽 여백만 크롭, 가로세로 비율 유지",
+    "user_approved": false
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "source": "../diamond-v14/w15-137-target.png",
+  "operation": "원본 반응식 끝의 쉼표·ΔH3=? 부분 제외, 화학 반응식만 유지",
+  "crop": [
+    0,
+    0,
+    445,
+    62
+  ],
+  "affected_slides": [
+    18
+  ],
+  "part_background": {
+    "slides": [
+      5,
+      13,
+      24,
+      33
+    ],
+    "asset": "../diamond-v14/cover-four-original-students.png",
+    "green_gradient": "표지와 동일",
+    "black_overlay_opacity": 0.51,
+    "image_unchanged": true
+  }
+}

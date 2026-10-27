@@ -1,0 +1,202 @@
+[
+  {
+    "planned_page": 9,
+    "gaps": [
+      26,
+      62
+    ],
+    "center": 652,
+    "images": [
+      {
+        "id": "t84-cao-dissolve",
+        "inkTop": 534.85,
+        "inkBottom": 583.3000000000001,
+        "oldTop": 516.8000000000001,
+        "newTop": 516.8000000000001
+      },
+      {
+        "id": "t84-cao-neutral",
+        "inkTop": 609.3,
+        "inkBottom": 657.75,
+        "oldTop": 591.25,
+        "newTop": 591.25
+      },
+      {
+        "id": "t84-cao-direct",
+        "inkTop": 719.75,
+        "inkBottom": 769.15,
+        "oldTop": 697.9,
+        "newTop": 697.9
+      }
+    ]
+  },
+  {
+    "planned_page": 10,
+    "gaps": [
+      42
+    ],
+    "center": 635,
+    "images": [
+      {
+        "id": "t76-water-one",
+        "inkTop": 531.3964218455744,
+        "inkBottom": 633.7975517890773,
+        "oldTop": 510.91619585687386,
+        "newTop": 510.91619585687386
+      },
+      {
+        "id": "t76-water-two",
+        "inkTop": 675.7975517890773,
+        "inkBottom": 738.6035781544257,
+        "oldTop": 633.4717514124294,
+        "newTop": 633.4717514124294
+      }
+    ]
+  },
+  {
+    "planned_page": 11,
+    "gaps": [
+      44
+    ],
+    "center": 628,
+    "images": [
+      {
+        "id": "t86-ch4-formation",
+        "inkTop": 546.3014781501439,
+        "inkBottom": 604.2605651066657,
+        "oldTop": 527.9986085849265,
+        "newTop": 527.9986085849265
+      },
+      {
+        "id": "t87-ch4-decomposition",
+        "inkTop": 648.2605651066656,
+        "inkBottom": 709.698521849856,
+        "oldTop": 629.6097568096257,
+        "newTop": 629.6097568096257
+      }
+    ]
+  },
+  {
+    "planned_page": 15,
+    "gaps": [
+      64,
+      28
+    ],
+    "center": 650,
+    "images": [
+      {
+        "id": "t85-co-target",
+        "inkTop": 470.97729485116656,
+        "inkBottom": 577.1922948511666,
+        "oldTop": 464.40729485116657,
+        "newTop": 464.40729485116657
+      },
+      {
+        "id": "t85-co-total",
+        "inkTop": 641.1922948511666,
+        "inkBottom": 694.8377493966211,
+        "oldTop": 622.5806065394783,
+        "newTop": 622.5806065394783
+      },
+      {
+        "id": "t85-co-oxidize",
+        "inkTop": 722.8377493966211,
+        "inkBottom": 829.0227051488336,
+        "oldTop": 719.553678600161,
+        "newTop": 719.553678600161
+      }
+    ]
+  },
+  {
+    "planned_page": 17,
+    "gaps": [
+      28
+    ],
+    "center": 670,
+    "images": [
+      {
+        "id": "t85-co-total",
+        "inkTop": 576.0847948511665,
+        "inkBottom": 629.730249396621,
+        "oldTop": 557.4731065394782,
+        "newTop": 557.4731065394782
+      },
+      {
+        "id": "t85-co-oxidize",
+        "inkTop": 657.730249396621,
+        "inkBottom": 763.9152051488335,
+        "oldTop": 654.4461786001609,
+        "newTop": 654.4461786001609
+      }
+    ]
+  },
+  {
+    "planned_page": 19,
+    "gaps": [
+      50
+    ],
+    "center": 660,
+    "images": [
+      {
+        "id": "w122-sulfur-given",
+        "inkTop": 509,
+        "inkBottom": 690.44,
+        "oldTop": 477.32,
+        "newTop": 477.32
+      },
+      {
+        "id": "w122-sulfur-target",
+        "inkTop": 740.44,
+        "inkBottom": 811,
+        "oldTop": 695.8000000000001,
+        "newTop": 695.8000000000001
+      }
+    ]
+  },
+  {
+    "planned_page": 20,
+    "gaps": [
+      40
+    ],
+    "center": 660,
+    "images": [
+      {
+        "id": "w122-sulfur-given",
+        "inkTop": 514,
+        "inkBottom": 695.44,
+        "oldTop": 482.32,
+        "newTop": 482.32
+      },
+      {
+        "id": "w122-sulfur-target",
+        "inkTop": 735.44,
+        "inkBottom": 806,
+        "oldTop": 690.8000000000001,
+        "newTop": 690.8000000000001
+      }
+    ]
+  },
+  {
+    "planned_page": 25,
+    "gaps": [
+      42
+    ],
+    "center": 635,
+    "images": [
+      {
+        "id": "t85-water-liquid",
+        "inkTop": 492.75,
+        "inkBottom": 614,
+        "oldTop": 480.25,
+        "newTop": 480.25
+      },
+      {
+        "id": "t85-water-gas",
+        "inkTop": 656,
+        "inkBottom": 777.25,
+        "oldTop": 647.25,
+        "newTop": 647.25
+      }
+    ]
+  }
+]

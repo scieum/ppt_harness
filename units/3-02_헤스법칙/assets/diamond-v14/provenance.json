@@ -1,0 +1,32 @@
+{
+  "W15": {
+    "page": 137,
+    "uses": [
+      "graph",
+      "target equation"
+    ]
+  },
+  "W22": {
+    "page": 127,
+    "uses": [
+      "two combustion equations"
+    ],
+    "values": [
+      -393.5,
+      -395.4
+    ]
+  },
+  "cover": {
+    "method": "원래 생성한 cover-four-original-students.png 복원 + PPT 네이티브 그라데이션 도형",
+    "reference": "registered assets/characters/uniform/reference-1-01-cover.png",
+    "image_unchanged": true,
+    "overlay": "linear(0deg,#158C18 0%,#158C18/98 18%,#158C18/80 28%,#158C18/35 36%,#158C18/0 43%)",
+    "user_gradient_reference_only": "codex-clipboard-e73557df-f3d6-48f4-9ccf-26e926347830.png"
+  },
+  "girl": {
+    "method": "built-in image_gen edit",
+    "reference": "registered-originals/body_student_two_flasks.png",
+    "prompt": "원본 얼굴·머리·비율 유지, 교복 여학생이 흑연을 손으로 누르며 애씀, 다이아몬드는 생각 풍선에만 표현, 투명 배경"
+  },
+  "values_note": "W22 127 Q7 반올림 자료로+1.9kJ. T86 +1.88와 혼용하지 않음"
+}

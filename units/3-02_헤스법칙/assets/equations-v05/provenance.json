@@ -1,0 +1,461 @@
+[
+  {
+    "id": "t76-water-one",
+    "kind": "original_textbook_crop",
+    "source": "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/inbox/textbook/chunjae/고_물질과에너지(임희준)_교과서.pdf",
+    "source_id": "T",
+    "pdf_page": 76,
+    "printed_page": 76,
+    "crop_reference_scale": null,
+    "bbox": null,
+    "render_scale": null,
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-02_헤스법칙/assets/equations-v05/t76-water-one.png",
+    "sha256": "7014cd31455ec3a24b4d813858d5ff73282f1bb613390ec42ad5427624ef8c90",
+    "method": "Crop of preserved textbook page76 original asset; no retyping or generation",
+    "parent_crop": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-01_엔탈피와열화학반응식/assets/source-v2/coefficient-state.png",
+    "bbox_parent_pixels": [
+      268,
+      344,
+      1330,
+      445
+    ]
+  },
+  {
+    "id": "t76-water-two",
+    "kind": "original_textbook_crop",
+    "source": "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/inbox/textbook/chunjae/고_물질과에너지(임희준)_교과서.pdf",
+    "source_id": "T",
+    "pdf_page": 76,
+    "printed_page": 76,
+    "crop_reference_scale": null,
+    "bbox": null,
+    "render_scale": null,
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-02_헤스법칙/assets/equations-v05/t76-water-two.png",
+    "sha256": "8dd9fc14b4dd4575cc92c453d0ad1b4cf8627a0aab7a7b110f364584e1bc8b49",
+    "method": "Crop of preserved textbook page76 original asset; no retyping or generation",
+    "parent_crop": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-01_엔탈피와열화학반응식/assets/source-v2/coefficient-state.png",
+    "bbox_parent_pixels": [
+      323,
+      625,
+      864,
+      741
+    ]
+  },
+  {
+    "id": "t84-cao-direct",
+    "kind": "original_textbook_crop",
+    "source": "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/inbox/textbook/chunjae/고_물질과에너지(임희준)_교과서.pdf",
+    "source_id": "T",
+    "pdf_page": 84,
+    "printed_page": 84,
+    "crop_reference_scale": 2,
+    "bbox": [
+      438,
+      550,
+      1050,
+      586
+    ],
+    "render_scale": 5,
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-02_헤스법칙/assets/equations-v05/t84-cao-direct.png",
+    "sha256": "3d12c16eff4c7c11a561d569b6e968a47b399d6f95e833d3ea24f6103f935f9a",
+    "method": "Original PDF rendering and crop only. No generation or retyping."
+  },
+  {
+    "id": "t84-cao-dissolve",
+    "kind": "original_textbook_crop",
+    "source": "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/inbox/textbook/chunjae/고_물질과에너지(임희준)_교과서.pdf",
+    "source_id": "T",
+    "pdf_page": 84,
+    "printed_page": 84,
+    "crop_reference_scale": 2,
+    "bbox": [
+      438,
+      672,
+      1050,
+      708
+    ],
+    "render_scale": 5,
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-02_헤스법칙/assets/equations-v05/t84-cao-dissolve.png",
+    "sha256": "d7642264c084b514cf474e4c1ea39ec05a1a1f1a7613ac238a5f5bbe6b847951",
+    "method": "Original PDF rendering and crop only. No generation or retyping."
+  },
+  {
+    "id": "t84-cao-neutral",
+    "kind": "original_textbook_crop",
+    "source": "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/inbox/textbook/chunjae/고_물질과에너지(임희준)_교과서.pdf",
+    "source_id": "T",
+    "pdf_page": 84,
+    "printed_page": 84,
+    "crop_reference_scale": 2,
+    "bbox": [
+      438,
+      708,
+      1050,
+      776
+    ],
+    "render_scale": 5,
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-02_헤스법칙/assets/equations-v05/t84-cao-neutral.png",
+    "sha256": "55f612037750e30c1a75645dba4b5899d81cdf8aeba7dbfcd35225d61e0c95a9",
+    "method": "Original PDF rendering and crop only. No generation or retyping."
+  },
+  {
+    "id": "t84-cao-graph",
+    "kind": "original_textbook_crop",
+    "source": "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/inbox/textbook/chunjae/고_물질과에너지(임희준)_교과서.pdf",
+    "source_id": "T",
+    "pdf_page": 84,
+    "printed_page": 84,
+    "crop_reference_scale": 2,
+    "bbox": [
+      530,
+      999,
+      1065,
+      1398
+    ],
+    "render_scale": 5,
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-02_헤스법칙/assets/equations-v05/t84-cao-graph.png",
+    "sha256": "7744d0f1464df7daf87be51105cbe225dd284c4459ea58e90c05007a30827557",
+    "method": "Original PDF rendering and crop only. No generation or retyping."
+  },
+  {
+    "id": "t85-co-total",
+    "kind": "original_textbook_crop",
+    "source": "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/inbox/textbook/chunjae/고_물질과에너지(임희준)_교과서.pdf",
+    "source_id": "T",
+    "pdf_page": 85,
+    "printed_page": 85,
+    "crop_reference_scale": 2,
+    "bbox": [
+      232,
+      515,
+      738,
+      546
+    ],
+    "render_scale": 5,
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-02_헤스법칙/assets/equations-v05/t85-co-total.png",
+    "sha256": "b911614765c23cc5a8c3931a6d13dcea9e1096994a05b5086658f680b7114846",
+    "method": "Original PDF rendering and crop only. No generation or retyping."
+  },
+  {
+    "id": "t85-co-oxidize",
+    "kind": "original_textbook_crop",
+    "source": "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/inbox/textbook/chunjae/고_물질과에너지(임희준)_교과서.pdf",
+    "source_id": "T",
+    "pdf_page": 85,
+    "printed_page": 85,
+    "crop_reference_scale": 2,
+    "bbox": [
+      232,
+      550,
+      738,
+      595
+    ],
+    "render_scale": 5,
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-02_헤스법칙/assets/equations-v05/t85-co-oxidize.png",
+    "sha256": "cb25517c2c4220ccbf672d8a06a4b99bceb258632d089ed2ccb303447ef988b0",
+    "method": "Original PDF rendering and crop only. No generation or retyping."
+  },
+  {
+    "id": "t85-co-target",
+    "kind": "original_textbook_crop",
+    "source": "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/inbox/textbook/chunjae/고_물질과에너지(임희준)_교과서.pdf",
+    "source_id": "T",
+    "pdf_page": 85,
+    "printed_page": 85,
+    "crop_reference_scale": 2,
+    "bbox": [
+      232,
+      598,
+      676,
+      643
+    ],
+    "render_scale": 5,
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-02_헤스법칙/assets/equations-v05/t85-co-target.png",
+    "sha256": "cfe45a2cbd46655a1121cb3198bf26213e295ec6ebba9484b08ed82639a1af57",
+    "method": "Original PDF rendering and crop only. No generation or retyping."
+  },
+  {
+    "id": "t85-co-combine",
+    "kind": "original_textbook_crop",
+    "source": "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/inbox/textbook/chunjae/고_물질과에너지(임희준)_교과서.pdf",
+    "source_id": "T",
+    "pdf_page": 85,
+    "printed_page": 85,
+    "crop_reference_scale": 2,
+    "bbox": [
+      286,
+      689,
+      601,
+      814
+    ],
+    "render_scale": 5,
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-02_헤스법칙/assets/equations-v05/t85-co-combine.png",
+    "sha256": "8f227d5b71925de7605a5550b8b5db8fd3337ca362e220c9eaf498069662099a",
+    "method": "Original PDF rendering and crop only. No generation or retyping."
+  },
+  {
+    "id": "t85-co-graph",
+    "kind": "original_textbook_crop",
+    "source": "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/inbox/textbook/chunjae/고_물질과에너지(임희준)_교과서.pdf",
+    "source_id": "T",
+    "pdf_page": 85,
+    "printed_page": 85,
+    "crop_reference_scale": 2,
+    "bbox": [
+      291,
+      892,
+      792,
+      1118
+    ],
+    "render_scale": 5,
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-02_헤스법칙/assets/equations-v05/t85-co-graph.png",
+    "sha256": "bb4bd18c4f421bcd496046a71feb629fa28319df15561b69a57a1d4371f1ca1a",
+    "method": "Original PDF rendering and crop only. No generation or retyping."
+  },
+  {
+    "id": "t85-water-liquid",
+    "kind": "original_textbook_crop",
+    "source": "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/inbox/textbook/chunjae/고_물질과에너지(임희준)_교과서.pdf",
+    "source_id": "T",
+    "pdf_page": 85,
+    "printed_page": 85,
+    "crop_reference_scale": 2,
+    "bbox": [
+      231,
+      1190,
+      682,
+      1238
+    ],
+    "render_scale": 5,
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-02_헤스법칙/assets/equations-v05/t85-water-liquid.png",
+    "sha256": "34ae3c8e54c5a55922c37a3e66dc06dd7b181afc7b915f2042eeb3a258cf6228",
+    "method": "Original PDF rendering and crop only. No generation or retyping."
+  },
+  {
+    "id": "t85-water-gas",
+    "kind": "original_textbook_crop",
+    "source": "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/inbox/textbook/chunjae/고_물질과에너지(임희준)_교과서.pdf",
+    "source_id": "T",
+    "pdf_page": 85,
+    "printed_page": 85,
+    "crop_reference_scale": 2,
+    "bbox": [
+      231,
+      1240,
+      682,
+      1288
+    ],
+    "render_scale": 5,
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-02_헤스법칙/assets/equations-v05/t85-water-gas.png",
+    "sha256": "9866bfb56d14985a83060282bdc8eb6a9d4233b33552f9a022a188ce8439e383",
+    "method": "Original PDF rendering and crop only. No generation or retyping."
+  },
+  {
+    "id": "t85-water-vaporize",
+    "kind": "original_textbook_crop",
+    "source": "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/inbox/textbook/chunjae/고_물질과에너지(임희준)_교과서.pdf",
+    "source_id": "T",
+    "pdf_page": 85,
+    "printed_page": 85,
+    "crop_reference_scale": 2,
+    "bbox": [
+      231,
+      1288,
+      608,
+      1320
+    ],
+    "render_scale": 5,
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-02_헤스법칙/assets/equations-v05/t85-water-vaporize.png",
+    "sha256": "067a8bebd875ce7a5dc23e243f81d734ab46a649e23e607961585a28f5a49141",
+    "method": "Original PDF rendering and crop only. No generation or retyping."
+  },
+  {
+    "id": "t86-ch4-formation",
+    "kind": "original_textbook_crop",
+    "source": "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/inbox/textbook/chunjae/고_물질과에너지(임희준)_교과서.pdf",
+    "source_id": "T",
+    "pdf_page": 86,
+    "printed_page": 86,
+    "crop_reference_scale": 2,
+    "bbox": [
+      437,
+      451,
+      1007,
+      488
+    ],
+    "render_scale": 5,
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-02_헤스법칙/assets/equations-v05/t86-ch4-formation.png",
+    "sha256": "04e3d8b08fb85fb1294c6cc6484ab9f981d1d4338b5af170ad7e2c774553540e",
+    "method": "Original PDF rendering and crop only. No generation or retyping."
+  },
+  {
+    "id": "t86-ch4-combustion",
+    "kind": "original_textbook_crop",
+    "source": "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/inbox/textbook/chunjae/고_물질과에너지(임희준)_교과서.pdf",
+    "source_id": "T",
+    "pdf_page": 86,
+    "printed_page": 86,
+    "crop_reference_scale": 2,
+    "bbox": [
+      462,
+      1313,
+      962,
+      1355
+    ],
+    "render_scale": 5,
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-02_헤스법칙/assets/equations-v05/t86-ch4-combustion.png",
+    "sha256": "be220023f56df20a3f70e7bda54d8e1d826fc1479e7aed988da373b8bb484b09",
+    "method": "Original PDF rendering and crop only. No generation or retyping."
+  },
+  {
+    "id": "t87-ch4-decomposition",
+    "kind": "original_textbook_crop",
+    "source": "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/inbox/textbook/chunjae/고_물질과에너지(임희준)_교과서.pdf",
+    "source_id": "T",
+    "pdf_page": 87,
+    "printed_page": 87,
+    "crop_reference_scale": 2,
+    "bbox": [
+      242,
+      145,
+      855,
+      215
+    ],
+    "render_scale": 5,
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-02_헤스법칙/assets/equations-v05/t87-ch4-decomposition.png",
+    "sha256": "8c163ce5cdd4f3ca1d09e5e51819440cb2cc023dd1d994ec4df9556e0f81b4be",
+    "method": "Original PDF rendering and crop only. No generation or retyping."
+  },
+  {
+    "id": "t87-three-processes",
+    "kind": "original_textbook_crop",
+    "source": "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/inbox/textbook/chunjae/고_물질과에너지(임희준)_교과서.pdf",
+    "source_id": "T",
+    "pdf_page": 87,
+    "printed_page": 87,
+    "crop_reference_scale": 2,
+    "bbox": [
+      164,
+      144,
+      857,
+      356
+    ],
+    "render_scale": 5,
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-02_헤스법칙/assets/equations-v05/t87-three-processes.png",
+    "sha256": "d22a5c5fb566d49ff78d495128d135c3d292c68b2fb39835a2ee5d923f7dd200",
+    "method": "Original PDF rendering and crop only. No generation or retyping."
+  },
+  {
+    "id": "w122-sulfur-given",
+    "kind": "original_wanja_crop",
+    "source": "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/inbox/textbook/etc/통합_(22개정)완자 고등물질과에너지_본문_260415(교사용).pdf",
+    "source_id": "W22",
+    "pdf_page": 122,
+    "printed_page": 122,
+    "crop_reference_scale": 1.2,
+    "bbox": [
+      397,
+      720,
+      633,
+      760
+    ],
+    "render_scale": 5,
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-02_헤스법칙/assets/equations-v05/w122-sulfur-given.png",
+    "sha256": "f7074a21911b4904ad1022bfeab4c4f02dc94ca9021a4b068c75885a8539b5e2",
+    "method": "Original PDF rendering and crop only. No generation or retyping."
+  },
+  {
+    "id": "w122-sulfur-target",
+    "kind": "original_wanja_crop",
+    "source": "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/inbox/textbook/etc/통합_(22개정)완자 고등물질과에너지_본문_260415(교사용).pdf",
+    "source_id": "W22",
+    "pdf_page": 122,
+    "printed_page": 122,
+    "crop_reference_scale": 1.2,
+    "bbox": [
+      399,
+      805,
+      605,
+      832
+    ],
+    "render_scale": 5,
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-02_헤스법칙/assets/equations-v05/w122-sulfur-target.png",
+    "sha256": "fa698ca8cae48cd619196889bf3a01a366561fe31d5e7a6515f5a91f16aa8c48",
+    "method": "Original PDF rendering and crop only. No generation or retyping."
+  },
+  {
+    "id": "w120-naoh-dissolve",
+    "kind": "original_wanja_crop",
+    "source": "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/inbox/textbook/etc/통합_(22개정)완자 고등물질과에너지_본문_260415(교사용).pdf",
+    "source_id": "W22",
+    "pdf_page": 120,
+    "printed_page": 120,
+    "crop_reference_scale": 1.2,
+    "bbox": [
+      317,
+      404,
+      464,
+      418
+    ],
+    "render_scale": 5,
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-02_헤스법칙/assets/equations-v05/w120-naoh-dissolve.png",
+    "sha256": "09e9b36b9a573d451c379a4233a314f7e041419294293362e56073118eee2777",
+    "method": "Original PDF rendering and crop only. No generation or retyping."
+  },
+  {
+    "id": "w120-naoh-neutral",
+    "kind": "original_wanja_crop",
+    "source": "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/inbox/textbook/etc/통합_(22개정)완자 고등물질과에너지_본문_260415(교사용).pdf",
+    "source_id": "W22",
+    "pdf_page": 120,
+    "printed_page": 120,
+    "crop_reference_scale": 1.2,
+    "bbox": [
+      317,
+      422,
+      532,
+      435
+    ],
+    "render_scale": 5,
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-02_헤스법칙/assets/equations-v05/w120-naoh-neutral.png",
+    "sha256": "a944c4f067f8803f7c37d7e274d63004322dcbd878865482ab89086d666d63be",
+    "method": "Original PDF rendering and crop only. No generation or retyping."
+  },
+  {
+    "id": "w120-naoh-direct",
+    "kind": "original_wanja_crop",
+    "source": "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/inbox/textbook/etc/통합_(22개정)완자 고등물질과에너지_본문_260415(교사용).pdf",
+    "source_id": "W22",
+    "pdf_page": 120,
+    "printed_page": 120,
+    "crop_reference_scale": 1.2,
+    "bbox": [
+      317,
+      439,
+      532,
+      452
+    ],
+    "render_scale": 5,
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-02_헤스법칙/assets/equations-v05/w120-naoh-direct.png",
+    "sha256": "f748d95d30f99fe8982084929ff88315492a1feb1c50e28084f45c60e3829290",
+    "method": "Original PDF rendering and crop only. No generation or retyping."
+  },
+  {
+    "id": "t82-hiking-original",
+    "kind": "original_textbook_illustration",
+    "source_id": "T",
+    "pdf_page": 82,
+    "printed_page": 82,
+    "bbox": [
+      842,
+      243,
+      1077,
+      478
+    ],
+    "crop_reference_scale": 2,
+    "render_scale": 5,
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-02_헤스법칙/assets/equations-v05/t82-hiking-original.png",
+    "sha256": "003dd5c8031e4b297fec0b69e88285752060291b2594a083dcdd0abc698ac2ec",
+    "method": "Original textbook hiking-route illustration. Rendering and crop only; no redraw or generated replacement."
+  }
+]

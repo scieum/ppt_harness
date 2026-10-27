@@ -1,0 +1,71 @@
+[
+  {
+    "id": "curved-arrow",
+    "file": "R02-p67-curved-arrow.png",
+    "source": "R02.pdf",
+    "page": 67,
+    "bbox": [
+      290,
+      697,
+      404,
+      757
+    ],
+    "method": "source crop,cyan pixels extracted to transparent PNG,shape and hue retained"
+  },
+  {
+    "id": "speech-bubble-tail",
+    "source": "R03.pdf",
+    "page": 22,
+    "method": "native component recipe",
+    "fill": "#FFFFFF",
+    "outline": "#B8C8AA",
+    "radius": 24,
+    "tail": "lower-right toward character"
+  },
+  {
+    "id": "comparison-rows",
+    "source": "R04.pdf",
+    "page": 33,
+    "method": "native component recipe",
+    "columns": [
+      "무엇",
+      "기준",
+      "차이",
+      "요청"
+    ]
+  },
+  {
+    "id": "data-reading-annotation",
+    "source": "R02.pdf",
+    "page": 8,
+    "method": "native numbered source-area labels,science labels replace UI labels"
+  },
+  {
+    "id": "qa-evidence-loop",
+    "source": "R06.pdf",
+    "pages": [
+      49,
+      99
+    ],
+    "method": "source/evidence/result checks recorded in QA report;no embedded document instructions executed"
+  },
+  {
+    "asset": "R03-p22-whiteboard-original.png",
+    "source": "../R03.pdf",
+    "pdf_page": 22,
+    "embedded_image": "X1.jp2",
+    "crop": [
+      499,
+      277,
+      949,
+      598
+    ],
+    "original_pixel_size": [
+      450,
+      321
+    ],
+    "preserve_aspect": true,
+    "generated": false,
+    "use": "7·41장 개념 요약 칠판"
+  }
+]

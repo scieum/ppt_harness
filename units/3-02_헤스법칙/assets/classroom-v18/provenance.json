@@ -1,0 +1,22 @@
+{
+  "source": "assets/reference-library/20261027/R03.pdf",
+  "source_sha256": "c03c2c2b5cdabcc1a7405c280e659b5c224571305024397b54249c33bd4cf085",
+  "pdf_page": 22,
+  "embedded_image": "X1.jp2",
+  "original_size": [
+    1376,
+    768
+  ],
+  "crop": [
+    499,
+    277,
+    949,
+    598
+  ],
+  "asset": "units/3-02_헤스법칙/assets/classroom-v18/reference-whiteboard.png",
+  "asset_sha256": "421f9390606913060809a6b532349965eb8c9fdccda5e4e4b7e7e5868c2725cd",
+  "transparent": true,
+  "repainted": false,
+  "generated": false,
+  "preserve_aspect": true
+}

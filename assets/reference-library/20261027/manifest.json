@@ -1,0 +1,50 @@
+[
+  {
+    "id": "R01",
+    "name": "[사이클 라이브]MCP 적용부터 제작까지 100% 활용하기.pdf",
+    "source": "/Users/keemhayeon/Downloads/[사이클 라이브]MCP 적용부터 제작까지 100% 활용하기.pdf",
+    "copy": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/assets/reference-library/20261027/R01.pdf",
+    "pages": 52,
+    "sha256": "3aec9500faa7284ae6de6e3fba7e29b6ebf1472a072b89494e44c93ebfd402a0"
+  },
+  {
+    "id": "R02",
+    "name": "[허들링 클럽] 0802 AI 생성형 이미지 만들기.pdf",
+    "source": "/Users/keemhayeon/Downloads/[허들링 클럽] 0802 AI 생성형 이미지 만들기.pdf",
+    "copy": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/assets/reference-library/20261027/R02.pdf",
+    "pages": 93,
+    "sha256": "ead2275da72baf5c5cafb4ab3eef4752f91fa652ff4391517e15a94502e2a73b"
+  },
+  {
+    "id": "R03",
+    "name": "[4차 사이클 라이브] 기획부터 디자인까지 쭉! AI 디자인 하네스 만들기.pdf",
+    "source": "/Users/keemhayeon/Downloads/[4차 사이클 라이브] 기획부터 디자인까지 쭉! AI 디자인 하네스 만들기.pdf",
+    "copy": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/assets/reference-library/20261027/R03.pdf",
+    "pages": 100,
+    "sha256": "c03c2c2b5cdabcc1a7405c280e659b5c224571305024397b54249c33bd4cf085"
+  },
+  {
+    "id": "R04",
+    "name": "[초보자 3주 챌린지 - 2주차] Figma 디자인 기반으로 프론트 엔드 화면 만들어보기.pdf",
+    "source": "/Users/keemhayeon/Downloads/[초보자 3주 챌린지 - 2주차] Figma 디자인 기반으로 프론트 엔드 화면 만들어보기.pdf",
+    "copy": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/assets/reference-library/20261027/R04.pdf",
+    "pages": 59,
+    "sha256": "4e432dd82365fca807e4d8fdad03504ca7cf6b1f949d77a7db9c9542b1887242"
+  },
+  {
+    "id": "R05",
+    "name": "[초보자 3주 챌린지 - 1주차] CLI 설치하고 에이전트 스킬 만들어보기.pdf",
+    "source": "/Users/keemhayeon/Downloads/[초보자 3주 챌린지 - 1주차] CLI 설치하고 에이전트 스킬 만들어보기.pdf",
+    "copy": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/assets/reference-library/20261027/R05.pdf",
+    "pages": 55,
+    "sha256": "223863d9794a32a704b0e6f8f9b0c7edffc702ffc945d339c04f18980c4fd61e"
+  },
+  {
+    "id": "R06",
+    "name": "[사이클 라이브] 클로드 코드로 만드는 일관된 모션 시스템.pdf",
+    "source": "/Users/keemhayeon/Downloads/[사이클 라이브] 클로드 코드로 만드는 일관된 모션 시스템.pdf",
+    "copy": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/assets/reference-library/20261027/R06.pdf",
+    "pages": 115,
+    "sha256": "a279d25f3420d6ae5199edde40e2d5df323d28660f0a70458e88db21ae79129d"
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "source": "../equations-v05/t84-cao-neutral.png",
+  "operations": [
+    "original crop reaction [0,0,1165,90]",
+    "original crop enthalpy [1090,93,1530,170]",
+    "rearrange at [1225,0],no retyping or generation"
+  ],
+  "output": [
+    1665,
+    90
+  ]
+}

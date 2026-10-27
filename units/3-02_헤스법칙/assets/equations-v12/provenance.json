@@ -1,0 +1,16 @@
+{
+  "sources": [
+    "../equations-v05/t76-water-one.png",
+    "../equations-v05/t76-water-two.png"
+  ],
+  "operation": "원본 문자 픽셀의 배경/강조색을 투명화. 아래 반응식과 ΔH 원본 영역을 자르고 동일 캔버스의 한 줄에 재배치. 재입력·생성 없음.",
+  "canvas": [
+    1062,
+    101
+  ],
+  "display": [
+    1450,
+    137.9
+  ],
+  "slide": 10
+}
