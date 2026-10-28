@@ -142,7 +142,8 @@
         "G05",
         "G07",
         "G08",
-        "G09"
+        "G09",
+        "G10"
       ]
     },
     "review": {
@@ -154,7 +155,8 @@
         "G05",
         "G07",
         "G08",
-        "G09"
+        "G09",
+        "G10"
       ],
       "post": [
         "G01",
@@ -165,7 +167,8 @@
         "G06",
         "G07",
         "G08",
-        "G09"
+        "G09",
+        "G10"
       ]
     }
   },
@@ -214,6 +217,11 @@
       "target": "design-review/approvals.json and feedback.json",
       "condition": "current seven-type reference/candidate human confirmation; no unresolved feedback",
       "rollback": "prototype"
+    },
+    "G10": {
+      "target": "checks/equations.json",
+      "condition": "current PPTX and every slide inventoried; generated transparent textbook-serif equation images; white ink on black; source/science/typography reviews; actual glyph size within 5%; no stretched images or native calculation text",
+      "rollback": "production"
     }
   },
   "design_review": {

@@ -1,4 +1,4 @@
-"""Fail-closed local gate engine. Stdlib only. See README.md for evidence boundaries."""
+"""Fail-closed local gate engine. G10 additionally uses Pillow. See README.md for evidence boundaries."""
 import argparse
 import datetime as dt
 import hashlib
@@ -137,7 +137,7 @@ class Engine:
         self.rules_path = Path(rules or HERE / 'rules.json').resolve()
         self.rules = read(self.rules_path)
         require(self.rules['schema_version'] == 1, 'unsupported rules schema')
-        require(set(self.rules['gates']) == {f'G{i:02}' for i in range(1, 10)}, 'invalid gate set')
+        require(set(self.rules['gates']) == {f'G{i:02}' for i in range(1, 11)}, 'invalid gate set')
         self.control = Path(control or HERE / 'control').resolve()
         require(not self.control.is_relative_to(self.unit), 'control must be outside worker unit')
         self.control = self.control / canonical(str(self.unit))[:20]
@@ -257,6 +257,7 @@ class Engine:
     def G06(self):
         self.G05()
         self.G09()
+        self.G10()
         reviews = read(self.unit / 'checks/reviews.json')
         binding = {p: digest(self.unit / p) for p in ['drafts/deck.pptx', 'drafts/script.docx']}
         require(reviews.get('artifacts') == binding, 'reviews refer to stale artifacts')
@@ -299,6 +300,10 @@ class Engine:
         from design_gate import approve
         self.G08()
         approve(self, plan_hash(self.unit))
+
+    def G10(self):
+        from equation_gate import review
+        review(self)
 
     def preflight(self, stage):
         require(stage in self.rules['stages'], 'unknown stage')
@@ -359,7 +364,8 @@ class Engine:
         for key in ['production', 'review']:
             deps[key] += ['design-review']
         out = {'rules': digest(self.rules_path), 'engine': digest(Path(__file__)),
-               'design_engine': digest(HERE / 'design_gate.py')}
+               'design_engine': digest(HERE / 'design_gate.py'),
+               'equation_engine': digest(HERE / 'equation_gate.py')}
 
         for rel in deps[stage]:
             p = self.unit / rel

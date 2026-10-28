@@ -13,12 +13,14 @@ const fonts=['Regular','Medium','Bold'].map(w=>path.join(ROOT,`output/fonts/Pret
 const registered=FontLibrary.use('Pretendard',[...fonts,path.join(HERE,'Pretendard-H-regular-Oblique.ttf'),path.join(HERE,'Pretendard-H-bold-Oblique.ttf')]);await fs.writeFile(path.join(HERE,'font-registration.json'),JSON.stringify(registered,null,2));
 const ctx=new Canvas(10,10).getContext('2d');
 const p=Presentation.create({slideSize:{width:1920,height:1080}});
-const C={green:'#57962F',gray:'#898989',light:'#F5F5F5',dark:'#484847',black:'#000000'};
+const C={green:'#9FFF68',gray:'#BBBBBB',light:'#242424',dark:'#303030',black:'#FFFFFF'};
+const white31=JSON.parse(await fs.readFile(path.join(ROOT,'units/3-02_헤스법칙/assets/equations-white-v31/manifest.json'),'utf8'));
+const imageSources31=[];
 let assets={};try{assets=JSON.parse(await fs.readFile(path.join(HERE,'original-character-assets.json'),'utf8'))}catch{}
 const intentional=[];
 const EQ=path.join(ROOT,'units/3-02_헤스법칙/assets/equations-v05');
 async function eqimg(s,id,x,y,w,h){return img(s,path.join(id==='t84-cao-neutral'?path.join(ROOT,'units/3-02_헤스법칙/assets/equations-v17'):id==='t87-ch4-decomposition'?path.join(ROOT,'units/3-02_헤스법칙/assets/equations-v13'):id.startsWith('t76-water-')?path.join(ROOT,'units/3-02_헤스법칙/assets/equations-v12'):id.startsWith('w122-sulfur-')?path.join(ROOT,'units/3-02_헤스법칙/assets/equations-v11'):EQ,id+'.png'),x,y,w,h,'반응식 이미지 '+id+' — assets/equations-v05/provenance.json');}
-function box(s,x,y,w,h,fill,name='box',radius=0){return s.shapes.add({geometry:radius?'roundRect':'rect',name,position:{left:x,top:y,width:w,height:h},fill,line:{fill:'none',width:0},...(radius?{borderRadius:radius}:{})})}
+function box(s,x,y,w,h,fill,name='box',radius=0){if(fill==='#F5F5F5')fill='#242424';return s.shapes.add({geometry:radius?'roundRect':'rect',name,position:{left:x,top:y,width:w,height:h},fill,line:{fill:'none',width:0},...(radius?{borderRadius:radius}:{})})}
 function text(s,str,x,y,w,h,size=48,color=C.black,bold=false,align='left',name='text'){
  const q=s.shapes.add({geometry:'textbox',name,position:{left:x,top:y,width:w,height:h},fill:'none',line:{fill:'none',width:0}});
  q.text=str;q.text.style={fontSize:size,typeface:'Pretendard',color,bold,alignment:align,verticalAlignment:'middle',autoFit:'none',wrap:'none',insets:0};if(typeof str==='string'&&/Δ[fr]?H/.test(str))q.text=[chem(str)];return q;
@@ -33,11 +35,11 @@ function chem(str){
 }
 
 async function img(s,file,x,y,w,h,name='image',fit='contain'){
- const b=await fs.readFile(file);return s.images.add({blob:b.buffer.slice(b.byteOffset,b.byteOffset+b.byteLength),contentType:'image/png',alt:name,name,fit,position:{left:x,top:y,width:w,height:h}});
+ if(white31[name])file=white31[name].file;
+ const b=await fs.readFile(file);const im=s.images.add({blob:b.buffer.slice(b.byteOffset,b.byteOffset+b.byteLength),contentType:'image/png',alt:name,name,fit,position:{left:x,top:y,width:w,height:h}});imageSources31.push({id:im.id,file,alt:name});return im;
 }
-async function branding(s,cover=false,dark=false){
- if(dark)box(s,1768,30,128,96,"#FFFFFF","로고 대비 바탕",12);
- await img(s,path.join(A,'v10-cover-sci_eum_logo.png'),1778.667,40,108,77.333,'사이음 공식 로고');
+async function branding(s,cover=false,dark=true){
+ await img(s,path.join(A,dark?'v10-part-sci_eum_logo.png':'v10-cover-sci_eum_logo.png'),1778.667,40,108,77.333,dark?'사이음 화이트 원본 로고':'사이음 공식 로고');
  if(cover)await img(s,path.join(A,'v10-cover-tsherpa_logo.png'),1601.333,42.667,154.667,66.667,'T셀파 공식 로고 — 첫 장만');
  text(s,'© 2026. @sci_eum. All rights reserved.',1440,1034,440,30,21,dark?'#FFFFFF':C.black,false,'right','copyright');
 }
@@ -64,7 +66,7 @@ function dot(s,x,y,col,size=20){return s.shapes.add({geometry:'ellipse',position
 }
 // 2. User-specified two reference characters in hiking clothes studying a route map.
 {
- const s=p.slides.add();s.background.fill='#FFFFFF';await header(s,'Part 0 동기 유발','01','등산 경로와 높이');
+ const s=p.slides.add();s.background.fill='#000000';await header(s,'Part 0 동기 유발','01','등산 경로와 높이');
  title(s,'다른 길로 가도, 높이 차는 같을까?');
  text(s,'같은 지점에서 출발해 정상에 도착하는 두 등산로를 비교해 보자.',150,393,1620,66,36.4,C.gray,true,'center','관찰 설명');
  const scene=await img(s,path.join(ROOT,'units/3-02_헤스법칙/assets/generated/hiking-two-characters-latest-reference-v09.png'),415,474,1090,545,'사용자가 첨부한 두 캐릭터의 등산 장면 — 원본 비율');scene.crop={left:0.12,top:0,right:0.12,bottom:0.24};
@@ -72,7 +74,7 @@ function dot(s,x,y,col,size=20){return s.shapes.add({geometry:'ellipse',position
 }
 // 3. Definition, matching the broad rows of the user's revision p8.
 {
- const s=p.slides.add();s.background.fill='#FFFFFF';await header(s,'Part 1 헤스 법칙','01','헤스 법칙');title(s,'헤스 법칙 (Hess’s law)',271,C.green);
+ const s=p.slides.add();s.background.fill='#000000';await header(s,'Part 1 헤스 법칙','01','헤스 법칙');title(s,'헤스 법칙 (Hess’s law)',271,C.green);
  const ys=[455,609,763];
  const points=[
   [r('· 반응 전후 물질의 종류와 상태가 같으면, '),...chem('ΔH'),r('는 '),r('경로',{color:C.green,bold:true}),r('와 무관하다.')],
@@ -87,7 +89,7 @@ function dot(s,x,y,col,size=20){return s.shapes.add({geometry:'ellipse',position
 }
 // 4. Original reaction diagram and directly attached reading notes.
 {
- const s=p.slides.add();s.background.fill='#FFFFFF';await header(s,'Part 1 헤스 법칙','01','헤스 법칙');
+ const s=p.slides.add();s.background.fill='#000000';await header(s,'Part 1 헤스 법칙','01','헤스 법칙');
  rich(s,[r('경로가 달라도, '),...chem('ΔH'),r('는 같다')],130,270,1660,112,76.4,C.black,true,'center','핵심 관계');
  text(s,'같은 처음 상태에서 같은 나중 상태로 변할 때',150,386,1620,65,36.4,C.gray,true,'center');
  await eqimg(s,'t84-cao-graph',130,465,1010,574);
@@ -103,7 +105,7 @@ function dot(s,x,y,col,size=20){return s.shapes.add({geometry:'ellipse',position
 }
 // 5. CO calculation: equations are original crops, explanation/result editable.
 {
- const s=p.slides.add();s.background.fill='#FFFFFF';await header(s,'Part 2 반응 엔탈피 구하기','01','간접 측정');
+ const s=p.slides.add();s.background.fill='#000000';await header(s,'Part 2 반응 엔탈피 구하기','01','간접 측정');
  title(s,'CO 생성 반응의 반응 엔탈피');
  rich(s,chem('ΔH₃ = ΔH₁ − ΔH₂'),230,389,1460,105,76.4,C.green,true,'center','관계식');
  await eqimg(s,'t85-co-total',263,534,1385,84.3);
@@ -123,20 +125,20 @@ function strip(s,str,y=885){box(s,192,y,1537,94,C.dark,'해석·결론',16);eq(s
 function rows(s,lines,ys=[455,609,763],size=48){for(let i=0;i<lines.length;i++){box(s,192,ys[i],1537,135,C.light,'설명·계산 행 '+(i+1),18);const arr=typeof lines[i]==='string'?chem('· '+lines[i]):[r('· '),...lines[i]];let sz=size;const width=measured(plainRuns(arr),sz);if(width>1400)sz=Math.max(40,Math.min(size,size*1390/width));rich(s,arr,260,ys[i]+26,1400,80,sz,C.black,false,'left','설명·계산 문장 '+(i+1));}}
 function roundTable(s,values,x=192,y=455,w=1537,h=440,widths=null,size=43){
  const nr=values.length,nc=values[0].length;const t=s.tables.add({rows:nr,columns:nc,left:x,top:y,width:w,height:h,values:values.map(row=>row.map(v=>[chem(v)])),columnWidths:widths??Array(nc).fill(w/nc)});
- t.borders.assign({fill:'#777777',style:'solid',width:1});
+ t.borders.assign({fill:'#AAAAAA',style:'solid',width:1});
  for(let a=0;a<nr;a++)for(let b=0;b<nc;b++){const c=t.getCell(a,b);c.fill=a===0||b===0?'#3D3D3D':'#252525';c.text.style={typeface:'Pretendard',fontSize:size,bold:a===0||b===0,color:'#FFFFFF',alignment:'center',verticalAlignment:'middle',wrap:'none',insets:12};}
  // White corner masks preserve a rounded outer silhouette without rasterizing the table.
  const rad=20;const coords=[[x,y,0],[x+w-rad,y,90],[x+w-rad,y+h-rad,180],[x,y+h-rad,270]];
- for(const [xx,yy,rot] of coords)s.shapes.add({geometry:'custom',name:'표 둥근 외곽 마스크',position:{left:xx,top:yy,width:rad,height:rad,rotation:rot},fill:'#FFFFFF',line:{fill:'none',width:0},customPaths:[{width:rad,height:rad,commands:[{moveTo:{x:0,y:0}},{lineTo:{x:rad,y:0}},{cubicBezTo:{x1:9,y1:0,x2:0,y2:9,x:0,y:rad}},{close:{}}]}]});
+ for(const [xx,yy,rot] of coords)s.shapes.add({geometry:'custom',name:'표 둥근 외곽 마스크',position:{left:xx,top:yy,width:rad,height:rad,rotation:rot},fill:'#000000',line:{fill:'none',width:0},customPaths:[{width:rad,height:rad,commands:[{moveTo:{x:0,y:0}},{lineTo:{x:rad,y:0}},{cubicBezTo:{x1:9,y1:0,x2:0,y2:9,x:0,y:rad}},{close:{}}]}]});
  return t;
 }
-async function newpage(n,tt=null){const s=p.slides.add();s.background.fill='#FFFFFF';pageMap.set(n,s);const pl=planned.slides[n-1];const part=pl.part;const name=['','헤스 법칙','반응 엔탈피 구하기','표준 생성 엔탈피','실험으로 확인하는 헤스 법칙'][part];const m=pl.topic.match(/^(\d+) (.*)$/);await header(s,`Part ${part} ${name}`,m?.[1]??'01',m?.[2]??name);if(tt)title(s,tt);return s;}
+async function newpage(n,tt=null){const s=p.slides.add();s.background.fill='#000000';pageMap.set(n,s);const pl=planned.slides[n-1];const part=pl.part;const name=['','헤스 법칙','반응 엔탈피 구하기','표준 생성 엔탈피','실험으로 확인하는 헤스 법칙'][part];const m=pl.topic.match(/^(\d+) (.*)$/);await header(s,`Part ${part} ${name}`,m?.[1]??'01',m?.[2]??name);if(tt)title(s,tt);return s;}
 function finish(n,s,details='',src='W22 PDF/인쇄118~124'){
  const pl=planned.slides[n-1];note(s,`전체 검토 시안 ${n}/40. ${pl.title}\n핵심: ${pl.message}\n교사용: ${details}\n출처: ${src}. 천재교육 물질과 에너지 교과서 PDF76~87과 완자 관련 원본을 대조했다. 반응식은 최신 원본 채택 기록을 우선한다. 기존 계획의 미판정을 통과로 바꾸지 않음.\n레이아웃 참조: 사용자 수정본 실제${pl.revision_reference}쪽; brief.md. 캐릭터 신규 생성 없음.`);}
 async function transition(n,num,tt,question){const s=p.slides.add();pageMap.set(n,s);s.background.fill='#000000';await img(s,path.join(ROOT,'units/3-02_헤스법칙/assets/diamond-v14/cover-four-original-students.png'),0,0,1920,1080,'표지와 같은 네 학생과 산 모형 배경');box(s,0,0,1920,1080,'linear(0deg, #158C18 0%, #158C18/98 18%, #158C18/80 28%, #158C18/35 36%, #158C18/0 43%)','표지와 같은 녹색 그라데이션');box(s,0,0,1920,1080,'#000000/51','Part 배경 51% 검정 덮개');await branding(s,false,true);text(s,`Part ${num}`,139,259,1000,112,76.4,'#9FFF68',true);text(s,tt,139,387,1660,145,100,'#FFFFFF',true);text(s,question,143,606,1640,114,Math.min(44.5,44.5*1640/measured(question,44.5)),'#FFFFFF',false);finish(n,s,'한 줄 질문으로 이론의 필요성을 연결한다. Part 표기는 첫 글자만 대문자, T셀파 로고 없음.');return s;}
 // Introduction order: cover → motivation → contents → objectives.
 {
- const s=p.slides.add();s.background.fill='#FFFFFF';pageMap.set(3,s);await branding(s);text(s,'수업 목차',326,264,1268,126,100,C.black,true,'center');
+ const s=p.slides.add();s.background.fill='#000000';pageMap.set(3,s);await branding(s);text(s,'수업 목차',326,264,1268,126,100,C.black,true,'center');
  const titles=['헤스 법칙','반응 엔탈피\n구하기','표준 생성\n엔탈피','실험으로\n헤스 법칙 확인'];
  for(let i=0;i<4;i++){
   const x=181+i*384,y=470;const q=s.shapes.add({geometry:'custom',name:'원본 윤곽 목차 블록',position:{left:x,top:y,width:410,height:350},fill:'#202020',line:{fill:'none',width:0},customPaths:[{width:410,height:350,commands:[{moveTo:{x:20,y:0}},{lineTo:{x:328,y:0}},{cubicBezTo:{x1:339,y1:0,x2:345,y2:5,x:349,y:15}},{lineTo:{x:408,y:168}},{cubicBezTo:{x1:411,y1:173,x2:411,y2:177,x:408,y:183}},{lineTo:{x:349,y:335}},{cubicBezTo:{x1:345,y1:345,x2:339,y2:350,x:328,y:350}},{lineTo:{x:20,y:350}},{cubicBezTo:{x1:6,y1:350,x2:0,y2:340,x:4,y:328}},{lineTo:{x:49,y:182}},{cubicBezTo:{x1:51,y1:177,x2:51,y2:173,x:49,y:168}},{lineTo:{x:4,y:22}},{cubicBezTo:{x1:0,y1:10,x2:6,y2:0,x:20,y:0}},{close:{}}]}]});
@@ -145,9 +147,9 @@ async function transition(n,num,tt,question){const s=p.slides.add();pageMap.set(
  finish(3,s,'사용자 수정본2쪽의 실제 블록 윤곽을 추적해 편집 가능한 도형으로 재현. 블록을 맞붙이지 않고 꺾임 사이 좁은 여백 유지. 네 문구만 넣고 Part0 블록을 추가하지 않음.');
 }
 {
- const s=p.slides.add();s.background.fill='#FFFFFF';pageMap.set(4,s);await branding(s);text(s,'학습 목표',326,177,1268,126,100,C.black,true,'center');box(s,154,424,1611,451,C.light,'학습 목표 한 상자',30);
+ const s=p.slides.add();s.background.fill='#000000';pageMap.set(4,s);await branding(s);text(s,'학습 목표',326,177,1268,126,100,C.black,true,'center');box(s,154,424,1611,451,C.light,'학습 목표 한 상자',30);
  const goals=['반응 경로와 반응 엔탈피의 관계를 설명한다.','헤스 법칙으로 측정하기 어려운 반응의 ΔH를 구한다.','중화 실험 자료를 해석하여 헤스 법칙을 확인한다.'];
- for(let i=0;i<3;i++){const y=497+i*120;dot(s,286,y+40,C.black,55);text(s,String(i+1),260,y+8,52,62,38,'#FFFFFF',true,'center');rich(s,chem(goals[i]),337,y,1290,80,48,C.gray,true);}
+ for(let i=0;i<3;i++){const y=497+i*120;dot(s,286,y+40,'#57962F',55);text(s,String(i+1),260,y+8,52,62,38,'#FFFFFF',true,'center');rich(s,chem(goals[i]),337,y,1290,80,48,C.gray,true);}
  await img(s,path.join(ROOT,'units/3-02_헤스법칙/assets/characters-v17/wavy-hair-girl-classroom.png'),1590,620,290,340,'등록 웨이브 머리 여학생의 목표 확인 포즈');finish(4,s,'목표 목록의 가로 위치와 왼쪽 정렬 유지, 세로만 상자 중앙에 정렬. 원본 안내 캐릭터 파일 확보 전 신규 생성 인물을 넣지 않음.','STD22; W22 118~124');
 }
 await transition(5,1,'헤스 법칙','같은 반응이 다른 경로로 일어나면 출입하는 열도 달라질까?');
@@ -190,7 +192,7 @@ await transition(13,2,'반응 엔탈피 구하기','직접 측정하기 어려�
 }
 await transition(22,3,'표준 생성 엔탈피','물질마다 같은 기준의 생성 엔탈피를 알면 무엇을 구할 수 있을까?');
 {
- const s=await newpage(23,'표준 생성 엔탈피');text(s,'표준 상태의 성분 원소로부터 물질 1 mol이 생성될 때의 반응 엔탈피',180,389,1560,70,38,C.gray,true,'center');await eqimg(s,'t85-water-liquid',192,480,1190,126.7);rows(s,['생성되는 물질 1 mol을 기준으로 나타낸다.','H₂O(l)의 표준 생성 엔탈피는 −285.8 kJ/mol이다.'],[609,763]);finish(23,s,'f는formation, 위첨자°는표준상태라는 기호를 말로 보완한다. 이 자료의 수치는25°C 조건이며 온도를 표준상태 정의 자체와 동일시하지 않는다. 주 교과서 직접 대조 전 잠정 Part이다.','W22 121 정의·물 생성식');
+ const s=await newpage(23,'표준 생성 엔탈피');text(s,'표준 상태에서 가장 안정한 원소 물질로부터 물질 1 mol이 생성될 때의 반응 엔탈피',180,389,1560,70,38,C.gray,true,'center');await eqimg(s,'t85-water-liquid',192,480,1190,126.7);rows(s,['생성되는 물질 1 mol을 기준으로 나타낸다.','H₂O(l)의 표준 생성 엔탈피는 −285.8 kJ/mol이다.'],[609,763]);finish(23,s,'f는formation, 위첨자°는표준상태라는 기호를 말로 보완한다. 이 자료의 수치는25°C 조건이며 온도를 표준상태 정의 자체와 동일시하지 않는다. 주 교과서 직접 대조 전 잠정 Part이다.','W22 121 정의·물 생성식');
 }
 {
  const s=await newpage(24,'기준 원소 물질의 값은 0');roundTable(s,[['기준 원소 물질','표준 생성 엔탈피 (kJ/mol)'],['C(s, 흑연)','0'],['H₂(g)','0'],['O₂(g)','0']],192,445,1190,400,[500,690],40);strip(s,'모든 원소의 모든 상태가 0이라는 뜻은 아니다.',904);finish(24,s,'기준 원소 물질의 생성 엔탈피를0으로 정한 것이며, 물질의 엔탈피H가0이라는 의미가 아니다. 고립 원자·다른 동소체로 자동 확대하지 않는다.','W22 121 표·원소 기준 설명');
@@ -205,7 +207,7 @@ await transition(22,3,'표준 생성 엔탈피','물질마다 같은 기준의 �
  const s=await newpage(27,'계수를 곱해 더한다');rich(s,chem('ΔH = 생성물의 표준 생성 엔탈피 합'),180,407,1560,98,64,C.green,true,'center');text(s,'− 반응물의 표준 생성 엔탈피 합',180,501,1560,98,64,C.green,true,'center');rows(s,['표의 값에 각 물질의 반응 계수를 곱한다.','생성물의 합에서 반응물의 합을 뺀다.'],[654,815],48);finish(27,s,'일반식의합은그냥각물질값을한번씩더한다는뜻이아니라계수곱을포함한다. 엄밀한표준반응엔탈피기호와단위는주교과서대조후통일한다.','W22 121 관계식');
 }
 {
- const s=await newpage(28,'메테인 연소열 구하기');await eqimg(s,'t86-ch4-combustion',236,395,1450,95);roundTable(s,[['물질','CH₄(g)','O₂(g)','CO₂(g)','H₂O(l)'],['ΔfH° (kJ/mol)','−74.8','0','−393.5','−285.8']],192,522,1537,190,[409,282,282,282,282],40);box(s,192,756,1537,100,C.light,'대입 계산',16);eq(s,'ΔH = [−393.5 + 2 × (−285.8)] − [−74.8 + 2 × 0]',236,766,1450,44);strip(s,'ΔH = −890.3 kJ',898);finish(28,s,'이장수치세트는완자121의-74.8/-393.5/-285.8을그대로이용한다. 3-01자료의-890.5값과혼용하지않는다. CH4연소1mol기준식이다.','W22 121 표·메테인 예제');
+ const s=await newpage(28,'메테인 연소열 구하기');await eqimg(s,'t86-ch4-combustion',236,395,1450,95);roundTable(s,[['물질','CH₄(g)','O₂(g)','CO₂(g)','H₂O(l)'],['생성 엔탈피 (kJ/mol)','−74.8','0','−393.5','−285.8']],192,522,1537,190,[409,282,282,282,282],40);box(s,192,756,1537,100,C.light,'대입 계산',16);eq(s,'ΔH = [−393.5 + 2 × (−285.8)] − [−74.8 + 2 × 0]',236,766,1450,44);strip(s,'ΔH = −890.3 kJ',898);finish(28,s,'이장수치세트는완자121의-74.8/-393.5/-285.8을그대로이용한다. 3-01자료의-890.5값과혼용하지않는다. CH4연소1mol기준식이다.','W22 121 표·메테인 예제');
 }
 {
  const s=await newpage(29,'물의 상태 변화 엔탈피');await img(s,path.join(HERE,'water-levels.png'),255,457,640,410,'W22 123 Q4 원본 상태별 엔탈피 그래프');text(s,'기화 반응',1030,470,700,65,42,C.green,true);await eqimg(s,'t85-water-vaporize',1030,548,700,80);eq(s,'ΔH = −241.8 − (−285.8)',1030,673,740,46);eq(s,'= +44.0 kJ',1030,758,700,56,C.green,true);strip(s,'기화는 열을 흡수하므로 ΔH > 0');finish(29,s,'25°C에서상태차이를나타낸값이다. 끓는점100°C의기화엔탈피와혼용하지않는다. 두반응의물질상태를구분한다.','W22 123 Q4;121 상태별 표');
@@ -255,7 +257,7 @@ for(const [key,source] of Object.entries(sourceMap)){
 // Latest user-authorized Part 2 additional example. Original source equations only.
 const DA=path.join(ROOT,'units/3-02_헤스법칙/assets/diamond-v14');
 {
- const s=p.slides.add();pageMap.set('diamond-intro',s);s.background.fill='#FFFFFF';await header(s,'Part 2 반응 엔탈피 구하기','01','간접 측정');
+ const s=p.slides.add();pageMap.set('diamond-intro',s);s.background.fill='#000000';await header(s,'Part 2 반응 엔탈피 구하기','01','간접 측정');
  title(s,'흑연으로 다이아몬드를 만들 수 있을까?');
  text(s,'보통 조건에서는 변화가 매우 느려 반응 엔탈피를 직접 측정하기 어렵다.',150,393,1620,65,36.4,C.gray,true,'center');
  text(s,'구하려는 반응',192,496,1000,70,42,C.green,true);
@@ -267,7 +269,7 @@ const DA=path.join(ROOT,'units/3-02_헤스법칙/assets/diamond-v14');
  note(s,'사용자 요청 추가 예시. 오른쪽 여학생은 등록 body_student_two_flasks의 얼굴·머리·비율을 참조한 생성 삽화이다. 흑연을 손으로 눌러 다이아몬드를 만들려 애쓰는 개념적 상상 장면이며 실제 합성 방법이나 성공을 뜻하지 않는다. 보통 조건에서 직접 전환의 열량 측정은 어렵기 때문에 두 연소 반응을 이용한다. 고온·고압 등의 특수 합성 조건에서 제조 가능함과 구별한다. 원본 목표 반응식: 2015 완자 PDF/인쇄137쪽 풀이2. 2022 완자127쪽Q7·131쪽Q6 대조; 천재교과서86쪽 동소체/표 대조. 원본 식을 생성하거나 재입력하지 않았다.');
 }
 {
- const s=p.slides.add();pageMap.set('diamond-calc',s);s.background.fill='#FFFFFF';await header(s,'Part 2 반응 엔탈피 구하기','01','간접 측정');
+ const s=p.slides.add();pageMap.set('diamond-calc',s);s.background.fill='#000000';await header(s,'Part 2 반응 엔탈피 구하기','01','간접 측정');
  title(s,'두 연소열의 차이로 구한다');
  text(s,'25 °C, 1기압에서 같은 생성물 CO₂가 생기는 두 연소 반응을 비교한다.',150,393,1620,65,36.4,C.gray,true,'center');
  await img(s,path.join(DA,'w22-127-graphite.png'),200,510,1245,95,'2022 완자127쪽 흑연 연소 반응식 원본');
@@ -294,7 +296,7 @@ function speech(s,str,x=1410,y=445,w=370,h=148){
  box(s,x,y,w,h,'#FFFFFF','참조 R03-22 캐릭터 말풍선',24);
  const border=s.shapes.items.at(-1);border.line={fill:'#BDD0AE',width:2};
  const tail=s.shapes.add({geometry:'custom',name:'캐릭터로 연결되는 말풍선 꼬리',position:{left:x+245,top:y+h-1,width:49,height:32},fill:'#FFFFFF',line:{fill:'#BDD0AE',width:2},customPaths:[{width:49,height:32,commands:[{moveTo:{x:0,y:0}},{lineTo:{x:49,y:32}},{lineTo:{x:31,y:0}}]}]});
- const lines=str.split('\n');for(let i=0;i<lines.length;i++)rich(s,chem(lines[i]),x+16,y+21+i*52,w-32,49,Math.min(33,33*(w-32)/measured(lines[i],33)),C.black,false,'center','캐릭터 발화 '+(i+1));
+ const lines=str.split('\n');for(let i=0;i<lines.length;i++)rich(s,chem(lines[i]),x+16,y+21+i*52,w-32,49,Math.min(33,33*(w-32)/measured(lines[i],33)),'#222222',false,'center','캐릭터 발화 '+(i+1));
 }
 const roleEvidence=[];
 for(const [n,id,words] of charRoles){
@@ -340,7 +342,7 @@ function bubble18(s,str,x,y,w=410,h=142,tailAt=0.5){
  const ls=str.split('\n');for(let k=0;k<ls.length;k++)rich(s,chem(ls[k]),x+24,y+24+k*49,w-48,49,36,C.black,false,'center','캐릭터 질문 '+(k+1));
 }
 async function board18(s){await img(s,path.join(V18,'reference-whiteboard.png'),510,366,900,642,'R03 PDF22쪽 X1 원본의 글자 없는 칠판 — 비율 유지');}
-function boardLine18(s,label,body,y){text(s,label,584,y,750,62,44,'#245419',true);rich(s,chem(body),584,y+62,750,66,38,C.black,false);}
+function boardLine18(s,label,body,y){text(s,label,584,y,750,62,44,'#245419',true);rich(s,chem(body),584,y+62,750,66,38,'#222222',false);}
 function flatPoint18(s,heading,body,x,y,w=1040){text(s,heading,x,y,w,68,46,C.green,true);rich(s,chem(body),x,y+77,w,65,43,C.black,false);}
 {
  const s=await replaceBody(7,'같은 반응을 비교하려면');
@@ -359,7 +361,7 @@ function flatPoint18(s,heading,body,x,y,w=1040){text(s,heading,x,y,w,68,46,C.gre
 }
 {
  const s=await replaceBody(23,'표준 생성 엔탈피');
- text(s,'표준 상태의 성분 원소로부터 물질 1 mol이 생성될 때의 반응 엔탈피',160,385,1600,66,38,C.gray,false,'center');
+ text(s,'표준 상태에서 가장 안정한 원소 물질로부터 물질 1 mol이 생성될 때의 반응 엔탈피',160,385,1600,66,34,C.gray,false,'center');
  await eqimg(s,'t85-water-liquid',192,497,1190,126.7);
  rich(s,[r('생성되는 물질 '),r('1 mol',{color:C.green,bold:true}),r('을 기준으로 나타낸다.')],225,705,1110,85,47);
  rich(s,[r('H₂O(l)의 표준 생성 엔탈피는')],225,812,1110,65,43);
@@ -433,7 +435,7 @@ for(const [n,nr,nc,last] of [[12,4,2,false],[24,4,2,false],[28,2,5,false],[30,4,
 // Make source-first comparison examples calmer: regular secondary text, precise highlights.
 for(const [n,s] of pageMap){if(typeof n!=='number'||[1,2,3,4,5,6,13,22,31].includes(n))continue;
  for(const sh of s.shapes.items){const txt=sh.text?.toString?.()??'';
-  if(sh.position.top>=380&&sh.position.top<=405&&sh.position.width>1400&&sh.name!=='핵심 문장'&&n!==17&&txt){sh.text.style={...sh.text.style,bold:false,color:'#777777'};}
+  if(sh.position.top>=380&&sh.position.top<=405&&sh.position.width>1400&&sh.name!=='핵심 문장'&&n!==17&&txt){sh.text.style={...sh.text.style,bold:false,color:'#AAAAAA'};}
  }
 }
 
@@ -517,11 +519,125 @@ for(const [n,size,values] of [
  [38,57,['−41.50 + (−52.25)','= −93.75 kJ/mol','−94.25 kJ/mol']]
 ])for(const sh of pageMap.get(n).shapes.items)if(values.includes(sh.text?.toString()))sh.text.style={fontSize:size};
 
-const outputOrder=[...Array.from({length:17},(_,i)=>i+1),'diamond-intro','diamond-calc',...Array.from({length:23},(_,i)=>i+18)];
+// User-requested Wanja p121 expansion; eight new detail pages, no decorative characters.
+const add23=new Map();
+async function detail23(key,tt,topic='01',sub='표준 생성 엔탈피'){
+ const s=p.slides.add();s.background.fill='#000000';pageMap.set(key,s);await header(s,'Part 3 표준 생성 엔탈피',topic,sub);title(s,tt);add23.set(key,{title:tt});return s;
+}
+function source23(key,teacher){add23.get(key).notes=teacher;}
+{
+ const k='f-symbol',s=await detail23(k,'아래첨자 f와 윗첨자 °의 뜻');
+ // Native glyph positions, with the original Pretendard oblique H face.
+ text(s,'Δ',305,440,120,170,145,C.green,true);
+ rich(s,[r('H',{italic:true,typeface:'Pretendard'})],405,440,145,170,145,C.green,true);
+ text(s,'f',527,558,60,65,53,C.green,false);
+ text(s,'°',527,450,65,85,70,C.green,false);
+ comps19.explanation(s,'f : formation, 생성','원소 물질로부터 생성되는 반응임을 나타낸다.',750,425,1020,172);
+ comps19.explanation(s,'° : 표준 상태','반응 물질이 표준 상태에 있음을 나타낸다.',750,625,1020,172);
+ text(s,'아래첨자·윗첨자도 기호의 일부',240,673,410,110,34,C.gray,false,'center');
+ strip(s,'물질 1 mol을 기준으로 하므로 단위는 kJ/mol',885);
+ source23(k,'완자121쪽 정의·파란 주석. f는formation의약자로생성을뜻한다. 위첨자°는표준상태이며0°C라는뜻이아니다. H만수학기호로기울인다. 원문과같이f를아래첨자,°를윗첨자로시각적으로배치했다.');
+}
+{
+ const k='standard-state',s=await detail23(k,'표준 상태는 비교를 위한 기준');
+ text(s,'압력과 농도 등 비교 조건을 정해 엔탈피 값을 나타낸다.',150,385,1620,65,38,C.gray,false,'center');
+ roundTable(s,[['물질의 종류','완자에서 사용하는 표준 상태의 기준'],['기체','1기압의 순수한 기체'],['고체·액체','1기압에서의 순수한 물질'],['수용액','용질의 농도가 1 M인 상태']],192,485,1537,392,[420,1117],42);
+ text(s,'1 M: 용액 1 L에 용질 1 mol이 들어 있는 농도',240,907,1440,67,40,C.green,true,'center');
+ source23(k,'완자121쪽오른쪽표준상태설명에맞춘학교수업용기준. 열역학표준상태는규약상기준으로기체는이상거동등의정의가따르지만이번기본수업에서는확장하지않는다. 현대IUPAC표준압력1bar와교재의1기압을동일시하지않고이장표의조건은완자기준임을명시한다. IUPAC https://goldbook.iupac.org/terms/view/S05925');
+}
+{
+ const k='standard-temperature',s=await detail23(k,'표준 상태가 곧 25°C인 것은 아니다');
+ comps19.explanation(s,'표준 상태의 표시 °','°는 특정한 온도를 뜻하는 기호가 아니다.',230,430,1460,175);
+ comps19.explanation(s,'온도는 자료와 함께 확인','생성 엔탈피 값은 온도에 따라 달라질 수 있다.',230,635,1460,175);
+ strip(s,'이 수업의 완자 예제: 25°C, 1기압에서의 자료',865);
+ source23(k,'완자121쪽오른쪽:표준상태정의에온도는포함되지않으며25°C자료를많이사용한다고설명한다. 따라서0°C기체조건이나온도자체를표준상태와혼동하지않게한다. 본예제값은교재25°C·1기압조건을따른다. 표준기호는온도를정의하지않음:IUPAC https://goldbook.iupac.org/terms/view/S05927');
+}
+{
+ const k='reference-zero',s=await detail23(k,'기준 원소의 생성 엔탈피는 왜 0일까?');
+ comps19.explanation(s,'가장 안정한 원소 물질을 기준으로','같은 온도·압력에서 가장 안정한 형태를 기준 원소 물질로 정한다.',192,420,1537,166);
+ comps19.explanation(s,'기준 물질에서 같은 물질로','처음과 나중 상태가 같으므로 생성 과정의 엔탈피 변화는 0이다.',192,608,1537,166);
+ box(s,192,814,1537,148,'#303030','기준값과 절대값 구분',20);
+ rich(s,[r('0은 '),r('생성 엔탈피의 기준값',{color:'#9FFF68',bold:true}),r('이다.')],240,830,1440,60,46,'#FFFFFF',false,'center');
+ text(s,'그 물질 자체의 엔탈피가 없다는 뜻은 아니다.',240,894,1440,54,38,'#FFFFFF',false,'center');
+ source23(k,'완자121쪽B1(2)와오른쪽원소물질의생성엔탈피. 기준원소의표준생성엔탈피0은기준점이며물질절대엔탈피H=0이라는주장이아니다. 주어진온도·압력에서안정한원소형태:IUPAC https://goldbook.iupac.org/terms/view/R05233');
+}
+{
+ const k='allotrope-reference',s=await detail23(k,'같은 탄소라도 기준값은 다르다');
+ await img(s,path.join(ROOT,'units/3-02_헤스법칙/assets/formation-v24/t39-graphite.png'),155,440,300,420,'천재 물질과 에너지39쪽 그림I-30 흑연 원본');
+ await img(s,path.join(ROOT,'units/3-02_헤스법칙/assets/formation-v24/t39-diamond.png'),470,440,275,420,'천재 물질과 에너지39쪽 그림I-30 다이아몬드 원본');
+ roundTable(s,[['탄소의 형태','표준 생성 엔탈피'],['흑연','0 kJ/mol'],['다이아몬드','+1.88 kJ/mol']],820,440,930,330,[400,530],40);
+ text(s,'흑연은 이 조건에서 더 안정한 기준 원소 물질이다.',820,795,950,100,36,C.green,true);
+ strip(s,'원소 물질이어도, 다른 동소체의 값까지 0은 아니다.',915);
+ source23(k,'수치·설명:완자121쪽. 그림:천재교육물질과에너지39쪽그림I-30의흑연·다이아몬드사진및구조모형. 같은탄소지만결합구조가다르며표준생성엔탈피도다르다.25°C교재조건에서흑연0,다이아몬드+1.88kJ/mol. 앞Part2의완자127쪽반올림자료+1.9kJ와구분한다. 구조원본은assets/formation-v24/provenance.json참조.');
+}
+{
+ const k='formation-sum',s=await detail23(k,'표의 값에 반응 계수를 곱한다','02','생성 엔탈피로 계산');
+ text(s,'표의 생성 엔탈피 값은 물질 1 mol을 기준으로 한다.',180,386,1560,70,39,C.gray,false,'center');
+ box(s,192,492,1537,206,'#303030','계수를 포함한 계산 관계',22);
+ eq(s,'ΔH = Σ(생성물의 계수 × 표준 생성 엔탈피)',240,512,1435,50,'#9FFF68',true);
+ text(s,'− Σ(반응물의 계수 × 표준 생성 엔탈피)',393,603,1280,75,50,'#FFFFFF',true);
+ text(s,'Σ : 각 물질의 값을 모두 더한다는 뜻',240,744,1440,65,40,C.gray,false,'center');
+ rows(s,['생성물의 합에서 반응물의 합을 뺀다.'],[841],46);
+ source23(k,'완자121쪽B2관계식과메테인예제. 표준생성엔탈피의합은각반응계수를곱한뒤의합이다. 원소의값0이라도물질·상태·계수를먼저확인한다. 식에적힌반응진행량에대응하는반응엔탈피를구하며이수업은열화학반응식의kJ표기와물질당kJ/mol을구분한다.');
+}
+{
+ const k='methane-sums',s=await detail23(k,'세 물질의 표준 생성 엔탈피','02','생성 엔탈피로 계산');
+ text(s,'25°C, 1기압에서 각 물질 1 mol이 생성되는 반응',225,390,1470,65,39,C.gray,false,'center');
+ await img(s,path.join(ROOT,'units/3-02_헤스법칙/assets/formation-v30/given.png'),330,490,1320,452,'새로 생성한 세 생성 반응 수식 이미지');
+ text(s,'①',245,562,65,60,38,C.gray);text(s,'②',245,691,65,60,38,C.gray);text(s,'③',245,821,65,60,38,C.gray);
+ source23(k,'사용자 최신 요청으로 교재 원본 크롭을 제거하고 built-in image_gen으로 새 수식 이미지를 생성했다. 사실·수치 근거 완자121쪽. ①: C+2H2→CH4 ΔH1=-74.8kJ, ②: C+O2→CO2 ΔH2=-393.5kJ, ③: H2+1/2O2→H2O(l) ΔH3=-285.8kJ. 생성 프롬프트 assets/formation-v30/prompts.json.');
+}
+{
+ const k='methane-difference',s=await detail23(k,'생성 엔탈피 계산과 헤스 법칙','02','생성 엔탈피로 계산');
+ await img(s,path.join(ROOT,'units/3-02_헤스법칙/assets/formation-v30/methods.png'),335,475,1250,489,'새로 생성한 생성 엔탈피 계산과 반응 합산 수식 이미지');
+ source23(k,'사용자 최신 요청으로 완자 원본 소거 패널을 제거하고 image_gen으로 새 이미지 생성. (ΔH2+2ΔH3)−ΔH1=-890.3kJ. 같은 반응은 ②+2×③−①로 구한다. ①을 역반응으로 사용하면 C(흑연)와2H2가 소거되며 CH4+2O2→CO2+2H2O(l). 교재 이미지 복제 대신 별도 구성. 사용 허가에 대한 법적 판정은 하지 않았다.');
+}
+
+// Selective user reference adoption: 5 summary/guide pages, original science examples preserved.
+const {referenceLayouts}=await import('../../../assets/reference-v30/components.mjs');
+const ref30=referenceLayouts({box,text,line});
+async function dark30(n,titleText,part,num,topic){const old=pageMap.get(n),notes=old.speakerNotes.text;p.delete('sl/'+old.id);const s=p.slides.add();pageMap.set(n,s);s.background.fill='#080808';await branding(s,false,true);text(s,part,72,76,1550,54,38,'#909090',true);text(s,num,72,134,75,64,48.8,'#9FFF68',true);text(s,topic,150,134,1530,64,48.8,'#FFFFFF',true);text(s,titleText,140,266,1640,105,68,'#FFFFFF',true,'center');s.speakerNotes.text=notes+'\n사용자 첨부 레퍼런스 재현: assets/reference-v30/README.md';return s;}
+{
+const s=await dark30(14,'CO만 생성될 때의 열은 어떻게 구할까?','Part 2 반응 엔탈피 구하기','01','간접 측정');
+await guide18(s,'long-hair-girl',815,389,290,245);
+box(s,585,610,750,90,'#FFFFFF','중앙 질문 말풍선',22);text(s,'CO만 생기는 반응을 따로 측정할 수 있을까?',610,630,700,55,32,'#222222',true,'center');
+line(s,960,704,960,729,'#AAAAAA',2);line(s,530,729,1390,729,'#AAAAAA',2);line(s,530,729,530,759,'#AAAAAA',2);line(s,1390,729,1390,759,'#AAAAAA',2);
+ref30.branch(s,{x:190,y:762,w:690,title:'직접 측정의 어려움',body:'불완전 연소 중 CO₂도 생성되어\nCO 생성열만 분리하기 어렵다.'});
+ref30.branch(s,{x:1040,y:762,w:690,title:'헤스 법칙으로 간접 측정',body:'알려진 다른 반응의 열을 이용해\n목표 반응의 엔탈피를 구한다.'});
+}
+{
+const s=await dark30(18,'반응식 조작과 계산 결과를 함께 확인','Part 2 반응 엔탈피 구하기','01','헤스 법칙 계산');
+box(s,170,421,1580,540,'#222222','단계·결과 공통 패널',28);
+const data=[['01','목표 반응의 물질·위치·계수를 확인한다.','목표 반응식'],['02','방향과 계수를 바꾸며 엔탈피도 바꾼다.','변환한 반응식'],['03','양쪽에서 종류·상태·양이 같은 항을 소거한다.','남은 반응식'],['04','엔탈피를 더하고 부호와 단위를 검산한다.','반응 엔탈피']];
+for(let i=0;i<4;i++)ref30.stage(s,{y:463+i*117,number:data[i][0],action:data[i][1],result:data[i][2]});
+}
+{
+const s=await dark30(24,'기준 원소 물질의 생성 엔탈피는 0','Part 3 표준 생성 엔탈피','01','기준 원소 물질');
+text(s,'25°C의 기준 형태와 상태를 함께 확인한다.',210,390,1500,65,36,'#BBBBBB',false,'center');
+roundTable(s,[['원소','기준 원소 물질','표준 생성 엔탈피'],['탄소','흑연 · 고체','0 kJ/mol'],['수소','수소 분자 · 기체','0 kJ/mol'],['산소','산소 분자 · 기체','0 kJ/mol']],200,505,1520,360,[300,610,610],39);
+text(s,'다른 동소체나 고립 원자의 값까지 0이라는 뜻은 아니다.',210,915,1500,65,36,'#BBBBBB',false,'center');
+}
+{
+const s=await dark30(30,'생성 엔탈피 계산에서 확인할 세 가지','Part 3 표준 생성 엔탈피','02','계산 확인');
+const data=[['01','생성되는 양','생성되는 물질\n1 mol을 기준으로 한다.'],['02','기준 원소·상태','기준 원소 형태와\n고체·액체·기체를 구분한다.'],['03','계수·단위','반응 계수를 곱하고\nkJ/mol과 kJ를 구분한다.']];
+for(let i=0;i<3;i++)ref30.card(s,{x:180+i*530,y:465,w:500,h:425,number:data[i][0],title:data[i][1],body:data[i][2]});
+text(s,'생성물의 합에서 반응물의 합을 뺀다.',220,936,1480,58,35,'#BBBBBB',false,'center');
+}
+{
+const s=await dark30(40,'식과 그래프를 근거로 설명해 보자','Part 4 실험으로 확인하는 헤스 법칙','03','수업 정리');
+box(s,190,425,1540,560,'#202020','참조 확인 목록 패널',28);
+ref30.check(s,{y:477,title:'CO 생성 반응의 엔탈피 관계를 설명할 수 있는가?',detail:'반응식의 방향과 그래프의 화살표를 대응한다.'});
+ref30.check(s,{y:643,title:'물의 기화 엔탈피가 양수인 까닭을 설명할 수 있는가?',detail:'액체와 기체의 엔탈피 차이를 근거로 말한다.'});
+ref30.check(s,{y:809,title:'두 경로의 실험값이 달라지는 까닭을 설명할 수 있는가?',detail:'외부로의 열 손실과 측정 조건을 살펴본다.'});
+}
+
+const priorOrder=[...Array.from({length:17},(_,i)=>i+1),'diamond-intro','diamond-calc',...Array.from({length:23},(_,i)=>i+18)];
+const insertAfter23={23:['f-symbol','standard-state','standard-temperature'],24:['reference-zero','allotrope-reference'],27:['formation-sum'],28:['methane-sums','methane-difference']};
+const outputOrder=priorOrder.flatMap(k=>[k,...(insertAfter23[k]??[])]);
 const actualTitles={"7": "같은 반응을 비교하려면", "9": "두 반응식을 더하면", "10": "계수와 ΔH는 같은 비율로", "11": "반응을 뒤집으면 부호도 반대", "12": "열화학 반응식의 세 가지 조작", "14": "CO 생성열을 직접 재기 어려운 까닭", "15": "구하려는 반응부터 확인", "16": "CO₂를 소거해 목표 반응을 만든다", "18": "헤스 법칙 계산의 순서", "19": "SO₂가 SO₃로 바뀔 때", "20": "반응식과 ΔH를 함께 검산", "21": "그림과 반응식은 같은 관계", "23": "표준 생성 엔탈피", "24": "기준 원소 물질의 값은 0", "25": "물과 수증기는 서로 다른 자료", "26": "생성물에서 반응물을 빼는 까닭", "27": "계수를 곱해 더한다", "28": "메테인 연소열 구하기", "29": "물의 상태 변화 엔탈피", "30": "생성 엔탈피 계산의 확인점", "32": "같은 처음과 끝을 만드는 두 경로", "33": "실험 조건을 맞추자", "34": "용액이 얻은 열에서 반응열로", "35": "실험 온도와 용액의 질량", "36": "용해 단계의 반응 엔탈피", "37": "나머지 두 단계와 비교", "38": "실험값은 얼마나 가까울까?", "39": "직접 재지 못한 ΔH를 알게 되는 까닭", "40": "경로와 식으로 설명하기", "1": "표지", "2": "다른 길로 가도, 높이 차는 같을까?", "3": "수업 목차", "4": "학습 목표", "5": "Part 1 헤스 법칙", "6": "헤스 법칙", "8": "경로가 달라도, ΔH는 같다", "13": "Part 2 반응 엔탈피 구하기", "17": "CO 생성 반응의 반응 엔탈피", "22": "Part 3 표준 생성 엔탈피", "31": "Part 4 실험으로 확인하는 헤스 법칙"};
-const outputTitles=outputOrder.map(k=>k==='diamond-intro'?'흑연으로 다이아몬드를 만들 수 있을까?':k==='diamond-calc'?'두 연소열의 차이로 구한다':actualTitles[k]??planned.slides[k-1].title);
+const outputTitles=outputOrder.map(k=>k==='diamond-intro'?'흑연으로 다이아몬드를 만들 수 있을까?':k==='diamond-calc'?'두 연소열의 차이로 구한다':add23.get(k)?.title??actualTitles[k]??planned.slides[k-1].title);
 p.slides.reorder(outputOrder.map(k=>'sl/'+pageMap.get(k).id));
-for(let i=0;i<42;i++){if(p.slides.items[i].id!==pageMap.get(outputOrder[i]).id)throw new Error('Slide order mismatch '+(i+1));p.slides.items[i].speakerNotes.text='최신42장 검토 시안 실제 '+(i+1)+'장.\n'+p.slides.items[i].speakerNotes.text.replace(/전체 검토 시안 \d+\/40[.]?/g,'');}
+for(let i=0;i<outputOrder.length;i++){if(p.slides.items[i].id!==pageMap.get(outputOrder[i]).id)throw new Error('Slide order mismatch '+(i+1));p.slides.items[i].speakerNotes.text='최신50장 검토 시안 실제 '+(i+1)+'장.\n'+p.slides.items[i].speakerNotes.text.replace(/전체 검토 시안 \d+\/40[.]?/g,'');}
 
 const teachingNotes={
 1:['표지','산 모형의 두 길을 보고 같은 출발점과 정상 사이에서 변하지 않는 것은 무엇인지 생각하게 한다.','사용자 지정 등록 원본 인물 참조 표지; assets/diamond-v14/provenance.json'],
@@ -555,13 +671,31 @@ const teachingNotes={
 41:['유용성','알려진반응들을조합해목표반응과같은처음과끝을만들면직접측정하지않은반응의엔탈피를구할수있다.','천재83~87쪽; 성취기준12물에03-02'],
 42:['설명 과제','예상답: CO생성은두연소식을조합하면목표식이남음. 기화의ΔH는양수. 실험차이는열손실·온도측정·희석조건등으로설명한다.','천재85쪽·2022 완자120쪽 자료를 바탕으로 한 교사 제작 확인문항']
 };
-for(let i=0;i<42;i++){
+for(let i=0;i<outputOrder.length;i++){
  const actual=i+1,s=p.slides.items[i],key=outputOrder[i],base=Number.isInteger(key)?planned.slides[key-1]:null;
- const nt=teachingNotes[actual]??[outputTitles[i],base?.message??outputTitles[i],base?.source_locator??'천재 물질과 에너지83~87쪽;2022 완자118~124쪽'];
- s.speakerNotes.text='수업 '+actual+'/42. '+nt[0]+'\n발화·지도: '+nt[1]+'\n출처: '+nt[2]+'.\n수업 자료: 반응식·그래프는 교과서·완자 원본 이미지, 개념 질문의 인물은 등록 원본을 참조한 파생 삽화.';
+ const nt=add23.has(key)?[add23.get(key).title,add23.get(key).notes,'2022 완자 PDF/인쇄121쪽; research/expansion-v23/plan.md']:teachingNotes[priorOrder.indexOf(key)+1]??[outputTitles[i],base?.message??outputTitles[i],base?.source_locator??'천재 물질과 에너지83~87쪽;2022 완자118~124쪽'];
+ s.speakerNotes.text='수업 '+actual+'/50. '+nt[0]+'\n발화·지도: '+nt[1]+'\n출처: '+nt[2]+'.\n수업 자료: 반응식·그래프는 교과서·완자 원본 이미지, 개념 질문의 인물은 등록 원본을 참조한 파생 삽화.';
 }
 await fs.writeFile(path.join(HERE,'page-map.json'),JSON.stringify(outputOrder.map((k,i)=>({number:i+1,title:outputTitles[i],id:pageMap.get(k).id})),null,2));
+const {applyBlackMath}=await import('./black-math-v31.mjs');
+await applyBlackMath({p,ROOT,img,box,text,white31});
 await fs.mkdir(OUT,{recursive:true});
+// Character-only green atmosphere; keep scientific and calculation pages flat black.
+for(const n of [2,14,18,25]){
+ const ss=p.slides.items[n-1];
+ const g=await img(ss,path.join(ROOT,'units/3-02_헤스법칙/assets/black-theme/green-atmosphere-v31.png'),0,0,1920,1080,'경계 없는 초록빛 배경','cover');g.sendToBack();
+}
+const {applyReference32}=await import('./reference-v32.mjs');
+await applyReference32({p,ROOT,text,box,img,white31,ctx});
+const {applyRevision33}=await import('./revision-v33.mjs');await applyRevision33({p,ROOT,text,box,white31,ctx});
+const {applyRevision34}=await import('./revision-v34.mjs');await applyRevision34({p,ROOT,text,box,img,white31,ctx});
+const {applyRevision35}=await import('./revision-v35.mjs');await applyRevision35({p});
+const {applyRevision37}=await import('./revision-v37.mjs');await applyRevision37({p,ROOT,img,box,text});
+const {applyRevision38}=await import('./revision-v38.mjs');await applyRevision38({p});
+const {applyRevision39}=await import('./revision-v39.mjs');await applyRevision39({p,rich,r,chem});
+await fs.writeFile(path.join(HERE,'image-sources-v31.json'),JSON.stringify(imageSources31,null,2));
+if(process.env.HESS_METADATA_ONLY==='1')process.exit(0);
+
 for(let i=0;i<p.slides.items.length;i++){
  if(process.env.HESS_ONLY_SLIDE && !process.env.HESS_ONLY_SLIDE.split(',').map(Number).includes(i+1))continue;
  const s=p.slides.items[i];const stem=`slide-${String(i+1).padStart(2,'0')}`;
@@ -569,11 +703,12 @@ for(let i=0;i<p.slides.items.length;i++){
  const layout=await s.export({format:'layout'});await fs.writeFile(path.join(HERE,stem+'.layout.json'),await layout.text());
  console.log('Rendered',i+1);
 }
+if(process.env.HESS_RENDER_ONLY==='1')process.exit(0);
 const candidate=path.join(HERE,'candidate.pptx');await(await PresentationFile.exportPptx(p)).save(candidate);
 await fs.writeFile(path.join(HERE,'content-inspection.ndjson'),(await p.inspect({kind:'slide,textbox,image,notes',maxChars:100000})).ndjson);
 console.log('CANDIDATE',candidate,'CHARACTER_ASSETS',assets);
 if(process.env.HESS_FINALIZE==='1'){
  const SKILL='/Users/keemhayeon/.codex/plugins/cache/openai-primary-runtime/presentations/26.1017.22136/skills/presentations';
  const {finalizePresentation}=await import(pathToFileURL(path.join(SKILL,'container_tools/artifact_tool_utils.mjs')).href);
- console.log(await finalizePresentation({workspaceDir:ROOT,candidatePath:candidate,finalPath:path.join(OUT,'3-02_헤스법칙_전체42장_수식크기통일_v22.pptx'),pythonExecutable:'/Users/keemhayeon/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3',integrityValidatorPath:path.join(SKILL,'container_tools/inspect_presentation_package_integrity.py'),layoutValidatorPath:path.join(SKILL,'container_tools/inspect_presentation_layout_geometry.py'),layoutArgs:['--expected-slide-size-emu','18288000,10287000','--validate-bullet-geometry','--validate-heading-fit'],explicitTotalSlideCount:42,requiredNativeTableOwnerSlides:[],requiredNativeChartOwnerSlides:[],fontPolicy:{basis:'design',families:['Pretendard']},verifyArtifactToolImport:true,receiptPath:path.join(HERE,'validation-v22.json')}));
+ console.log(await finalizePresentation({workspaceDir:ROOT,candidatePath:candidate,finalPath:path.join(OUT,'3-02_헤스법칙_전체51장_파트표기와패널정돈_v40.pptx'),pythonExecutable:'/Users/keemhayeon/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3',integrityValidatorPath:path.join(SKILL,'container_tools/inspect_presentation_package_integrity.py'),layoutValidatorPath:path.join(SKILL,'container_tools/inspect_presentation_layout_geometry.py'),layoutArgs:['--expected-slide-size-emu','18288000,10287000','--validate-bullet-geometry','--validate-heading-fit'],explicitTotalSlideCount:51,requiredNativeTableOwnerSlides:[],requiredNativeChartOwnerSlides:[],fontPolicy:{basis:'design',families:['Pretendard']},verifyArtifactToolImport:true,receiptPath:path.join(HERE,'validation-v40.json')}));
 }

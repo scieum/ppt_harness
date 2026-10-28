@@ -1,0 +1,16 @@
+{
+  "tool": "built-in image_gen",
+  "hess": {
+    "file": "hess-clay.png",
+    "references": [
+      "assets/reference-v32/hess-portrait-matched.png",
+      "assets/characters-v17/wavy-hair-girl-placed.png"
+    ],
+    "prompt": "Hess identity and historical clothes, registered doll style reference. Big head, small black oval dot eyes without realistic irises, smooth matte polymer clay face without pores or wrinkles, simplified nose and mouth, gray-brown wavy side hair, high forehead, sideburns, no beard. Dark 19th-century coat, taupe vest, black neckcloth, book and teaching gesture. Friendly toy-like, not photorealistic. Transparent, no text."
+  },
+  "gradient": {
+    "file": "green-glow.png",
+    "reference": "assets/black-theme/green-atmosphere-v31.png",
+    "prompt": "Keep smooth black landscape 16:9. Make lower-center green glow three times brighter and wider across bottom two-thirds. Saturated forest green #075C10 fading smoothly to black above and at sides, upper35% black. No ellipse edge, no boundary, banding, objects, text or texture."
+  }
+}

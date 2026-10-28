@@ -1,0 +1,21 @@
+import fs from 'node:fs/promises';import path from 'node:path';
+export async function applyRevision33({p,ROOT,text,box,white31,ctx}){
+ const calc=JSON.parse(await fs.readFile(path.join(ROOT,'units/3-02_헤스법칙/assets/calculation-v31/manifest.json')));const P=(o,a)=>o.position={left:a[0],top:a[1],width:a[2],height:a[3]};const L=async n=>JSON.parse(await(await p.slides.items[n-1].export({format:'layout'})).text());const B=(n,a,c='#303030')=>{let o=box(p.slides.items[n-1],...a,c,'v33 내용 구분',16);o.sendToBack();return o};const T=(n,t,a,size=30,c='#FFFFFF',bold=false)=>text(p.slides.items[n-1],t,...a,size,c,bold,'left');
+ for(const n of [1,5,14,25,42])for(const e of (await L(n)).elements.filter(e=>e.kind==='textbox')){const o=p.resolve(e.id);let a,size;if(n===1){if(e.name==='대단원명'){a=[139,206,1470,145];size=110;}if(e.name==='소단원명'){a=[139,347,1400,145];size=110;}if(e.name==='저자'){a=[143,554,400,60];size=40;}}else{if(e.text.startsWith('Part ')){a=[139,259,1000,112];size=76.4;}else if(e.position.top===400){o.text=e.text.replace('\n',' ');a=[139,387,1660,145];size=100;}else if(e.position.top===660){a=[143,606,1640,114];size=Math.min(44.5,44.5*1640/(ctx.measureText(e.text).width||1640));size=40;}}if(a){P(o,a);o.text.style={...e.style,typeface:'Pretendard',fontSize:size,bold:e.name==='저자'?false:true};}}
+ // Nested label boxes inside the existing route panels.
+ for(const e of (await L(8)).elements.filter(e=>['두 단계 경로','직접 경로'].includes(e.text))){const o=p.resolve(e.id);o.fill='#555555';o.geometry='roundRect';o.text.style={...e.style,color:'#FFFFFF',fontSize:32,bold:true};P(o,[e.position.left+50,e.position.top,270,60]);}
+ async function equations(n){return (await L(n)).elements.filter(e=>e.kind==='image'&&(white31[e.alt]||e.alt?.startsWith('교과서 수식체 생성 계산 패널')))}
+ async function fit(n,slots,max=55){let es=await equations(n);const meta=e=>white31[e.alt]??calc[e.alt.split(' ').at(-1)];let cap=Math.min(max,...es.map((e,i)=>Math.min(slots[i][2]/meta(e).size[0],slots[i][3]/meta(e).size[1])*meta(e).glyph));es.forEach((e,i)=>{let m=meta(e),a=slots[i],w=m.size[0]*cap/m.glyph,h=m.size[1]*cap/m.glyph;P(p.resolve(e.id),[a[0]+(a[2]-w)/2,a[1]+(a[3]-h)/2,w,h]);});}
+ await fit(10,[[180,470,1560,125],[180,605,1560,125],[180,755,1560,125],[180,920,1560,100]],56);
+ for(const n of [11,12,17])for(const e of (await L(n)).elements.filter(e=>e.kind==='textbox'&&e.position.top>750&&e.position.top<1000&&e.text.length>15)){P(p.resolve(e.id),[220,395,1480,64]);}
+ // Leave room for the subtitle and keep labels above their own equation.
+ for(const n of [11,12])for(const e of (await L(n)).elements.filter(e=>e.kind==='textbox'&&e.position.top===435))P(p.resolve(e.id),[310,452,1250,40]);
+ for(const e of (await L(13)).elements.filter(e=>['조작','반응식','반응 엔탈피'].includes(e.text))){const o=p.resolve(e.id);o.fill='#3D3D3D';o.geometry='roundRect';o.text.style={...e.style,color:'#FFFFFF',alignment:'center',verticalAlignment:'middle',bold:true};}
+ for(const e of (await L(15)).elements.filter(e=>e.kind==='textbox'&&e.position.top===866))P(p.resolve(e.id),[e.position.left,e.position.top-24,e.position.width,e.position.height]);
+ await fit(16,[[260,505,1400,100],[260,705,1400,110],[260,830,1400,110]],55);
+ // Enlarge all compared expressions together to retain matched visible glyph sizes.
+ await fit(18,[[270,490,1380,100],[270,615,1380,105],[220,800,1480,190]],54);
+ for(const e of (await L(19)).elements)if(e.alt==='경계 없는 초록빛 배경')p.delete(e.id);
+ for(const n of [22,23]){for(const e of (await L(n)).elements.filter(e=>e.kind==='textbox'&&e.text==='목표 반응'))p.delete(e.id);B(n,[220,480,1480,230],'#242424');T(n,n===22?'주어진 반응':'주어진 반응 · 첫 번째 식을 2배',[250,435,420,44],28,'#9FFF68',true);B(n,[220,775,1480,n===22?170:130],'#172015');T(n,'목표 반응',[250,724,250,44],28,'#9FFF68',true);await fit(n,n===22?[[270,500,1380,190],[270,805,1380,110]]:[[270,500,1380,190],[270,790,1380,100],[270,943,1380,70]],48);}
+ const issues=[];for(let n=1;n<=51;n++)for(const e of (await L(n)).elements.filter(e=>e.kind==='textbox')){ctx.font=`${e.style.bold?'bold':'normal'} ${e.style.fontSize}px Pretendard`;if(Math.max(...e.text.split('\n').map(t=>ctx.measureText(t).width))>e.position.width+3)issues.push({slide:n,text:e.text});}await fs.writeFile(path.join(ROOT,'units/3-02_헤스법칙/research/reference-v33/text-fit.json'),JSON.stringify(issues,null,2));
+}

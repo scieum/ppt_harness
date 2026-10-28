@@ -69,3 +69,20 @@ python harness/validate.py --source 'inbox/ppt/[물에맛.Zip] 2-05. 삼투 현�
 ```
 
 검증은 별도 세션 폴더와 임시 복사본에서만 실패를 유도한다. 원본의 실행 전후 SHA-256을 비교한다. 정상 경로는 모의 근거·승인·리뷰·피그마 자료로 검사하며, 실제 복사본은 그런 기록 없이 별도 검사해 전체 완료가 차단되는지 확인한다.
+
+## G10 — 수식 이미지·교과서 수식체·블랙 테마
+
+`checks/equations.json`으로 현재 PPTX와 모든 실제 장표를 묶는다. production 종료, review 진입·종료 및 최종화에 적용한다. G10 픽셀 검사는 Pillow가 필요하므로 번들 Python을 사용한다. 이전 G01~G09 승인·검사는 대체하지 않는다.
+
+- 모든 장표의 이미지 분류와 네이티브 수식 후보를 빠짐없이 기록한다. 독립 계산식을 단순 설명 예외로 통과시키지 않는다.
+- 수식 자산과 PPT 내 실제 임베딩의 SHA-256이 같아야 한다. 누락·변경·불일치·미검수이면 실패한다.
+- 블랙 테마에서는 불투명 잉크 픽셀의 98% 이상이 RGB 각 240 이상이어야 한다. 실제 투명 픽셀과 비어 있지 않은 잉크를 검사한다.
+- 이미지 종횡비 오차 1.5% 이내. 같은 size_group의 실제 글자 높이 배율 편차는 5% 이내. 파일 상자 크기만 같게 하는 것은 통과 조건이 아니다.
+- 교과서 세리프체·H 기울임·원소/괄호 정자·상태 기울임·계수·원소·전하·첨자·방향·부호·수치는 현재 렌더와 원문 대조의 해시 증빙이 필요하다. 이름만 `textbook-serif`라고 적었다고 글꼴을 자동 인식한 것은 아니다.
+- 색상/투명도 보정은 2026-10-28 사용자 허용 범위다. 수식을 코드로 새로 조판하는 허용이 아니다. 생성본·보정본·프롬프트·원문 대조를 보존한다.
+- 실행: `python harness/gate.py --unit units/3-02_헤스법칙 check --gate G10 --report`
+- 회귀검사: `python harness/test_equation_gate.py`. 합성 시험은 실제 수업의 시각·과학 승인과 구분한다.
+
+계약: 최상위 schema_version=1, theme, deck(경로/해시), open_issues=[], slides. 각 장표는 number, render, inventory_review, reviewer, equations, non_equation_images, inline_or_science_labels를 가진다. equation 항목은 picture_id, asset, generation_record, source_comparison, visual_review(모두 경로/해시), producer, style, expected_expression, reviewer, checks, reference_glyph_height_px, size_group을 가진다. 실제 표기의 판독·과학적 옳음은 별도 시각 검토이며 픽셀 색상 검사로 대신하지 않는다.
+
+G10의 `preserved-source-color-correction`은 기존 반응식 원본의 글자를 보존한 색상·알파 보정에만 사용한다. 보존 원본 및 보정 근거 파일의 해시와 `glyphs_unchanged` 검토가 필요하다. 신규 작성·재구성 반응식은 `image_gen`을 사용한다.

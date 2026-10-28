@@ -19,3 +19,9 @@ venv/
 !.env.example
 *.pem
 *.key
+
+# User request 2026-10-29: keep textbooks, Wanja and reference originals local
+/assets/reference-library/
+*.pdf
+*.ppt
+*.pptx

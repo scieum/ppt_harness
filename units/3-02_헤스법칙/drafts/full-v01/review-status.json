@@ -1,70 +1,14 @@
 {
-  "version": "v22",
+  "version": "v40",
   "kind": "design_review_draft",
-  "slide_count": 42,
-  "latest": "units/3-02_헤스법칙/drafts/full-v01/output/3-02_헤스법칙_전체42장_수식크기통일_v22.pptx",
-  "sha256": "d3a65cb7a443afb4bf5203213b56677a8ec75a2c07e3bb03ea620626355c56eb",
-  "changed_slides_since_v20": [
-    7,
-    8,
-    10,
-    31,
-    34,
-    40,
-    41
-  ],
+  "slide_count": 51,
+  "latest": "units/3-02_헤스법칙/drafts/full-v01/output/3-02_헤스법칙_전체51장_파트표기와패널정돈_v40.pptx",
+  "sha256": "e729dada9ac255d66f6f5fdf00ed296558e86af35f92b3054dda68604757d16d",
   "user_design_approved": false,
   "final_lesson": false,
-  "package_integrity": {
-    "chart_count": 0,
-    "claim_boundary": "Structural package checks only; no slide text, notes, formulas, chart values, or native PowerPoint execution were inspected.",
-    "finding_count": 0,
-    "findings": [],
-    "notes_parts_skipped": 42,
-    "relationship_part_count": 94,
-    "slide_count": 42,
-    "status": "pass",
-    "exitCode": 0,
-    "findingCount": 0,
-    "warnings": []
-  },
-  "layout": {
-    "finding_count": 0,
-    "findings": [],
-    "font_policy": {
-      "checked_text_script_count": 781,
-      "native_font_rendering_verified": false,
-      "observed_font_families": [
-        "Pretendard"
-      ],
-      "observed_font_use_counts": {
-        "Pretendard": 781
-      },
-      "passed": true,
-      "performed": true
-    },
-    "slide_count": 42,
-    "slide_size_in": [
-      20,
-      11.25
-    ],
-    "warning_count": 0,
-    "warnings": [],
-    "exitCode": 0,
-    "findingCount": 0,
-    "fontPolicy": {
-      "checked_text_script_count": 781,
-      "native_font_rendering_verified": false,
-      "observed_font_families": [
-        "Pretendard"
-      ],
-      "observed_font_use_counts": {
-        "Pretendard": 781
-      },
-      "passed": true,
-      "performed": true
-    }
-  },
-  "powerpoint_application_verified": false,
-  "figma_verified": false
+  "validation_receipt": "build/validation-v40.json",
+  "review": "../../research/revision-v40/visual-review.md",
+  "added_slides": [
+    9
+  ]
 }

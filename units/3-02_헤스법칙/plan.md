@@ -1225,3 +1225,25 @@ QA수정 항목: 9장 두 단계 반응의 원본 줄바꿈 정돈, 표12·32장
 
 ### 현재42장 계획 정합성
 기존40장 기본 빌드의 번호를 보존하고, 추가2장을 포함한 현재 계획은 research/qa-v17/current-plan-42.json에 기록했다. 기존40장 내부 빌드 계획은 research/qa-v17/base-plan-before-sync.json에 보존했고 harness-plan은 현재42장으로 동기화했다. 표준 생성 엔탈피의 과거 미판정은 실제 주 교과서86~87쪽 원문과 성취기준을 대조해 범위 내로 판정했다. 사용자 대표 디자인 승인을 추정하지 않는다.
+
+
+## 2026-10-28 사용자 요청: 완자121쪽 상세 보강
+
+기존42장에8장을추가하는 [v23 세부 계획](research/expansion-v23/plan.md)을 반영한다. 최신 사용자 요청에 근거한 상세 설명 확장이며 사용자 디자인 승인과는 구분한다.
+
+현재 산출물: v23 · 50장 검토용. [실제 페이지 대응 및 검수](research/expansion-v23/review.md).
+
+최신 v25: 메테인 세 반응 합산은 [v25 수정 계획](research/expansion-v25/plan.md)을 따른다.
+
+최신 v26: 사용자 첨부 두 풀이를 [수정 계획](research/expansion-v26/plan.md)에 따라 반영.
+
+최신 v27: [수식 이미지 재생성](research/expansion-v27/plan.md).
+
+
+## v31 후속 디자인 반영
+
+현재 50장 순서는 유지하고 블랙 테마·화이트 원본 로고·흰 수식 이미지·경계 없는 초록빛을 적용했다. 독립 수식 46개는 checks/equations.json에 파일 해시와 함께 연결했다. G10 실물 검사 통과는 사용자 디자인 승인과 구분한다. 6종 자료 비교와 실험 선행 재배치 제안은 research/content-review-20261028/recommendation.md를 따른다.
+
+
+## v32 최신 반영
+기존8장 뒤에 탄소의 직접/CO 경유 순환 도식 추가, 전체51장. 기존9장 이후+1. 6장 사용자 초상화 기준 헤스 신규 인물. 완자 추출 순환 도식 미사용. 장별 대응 research/reference-v32/page-map.json, 수정/출처 visual-review.md 참조.
