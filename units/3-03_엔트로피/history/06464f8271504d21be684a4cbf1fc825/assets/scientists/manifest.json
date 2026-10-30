@@ -1,0 +1,44 @@
+[
+  {
+    "id": "scientist_clausius",
+    "name_ko": "루돌프 클라우지우스",
+    "role": "엔트로피 개념 도입",
+    "file": "assets/scientists/clausius-v01.png",
+    "sha256": "a260d4df30481f71d534de3aa90581c80322ed57855f2dd822fa30abce5d30f5",
+    "kind": "generated",
+    "status": "user_requested_new_character_v01",
+    "reference_role": "Existing scientist a/b images are style references only. Distinct new historical figure; not a replacement of originals.",
+    "generation_tool": "image_gen",
+    "generation_source": "/Users/keemhayeon/.codex/generated_images/01a17e01-6b16-76b2-bb9f-c7849c800cd5/exec-b4e3d8a8-98e6-4557-99d9-dfef0d7d7dda.png",
+    "size": [
+      1145,
+      1373
+    ],
+    "transparency": [
+      0,
+      255
+    ],
+    "visual_review": "full body and hands inspected; alpha present; no formula/text; identity cues distinct"
+  },
+  {
+    "id": "scientist_boltzmann",
+    "name_ko": "루트비히 볼츠만",
+    "role": "엔트로피의 통계적 해석",
+    "file": "assets/scientists/boltzmann-v01.png",
+    "sha256": "f086226cb8d812e150dd4851df54bb3cce511822d6219da2674c8be6d2abe62e",
+    "kind": "generated",
+    "status": "user_requested_new_character_v01",
+    "reference_role": "Existing scientist a/b images are style references only. Distinct new historical figure; not a replacement of originals.",
+    "generation_tool": "image_gen",
+    "generation_source": "/Users/keemhayeon/.codex/generated_images/01a17e01-6b16-76b2-bb9f-c7849c800cd5/exec-25485cfa-487f-49f5-8388-e4600827ff2a.png",
+    "size": [
+      1145,
+      1373
+    ],
+    "transparency": [
+      0,
+      255
+    ],
+    "visual_review": "full body and hands inspected; alpha present; no formula/text; identity cues distinct"
+  }
+]

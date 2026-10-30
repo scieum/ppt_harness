@@ -1,0 +1,22 @@
+{"schema":"openai.presentation.layout/v5","unit":"px","slide":{"id":"sl/m49iw1","index":14,"layout":{"id":"ly/v6l072p8","name":"Blank"},"backgroundColor":"rgba(255,255,255,1)","position":{"left":0,"top":0,"width":1920,"height":1080}},
+"elements":[
+{"id":"sh/wfux4vat","kind":"textbox","name":"copyright","position":{"left":1440,"top":1038,"width":440,"height":28},"text":"© 2026. @sci_eum. All rights reserved.","style":{"fontSize":17,"typeface":"Pretendard","color":"#202020","alignment":"right"},"geometry":"rect","lineWidth":0},
+{"id":"sh/xg3ed0be","kind":"textbox","name":"text","position":{"left":90,"top":86,"width":1400,"height":44},"text":"Part 2 반응 엔탈피 구하기","style":{"fontSize":28,"typeface":"Pretendard","color":"#898989","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/yhcf65sj","kind":"textbox","name":"text","position":{"left":90,"top":134,"width":75,"height":64},"text":"01","style":{"fontSize":44,"typeface":"Pretendard","color":"#28691C","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/j2lwfat4","kind":"textbox","name":"text","position":{"left":158,"top":134,"width":1530,"height":64},"text":"간접 측정","style":{"fontSize":44,"typeface":"Pretendard","color":"#202020","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/k3ux8vap","kind":"textbox","name":"text","position":{"left":180,"top":294,"width":1560,"height":96},"text":"CO만 생성될 때의 열은 어떻게 구할까?","style":{"fontSize":64,"typeface":"Pretendard","color":"#202020","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"im/8zitk3e1","kind":"image","position":{"left":815,"top":389,"width":290,"height":245},"fit":"contain","alt":"등록 long-hair-girl 수업 역할 포즈"},
+{"id":"sh/el8vu1sf","kind":"shape","name":"중앙 질문 말풍선","position":{"left":585,"top":610,"width":750,"height":90},"geometry":"roundRect","fillColor":"#FFFFFF","lineWidth":0},
+{"id":"sh/z6hw36t0","kind":"textbox","name":"text","position":{"left":610,"top":630,"width":700,"height":55},"text":"CO만 생기는 반응을 따로 측정할 수 있을까?","style":{"fontSize":32,"typeface":"Pretendard","color":"#222222","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/v6ls3y9c","kind":"shape","name":"line","position":{"left":960,"top":704,"width":1,"height":25},"geometry":"custom","lineColor":"#AAAAAA","lineWidth":2},
+{"id":"sh/u5cbat8r","kind":"shape","name":"line","position":{"left":530,"top":729,"width":860,"height":1},"geometry":"custom","lineColor":"#AAAAAA","lineWidth":2},
+{"id":"sh/h83a5ori","kind":"shape","name":"line","position":{"left":530,"top":729,"width":1,"height":30},"geometry":"custom","lineColor":"#AAAAAA","lineWidth":2},
+{"id":"sh/g7utc3qx","kind":"shape","name":"line","position":{"left":1390,"top":729,"width":1,"height":30},"geometry":"custom","lineColor":"#AAAAAA","lineWidth":2},
+{"id":"sh/721sze9g","kind":"shape","name":"참조 분기 설명","position":{"left":190,"top":762,"width":690,"height":205},"geometry":"roundRect","fillColor":"#F2F3F1","lineWidth":0},
+{"id":"sh/m1sb698v","kind":"textbox","name":"text","position":{"left":220,"top":790,"width":630,"height":60},"text":"직접 측정의 어려움","style":{"fontSize":40,"typeface":"Pretendard","color":"#28691C","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/t4ja1orm","kind":"textbox","name":"text","position":{"left":225,"top":842,"width":620,"height":85},"text":"불완전 연소 중 CO₂도 생성되어\nCO 생성열만 분리하기 어렵다.","style":{"fontSize":35,"typeface":"Pretendard","color":"#202020","alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/83at8jq1","kind":"shape","name":"참조 분기 설명","position":{"left":1040,"top":762,"width":690,"height":205},"geometry":"roundRect","fillColor":"#F2F3F1","lineWidth":0},
+{"id":"sh/zy1sve94","kind":"textbox","name":"text","position":{"left":1070,"top":790,"width":630,"height":60},"text":"헤스 법칙으로 간접 측정","style":{"fontSize":40,"typeface":"Pretendard","color":"#28691C","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/yxsr298z","kind":"textbox","name":"text","position":{"left":1075,"top":842,"width":620,"height":85},"text":"알려진 다른 반응의 열을 이용해\n목표 반응의 엔탈피를 구한다.","style":{"fontSize":35,"typeface":"Pretendard","color":"#202020","alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"im/hwnq5w3i","kind":"image","position":{"left":1778.67,"top":40,"width":108,"height":77.33},"fit":"contain","alt":"사이음 흰 배경용 원본 로고"}
+]}

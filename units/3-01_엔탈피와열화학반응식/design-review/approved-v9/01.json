@@ -1,0 +1,390 @@
+{
+  "artifact_sha256": "a594fa0b148c2e62743b391cc6d73d75de1194c71f638d783c097dad97d09d19",
+  "render_sha256": "1a48afc690db77c2f7a0f102843404d570799b469cac49e956af23e4cd78abb4",
+  "exporter": "artifact-tool layout/v5 normalized actual named objects; grouped roles retain raw member geometry",
+  "canvas": [
+    1920,
+    1080
+  ],
+  "objects": [
+    {
+      "role": "characters",
+      "kind": "image",
+      "bbox": [
+        0,
+        0,
+        1920,
+        1080
+      ],
+      "fill": [
+        "none"
+      ],
+      "font_family": [
+        null
+      ],
+      "font_size": [
+        null
+      ],
+      "font_weight": [
+        400
+      ],
+      "alignment": [
+        null
+      ],
+      "character_asset_id": "characters",
+      "members": [
+        {
+          "id": "im/7ahgjuho",
+          "kind": "image",
+          "position": {
+            "left": 0,
+            "top": 0,
+            "width": 1920,
+            "height": 1080
+          },
+          "fit": "contain",
+          "alt": "classroom_scene"
+        }
+      ]
+    },
+    {
+      "role": "reference_green_fade",
+      "kind": "shape",
+      "bbox": [
+        0,
+        0,
+        1920,
+        1080
+      ],
+      "fill": [
+        "none"
+      ],
+      "font_family": [
+        null
+      ],
+      "font_size": [
+        null
+      ],
+      "font_weight": [
+        400
+      ],
+      "alignment": [
+        null
+      ],
+      "character_asset_id": null,
+      "members": [
+        {
+          "id": "sh/tgbqpgna",
+          "kind": "shape",
+          "name": "reference_green_fade",
+          "position": {
+            "left": 0,
+            "top": 0,
+            "width": 1920,
+            "height": 1080
+          },
+          "geometry": "rect",
+          "lineWidth": 0
+        }
+      ]
+    },
+    {
+      "role": "sci_eum_logo",
+      "kind": "image",
+      "bbox": [
+        1778.67,
+        40,
+        108.0,
+        77.33
+      ],
+      "fill": [
+        "none"
+      ],
+      "font_family": [
+        null
+      ],
+      "font_size": [
+        null
+      ],
+      "font_weight": [
+        400
+      ],
+      "alignment": [
+        null
+      ],
+      "character_asset_id": null,
+      "members": [
+        {
+          "id": "im/tcjyl4zu",
+          "kind": "image",
+          "position": {
+            "left": 1778.67,
+            "top": 40,
+            "width": 108,
+            "height": 77.33
+          },
+          "fit": "contain",
+          "alt": "sci_eum_logo"
+        }
+      ]
+    },
+    {
+      "role": "copyright",
+      "kind": "textbox",
+      "bbox": [
+        1535,
+        1035.73,
+        342,
+        30.0
+      ],
+      "fill": [
+        "none"
+      ],
+      "font_family": [
+        "Pretendard"
+      ],
+      "font_size": [
+        17
+      ],
+      "font_weight": [
+        400
+      ],
+      "alignment": [
+        "right"
+      ],
+      "character_asset_id": null,
+      "members": [
+        {
+          "id": "sh/fit8r65g",
+          "kind": "textbox",
+          "name": "copyright",
+          "position": {
+            "left": 1535,
+            "top": 1035.73,
+            "width": 342,
+            "height": 30
+          },
+          "text": "© 2026. @sci_eum. All rights reserved.",
+          "style": {
+            "fontSize": 17,
+            "typeface": "Pretendard",
+            "color": "#111111",
+            "alignment": "right"
+          },
+          "geometry": "rect",
+          "lineWidth": 0
+        }
+      ]
+    },
+    {
+      "role": "author",
+      "kind": "image",
+      "bbox": [
+        138.67,
+        546.67,
+        151.99999999999997,
+        64.0
+      ],
+      "fill": [
+        "none"
+      ],
+      "font_family": [
+        null
+      ],
+      "font_size": [
+        null
+      ],
+      "font_weight": [
+        400
+      ],
+      "alignment": [
+        null
+      ],
+      "character_asset_id": null,
+      "members": [
+        {
+          "id": "im/jmhgfuhs",
+          "kind": "image",
+          "position": {
+            "left": 138.67,
+            "top": 546.67,
+            "width": 152,
+            "height": 64
+          },
+          "fit": "contain",
+          "alt": "author"
+        }
+      ]
+    },
+    {
+      "role": "tsherpa_logo",
+      "kind": "image",
+      "bbox": [
+        1601.33,
+        42.67,
+        154.67000000000007,
+        66.67
+      ],
+      "fill": [
+        "none"
+      ],
+      "font_family": [
+        null
+      ],
+      "font_size": [
+        null
+      ],
+      "font_weight": [
+        400
+      ],
+      "alignment": [
+        null
+      ],
+      "character_asset_id": null,
+      "members": [
+        {
+          "id": "im/knqhozyd",
+          "kind": "image",
+          "position": {
+            "left": 1601.33,
+            "top": 42.67,
+            "width": 154.67,
+            "height": 66.67
+          },
+          "fit": "contain",
+          "alt": "tsherpa_logo"
+        }
+      ],
+      "visible_bbox": [
+        1615.3032258064518,
+        52.0516129032258,
+        129.72043010752688,
+        44.903225806451616
+      ],
+      "asset_sha256": "6bcec9b3796baa93f0d93eb209898fb67319a54a8e27815f1f5c1fb68cc5a034"
+    },
+    {
+      "role": "title",
+      "kind": "group",
+      "bbox": [
+        138.7,
+        262.55,
+        1465.3,
+        258.99999999999994
+      ],
+      "fill": [
+        "none",
+        "none"
+      ],
+      "font_family": [
+        "Pretendard",
+        "Pretendard"
+      ],
+      "font_size": [
+        90,
+        90
+      ],
+      "font_weight": [
+        700,
+        700
+      ],
+      "alignment": [
+        "left",
+        "left"
+      ],
+      "character_asset_id": null,
+      "members": [
+        {
+          "id": "sh/gjm9kbml",
+          "kind": "textbox",
+          "name": "title-line0",
+          "position": {
+            "left": 138.7,
+            "top": 262.55,
+            "width": 1465.3,
+            "height": 154
+          },
+          "text": "Ⅲ. 화학 변화의 자발성",
+          "style": {
+            "fontSize": 90,
+            "typeface": "Pretendard",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "geometry": "rect",
+          "lineWidth": 0
+        },
+        {
+          "id": "sh/vm98fm5w",
+          "kind": "textbox",
+          "name": "title-line1",
+          "position": {
+            "left": 138.7,
+            "top": 367.55,
+            "width": 1465.3,
+            "height": 154
+          },
+          "text": "01. 엔탈피와 열화학 반응식",
+          "style": {
+            "fontSize": 90,
+            "typeface": "Pretendard",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "geometry": "rect",
+          "lineWidth": 0
+        }
+      ]
+    },
+    {
+      "role": "ai_notice",
+      "kind": "textbox",
+      "bbox": [
+        37.3,
+        1034.73,
+        1130.0,
+        30.0
+      ],
+      "fill": [
+        "none"
+      ],
+      "font_family": [
+        "Pretendard"
+      ],
+      "font_size": [
+        17
+      ],
+      "font_weight": [
+        400
+      ],
+      "alignment": [
+        "left"
+      ],
+      "character_asset_id": null,
+      "members": [
+        {
+          "id": "sh/al076h4b",
+          "kind": "textbox",
+          "name": "ai_notice",
+          "position": {
+            "left": 37.3,
+            "top": 1034.73,
+            "width": 1130,
+            "height": 30
+          },
+          "text": "본 수업 자료에 사용된 일부 이미지는 생성형 AI 기술을 활용하여 제작되었습니다.",
+          "style": {
+            "fontSize": 17,
+            "typeface": "Pretendard",
+            "color": "#FFFFFF",
+            "alignment": "left"
+          },
+          "geometry": "rect",
+          "lineWidth": 0
+        }
+      ]
+    }
+  ]
+}

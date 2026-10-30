@@ -1,0 +1,114 @@
+{
+  "version": "v10-based-seven-types-v1",
+  "plan_hash": "2258bfa3d6fa670a0401c7865932838af7a2915b4686f6cf8b3421d602836396",
+  "artifact": {
+    "path": "drafts/representatives/v10-based-seven-types-v1/candidate.pptx",
+    "sha256": "f19066118cc95e9665418d9c5588d51144f9a6c88c64d92832f7754cf43d8f3a"
+  },
+  "slides": [
+    {
+      "preview_slide": 1,
+      "lesson_slide": 1,
+      "type": "cover",
+      "render": {
+        "path": "drafts/representatives/v10-based-seven-types-v1/01.png",
+        "sha256": "4d0b58ab04f4fe3f3a7c5a137d0ffb8a770254067f5f575700c82bb88bbe2e8c"
+      },
+      "visual_review": "reviewed at full size; no unintended clipping or overlap after font baseline and photo-border repair",
+      "science_review": "V10 contents retained"
+    },
+    {
+      "preview_slide": 2,
+      "lesson_slide": 2,
+      "type": "contents",
+      "render": {
+        "path": "drafts/representatives/v10-based-seven-types-v1/02.png",
+        "sha256": "50bc4ca47a2859bf46c5e2069a8cb00b407153970aae83f2950c6d97e1b5b781"
+      },
+      "visual_review": "reviewed at full size; no unintended clipping or overlap after font baseline and photo-border repair",
+      "science_review": "V10 contents retained"
+    },
+    {
+      "preview_slide": 3,
+      "lesson_slide": 3,
+      "type": "objectives",
+      "render": {
+        "path": "drafts/representatives/v10-based-seven-types-v1/03.png",
+        "sha256": "48b2a7369989027dfe141d560898b1cd3b27c20bdbb7d51167cf56237d6b8c53"
+      },
+      "visual_review": "reviewed at full size; no unintended clipping or overlap after font baseline and photo-border repair",
+      "science_review": "V10 contents retained"
+    },
+    {
+      "preview_slide": 4,
+      "lesson_slide": 4,
+      "type": "hook",
+      "render": {
+        "path": "drafts/representatives/v10-based-seven-types-v1/04.png",
+        "sha256": "0e3719910a4352ab69c81cdb85a1f0fb41147572f3a2e4f1a2b3d2b6e464b2ab"
+      },
+      "visual_review": "reviewed at full size; no unintended clipping or overlap after font baseline and photo-border repair",
+      "science_review": "V10 contents retained"
+    },
+    {
+      "preview_slide": 5,
+      "lesson_slide": 5,
+      "type": "part",
+      "render": {
+        "path": "drafts/representatives/v10-based-seven-types-v1/05.png",
+        "sha256": "d9fe97952b0c44e0084c109a7dc0abe7063c1c6e7861b450193b266bfd6c2b55"
+      },
+      "visual_review": "reviewed at full size; no unintended clipping or overlap after font baseline and photo-border repair",
+      "science_review": "V10 contents retained"
+    },
+    {
+      "preview_slide": 6,
+      "lesson_slide": 15,
+      "type": "comparison",
+      "render": {
+        "path": "drafts/representatives/v10-based-seven-types-v1/06.png",
+        "sha256": "f64249fb6036e56ec378bb8989e85770b04d103211005f18e9bc835452d34a37"
+      },
+      "visual_review": "reviewed at full size; no unintended clipping or overlap after font baseline and photo-border repair",
+      "science_review": "source photographs unchanged; 4 H and 2 O atoms; bond count and −470 kJ checked"
+    },
+    {
+      "preview_slide": 7,
+      "lesson_slide": 26,
+      "type": "figure",
+      "render": {
+        "path": "drafts/representatives/v10-based-seven-types-v1/07.png",
+        "sha256": "423244bda5e7b192dd5ed6d83e55ed6697bd57c2d817f7917359f149a57833f2"
+      },
+      "visual_review": "reviewed at full size; no unintended clipping or overlap after font baseline and photo-border repair",
+      "science_review": "source photographs unchanged; 4 H and 2 O atoms; bond count and −470 kJ checked"
+    },
+    {
+      "preview_slide": 8,
+      "lesson_slide": 28,
+      "type": "table_formula",
+      "render": {
+        "path": "drafts/representatives/v10-based-seven-types-v1/08.png",
+        "sha256": "0287b9786be4ec6d02bb709c4dc8c69ef9345777f9e9953773a01c289eb6a062"
+      },
+      "visual_review": "reviewed at full size; no unintended clipping or overlap after font baseline and photo-border repair",
+      "science_review": "source photographs unchanged; 4 H and 2 O atoms; bond count and −470 kJ checked"
+    }
+  ],
+  "native_editable_text": true,
+  "original_formula_and_diagram_images": "not editable text",
+  "image_tool": "built-in image_gen",
+  "new_images": [
+    "assets/generated/I01.png",
+    "assets/generated/I02.png"
+  ],
+  "checks": {
+    "all_8_rendered_and_inspected": true,
+    "all_notes_and_sources_present": true,
+    "structural_pptx_validation_passed": true,
+    "G07_original_protection": true
+  },
+  "user_confirmation": "pending; current approval is plan execution, not confirmation of these new candidate slides",
+  "full31_production": "not started; awaits current seven-type design confirmation per AGENTS",
+  "figma": "not uploaded; no false verification claim"
+}

@@ -1,0 +1,29 @@
+{
+  "date": "2026-10-28",
+  "source_version": "v07",
+  "instruction": "9, 10페이지는 괜찮아. 얘는 놔두자",
+  "preserve": [
+    "문구",
+    "표·질문 행 구성",
+    "색",
+    "크기",
+    "배치"
+  ],
+  "slides": [
+    {
+      "representative_page": 9,
+      "old_plan_page": 14,
+      "title": "엔트로피 변화 소정리",
+      "image": "slide-09-plan14.png",
+      "sha256": "2a5b36148ef0d8db365d97fa1c18ab9bef1eb15904e2bdf0032f718d4ec7c32f"
+    },
+    {
+      "representative_page": 10,
+      "old_plan_page": 15,
+      "title": "향기가 퍼지는 까닭을 설명하자",
+      "image": "slide-10-plan15.png",
+      "sha256": "37d8b30253221af0ff635cff207a035f2f7fc74936e121ef9cbd964952bf5512"
+    }
+  ],
+  "scope": "v07 대표 9·10장만 보존. 나머지 재설계 및 최소 3개 Part 요구 유지. 페이지 재번호와 상단 Part/소주제 변경이 필요하면 보존 디자인과 구분하여 기록하며 자동 변경하지 않음."
+}

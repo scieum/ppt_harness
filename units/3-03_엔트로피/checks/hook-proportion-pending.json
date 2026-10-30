@@ -1,0 +1,15 @@
+{
+  "status": "applied-v02",
+  "user_correction": "원본 비율 유지; 동기유발 교과서 이미지 금지; 등록4인 중 선택한 학생의 적합한 새 장면",
+  "selected_original": "assets/characters/body/references/body_student_water_cup.png",
+  "selected_generated": "/Users/keemhayeon/.codex/generated_images/01a17e01-6b16-76b2-bb9f-c7849c800cd5/exec-6736d62d-e3e7-4432-9dbb-eae82f12496d.png",
+  "rejected_generated": [
+    "exec-faf5d617-8005-4c5a-95d9-18abce1c15ea.png",
+    "exec-fb4a1538-d5e5-4c4d-badd-3d630f980639.png"
+  ],
+  "prepared_apply_script": "/private/tmp/unit33/apply-hook.py",
+  "blocker": null,
+  "next_step": "Restore original T PDF readability, run prepared apply-hook.py using bundled Python, build v02 with RUNTIME_NODE_MODULES set, inspect actual plan2 render, refresh references/current links.",
+  "output": "drafts/representatives/v02/output/3-03_엔트로피_대표10장_v02.pptx",
+  "verification": "Finder 항상 이 장치에 유지 실행; 교과서 allocated blocks137888; managed preflight passed; PPTX package/layout/import passed; plan2 actual render visually inspected"
+}

@@ -1,0 +1,13 @@
+{"schema":"openai.presentation.layout/v5","unit":"px","slide":{"id":"sl/9c6q25","index":6,"layout":{"id":"ly/q5sfqdkf","name":"Blank"},"backgroundColor":"rgba(255,255,255,1)","position":{"left":0,"top":0,"width":1920,"height":1080}},
+"elements":[
+{"id":"im/jqtsr25c","kind":"image","position":{"left":1778.67,"top":40,"width":108,"height":77.33},"fit":"contain","alt":"sci_eum_logo"},
+{"id":"sh/xsvydw32","kind":"textbox","name":"part_heading","position":{"left":72,"top":78,"width":1500,"height":60},"text":"PART 3 결합 에너지와 반응 엔탈피","style":{"fontSize":43,"typeface":"Pretendard","color":"#909090","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/cr2hkr2x","kind":"textbox","name":"topic_number","position":{"left":72,"top":144,"width":90,"height":66},"text":"04","style":{"fontSize":50,"typeface":"Pretendard","color":"#57962F","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/nmtg72l0","kind":"textbox","name":"topic_heading","position":{"left":162,"top":144,"width":1570,"height":75},"text":"물 생성 반응의 결합 모형","style":{"fontSize":50,"typeface":"Pretendard","color":"#111111","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/2lkzehkf","kind":"textbox","name":"title","position":{"left":160,"top":285,"width":1600,"height":100},"text":"원자 수는 보존되고, 결합은 달라진다","style":{"fontSize":64,"typeface":"Pretendard","color":"#111111","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/poby9c36","kind":"textbox","name":"explanation","position":{"left":160,"top":398,"width":1600,"height":70},"text":"2H₂(g) + O₂(g) → 2H₂O(g)","style":{"fontSize":34,"typeface":"Pretendard","color":"#888888","alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/on2hg72l","kind":"textbox","name":"page","position":{"left":72,"top":1037,"width":200,"height":30},"text":"26 / 31","style":{"fontSize":20,"typeface":"Pretendard","color":"#999999","alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/7id0j6lk","kind":"textbox","name":"copyright","position":{"left":1535,"top":1037,"width":342,"height":30},"text":"© 2026. @sci_eum. All rights reserved.","style":{"fontSize":17,"typeface":"Pretendard","color":"#111111","alignment":"right"},"geometry":"rect","lineWidth":0},
+{"id":"im/fidszm5k","kind":"image","position":{"left":245,"top":505,"width":1430,"height":405},"fit":"contain","alt":"FIG_REACTION"},
+{"id":"sh/43yls3m5","kind":"textbox","name":"conclusion","position":{"left":260,"top":942,"width":1400,"height":58},"text":"H 원자 4개와 O 원자 2개를 끝까지 확인한다","style":{"fontSize":42,"typeface":"Pretendard","color":"#444444","alignment":"center"},"geometry":"rect","lineWidth":0}
+]}

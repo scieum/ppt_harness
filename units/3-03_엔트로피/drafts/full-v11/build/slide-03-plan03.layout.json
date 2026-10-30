@@ -1,0 +1,18 @@
+{"schema":"openai.presentation.layout/v5","unit":"px","slide":{"id":"sl/9r8qhn","index":0,"layout":{"id":"ly/ov2d43mx","name":"Blank"},"backgroundColor":"rgba(0,0,0,1)","position":{"left":0,"top":0,"width":1920,"height":1080}},
+"elements":[
+{"id":"sh/sradcvat","kind":"textbox","name":"text","position":{"left":326,"top":240,"width":1268,"height":126},"text":"수업 목차","style":{"fontSize":100,"typeface":"Pretendard","color":"#FFFFFF","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/7q1w3q98","kind":"shape","name":"깊은 꺾임 목차 원본 윤곽","position":{"left":370,"top":480,"width":410,"height":350},"geometry":"custom","fillColor":"#252525","lineWidth":0},
+{"id":"sh/65svalsn","kind":"textbox","name":"text","position":{"left":448,"top":545,"width":280,"height":60},"text":"Part 1","style":{"fontSize":38,"typeface":"Pretendard","color":"#9FFF68","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/54je1gr2","kind":"textbox","name":"text","position":{"left":448,"top":626,"width":295,"height":62},"text":"엔트로피의","style":{"fontSize":40,"typeface":"Pretendard","color":"#FFFFFF","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/k3qd8vah","kind":"textbox","name":"text","position":{"left":448,"top":691,"width":295,"height":62},"text":"의미","style":{"fontSize":40,"typeface":"Pretendard","color":"#FFFFFF","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/j2hczq9c","kind":"shape","name":"깊은 꺾임 목차 원본 윤곽","position":{"left":763,"top":480,"width":410,"height":350},"geometry":"custom","fillColor":"#252525","lineWidth":0},
+{"id":"sh/i18v6lsr","kind":"textbox","name":"text","position":{"left":841,"top":545,"width":280,"height":60},"text":"Part 2","style":{"fontSize":38,"typeface":"Pretendard","color":"#9FFF68","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/x0zuxgr6","kind":"textbox","name":"text","position":{"left":841,"top":626,"width":295,"height":62},"text":"엔트로피","style":{"fontSize":40,"typeface":"Pretendard","color":"#FFFFFF","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/wzqd4bal","kind":"textbox","name":"text","position":{"left":841,"top":691,"width":295,"height":62},"text":"변화","style":{"fontSize":40,"typeface":"Pretendard","color":"#FFFFFF","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/ixkned0n","kind":"shape","name":"깊은 꺾임 목차 원본 윤곽","position":{"left":1156,"top":480,"width":410,"height":350},"geometry":"custom","fillColor":"#252525","lineWidth":0},
+{"id":"sh/3yto7i18","kind":"textbox","name":"text","position":{"left":1234,"top":545,"width":280,"height":60},"text":"Part 3","style":{"fontSize":38,"typeface":"Pretendard","color":"#9FFF68","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/4z25gnit","kind":"textbox","name":"text","position":{"left":1234,"top":626,"width":295,"height":62},"text":"엔트로피 변화의","style":{"fontSize":40,"typeface":"Pretendard","color":"#FFFFFF","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/50b69sje","kind":"textbox","name":"text","position":{"left":1234,"top":691,"width":295,"height":62},"text":"적용","style":{"fontSize":40,"typeface":"Pretendard","color":"#FFFFFF","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"im/pgrypobu","kind":"image","position":{"left":1778.67,"top":40,"width":108,"height":77.33},"fit":"contain","alt":"사이음 공식 로고"},
+{"id":"sh/va9o3i1c","kind":"textbox","name":"copyright","position":{"left":1440,"top":1034,"width":440,"height":30},"text":"© 2026. @sci_eum. All rights reserved.","style":{"fontSize":21,"typeface":"Pretendard","color":"#FFFFFF","alignment":"right"},"geometry":"rect","lineWidth":0}
+]}

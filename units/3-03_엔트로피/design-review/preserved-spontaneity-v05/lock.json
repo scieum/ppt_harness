@@ -1,0 +1,16 @@
+{
+  "user_instruction": "자발성 판단 소정리는 너무 좋아 이거는 절대 버리지 말아줘",
+  "date": "2026-10-28",
+  "plan_page": 33,
+  "representative_page": 5,
+  "source_version": "v05",
+  "preserve": [
+    "table structure",
+    "colors",
+    "text sizes",
+    "text",
+    "placement"
+  ],
+  "render_sha256": "2048d1529aac2d4ba0d0c2a9136af265c6ac39810fc0aae314286240410a100b",
+  "scope": "이 장만 사용자 디자인 긍정 확인. 전체 대표본 승인으로 확대하지 않음."
+}

@@ -1,0 +1,17 @@
+{
+  "formula": {
+    "original": "formation-sum-generated-original.png",
+    "operation": "generated black ink -> white RGB, luminance alpha; glyph shapes preserved",
+    "generation_source": "/Users/keemhayeon/.codex/generated_images/01a17885-2601-7742-ab2d-af1cc66b229d/exec-2266d088-75cf-45d6-a64e-e8c8fbffec1b.png"
+  },
+  "diamond": {
+    "source": "../diamond-v14/w15-137-target.png",
+    "operation": "white RGB, original alpha preserved; full width restored for PPT crop"
+  },
+  "arrow": {
+    "source": "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/inbox/ppt/[물에맛.Zip] 2-02. 물의 여러 가지 성질.pptx",
+    "slide": 14,
+    "media": "ppt/media/image131.png",
+    "operation": "original extraction, no edits"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "two-step": {
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-02_헤스법칙/assets/reference-v32/two-step-white.png",
+    "size": [
+      1533,
+      545
+    ],
+    "glyph": 125
+  },
+  "direct": {
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-02_헤스법칙/assets/reference-v32/direct-white.png",
+    "size": [
+      1988,
+      258
+    ],
+    "glyph": 205
+  },
+  "formation-symbol": {
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-02_헤스법칙/assets/reference-v32/formation-symbol-white.png",
+    "size": [
+      811,
+      443
+    ],
+    "glyph": 310
+  }
+}

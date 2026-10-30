@@ -1,0 +1,23 @@
+{"schema":"openai.presentation.layout/v5","unit":"px","slide":{"id":"sl/t8unqo","index":1,"layout":{"id":"ly/r2lcbmx0","name":"Blank"},"backgroundColor":"rgba(255,255,255,1)","position":{"left":0,"top":0,"width":1920,"height":1080}},
+"elements":[
+{"id":"im/ml0re10n","kind":"image","position":{"left":208,"top":441.33,"width":1366.67,"height":398.67},"fit":"contain","alt":"part_blocks"},
+{"id":"im/9orqpgje","kind":"image","position":{"left":453.33,"top":504,"width":254.67,"height":208},"fit":"contain","alt":"original_object_04"},
+{"id":"im/8ni9gbit","kind":"image","position":{"left":840,"top":504,"width":254.67,"height":208},"fit":"contain","alt":"original_object_05"},
+{"id":"im/vqtsr614","kind":"image","position":{"left":1228,"top":502.67,"width":254.67,"height":226.67},"fit":"contain","alt":"original_object_06"},
+{"id":"im/upkri10z","kind":"image","position":{"left":1557.33,"top":441.33,"width":37.33,"height":166.67},"fit":"contain","alt":"original_object_13"},
+{"id":"im/hsbatgja","kind":"image","position":{"left":1537.33,"top":454.67,"width":42.67,"height":94.67},"fit":"contain","alt":"original_object_14"},
+{"id":"im/wr29kbip","kind":"image","position":{"left":1537.33,"top":745.33,"width":42.67,"height":94.67},"fit":"contain","alt":"original_object_15"},
+{"id":"im/bup8fm10","kind":"image","position":{"left":1552,"top":700,"width":42.67,"height":94.67},"fit":"contain","alt":"original_object_16"},
+{"id":"im/atgr6hkf","kind":"image","position":{"left":1778.67,"top":40,"width":108,"height":77.33},"fit":"contain","alt":"sci_eum_logo"},
+{"id":"sh/fihcvilo","kind":"textbox","name":"copyright","position":{"left":1535,"top":1035.73,"width":342,"height":30},"text":"© 2026. @sci_eum. All rights reserved.","style":{"fontSize":17,"typeface":"Pretendard","color":"#111111","alignment":"right"},"geometry":"rect","lineWidth":0},
+{"id":"sh/uh8b2dk3","kind":"textbox","name":"title","position":{"left":326.7,"top":269.95,"width":1268,"height":127},"text":"이번 단원의 목차","style":{"fontSize":94,"typeface":"Pretendard","color":"#111111","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/hkjuxs3u","kind":"textbox","name":"part_1","position":{"left":473.3,"top":540.3,"width":280,"height":44},"text":"PART 1","style":{"fontSize":36,"typeface":"Pretendard","color":"#9FFF68","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/gjat4n29","kind":"textbox","name":"part_title_1-line0","position":{"left":484,"top":595.15,"width":295,"height":55},"text":"엔탈피와","style":{"fontSize":38,"typeface":"Pretendard","color":"#FFFFFF","alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/7uhcrils","kind":"textbox","name":"part_title_1-line1","position":{"left":484,"top":644.15,"width":295,"height":55},"text":"열화학 반응식","style":{"fontSize":38,"typeface":"Pretendard","color":"#FFFFFF","alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/6t8bydk7","kind":"textbox","name":"part_2","position":{"left":857.3,"top":540.3,"width":280,"height":44},"text":"PART 2","style":{"fontSize":36,"typeface":"Pretendard","color":"#9FFF68","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/twzut83i","kind":"textbox","name":"part_title_2-line0","position":{"left":868,"top":595.15,"width":295,"height":55},"text":"연료의","style":{"fontSize":38,"typeface":"Pretendard","color":"#FFFFFF","alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/svqt032x","kind":"textbox","name":"part_title_2-line1","position":{"left":868,"top":644.15,"width":295,"height":55},"text":"효율성","style":{"fontSize":38,"typeface":"Pretendard","color":"#FFFFFF","alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/rqlc32lw","kind":"textbox","name":"part_3","position":{"left":1242.7,"top":540.3,"width":280,"height":44},"text":"PART 3","style":{"fontSize":36,"typeface":"Pretendard","color":"#9FFF68","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/qpsvaxkb","kind":"textbox","name":"part_title_3-line0","position":{"left":1253.4,"top":595.15,"width":295,"height":55},"text":"결합 에너지와","style":{"fontSize":38,"typeface":"Pretendard","color":"#FFFFFF","alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/mlwf214j","kind":"textbox","name":"part_title_3-line1","position":{"left":1253.4,"top":644.15,"width":295,"height":55},"text":"반응 엔탈피","style":{"fontSize":38,"typeface":"Pretendard","color":"#FFFFFF","alignment":"left"},"geometry":"rect","lineWidth":0}
+]}

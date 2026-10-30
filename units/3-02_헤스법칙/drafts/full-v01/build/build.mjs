@@ -693,6 +693,14 @@ const {applyRevision35}=await import('./revision-v35.mjs');await applyRevision35
 const {applyRevision37}=await import('./revision-v37.mjs');await applyRevision37({p,ROOT,img,box,text});
 const {applyRevision38}=await import('./revision-v38.mjs');await applyRevision38({p});
 const {applyRevision39}=await import('./revision-v39.mjs');await applyRevision39({p,rich,r,chem});
+const {applyRevision41}=await import('./revision-v41.mjs');await applyRevision41({p,ROOT,img,text,box});
+const {applyRevision42}=await import('./revision-v42.mjs');await applyRevision42({p,text,box});
+const {applyRevision43}=await import('./revision-v43.mjs');await applyRevision43({p});
+const {applyRevision44}=await import('./revision-v44.mjs');await applyRevision44({p,ROOT,img,text,box});
+const {applyRevision45}=await import('./revision-v45.mjs');await applyRevision45({p,ROOT,img,text,box});
+const {applyRevision46}=await import('./revision-v46.mjs');await applyRevision46({p});
+const {applyRevision47}=await import('./revision-v47.mjs');await applyRevision47({p});
+const {applyRevision48}=await import('./revision-v48.mjs');await applyRevision48({p,ROOT,img,roundTable});
 await fs.writeFile(path.join(HERE,'image-sources-v31.json'),JSON.stringify(imageSources31,null,2));
 if(process.env.HESS_METADATA_ONLY==='1')process.exit(0);
 
@@ -710,5 +718,5 @@ console.log('CANDIDATE',candidate,'CHARACTER_ASSETS',assets);
 if(process.env.HESS_FINALIZE==='1'){
  const SKILL='/Users/keemhayeon/.codex/plugins/cache/openai-primary-runtime/presentations/26.1017.22136/skills/presentations';
  const {finalizePresentation}=await import(pathToFileURL(path.join(SKILL,'container_tools/artifact_tool_utils.mjs')).href);
- console.log(await finalizePresentation({workspaceDir:ROOT,candidatePath:candidate,finalPath:path.join(OUT,'3-02_헤스법칙_전체51장_파트표기와패널정돈_v40.pptx'),pythonExecutable:'/Users/keemhayeon/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3',integrityValidatorPath:path.join(SKILL,'container_tools/inspect_presentation_package_integrity.py'),layoutValidatorPath:path.join(SKILL,'container_tools/inspect_presentation_layout_geometry.py'),layoutArgs:['--expected-slide-size-emu','18288000,10287000','--validate-bullet-geometry','--validate-heading-fit'],explicitTotalSlideCount:51,requiredNativeTableOwnerSlides:[],requiredNativeChartOwnerSlides:[],fontPolicy:{basis:'design',families:['Pretendard']},verifyArtifactToolImport:true,receiptPath:path.join(HERE,'validation-v40.json')}));
+ console.log(await finalizePresentation({workspaceDir:ROOT,candidatePath:candidate,finalPath:path.join(OUT,'3-02_헤스법칙_전체51장_OX캐릭터_v48.pptx'),pythonExecutable:'/Users/keemhayeon/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3',integrityValidatorPath:path.join(SKILL,'container_tools/inspect_presentation_package_integrity.py'),layoutValidatorPath:path.join(SKILL,'container_tools/inspect_presentation_layout_geometry.py'),layoutArgs:['--expected-slide-size-emu','18288000,10287000','--validate-bullet-geometry','--validate-heading-fit'],explicitTotalSlideCount:51,requiredNativeTableOwnerSlides:[],requiredNativeChartOwnerSlides:[],fontPolicy:{basis:'design',families:['Pretendard']},verifyArtifactToolImport:true,receiptPath:path.join(HERE,'validation-v48.json')}));
 }

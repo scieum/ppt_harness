@@ -1,0 +1,17 @@
+{"schema":"openai.presentation.layout/v5","unit":"px","slide":{"id":"sl/7oc6t4","index":1,"layout":{"id":"ly/zi9o7ml8","name":"Blank"},"backgroundColor":"rgba(0,0,0,1)","position":{"left":0,"top":0,"width":1920,"height":1080}},
+"elements":[
+{"id":"im/itkvqxwj","kind":"image","position":{"left":0,"top":0,"width":1920,"height":1080},"fit":"contain","alt":"캐릭터와 분리한 하단 초록 그라데이션"},
+{"id":"im/5wbulcfa","kind":"image","position":{"left":1778.67,"top":40,"width":108,"height":77.33},"fit":"contain","alt":"사이음 공식 로고"},
+{"id":"sh/tkbedsnu","kind":"textbox","name":"copyright","position":{"left":1440,"top":1034,"width":440,"height":30},"text":"© 2026. @sci_eum. All rights reserved.","style":{"fontSize":21,"typeface":"Pretendard","color":"#FFFFFF","alignment":"right"},"geometry":"rect","lineWidth":0},
+{"id":"sh/it0vydo7","kind":"textbox","name":"text","position":{"left":72,"top":76,"width":1530,"height":54},"text":"Part 0 동기 유발","style":{"fontSize":38,"typeface":"Pretendard","color":"#898989","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/ju9c7i5s","kind":"textbox","name":"text","position":{"left":72,"top":134,"width":70,"height":64},"text":"01","style":{"fontSize":48.8,"typeface":"Pretendard","color":"#9FFF68","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/kvid0n6d","kind":"textbox","name":"text","position":{"left":146,"top":134,"width":1550,"height":64},"text":"방향제와 확산","style":{"fontSize":48.8,"typeface":"Pretendard","color":"#FFFFFF","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/5gre9sni","kind":"textbox","name":"핵심 문장","position":{"left":100,"top":270,"width":1720,"height":112},"text":"향기는 왜 방 안에 퍼질까?","style":{"fontSize":76.4,"typeface":"Pretendard","color":"#FFFFFF","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/2pkvahob","kind":"textbox","name":"text","position":{"left":150,"top":390,"width":1620,"height":70},"text":"옷장에 넣어 둔 고체 방향제는 시간이 지나면 어떻게 될까?","style":{"fontSize":36.4,"typeface":"Pretendard","color":"#A6A6A6","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/3qtwjm5w","kind":"shape","name":"학생 질문 말풍선","position":{"left":192,"top":564,"width":780,"height":240},"geometry":"roundRect","fillColor":"#202420","lineWidth":0},
+{"id":"sh/ralc3mto","kind":"shape","name":"말풍선 꼬리","position":{"left":970,"top":655,"width":80,"height":60},"geometry":"custom","fillColor":"#202420","lineWidth":0},
+{"id":"sh/q9sva1cj","kind":"textbox","name":"text","position":{"left":230,"top":588,"width":705,"height":66},"text":"퍼져 나간 방향제 입자가","style":{"fontSize":44,"typeface":"Pretendard","color":"#FFFFFF","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/dc3u5wbu","kind":"textbox","name":"text","position":{"left":230,"top":654,"width":705,"height":66},"text":"저절로 다시 한곳에","style":{"fontSize":44,"typeface":"Pretendard","color":"#FFFFFF","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/sbudcru9","kind":"textbox","name":"text","position":{"left":230,"top":720,"width":705,"height":66},"text":"모일 수 있을까?","style":{"fontSize":44,"typeface":"Pretendard","color":"#9FFF68","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"im/8329szq9","kind":"image","position":{"left":1035,"top":480,"width":760,"height":545},"fit":"contain","alt":"등록 갈색 곱슬머리 학생 — 원본 비율 유지"}
+]}

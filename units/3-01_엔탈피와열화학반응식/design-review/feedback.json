@@ -1,0 +1,92 @@
+[
+  {
+    "id": "F1",
+    "scope": "global",
+    "text": "Pretendard actual loading and Miri type sizes",
+    "message_ref": "current-chat-design-corrections",
+    "evidence": {
+      "path": "design-review/approved-v9/user-approval.json",
+      "sha256": "cbb3ac41c8cd130790976ad7c1cd892776cd441977c525f304e5343e232ec982"
+    },
+    "status": "resolved",
+    "resolution_version": "dark-callout-v9",
+    "resolution_reason": "Implemented and visually reviewed in approved current v9",
+    "resolution_evidence": {
+      "path": "design-review/approved-v9/approved.pptx",
+      "sha256": "a594fa0b148c2e62743b391cc6d73d75de1194c71f638d783c097dad97d09d19"
+    },
+    "confirmation_ref": "current-chat-2026-10-20-full-production"
+  },
+  {
+    "id": "F2",
+    "scope": "global",
+    "text": "Dark photo cards and larger descriptions",
+    "message_ref": "current-chat-design-corrections",
+    "evidence": {
+      "path": "design-review/approved-v9/user-approval.json",
+      "sha256": "cbb3ac41c8cd130790976ad7c1cd892776cd441977c525f304e5343e232ec982"
+    },
+    "status": "resolved",
+    "resolution_version": "dark-callout-v9",
+    "resolution_reason": "Implemented and visually reviewed in approved current v9",
+    "resolution_evidence": {
+      "path": "design-review/approved-v9/approved.pptx",
+      "sha256": "a594fa0b148c2e62743b391cc6d73d75de1194c71f638d783c097dad97d09d19"
+    },
+    "confirmation_ref": "current-chat-2026-10-20-full-production"
+  },
+  {
+    "id": "F3",
+    "scope": "global",
+    "text": "Native sharp equation and only state letters italic",
+    "message_ref": "current-chat-design-corrections",
+    "evidence": {
+      "path": "design-review/approved-v9/user-approval.json",
+      "sha256": "cbb3ac41c8cd130790976ad7c1cd892776cd441977c525f304e5343e232ec982"
+    },
+    "status": "resolved",
+    "resolution_version": "dark-callout-v9",
+    "resolution_reason": "Implemented and visually reviewed in approved current v9",
+    "resolution_evidence": {
+      "path": "design-review/approved-v9/approved.pptx",
+      "sha256": "a594fa0b148c2e62743b391cc6d73d75de1194c71f638d783c097dad97d09d19"
+    },
+    "confirmation_ref": "current-chat-2026-10-20-full-production"
+  },
+  {
+    "id": "F4",
+    "scope": "global",
+    "text": "Smaller step circles; remove low bottom note",
+    "message_ref": "current-chat-design-corrections",
+    "evidence": {
+      "path": "design-review/approved-v9/user-approval.json",
+      "sha256": "cbb3ac41c8cd130790976ad7c1cd892776cd441977c525f304e5343e232ec982"
+    },
+    "status": "resolved",
+    "resolution_version": "dark-callout-v9",
+    "resolution_reason": "Implemented and visually reviewed in approved current v9",
+    "resolution_evidence": {
+      "path": "design-review/approved-v9/approved.pptx",
+      "sha256": "a594fa0b148c2e62743b391cc6d73d75de1194c71f638d783c097dad97d09d19"
+    },
+    "confirmation_ref": "current-chat-2026-10-20-full-production"
+  },
+  {
+    "id": "F5",
+    "scope": "global",
+    "text": "Figure shrink/upshift and white Medium text in #595959 box",
+    "message_ref": "current-chat-design-corrections",
+    "evidence": {
+      "path": "design-review/approved-v9/user-approval.json",
+      "sha256": "cbb3ac41c8cd130790976ad7c1cd892776cd441977c525f304e5343e232ec982"
+    },
+    "status": "resolved",
+    "resolution_version": "dark-callout-v9",
+    "resolution_reason": "Implemented and visually reviewed in approved current v9",
+    "resolution_evidence": {
+      "path": "design-review/approved-v9/approved.pptx",
+      "sha256": "a594fa0b148c2e62743b391cc6d73d75de1194c71f638d783c097dad97d09d19"
+    },
+    "confirmation_ref": "current-chat-2026-10-20-full-production"
+  }
+]

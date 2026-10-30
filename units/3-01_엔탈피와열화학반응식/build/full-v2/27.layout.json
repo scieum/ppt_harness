@@ -1,0 +1,22 @@
+{"schema":"openai.presentation.layout/v5","unit":"px","slide":{"id":"sl/jquxsh","index":26,"layout":{"id":"ly/rutkret0","name":"Blank"},"backgroundColor":"rgba(255,255,255,1)","position":{"left":0,"top":0,"width":1920,"height":1080}},
+"elements":[
+{"id":"im/ut87atk7","kind":"image","position":{"left":1778.67,"top":40,"width":108,"height":77.33},"fit":"contain","alt":"sci_eum_logo"},
+{"id":"sh/or65gvix","kind":"textbox","name":"part_heading","position":{"left":72,"top":78,"width":1500,"height":52},"text":"Part 3 연료의 효율성","style":{"fontSize":38,"typeface":"Pretendard","color":"#909090","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/psfmp0ji","kind":"textbox","name":"topic_number","position":{"left":72,"top":137,"width":73,"height":67},"text":"02","style":{"fontSize":48.8,"typeface":"Pretendard","color":"#57962F","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/el43al0v","kind":"textbox","name":"topic_heading","position":{"left":157,"top":137,"width":1500,"height":67},"text":"연료의 효율성 비교","style":{"fontSize":48.8,"typeface":"Pretendard","color":"#111111","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/fmd4jq1g","kind":"textbox","name":"title","position":{"left":72,"top":285,"width":1776,"height":100},"text":"같은 질량의 연료가 방출하는 열","style":{"fontSize":76.4,"typeface":"Pretendard","color":"#111111","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/0nm5cvi1","kind":"textbox","name":"explanation","position":{"left":72,"top":398,"width":1776,"height":70},"text":"네 연료가 완전 연소하여 액체 물이 생성되는 조건에서 비교한다","style":{"fontSize":36.4,"typeface":"Pretendard","color":"#888888","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/1ofml0jm","kind":"textbox","name":"copyright","position":{"left":1535,"top":1037,"width":342,"height":30},"text":"© 2026. @sci_eum. All rights reserved.","style":{"fontSize":17,"typeface":"Pretendard","color":"#111111","alignment":"right"},"geometry":"rect","lineWidth":0},
+{"id":"sh/yh8nmp0z","kind":"shape","name":"table-rounded-background","position":{"left":160,"top":480,"width":1600,"height":400},"geometry":"rect","fillColor":"#252525","lineWidth":0},
+{"id":"tb/mtw76tcz","kind":"table","position":{"left":160,"top":480,"width":1600,"height":400},"text":"연료\t메테인\t뷰테인\t에탄올\t수소\n분자식\tCH₄\tC₄H₁₀\tC₂H₆O\tH₂\n분자량\t16\t58\t46\t2\n1 mol당 방출열(kJ/mol)\t890.5\t2877\t1367\t285.8\n1 g당 방출열(kJ/g)\t55.7\t49.6\t29.7\t142.9","rows":5,"cols":5},
+{"id":"sh/7id4vqdw","kind":"shape","name":"table-row-rule-1","position":{"left":160,"top":560,"width":1600,"height":1.5},"geometry":"rect","fillColor":"#777777","lineWidth":0},
+{"id":"sh/6h4n2lcb","kind":"shape","name":"table-row-rule-2","position":{"left":160,"top":640,"width":1600,"height":1.5},"geometry":"rect","fillColor":"#777777","lineWidth":0},
+{"id":"sh/tkvmx0vm","kind":"shape","name":"table-row-rule-3","position":{"left":160,"top":720,"width":1600,"height":1.5},"geometry":"rect","fillColor":"#777777","lineWidth":0},
+{"id":"sh/8jm54vu1","kind":"shape","name":"table-row-rule-4","position":{"left":160,"top":800,"width":1600,"height":1.5},"geometry":"rect","fillColor":"#777777","lineWidth":0},
+{"id":"sh/vmd4zqds","kind":"shape","name":"table-rounded-corner-0","position":{"left":160,"top":480,"width":24,"height":24},"geometry":"custom","fillColor":"#FFFFFF","lineWidth":0},
+{"id":"sh/ul4n6lc7","kind":"shape","name":"table-rounded-corner-1","position":{"left":1736,"top":480,"width":24,"height":24},"geometry":"custom","fillColor":"#FFFFFF","lineWidth":0},
+{"id":"sh/hovm10vy","kind":"shape","name":"table-rounded-corner-2","position":{"left":1736,"top":856,"width":24,"height":24},"geometry":"custom","fillColor":"#FFFFFF","lineWidth":0},
+{"id":"sh/gnm58vud","kind":"shape","name":"table-rounded-corner-3","position":{"left":160,"top":856,"width":24,"height":24},"geometry":"custom","fillColor":"#FFFFFF","lineWidth":0},
+{"id":"sh/3qx43at4","kind":"shape","name":"takeaway-box","position":{"left":245,"top":925,"width":1430,"height":100},"geometry":"roundRect","fillColor":"#595959","lineWidth":0},
+{"id":"sh/ipona5cj","kind":"textbox","name":"takeaway","position":{"left":275,"top":949,"width":1370,"height":58},"text":"1 g당 방출열: 수소 > 메테인 > 뷰테인 > 에탄올","style":{"fontSize":44.51,"typeface":"Pretendard Medium","color":"#FFFFFF","alignment":"center"},"geometry":"rect","lineWidth":0}
+]}

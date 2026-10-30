@@ -1,13 +1,13 @@
 {
-  "version": "v40",
+  "version": "v47",
   "kind": "design_review_draft",
   "slide_count": 51,
-  "latest": "units/3-02_헤스법칙/drafts/full-v01/output/3-02_헤스법칙_전체51장_파트표기와패널정돈_v40.pptx",
-  "sha256": "e729dada9ac255d66f6f5fdf00ed296558e86af35f92b3054dda68604757d16d",
+  "latest": "units/3-02_헤스법칙/drafts/full-v01/output/3-02_헤스법칙_전체51장_수식위치조정_v47.pptx",
+  "sha256": "5a09cdb308446892d5121c2bd3f1911565e877bb25aa182456a8e5f2a44eb6a4",
   "user_design_approved": false,
   "final_lesson": false,
-  "validation_receipt": "build/validation-v40.json",
-  "review": "../../research/revision-v40/visual-review.md",
+  "validation_receipt": "build/validation-v47.json",
+  "review": "../../research/revision-v47/visual-review.md",
   "added_slides": [
     9
   ]

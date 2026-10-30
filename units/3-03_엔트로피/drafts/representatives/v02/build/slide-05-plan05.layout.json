@@ -1,0 +1,8 @@
+{"schema":"openai.presentation.layout/v5","unit":"px","slide":{"id":"sl/ua1ngp","index":4,"layout":{"id":"ly/cra94v2h","name":"Blank"},"backgroundColor":"rgba(0,0,0,1)","position":{"left":0,"top":0,"width":1920,"height":1080}},
+"elements":[
+{"id":"im/d4vi5c3q","kind":"image","position":{"left":1778.67,"top":40,"width":108,"height":77.33},"fit":"contain","alt":"사이음 공식 로고"},
+{"id":"sh/769wza94","kind":"textbox","name":"copyright","position":{"left":1440,"top":1034,"width":440,"height":30},"text":"© 2026. @sci_eum. All rights reserved.","style":{"fontSize":21,"typeface":"Pretendard","color":"#FFFFFF","alignment":"right"},"geometry":"rect","lineWidth":0},
+{"id":"sh/650fq5sj","kind":"textbox","name":"Part 표기","position":{"left":118.67,"top":304,"width":800,"height":98.67},"text":"Part 1","style":{"fontSize":70,"typeface":"Pretendard","color":"#9FFF68","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/547ex0ry","kind":"textbox","name":"Part 제목","position":{"left":118.67,"top":400,"width":1262.67,"height":157.33},"text":"엔트로피","style":{"fontSize":110,"typeface":"Pretendard","color":"#FFFFFF","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/k3yxovad","kind":"textbox","name":"Part 질문","position":{"left":118.67,"top":565.33,"width":1680,"height":70},"text":"퍼진 입자가 저절로 한곳에 모이지 않는 까닭은 무엇일까?","style":{"fontSize":44,"typeface":"Pretendard","color":"#FFFFFF","alignment":"left"},"geometry":"rect","lineWidth":0}
+]}

@@ -1,0 +1,13 @@
+{
+  "version": "v10",
+  "changed_slide": 2,
+  "source_ratio": 2,
+  "display_width": 1090,
+  "display_height": 545,
+  "crop_retained_fraction": {
+    "width": 0.76,
+    "height": 0.76
+  },
+  "visual_review": "원본 비율과 일치, 렌더링 확인",
+  "user_design_approval": "pending"
+}

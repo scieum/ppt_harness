@@ -1,0 +1,19 @@
+{"schema":"openai.presentation.layout/v5","unit":"px","slide":{"id":"sl/r81nbc","index":0,"layout":{"id":"ly/jqxg7ut8","name":"Blank"},"backgroundColor":"rgba(0,0,0,1)","position":{"left":0,"top":0,"width":1920,"height":1080}},
+"elements":[
+{"id":"im/1832dov6","kind":"image","position":{"left":1778.67,"top":40,"width":108,"height":77.33},"fit":"contain","alt":"사이음 공식 로고"},
+{"id":"sh/bqdgjuxw","kind":"textbox","name":"copyright","position":{"left":1440,"top":1034,"width":440,"height":30},"text":"© 2026. @sci_eum. All rights reserved.","style":{"fontSize":21,"typeface":"Pretendard","color":"#FFFFFF","alignment":"right"},"geometry":"rect","lineWidth":0},
+{"id":"sh/ap4zapgb","kind":"textbox","name":"text","position":{"left":72,"top":76,"width":1530,"height":54},"text":"Part 1 엔트로피의 의미","style":{"fontSize":38,"typeface":"Pretendard","color":"#898989","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/9ovyhkzq","kind":"textbox","name":"text","position":{"left":72,"top":134,"width":70,"height":64},"text":"01","style":{"fontSize":48.8,"typeface":"Pretendard","color":"#9FFF68","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/onmh8fy5","kind":"textbox","name":"text","position":{"left":146,"top":134,"width":1550,"height":64},"text":"물질의 상태","style":{"fontSize":48.8,"typeface":"Pretendard","color":"#FFFFFF","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/n2dgfahk","kind":"textbox","name":"핵심 문장","position":{"left":100,"top":245,"width":1720,"height":112},"text":"같은 물질도 상태에 따라 다르다","style":{"fontSize":76.4,"typeface":"Pretendard","color":"#FFFFFF","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"im/na5kfedc","kind":"image","position":{"left":250,"top":417,"width":1420,"height":445},"fit":"contain","alt":"물의 세 상태 원본 전체 그림"},
+{"id":"sh/10bydkzu","kind":"shape","name":"line","position":{"left":272,"top":883,"width":403,"height":1},"geometry":"custom","lineColor":"#777777","lineWidth":2},
+{"id":"sh/0z2x4fy9","kind":"textbox","name":"text","position":{"left":260,"top":896,"width":430,"height":56},"text":"고체","style":{"fontSize":39,"typeface":"Pretendard","color":"#9FFF68","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/mp0r2dob","kind":"textbox","name":"text","position":{"left":260,"top":959,"width":430,"height":52},"text":"일정한 위치에 배열","style":{"fontSize":32,"typeface":"Pretendard","color":"#FFFFFF","alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/nq9svi5g","kind":"shape","name":"line","position":{"left":745,"top":883,"width":403,"height":1},"geometry":"custom","lineColor":"#777777","lineWidth":2},
+{"id":"sh/8rit4n61","kind":"textbox","name":"text","position":{"left":733,"top":896,"width":430,"height":56},"text":"액체","style":{"fontSize":39,"typeface":"Pretendard","color":"#9FFF68","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/9sraxsnm","kind":"textbox","name":"text","position":{"left":733,"top":959,"width":430,"height":52},"text":"입자들이 이동","style":{"fontSize":32,"typeface":"Pretendard","color":"#FFFFFF","alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/ylgrydoz","kind":"shape","name":"line","position":{"left":1218,"top":883,"width":403,"height":1},"geometry":"custom","lineColor":"#777777","lineWidth":2},
+{"id":"sh/zmpsry5k","kind":"textbox","name":"text","position":{"left":1206,"top":896,"width":430,"height":56},"text":"기체","style":{"fontSize":39,"typeface":"Pretendard","color":"#9FFF68","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/0ni90365","kind":"textbox","name":"text","position":{"left":1206,"top":959,"width":430,"height":52},"text":"넓은 공간에 분포","style":{"fontSize":32,"typeface":"Pretendard","color":"#FFFFFF","alignment":"center"},"geometry":"rect","lineWidth":0}
+]}

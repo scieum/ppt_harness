@@ -1,0 +1,93 @@
+[
+  {
+    "id": "C1",
+    "claim": "엔트로피의 의미와 상태·확산·혼합",
+    "standard": "[12물에03-03]",
+    "standard_source_id": "STD22",
+    "rationale": "T90~91; W22 138~139; 주 교과서의 정성적 설명·자료 해석",
+    "scope": "범위 내",
+    "source_ids": [
+      "T",
+      "G22",
+      "W22"
+    ]
+  },
+  {
+    "id": "C2",
+    "claim": "엔트로피 변화의 부호와 기체 분자 수",
+    "standard": "[12물에03-03]",
+    "standard_source_id": "STD22",
+    "rationale": "T91; G22 116; 주 교과서의 정성적 설명·자료 해석",
+    "scope": "범위 내",
+    "source_ids": [
+      "T",
+      "G22",
+      "W22"
+    ]
+  },
+  {
+    "id": "C3",
+    "claim": "계와 주위 및 세 종류의 계",
+    "standard": "[12물에03-03]",
+    "standard_source_id": "STD22",
+    "rationale": "T92~93; G22 117; 주 교과서의 정성적 설명·자료 해석",
+    "scope": "범위 내",
+    "source_ids": [
+      "T",
+      "G22",
+      "W22"
+    ]
+  },
+  {
+    "id": "C4",
+    "claim": "열 출입과 주위 엔트로피",
+    "standard": "[12물에03-03]",
+    "standard_source_id": "STD22",
+    "rationale": "T93~95; G22 118~119; 주 교과서의 정성적 설명·자료 해석",
+    "scope": "범위 내",
+    "source_ids": [
+      "T",
+      "G22",
+      "W22"
+    ]
+  },
+  {
+    "id": "C5",
+    "claim": "전체 엔트로피와 네 가지 자발성 유형",
+    "standard": "[12물에03-03]",
+    "standard_source_id": "STD22",
+    "rationale": "T95; W22 140~141; 주 교과서의 정성적 설명·자료 해석",
+    "scope": "범위 내",
+    "source_ids": [
+      "T",
+      "G22",
+      "W22"
+    ]
+  },
+  {
+    "id": "C6",
+    "claim": "네 가지 자발적 변화의 토의 및 적용",
+    "standard": "[12물에03-03]",
+    "standard_source_id": "STD22",
+    "rationale": "T94~95; G22 118~119; 주 교과서의 정성적 설명·자료 해석",
+    "scope": "범위 내",
+    "source_ids": [
+      "T",
+      "G22",
+      "W22"
+    ]
+  },
+  {
+    "id": "X1",
+    "claim": "깁스 자유 에너지·통계식·정량 엔트로피·전지 전위 계산",
+    "standard": "[12물에03-03]",
+    "standard_source_id": "STD22",
+    "rationale": "지도서19: 깁스 자유 에너지는 다루지 않으며 엔트로피는 정성적으로 다룸. W15 전지 단원은 본 수업 범위와 다름.",
+    "scope": "제외",
+    "source_ids": [
+      "STD22",
+      "G15",
+      "W15"
+    ]
+  }
+]

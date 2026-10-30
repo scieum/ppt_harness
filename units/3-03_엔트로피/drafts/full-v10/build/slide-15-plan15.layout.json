@@ -1,0 +1,10 @@
+{"schema":"openai.presentation.layout/v5","unit":"px","slide":{"id":"sl/p8t5aj","index":0,"layout":{"id":"ly/ryx0v2xg","name":"Blank"},"backgroundColor":"rgba(255,255,255,1)","position":{"left":0,"top":0,"width":1920,"height":1080}},
+"elements":[
+{"id":"im/zqlwzeh0","kind":"image","position":{"left":0,"top":0,"width":1920,"height":1080},"fit":"contain","alt":"표지와 같은 엔트로피 장면"},
+{"id":"sh/d8jil8bm","kind":"shape","name":"Part 51% 어두운 덮개","position":{"left":0,"top":0,"width":1920,"height":1080},"geometry":"rect","fillColor":"rgba(0,0,0,0.51)","lineWidth":0},
+{"id":"sh/c7qhs3u1","kind":"textbox","name":"text","position":{"left":150,"top":323,"width":1500,"height":90},"text":"Part 3","style":{"fontSize":60,"typeface":"Pretendard","color":"#9FFF68","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/3ihgfyt4","kind":"textbox","name":"text","position":{"left":150,"top":434,"width":1620,"height":140},"text":"엔트로피 변화의 적용","style":{"fontSize":96,"typeface":"Pretendard","color":"#FFFFFF","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/2h8zmtcz","kind":"textbox","name":"text","position":{"left":154,"top":621,"width":1610,"height":95},"text":"주어진 변화에서 엔트로피가 커지는지 근거를 말할 수 있을까?","style":{"fontSize":42,"typeface":"Pretendard","color":"#FFFFFF","alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"im/8vedw3yh","kind":"image","position":{"left":1778.67,"top":40,"width":108,"height":77.33},"fit":"contain","alt":"사이음 공식 로고"},
+{"id":"sh/o3qhojup","kind":"textbox","name":"copyright","position":{"left":1440,"top":1034,"width":440,"height":30},"text":"© 2026. @sci_eum. All rights reserved.","style":{"fontSize":21,"typeface":"Pretendard","color":"#FFFFFF","alignment":"right"},"geometry":"rect","lineWidth":0}
+]}

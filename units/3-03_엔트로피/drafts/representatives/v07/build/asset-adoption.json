@@ -1,0 +1,12 @@
+{
+  "water-states-figure": {
+    "source": "assets/crops/water-states.png",
+    "bbox": [
+      0,
+      0,
+      2255,
+      704
+    ],
+    "method": "lossless source crop; lower caption excluded; internal molecule graphics unchanged"
+  }
+}

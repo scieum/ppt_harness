@@ -1,0 +1,12 @@
+{"schema":"openai.presentation.layout/v5","unit":"px","slide":{"id":"sl/96va7h","index":0,"layout":{"id":"ly/5wzu5wnq","name":"Blank"},"backgroundColor":"rgba(12,125,8,1)","position":{"left":0,"top":0,"width":1920,"height":1080}},
+"elements":[
+{"id":"im/wvm5kfqx","kind":"image","position":{"left":0,"top":0,"width":1920,"height":1080},"fit":"contain","alt":"등록 네 학생 기반 엔트로피 표지 수정본"},
+{"id":"sh/y90nm94b","kind":"shape","name":"왼쪽 녹색 그라데이션","position":{"left":0,"top":0,"width":1920,"height":1080},"geometry":"rect","lineWidth":0},
+{"id":"sh/za94fe5w","kind":"textbox","name":"대단원명","position":{"left":139,"top":206,"width":1470,"height":145},"text":"Ⅲ. 화학 변화의 자발성","style":{"fontSize":110,"typeface":"Pretendard","color":"#FFFFFF","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/cny5kzm5","kind":"textbox","name":"소단원명","position":{"left":139,"top":347,"width":1400,"height":145},"text":"03. 엔트로피","style":{"fontSize":110,"typeface":"Pretendard","color":"#FFFFFF","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/x8rmd4nq","kind":"textbox","name":"저자","position":{"left":143,"top":554,"width":400,"height":60},"text":"사이음 저","style":{"fontSize":40,"typeface":"Pretendard","color":"#FFFFFF","alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/algnip4f","kind":"textbox","name":"AI 안내","position":{"left":45,"top":1035,"width":1300,"height":30},"text":"본 수업 자료에 사용된 일부 이미지는 생성형 AI 기술을 활용하여 제작되었습니다.","style":{"fontSize":21,"typeface":"Pretendard","color":"#FFFFFF","alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"im/mp4ne58v","kind":"image","position":{"left":1778.67,"top":40,"width":108,"height":77.33},"fit":"contain","alt":"사이음 공식 로고"},
+{"id":"im/lobml07a","kind":"image","position":{"left":1601.33,"top":42.67,"width":154.67,"height":66.67},"fit":"contain","alt":"T셀파 공식 로고 — 첫 장만"},
+{"id":"sh/pk7m9knu","kind":"textbox","name":"copyright","position":{"left":1440,"top":1034,"width":440,"height":30},"text":"© 2026. @sci_eum. All rights reserved.","style":{"fontSize":21,"typeface":"Pretendard","color":"#FFFFFF","alignment":"right"},"geometry":"rect","lineWidth":0}
+]}

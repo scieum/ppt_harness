@@ -1,0 +1,155 @@
+{
+  "artifact_sha256": "a9e961cead38d9b4a5215da60bf916c8854060580c651c210c44b87c2aeb060f",
+  "render_sha256": "8db2c2a98bab805d02f6405425c27532cf5c6386936568e6227ee0d88fbd8106",
+  "exporter": "Artifact Tool slide.export layout/v5; actual element IDs",
+  "canvas": [
+    1920,
+    1080
+  ],
+  "objects": [
+    {
+      "role": "im/hgbads7u",
+      "kind": "image",
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "fill": null,
+      "font_family": null,
+      "font_size": null,
+      "font_weight": 400,
+      "alignment": null,
+      "character_asset_id": "등록 원본 네 학생 — 재생성 없음"
+    },
+    {
+      "role": "sh/rm5k361s",
+      "kind": "shape",
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "fill": null,
+      "font_family": null,
+      "font_size": null,
+      "font_weight": 400,
+      "alignment": null,
+      "character_asset_id": null
+    },
+    {
+      "role": "sh/6lwjal07",
+      "kind": "textbox",
+      "bbox": [
+        0.07239583333333334,
+        0.19074074074074074,
+        0.765625,
+        0.13425925925925927
+      ],
+      "fill": null,
+      "font_family": "Pretendard",
+      "font_size": 110,
+      "font_weight": 700,
+      "alignment": "left",
+      "character_asset_id": null
+    },
+    {
+      "role": "sh/5kn21gj2",
+      "kind": "textbox",
+      "bbox": [
+        0.07239583333333334,
+        0.3212962962962963,
+        0.7291666666666666,
+        0.13425925925925927
+      ],
+      "fill": null,
+      "font_family": "Pretendard",
+      "font_size": 110,
+      "font_weight": 700,
+      "alignment": "left",
+      "character_asset_id": null
+    },
+    {
+      "role": "sh/4zu18bih",
+      "kind": "textbox",
+      "bbox": [
+        0.07447916666666667,
+        0.512962962962963,
+        0.20833333333333334,
+        0.05555555555555555
+      ],
+      "fill": null,
+      "font_family": "Pretendard",
+      "font_size": 40,
+      "font_weight": 400,
+      "alignment": "left",
+      "character_asset_id": null
+    },
+    {
+      "role": "sh/jyl0z61w",
+      "kind": "textbox",
+      "bbox": [
+        0.0234375,
+        0.9583333333333334,
+        0.6770833333333334,
+        0.027777777777777776
+      ],
+      "fill": null,
+      "font_family": "Pretendard",
+      "font_size": 21,
+      "font_weight": 400,
+      "alignment": "left",
+      "character_asset_id": null
+    },
+    {
+      "role": "im/3itsf2pk",
+      "kind": "image",
+      "bbox": [
+        0.926390625,
+        0.037037037037037035,
+        0.05625,
+        0.07160185185185185
+      ],
+      "fill": null,
+      "font_family": null,
+      "font_size": null,
+      "font_weight": 400,
+      "alignment": null,
+      "character_asset_id": "사이음 공식 로고"
+    },
+    {
+      "role": "im/k7y9w3q1",
+      "kind": "image",
+      "bbox": [
+        0.8340260416666666,
+        0.03950925925925926,
+        0.08055729166666666,
+        0.061731481481481484
+      ],
+      "fill": null,
+      "font_family": null,
+      "font_size": null,
+      "font_weight": 400,
+      "alignment": null,
+      "character_asset_id": "T셀파 공식 로고 — 첫 장만"
+    },
+    {
+      "role": "sh/ofy1kvil",
+      "kind": "textbox",
+      "bbox": [
+        0.75,
+        0.9574074074074074,
+        0.22916666666666666,
+        0.027777777777777776
+      ],
+      "fill": null,
+      "font_family": "Pretendard",
+      "font_size": 21,
+      "font_weight": 400,
+      "alignment": "right",
+      "character_asset_id": null
+    }
+  ]
+}

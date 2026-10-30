@@ -1,0 +1,19 @@
+{"schema":"openai.presentation.layout/v5","unit":"px","slide":{"id":"sl/ez4o91","index":7,"layout":{"id":"ly/5wzu5wnq","name":"Blank"},"backgroundColor":"rgba(0,0,0,1)","position":{"left":0,"top":0,"width":1920,"height":1080}},
+"elements":[
+{"id":"im/rqhcbqdg","kind":"image","position":{"left":1778.67,"top":40,"width":108,"height":77.33},"fit":"contain","alt":"사이음 공식 로고"},
+{"id":"sh/t472hc3i","kind":"textbox","name":"copyright","position":{"left":1440,"top":1034,"width":440,"height":30},"text":"© 2026. @sci_eum. All rights reserved.","style":{"fontSize":21,"typeface":"Pretendard","color":"#FFFFFF","alignment":"right"},"geometry":"rect","lineWidth":0},
+{"id":"sh/s3e1o72x","kind":"textbox","name":"text","position":{"left":72,"top":76,"width":1530,"height":54},"text":"Part 2 엔트로피 변화","style":{"fontSize":38,"typeface":"Pretendard","color":"#898989","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/f6pkjmlo","kind":"textbox","name":"text","position":{"left":72,"top":134,"width":70,"height":64},"text":"01","style":{"fontSize":48.8,"typeface":"Pretendard","color":"#9FFF68","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/e5gjqhk3","kind":"textbox","name":"text","position":{"left":146,"top":134,"width":1550,"height":64},"text":"엔트로피 변화","style":{"fontSize":48.8,"typeface":"Pretendard","color":"#FFFFFF","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/1872lc3u","kind":"textbox","name":"핵심 문장","position":{"left":100,"top":245,"width":1720,"height":112},"text":"기체가 섞이면","style":{"fontSize":76.4,"typeface":"Pretendard","color":"#FFFFFF","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/g7y1sr29","kind":"textbox","name":"text","position":{"left":150,"top":370,"width":1620,"height":72},"text":"분자 수가 같아도 두 기체가 섞이면 엔트로피가 증가한다.","style":{"fontSize":36.4,"typeface":"Pretendard","color":"#A6A6A6","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/val07il4","kind":"shape","name":"원본 혼합 모형 배경","position":{"left":215,"top":480,"width":590,"height":500},"geometry":"roundRect","fillColor":"#FFFFFF","lineWidth":0},
+{"id":"im/ni1c3ado","kind":"image","position":{"left":243,"top":500,"width":534,"height":460},"fit":"contain","alt":"꼭지를 열기 전과 후의 원본 분자 모형"},
+{"id":"sh/kbmdsre5","kind":"shape","name":"비교 설명 행","position":{"left":885,"top":514,"width":810,"height":135},"geometry":"roundRect","fillColor":"#202420","lineWidth":0},
+{"id":"sh/lcve1wvq","kind":"textbox","name":"text","position":{"left":922,"top":527,"width":725,"height":45},"text":"변하지 않는 것","style":{"fontSize":32,"typeface":"Pretendard","color":"#9FFF68","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/y94vqhwz","kind":"textbox","name":"text","position":{"left":922,"top":575,"width":725,"height":58},"text":"기체 분자의 전체 수","style":{"fontSize":42,"typeface":"Pretendard","color":"#FFFFFF","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/zadwzmdk","kind":"shape","name":"비교 설명 행","position":{"left":885,"top":694,"width":810,"height":135},"geometry":"roundRect","fillColor":"#202420","lineWidth":0},
+{"id":"sh/8f6dwre1","kind":"textbox","name":"text","position":{"left":922,"top":707,"width":725,"height":45},"text":"달라지는 것","style":{"fontSize":32,"typeface":"Pretendard","color":"#9FFF68","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/9gfe5wvm","kind":"textbox","name":"text","position":{"left":922,"top":755,"width":725,"height":58},"text":"두 기체가 차지하는 공간","style":{"fontSize":42,"typeface":"Pretendard","color":"#FFFFFF","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/mdovuhwv","kind":"textbox","name":"text","position":{"left":885,"top":878,"width":810,"height":88},"text":"두 종류의 입자가 전체 공간에 섞여 퍼진다.","style":{"fontSize":35,"typeface":"Pretendard","color":"#FFFFFF","alignment":"left"},"geometry":"rect","lineWidth":0}
+]}

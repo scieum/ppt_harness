@@ -1,0 +1,448 @@
+{
+  "version": "v18",
+  "kind": "design_review_draft",
+  "slide_count": 42,
+  "latest": "units/3-02_헤스법칙/drafts/full-v01/output/3-02_헤스법칙_전체42장_디자인정돈_v18.pptx",
+  "sha256": "9de4f12cd2d0b8ec766068b999d49188cab2ce59eac7ed27cfde3442f3d5b6c2",
+  "preview": "units/3-02_헤스법칙/drafts/full-v01/output/전체_미리보기.html",
+  "user_design_approved": false,
+  "final_lesson": false,
+  "source_equations_regenerated": false,
+  "new_illustrations_generated": false,
+  "reference_board_slides": [
+    7,
+    41
+  ],
+  "visual_review": [
+    {
+      "number": 1,
+      "title": "표지",
+      "id": "d4nj9r",
+      "image_sha256": "eeb2682ac2d57f5ac183ca088a4f0513adf5777daf4f7ab2e9ff74f47ed41d30",
+      "pixels_changed": false,
+      "visual_review": "1920×1080 개별 렌더 확인",
+      "result": "기존 확정 구도와 원본 자료의 가독성·비율·겹침 확인"
+    },
+    {
+      "number": 2,
+      "title": "다른 길로 가도, 높이 차는 같을까?",
+      "id": "4toxol",
+      "image_sha256": "235472bd5d10e165d29de69132f81f9bd15e6d2933025aab8a5cc173e0e59bbc",
+      "pixels_changed": false,
+      "visual_review": "1920×1080 개별 렌더 확인",
+      "result": "기존 확정 구도와 원본 자료의 가독성·비율·겹침 확인"
+    },
+    {
+      "number": 3,
+      "title": "수업 목차",
+      "id": "ic8rcy",
+      "image_sha256": "814e9cf20a0c3f19cf55470db807081907f52a38139196996f42a1bb208d7d7a",
+      "pixels_changed": false,
+      "visual_review": "1920×1080 개별 렌더 확인",
+      "result": "기존 확정 구도와 원본 자료의 가독성·비율·겹침 확인"
+    },
+    {
+      "number": 4,
+      "title": "학습 목표",
+      "id": "2c2zkt",
+      "image_sha256": "51f3505c74f34fab79161d230d265ac60e5ee9289324c5910cb28a5ac45d71a5",
+      "pixels_changed": false,
+      "visual_review": "1920×1080 개별 렌더 확인",
+      "result": "기존 확정 구도와 원본 자료의 가독성·비율·겹침 확인"
+    },
+    {
+      "number": 5,
+      "title": "Part 1 헤스 법칙",
+      "id": "5xyk5y",
+      "image_sha256": "9010d3aaa541ef8b1bd97b3a92494435a74b2bb3452c44fc1831ad3435325739",
+      "pixels_changed": false,
+      "visual_review": "1920×1080 개별 렌더 확인",
+      "result": "기존 확정 구도와 원본 자료의 가독성·비율·겹침 확인"
+    },
+    {
+      "number": 6,
+      "title": "헤스 법칙",
+      "id": "1qcjki",
+      "image_sha256": "06b778e9ed318458d295d0aa52ddfaa2f77cb467a8e182005d7e13dc73d493cc",
+      "pixels_changed": false,
+      "visual_review": "1920×1080 개별 렌더 확인",
+      "result": "기존 확정 구도와 원본 자료의 가독성·비율·겹침 확인"
+    },
+    {
+      "number": 7,
+      "title": "같은 반응을 비교하려면",
+      "id": "lpbbid",
+      "image_sha256": "345f179b06e40fccaf7d1b7857061b8c69583d1e7691a88cbcdbc513d1ddbcde",
+      "pixels_changed": true,
+      "visual_review": "1920×1080 개별 렌더 확인",
+      "result": "원본 칠판과 두 학생의 질의·응답"
+    },
+    {
+      "number": 8,
+      "title": "경로가 달라도, ΔH는 같다",
+      "id": "5xf4bg",
+      "image_sha256": "48a6496431db65baff2310ce0fff9802f2f59fadea3bb059823f8842906e9cde",
+      "pixels_changed": true,
+      "visual_review": "1920×1080 개별 렌더 확인",
+      "result": "기존 확정 구도와 원본 자료의 가독성·비율·겹침 확인"
+    },
+    {
+      "number": 9,
+      "title": "두 반응식을 더하면",
+      "id": "q25bys",
+      "image_sha256": "ee697ba3c3102304314876f86c53fccf635dc3fb848d2e79acd292f87160d30d",
+      "pixels_changed": true,
+      "visual_review": "1920×1080 개별 렌더 확인",
+      "result": "세 식의 실제 글자 간격 26/62px"
+    },
+    {
+      "number": 10,
+      "title": "계수와 ΔH는 같은 비율로",
+      "id": "z4pkdn",
+      "image_sha256": "f5b8974c365c7ca34c42fe5db7f75eea22cb2a5c4878958e8058f3f69db0f70f",
+      "pixels_changed": true,
+      "visual_review": "1920×1080 개별 렌더 확인",
+      "result": "비교 식의 실제 글자 간격 42px"
+    },
+    {
+      "number": 11,
+      "title": "반응을 뒤집으면 부호도 반대",
+      "id": "kovrpi",
+      "image_sha256": "830e3ff4435f637087a1874ef09b93cca78d441839c559fc6c2ccfe4a5eb377f",
+      "pixels_changed": true,
+      "visual_review": "1920×1080 개별 렌더 확인",
+      "result": "역반응 두 식의 실제 글자 간격 44px"
+    },
+    {
+      "number": 12,
+      "title": "열화학 반응식의 세 가지 조작",
+      "id": "fg3mue",
+      "image_sha256": "5d4d9dee611fd297fce1777f25ac4906441892236ee65e177ef60bea18e4587f",
+      "pixels_changed": true,
+      "visual_review": "1920×1080 개별 렌더 확인",
+      "result": "표·말풍선·인물의 위계와 여백"
+    },
+    {
+      "number": 13,
+      "title": "Part 2 반응 엔탈피 구하기",
+      "id": "gxih0e",
+      "image_sha256": "06f417e92af68cf6a15072156c1bdfa690a09ef9a88cdf1db440fd9cdcba77bb",
+      "pixels_changed": false,
+      "visual_review": "1920×1080 개별 렌더 확인",
+      "result": "기존 확정 구도와 원본 자료의 가독성·비율·겹침 확인"
+    },
+    {
+      "number": 14,
+      "title": "CO 생성열을 직접 재기 어려운 까닭",
+      "id": "vq4rpq",
+      "image_sha256": "b81f5f126ba3c09bbd7565e1556f061295bbe3a5da5fbf7aca47fceb17a2266a",
+      "pixels_changed": true,
+      "visual_review": "1920×1080 개별 렌더 확인",
+      "result": "왼쪽 질문 인물·오른쪽 원인 설명"
+    },
+    {
+      "number": 15,
+      "title": "구하려는 반응부터 확인",
+      "id": "1tqymm",
+      "image_sha256": "43c7b9e9c97d0c2d9bdde4945ce9d3d13741eb0d4ef016b4a27569e8558dd91e",
+      "pixels_changed": true,
+      "visual_review": "1920×1080 개별 렌더 확인",
+      "result": "목표식과 자료식 분리, 자료식 간격28px"
+    },
+    {
+      "number": 16,
+      "title": "CO₂를 소거해 목표 반응을 만든다",
+      "id": "k4cldd",
+      "image_sha256": "a8bee8e6aace6c8460657a94a114225fbaddb024a5b723587d9b3f01648e8345",
+      "pixels_changed": false,
+      "visual_review": "1920×1080 개별 렌더 확인",
+      "result": "기존 확정 구도와 원본 자료의 가독성·비율·겹침 확인"
+    },
+    {
+      "number": 17,
+      "title": "CO 생성 반응의 반응 엔탈피",
+      "id": "rsu54e",
+      "image_sha256": "10e20a2776942191dcbd4c2180629aabdf29c5c9fbb2467d43d24feaf4aa8f3a",
+      "pixels_changed": true,
+      "visual_review": "1920×1080 개별 렌더 확인",
+      "result": "자료 두 식 간격28px"
+    },
+    {
+      "number": 18,
+      "title": "흑연으로 다이아몬드를 만들 수 있을까?",
+      "id": "sc2i5p",
+      "image_sha256": "caa4b0587eece3bd8d49e3eb2dd8dfe9171efc7250549b8a53c704a302ed1d17",
+      "pixels_changed": false,
+      "visual_review": "1920×1080 개별 렌더 확인",
+      "result": "기존 확정 구도와 원본 자료의 가독성·비율·겹침 확인"
+    },
+    {
+      "number": 19,
+      "title": "두 연소열의 차이로 구한다",
+      "id": "v54zk1",
+      "image_sha256": "a54aaa29f2fab716d9e1601cb99a84a679b386a4be5625f299fb09af3822e204",
+      "pixels_changed": true,
+      "visual_review": "1920×1080 개별 렌더 확인",
+      "result": "두 원본 연소식 간격 축소"
+    },
+    {
+      "number": 20,
+      "title": "헤스 법칙 계산의 순서",
+      "id": "46yzw4",
+      "image_sha256": "ecb2c46a20232771a4f3bba409bdeaa972f3b2f3ef7b3e613cf4b45bff515417",
+      "pixels_changed": true,
+      "visual_review": "1920×1080 개별 렌더 확인",
+      "result": "단계 이름·해석의 두 열 정렬"
+    },
+    {
+      "number": 21,
+      "title": "SO₂가 SO₃로 바뀔 때",
+      "id": "vxmn63",
+      "image_sha256": "766e8f4d95232c0da6b38395f692f570a7ae539451f60d12049c8d545a128a64",
+      "pixels_changed": true,
+      "visual_review": "1920×1080 개별 렌더 확인",
+      "result": "자료식과 목표식 간격50px"
+    },
+    {
+      "number": 22,
+      "title": "반응식과 ΔH를 함께 검산",
+      "id": "6sia7t",
+      "image_sha256": "06af31c8c52172dee8e26c4684f29fd65ca0504c53796c4c4798a2aea5305236",
+      "pixels_changed": true,
+      "visual_review": "1920×1080 개별 렌더 확인",
+      "result": "자료식과 목표식 간격40px"
+    },
+    {
+      "number": 23,
+      "title": "그림과 반응식은 같은 관계",
+      "id": "1ek8ev",
+      "image_sha256": "403686fe964368db38f40f48b92946bc2cb0a9b6637017199ed71c2884026c5b",
+      "pixels_changed": true,
+      "visual_review": "1920×1080 개별 렌더 확인",
+      "result": "그래프와 관계식의 기준선"
+    },
+    {
+      "number": 24,
+      "title": "Part 3 표준 생성 엔탈피",
+      "id": "qqvmbd",
+      "image_sha256": "7b863233b238350a7e4d13ea81e9f5706b94b6a4f8107ee524eca0ec930a60ac",
+      "pixels_changed": false,
+      "visual_review": "1920×1080 개별 렌더 확인",
+      "result": "기존 확정 구도와 원본 자료의 가독성·비율·겹침 확인"
+    },
+    {
+      "number": 25,
+      "title": "표준 생성 엔탈피",
+      "id": "68myky",
+      "image_sha256": "7ab205759e6b0976f35c8101926c3e9babf611d5ed60816c3a1cf4e1de0f001d",
+      "pixels_changed": true,
+      "visual_review": "1920×1080 개별 렌더 확인",
+      "result": "원본 물 생성식·1mol 강조·안내 인물"
+    },
+    {
+      "number": 26,
+      "title": "기준 원소 물질의 값은 0",
+      "id": "xmsdke",
+      "image_sha256": "b2a395dea565a674b59e526ddd925d6b09fbe3442c478ff255ea26f5553dadb4",
+      "pixels_changed": true,
+      "visual_review": "1920×1080 개별 렌더 확인",
+      "result": "기준 원소 표와 오개념 말풍선"
+    },
+    {
+      "number": 27,
+      "title": "물과 수증기는 서로 다른 자료",
+      "id": "l5j5tc",
+      "image_sha256": "c2c63320640ea9db22c21be9956391d4ceea9e60081403d3b71e1aa6122dea72",
+      "pixels_changed": true,
+      "visual_review": "1920×1080 개별 렌더 확인",
+      "result": "상태 비교식 간격42px·원본 화살표"
+    },
+    {
+      "number": 28,
+      "title": "생성물에서 반응물을 빼는 까닭",
+      "id": "qrdjo2",
+      "image_sha256": "fb4dfbc76265c90106798181b53604dc7741f60d4dd4c54688e8af3d458deb95",
+      "pixels_changed": false,
+      "visual_review": "1920×1080 개별 렌더 확인",
+      "result": "기존 확정 구도와 원본 자료의 가독성·비율·겹침 확인"
+    },
+    {
+      "number": 29,
+      "title": "계수를 곱해 더한다",
+      "id": "63i118",
+      "image_sha256": "bd6aaaa58af7dd5e964c57cc837fda9ef68fd7919885daf3ac772506e13e6fb3",
+      "pixels_changed": true,
+      "visual_review": "1920×1080 개별 렌더 확인",
+      "result": "큰 관계식·계수 설명·안내 인물"
+    },
+    {
+      "number": 30,
+      "title": "메테인 연소열 구하기",
+      "id": "1jv2h3",
+      "image_sha256": "ef5708920a2712182637602fd46ede363b5bf653e44cba73fb320a74392e9cd3",
+      "pixels_changed": true,
+      "visual_review": "1920×1080 개별 렌더 확인",
+      "result": "기존 자료표의 위계 정돈"
+    },
+    {
+      "number": 31,
+      "title": "물의 상태 변화 엔탈피",
+      "id": "vxab1m",
+      "image_sha256": "63d9267973e8a582e545eab456e1121f10fdbb091ce7485be06842dd9a89acdb",
+      "pixels_changed": false,
+      "visual_review": "1920×1080 개별 렌더 확인",
+      "result": "기존 확정 구도와 원본 자료의 가독성·비율·겹침 확인"
+    },
+    {
+      "number": 32,
+      "title": "생성 엔탈피 계산의 확인점",
+      "id": "jah44z",
+      "image_sha256": "f3ef424fe011decfd1d9e2909535f65ab544801660e7ed984104742e4fd6b3b2",
+      "pixels_changed": true,
+      "visual_review": "1920×1080 개별 렌더 확인",
+      "result": "확인 표·안내 인물과 말풍선"
+    },
+    {
+      "number": 33,
+      "title": "Part 4 실험으로 확인하는 헤스 법칙",
+      "id": "eks39k",
+      "image_sha256": "734531c7fd97bbdd88122500abcef283ee7b97f62225c5f84ce9c5af583c2377",
+      "pixels_changed": false,
+      "visual_review": "1920×1080 개별 렌더 확인",
+      "result": "기존 확정 구도와 원본 자료의 가독성·비율·겹침 확인"
+    },
+    {
+      "number": 34,
+      "title": "같은 처음과 끝을 만드는 두 경로",
+      "id": "6ac2qa",
+      "image_sha256": "61f128e4dcde8809a50bb6ab04e05a650e1fb03ac747aa2bb06ed2b0103599c6",
+      "pixels_changed": false,
+      "visual_review": "1920×1080 개별 렌더 확인",
+      "result": "기존 확정 구도와 원본 자료의 가독성·비율·겹침 확인"
+    },
+    {
+      "number": 35,
+      "title": "실험 조건을 맞추자",
+      "id": "ti38t7",
+      "image_sha256": "ab565723810c8c11471bbfc2bd18365822c6f84702752eacf5cb79680f39d745",
+      "pixels_changed": true,
+      "visual_review": "1920×1080 개별 렌더 확인",
+      "result": "기존 확정 구도와 원본 자료의 가독성·비율·겹침 확인"
+    },
+    {
+      "number": 36,
+      "title": "용액이 얻은 열에서 반응열로",
+      "id": "5q4wsn",
+      "image_sha256": "136d536d4e6fa40d20fa3f35e1235626af469163686d8420482dc85e2d750f6f",
+      "pixels_changed": true,
+      "visual_review": "1920×1080 개별 렌더 확인",
+      "result": "관계식·기호 설명·열 방향 분리"
+    },
+    {
+      "number": 37,
+      "title": "실험 온도와 용액의 질량",
+      "id": "zmo904",
+      "image_sha256": "5a95b969653d53acd8ba108584deb407db3fa0268f06a0ca9c99c5270cdd268c",
+      "pixels_changed": true,
+      "visual_review": "1920×1080 개별 렌더 확인",
+      "result": "자료표 제목행·본문 위계"
+    },
+    {
+      "number": 38,
+      "title": "용해 단계의 반응 엔탈피",
+      "id": "5t8sv0",
+      "image_sha256": "edc7efdd53f2aa36fc3ae6d45ef3e619cc598c9cfdc6a324ae739356df47f070",
+      "pixels_changed": true,
+      "visual_review": "1920×1080 개별 렌더 확인",
+      "result": "계산 단계·최종값 위계"
+    },
+    {
+      "number": 39,
+      "title": "나머지 두 단계와 비교",
+      "id": "uq5yvr",
+      "image_sha256": "36448c447bc44abb5d6f20470f36c3a383f189a7dcf4db54d9eeaeb96a786b72",
+      "pixels_changed": true,
+      "visual_review": "1920×1080 개별 렌더 확인",
+      "result": "반응 엔탈피 열만 강조"
+    },
+    {
+      "number": 40,
+      "title": "실험값은 얼마나 가까울까?",
+      "id": "9e7zet",
+      "image_sha256": "d78395edd02d0d32497fc9d2f9ec97750956f012a604241a728d12c78d7dda02",
+      "pixels_changed": true,
+      "visual_review": "1920×1080 개별 렌더 확인",
+      "result": "두 결과의 비교 위계·차이 표시"
+    },
+    {
+      "number": 41,
+      "title": "직접 재지 못한 ΔH를 알게 되는 까닭",
+      "id": "hczsk4",
+      "image_sha256": "08f4db7f356570d4eba07f65df81024f3063915bc61833a33ae99bd0d2c3e27f",
+      "pixels_changed": true,
+      "visual_review": "1920×1080 개별 렌더 확인",
+      "result": "원본 칠판과 두 학생의 개념 회수"
+    },
+    {
+      "number": 42,
+      "title": "경로와 식으로 설명하기",
+      "id": "1zxh5k",
+      "image_sha256": "9dcaa05040267c25e87f950ae831f9c60a054232f85a9ec45e8dfae7f5d73db3",
+      "pixels_changed": true,
+      "visual_review": "1920×1080 개별 렌더 확인",
+      "result": "질문 인물·세 과제의 기준선"
+    }
+  ],
+  "package_integrity": {
+    "chart_count": 0,
+    "claim_boundary": "Structural package checks only; no slide text, notes, formulas, chart values, or native PowerPoint execution were inspected.",
+    "finding_count": 0,
+    "findings": [],
+    "notes_parts_skipped": 42,
+    "relationship_part_count": 94,
+    "slide_count": 42,
+    "status": "pass",
+    "exitCode": 0,
+    "findingCount": 0,
+    "warnings": []
+  },
+  "layout": {
+    "finding_count": 0,
+    "findings": [],
+    "font_policy": {
+      "checked_text_script_count": 807,
+      "native_font_rendering_verified": false,
+      "observed_font_families": [
+        "Pretendard"
+      ],
+      "observed_font_use_counts": {
+        "Pretendard": 807
+      },
+      "passed": true,
+      "performed": true
+    },
+    "slide_count": 42,
+    "slide_size_in": [
+      20,
+      11.25
+    ],
+    "warning_count": 0,
+    "warnings": [],
+    "exitCode": 0,
+    "findingCount": 0,
+    "fontPolicy": {
+      "checked_text_script_count": 807,
+      "native_font_rendering_verified": false,
+      "observed_font_families": [
+        "Pretendard"
+      ],
+      "observed_font_use_counts": {
+        "Pretendard": 807
+      },
+      "passed": true,
+      "performed": true
+    }
+  },
+  "powerpoint_application_verified": false,
+  "figma_verified": false
+}

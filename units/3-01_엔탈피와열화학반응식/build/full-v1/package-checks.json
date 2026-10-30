@@ -1,0 +1,18 @@
+{
+  "native_state_runs_checked": 74,
+  "chemical_parentheses_upright": true,
+  "answer_reveals": {
+    "13": [
+      "answer-1",
+      "answer-2"
+    ],
+    "21": [
+      "answer-1",
+      "answer-2"
+    ],
+    "31": [
+      "answer-1"
+    ]
+  },
+  "animation_validation": "OOXML structure checked; native PowerPoint playback not tested"
+}

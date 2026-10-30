@@ -1,0 +1,147 @@
+{
+  "number": 5,
+  "kind": "hook",
+  "title": "손난로는 왜 따뜻해질까?",
+  "nodes": [
+    {
+      "type": "image",
+      "role": "sci_eum_logo",
+      "bbox": [
+        1778.6666666666667,
+        40.0,
+        108.0,
+        77.33333333333333
+      ],
+      "asset_sha256": "9d044366936fcad9204ba43766e76b0b6408fb314be39dc252ce631a611fe9db",
+      "source": {
+        "kind": "contents",
+        "role": "sci_eum_logo"
+      }
+    },
+    {
+      "type": "text",
+      "role": "copyright",
+      "text": "© 2026. @sci_eum. All rights reserved.",
+      "bbox": [
+        1535,
+        1037,
+        342,
+        30
+      ],
+      "font": "Pretendard",
+      "fontSize": 17,
+      "weight": "Medium",
+      "color": "#111111",
+      "align": "right",
+      "lineHeight": 21.25
+    },
+    {
+      "type": "text",
+      "role": "part_heading",
+      "text": "Part 0 동기 유발",
+      "bbox": [
+        72,
+        78,
+        1200,
+        64
+      ],
+      "font": "Pretendard",
+      "fontSize": 43,
+      "weight": "Bold",
+      "color": "#909090",
+      "align": "left",
+      "lineHeight": 53.75
+    },
+    {
+      "type": "text",
+      "role": "topic_number",
+      "text": "01",
+      "bbox": [
+        72,
+        144,
+        90,
+        66
+      ],
+      "font": "Pretendard",
+      "fontSize": 50,
+      "weight": "Bold",
+      "color": "#57962F",
+      "align": "left",
+      "lineHeight": 62.5
+    },
+    {
+      "type": "text",
+      "role": "topic_heading",
+      "text": "손난로와 열",
+      "bbox": [
+        162,
+        144,
+        600,
+        66
+      ],
+      "font": "Pretendard",
+      "fontSize": 50,
+      "weight": "Bold",
+      "color": "#111111",
+      "align": "left",
+      "lineHeight": 62.5
+    },
+    {
+      "type": "text",
+      "role": "title",
+      "text": "흔들기만 했는데도 따뜻해지는 손난로!?",
+      "bbox": [
+        192,
+        295,
+        1536,
+        115
+      ],
+      "font": "Pretendard",
+      "fontSize": 78,
+      "weight": "Bold",
+      "color": "#111111",
+      "align": "center",
+      "lineHeight": 97.5
+    },
+    {
+      "type": "text",
+      "role": "observation_explanation",
+      "text": "포장을 뜯고 흔든 손난로가 따뜻해진다. 손난로 안에서는 어떤 변화가 일어날까?",
+      "bbox": [
+        200,
+        425,
+        1520,
+        64
+      ],
+      "font": "Pretendard",
+      "fontSize": 32,
+      "weight": "Medium",
+      "color": "#888888",
+      "align": "center",
+      "lineHeight": 40.0
+    },
+    {
+      "type": "image",
+      "role": "body_cutout",
+      "bbox": [
+        600,
+        495,
+        720,
+        542.5
+      ],
+      "asset_sha256": "da02e7d0d961e20ec65ca9d2bb9af58f7363dbbb0166102c6bea8361490d9fe1",
+      "source": "/Users/keemhayeon/.codex/generated_images/01a15411-6e4e-7c01-83bf-4a8858ec1ca0/exec-bf897882-2f4a-4776-88ed-00d3b5b23b24.png"
+    }
+  ],
+  "notes": "주 근거: 천재교육 물질과 에너지 p.74 손난로 도입. 비교: 화학Ⅱ 교과서 PDF p.73(인쇄 p.75). 지도서의 발열/흡열 비교 지도 및 문항(물질과 에너지 PDF pp.106–108, 181; 화학Ⅱ PDF p.114)을 고려해 관찰과 예상만 묻는다. 철 산화 및 발열 반응 정답은 이 화면에서 제시하지 않고 본문에서 설명한다.",
+  "source_recipe": {
+    "template": "approved central question hook; user corrected body style: ONE registered-style transparent cutout; no classroom background or reused cover scene",
+    "science_evidence": [
+      "물질과 에너지 p.74",
+      "화학Ⅱ PDF p.73 / 인쇄 p.75",
+      "물질과 에너지 지도서 PDF pp.106–108,181",
+      "화학Ⅱ 지도서 PDF p.114"
+    ]
+  },
+  "artifact_sha256": "8edc3fc06aca20787c95a9659a8b910f0cddb0c263f8fd4e0d6dc0613256c104"
+}

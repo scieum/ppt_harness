@@ -1,0 +1,18 @@
+{
+  "slides": 39,
+  "parts": 4,
+  "scripts_updated": 39,
+  "pptx_structure": "pass",
+  "layout_findings": 0,
+  "layout_warnings": 0,
+  "slide_visual_review": "39 slides contact sheets; changed components at full size",
+  "docx_render_pages": 40,
+  "docx_visual_review": "all 40 pages reviewed; slide 9 at full size",
+  "text_fit": "no measured overflow",
+  "pptx_notes_docx_scripts": "39/39 match",
+  "preview_images": "39/39 match",
+  "representative_images": "8/8 current slides",
+  "unintroduced_reaction_system_term": 0,
+  "native_powerpoint_playback": "not tested",
+  "source_figures": "textbook originals retained; fuel table recreated with original values and corrected labels"
+}

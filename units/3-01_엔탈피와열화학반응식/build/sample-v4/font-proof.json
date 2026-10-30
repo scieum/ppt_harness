@@ -1,0 +1,88 @@
+{
+  "registered": [
+    {
+      "family": "Pretendard",
+      "weight": 100,
+      "style": "normal",
+      "width": "normal",
+      "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/output/fonts/Pretendard-Thin.otf"
+    },
+    {
+      "family": "Pretendard",
+      "weight": 200,
+      "style": "normal",
+      "width": "normal",
+      "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/output/fonts/Pretendard-ExtraLight.otf"
+    },
+    {
+      "family": "Pretendard",
+      "weight": 300,
+      "style": "normal",
+      "width": "normal",
+      "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/output/fonts/Pretendard-Light.otf"
+    },
+    {
+      "family": "Pretendard",
+      "weight": 400,
+      "style": "normal",
+      "width": "normal",
+      "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/output/fonts/Pretendard-Regular.otf"
+    },
+    {
+      "family": "Pretendard",
+      "weight": 500,
+      "style": "normal",
+      "width": "normal",
+      "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/output/fonts/Pretendard-Medium.otf"
+    },
+    {
+      "family": "Pretendard",
+      "weight": 600,
+      "style": "normal",
+      "width": "normal",
+      "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/output/fonts/Pretendard-SemiBold.otf"
+    },
+    {
+      "family": "Pretendard",
+      "weight": 700,
+      "style": "normal",
+      "width": "normal",
+      "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/output/fonts/Pretendard-Bold.otf"
+    },
+    {
+      "family": "Pretendard",
+      "weight": 800,
+      "style": "normal",
+      "width": "normal",
+      "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/output/fonts/Pretendard-ExtraBold.otf"
+    },
+    {
+      "family": "Pretendard",
+      "weight": 900,
+      "style": "normal",
+      "width": "normal",
+      "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/output/fonts/Pretendard-Black.otf"
+    }
+  ],
+  "family": {
+    "family": "Pretendard",
+    "weights": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ],
+    "widths": [
+      "normal"
+    ],
+    "styles": [
+      "normal",
+      "italic"
+    ]
+  }
+}

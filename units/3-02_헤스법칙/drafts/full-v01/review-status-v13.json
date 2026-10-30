@@ -1,0 +1,12 @@
+{
+  "version": "v13",
+  "changed_slides": [
+    11
+  ],
+  "changes": [
+    "오른쪽 …① 제거",
+    "아래 반응식과 엔탈피 표기를 한 줄에 배치",
+    "원본 문자 높이 측정하여 표시 크기 일치"
+  ],
+  "user_design_approval": "pending"
+}

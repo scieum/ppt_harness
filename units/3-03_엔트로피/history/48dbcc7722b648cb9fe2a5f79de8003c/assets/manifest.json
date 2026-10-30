@@ -1,0 +1,310 @@
+[
+  {
+    "id": "V1",
+    "file": {
+      "path": "assets/originals/cover-original.png",
+      "sha256": "e97f85c89bc01cd3552c4c3c967a0b45409b3e3a1f56c9c9a6666e5348ee08c7"
+    },
+    "kind": "existing",
+    "purpose": "승인 계획 1장 원본 주 자료; 상세 조합은 crop-records.json",
+    "review": "passed",
+    "reviewer": "Codex 원문·원본화면·크롭 시각 대조 2026-10-28",
+    "provenance": "원래 등록 assets/characters 원본 PNG 바이트 동일 복사. 얼굴·머리·비율·배경 재생성 없음. V1은 원본 네 학생의 기체 실험 교실 장면을 유지하는 표지 배경 후보. V2/V4/V40은 원본 안내 인물."
+  },
+  {
+    "id": "V2",
+    "file": {
+      "path": "assets/originals/guide-original.png",
+      "sha256": "e8a970728dc75c41c9e75bed396cc92afe628b94156f277db012bbea43e665c4"
+    },
+    "kind": "existing",
+    "purpose": "승인 계획 2장 원본 주 자료; 상세 조합은 crop-records.json",
+    "review": "passed",
+    "reviewer": "Codex 원문·원본화면·크롭 시각 대조 2026-10-28",
+    "provenance": "원래 등록 assets/characters 원본 PNG 바이트 동일 복사. 얼굴·머리·비율·배경 재생성 없음. V1은 원본 네 학생의 기체 실험 교실 장면을 유지하는 표지 배경 후보. V2/V4/V40은 원본 안내 인물."
+  },
+  {
+    "id": "V4",
+    "file": {
+      "path": "assets/originals/guide-original.png",
+      "sha256": "e8a970728dc75c41c9e75bed396cc92afe628b94156f277db012bbea43e665c4"
+    },
+    "kind": "existing",
+    "purpose": "승인 계획 4장 원본 주 자료; 상세 조합은 crop-records.json",
+    "review": "passed",
+    "reviewer": "Codex 원문·원본화면·크롭 시각 대조 2026-10-28",
+    "provenance": "원래 등록 assets/characters 원본 PNG 바이트 동일 복사. 얼굴·머리·비율·배경 재생성 없음. V1은 원본 네 학생의 기체 실험 교실 장면을 유지하는 표지 배경 후보. V2/V4/V40은 원본 안내 인물."
+  },
+  {
+    "id": "V7",
+    "file": {
+      "path": "assets/crops/water-states.png",
+      "sha256": "0daea7862373ad527cc3f282fd173068a418b731c4ed0dcfb9bf3a3dd6e68bbc"
+    },
+    "kind": "crop",
+    "purpose": "승인 계획 7장 원본 주 자료; 상세 조합은 crop-records.json",
+    "review": "passed",
+    "reviewer": "Codex 원문·원본화면·크롭 시각 대조 2026-10-28",
+    "source_id": "T",
+    "page": 90
+  },
+  {
+    "id": "V9",
+    "file": {
+      "path": "assets/crops/state-change.png",
+      "sha256": "1b63194b1968dc0cb2eb28b027c87816fa1420a4dcfc829072e1c2caa6fc52cf"
+    },
+    "kind": "crop",
+    "purpose": "승인 계획 9장 원본 주 자료; 상세 조합은 crop-records.json",
+    "review": "passed",
+    "reviewer": "Codex 원문·원본화면·크롭 시각 대조 2026-10-28",
+    "source_id": "T",
+    "page": 91
+  },
+  {
+    "id": "V10",
+    "file": {
+      "path": "assets/crops/ammonia-model.png",
+      "sha256": "62de7fd18f21211c25bcd7ec49ca0a66d32f9eea763b27ad35bc8406aeac7acf"
+    },
+    "kind": "crop",
+    "purpose": "승인 계획 10장 원본 주 자료; 상세 조합은 crop-records.json",
+    "review": "passed",
+    "reviewer": "Codex 원문·원본화면·크롭 시각 대조 2026-10-28",
+    "source_id": "T",
+    "page": 91
+  },
+  {
+    "id": "V11",
+    "file": {
+      "path": "assets/crops/gas-mixing.png",
+      "sha256": "56822187b80c973291a9ee11c3ee63bc14d1b27914941df1dc6c579571252254"
+    },
+    "kind": "crop",
+    "purpose": "승인 계획 11장 원본 주 자료; 상세 조합은 crop-records.json",
+    "review": "passed",
+    "reviewer": "Codex 원문·원본화면·크롭 시각 대조 2026-10-28",
+    "source_id": "T",
+    "page": 91
+  },
+  {
+    "id": "V12",
+    "file": {
+      "path": "assets/crops/check-condense.png",
+      "sha256": "8e3b56b90c9ff001211e24bcffdf7df00c4a6f34afb8d9573d4818eca00bc777"
+    },
+    "kind": "crop",
+    "purpose": "승인 계획 12장 원본 주 자료; 상세 조합은 crop-records.json",
+    "review": "passed",
+    "reviewer": "Codex 원문·원본화면·크롭 시각 대조 2026-10-28",
+    "source_id": "T",
+    "page": 91
+  },
+  {
+    "id": "V15",
+    "file": {
+      "path": "assets/crops/system-boundary.png",
+      "sha256": "36bfca83006cd8c98f58f4b7650c61751081831f9fb1097e3e482920504e495a"
+    },
+    "kind": "crop",
+    "purpose": "승인 계획 15장 원본 주 자료; 상세 조합은 crop-records.json",
+    "review": "passed",
+    "reviewer": "Codex 원문·원본화면·크롭 시각 대조 2026-10-28",
+    "source_id": "T",
+    "page": 92
+  },
+  {
+    "id": "V17",
+    "file": {
+      "path": "assets/crops/closed-open.png",
+      "sha256": "c7abc8bd519fdfe52fac804ae51ac15ce5c7b5540fea0acc29f660f1d2726833"
+    },
+    "kind": "crop",
+    "purpose": "승인 계획 17장 원본 주 자료; 상세 조합은 crop-records.json",
+    "review": "passed",
+    "reviewer": "Codex 원문·원본화면·크롭 시각 대조 2026-10-28",
+    "source_id": "T",
+    "page": 93
+  },
+  {
+    "id": "V18",
+    "file": {
+      "path": "assets/crops/isolated.png",
+      "sha256": "28b911244098c09d53ab8512a1b991b99bdb55ca25fe8db0a7a4957b27e4ed83"
+    },
+    "kind": "crop",
+    "purpose": "승인 계획 18장 원본 주 자료; 상세 조합은 crop-records.json",
+    "review": "passed",
+    "reviewer": "Codex 원문·원본화면·크롭 시각 대조 2026-10-28",
+    "source_id": "T",
+    "page": 93
+  },
+  {
+    "id": "V20",
+    "file": {
+      "path": "assets/crops/heat-flow.png",
+      "sha256": "fdd3df5fcc023a24782ff3b1af23d8bd4422b57675aa77c3722dc58c5e381c1b"
+    },
+    "kind": "crop",
+    "purpose": "승인 계획 20장 원본 주 자료; 상세 조합은 crop-records.json",
+    "review": "passed",
+    "reviewer": "Codex 원문·원본화면·크롭 시각 대조 2026-10-28",
+    "source_id": "T",
+    "page": 93
+  },
+  {
+    "id": "V23",
+    "file": {
+      "path": "assets/crops/snow-photo.png",
+      "sha256": "de9af3bb736670c021283c2b243236233017a1d283cc0a763e5ba88676160fc7"
+    },
+    "kind": "crop",
+    "purpose": "승인 계획 23장 원본 주 자료; 상세 조합은 crop-records.json",
+    "review": "passed",
+    "reviewer": "Codex 원문·원본화면·크롭 시각 대조 2026-10-28",
+    "source_id": "T",
+    "page": 94
+  },
+  {
+    "id": "V26",
+    "file": {
+      "path": "assets/crops/heat-flow.png",
+      "sha256": "fdd3df5fcc023a24782ff3b1af23d8bd4422b57675aa77c3722dc58c5e381c1b"
+    },
+    "kind": "crop",
+    "purpose": "승인 계획 26장 원본 주 자료; 상세 조합은 crop-records.json",
+    "review": "passed",
+    "reviewer": "Codex 원문·원본화면·크롭 시각 대조 2026-10-28",
+    "source_id": "T",
+    "page": 93
+  },
+  {
+    "id": "V27",
+    "file": {
+      "path": "assets/crops/heat-flow.png",
+      "sha256": "fdd3df5fcc023a24782ff3b1af23d8bd4422b57675aa77c3722dc58c5e381c1b"
+    },
+    "kind": "crop",
+    "purpose": "승인 계획 27장 원본 주 자료; 상세 조합은 crop-records.json",
+    "review": "passed",
+    "reviewer": "Codex 원문·원본화면·크롭 시각 대조 2026-10-28",
+    "source_id": "T",
+    "page": 93
+  },
+  {
+    "id": "V29",
+    "file": {
+      "path": "assets/crops/case-a.png",
+      "sha256": "add6d4e73be7cb48965f2dc0b9c08d7148904a464d3631febff594074d039ac7"
+    },
+    "kind": "crop",
+    "purpose": "승인 계획 29장 원본 주 자료; 상세 조합은 crop-records.json",
+    "review": "passed",
+    "reviewer": "Codex 원문·원본화면·크롭 시각 대조 2026-10-28",
+    "source_id": "T",
+    "page": 95
+  },
+  {
+    "id": "V30",
+    "file": {
+      "path": "assets/crops/case-b.png",
+      "sha256": "2b472bba5b27e9a7f4c381e0eab621f59bca59bb57cf7147f5d24e14b22d3e2a"
+    },
+    "kind": "crop",
+    "purpose": "승인 계획 30장 원본 주 자료; 상세 조합은 crop-records.json",
+    "review": "passed",
+    "reviewer": "Codex 원문·원본화면·크롭 시각 대조 2026-10-28",
+    "source_id": "T",
+    "page": 95
+  },
+  {
+    "id": "V31",
+    "file": {
+      "path": "assets/crops/case-c.png",
+      "sha256": "1b2f426785ce132163b63557e8b3bb0b58ccfc6ee7d214a30d5eb9537d93a9ad"
+    },
+    "kind": "crop",
+    "purpose": "승인 계획 31장 원본 주 자료; 상세 조합은 crop-records.json",
+    "review": "passed",
+    "reviewer": "Codex 원문·원본화면·크롭 시각 대조 2026-10-28",
+    "source_id": "T",
+    "page": 95
+  },
+  {
+    "id": "V32",
+    "file": {
+      "path": "assets/crops/case-d.png",
+      "sha256": "fde549d547b075fad1cd7de63b24fea7516b083937c10a07903c372a7fc1e9de"
+    },
+    "kind": "crop",
+    "purpose": "승인 계획 32장 원본 주 자료; 상세 조합은 crop-records.json",
+    "review": "passed",
+    "reviewer": "Codex 원문·원본화면·크롭 시각 대조 2026-10-28",
+    "source_id": "T",
+    "page": 95
+  },
+  {
+    "id": "V35",
+    "file": {
+      "path": "assets/crops/four-cases.png",
+      "sha256": "6982b4f69ee6fd5d013ee80d977b366f2d0ff42a395d12062e3ad51a00d612c1"
+    },
+    "kind": "crop",
+    "purpose": "승인 계획 35장 원본 주 자료; 상세 조합은 crop-records.json",
+    "review": "passed",
+    "reviewer": "Codex 원문·원본화면·크롭 시각 대조 2026-10-28",
+    "source_id": "T",
+    "page": 94
+  },
+  {
+    "id": "V36",
+    "file": {
+      "path": "assets/crops/snow-photo.png",
+      "sha256": "de9af3bb736670c021283c2b243236233017a1d283cc0a763e5ba88676160fc7"
+    },
+    "kind": "crop",
+    "purpose": "승인 계획 36장 원본 주 자료; 상세 조합은 crop-records.json",
+    "review": "passed",
+    "reviewer": "Codex 원문·원본화면·크롭 시각 대조 2026-10-28",
+    "source_id": "T",
+    "page": 94
+  },
+  {
+    "id": "V37",
+    "file": {
+      "path": "assets/crops/vapor-photo.png",
+      "sha256": "86da0a8a91184e2afaa3a9c14b2d3923bd855ad13493c343c651e5afe9080c6d"
+    },
+    "kind": "crop",
+    "purpose": "승인 계획 37장 원본 주 자료; 상세 조합은 crop-records.json",
+    "review": "passed",
+    "reviewer": "Codex 원문·원본화면·크롭 시각 대조 2026-10-28",
+    "source_id": "T",
+    "page": 94
+  },
+  {
+    "id": "V39",
+    "file": {
+      "path": "assets/crops/no2-equation.png",
+      "sha256": "d52ba67b7b69087bdd8de80989da8264f744a9b48b41fa6cbccf4865998505f6"
+    },
+    "kind": "crop",
+    "purpose": "승인 계획 39장 원본 주 자료; 상세 조합은 crop-records.json",
+    "review": "passed",
+    "reviewer": "Codex 원문·원본화면·크롭 시각 대조 2026-10-28",
+    "source_id": "T",
+    "page": 95
+  },
+  {
+    "id": "V40",
+    "file": {
+      "path": "assets/originals/guide-original.png",
+      "sha256": "e8a970728dc75c41c9e75bed396cc92afe628b94156f277db012bbea43e665c4"
+    },
+    "kind": "existing",
+    "purpose": "승인 계획 40장 원본 주 자료; 상세 조합은 crop-records.json",
+    "review": "passed",
+    "reviewer": "Codex 원문·원본화면·크롭 시각 대조 2026-10-28",
+    "provenance": "원래 등록 assets/characters 원본 PNG 바이트 동일 복사. 얼굴·머리·비율·배경 재생성 없음. V1은 원본 네 학생의 기체 실험 교실 장면을 유지하는 표지 배경 후보. V2/V4/V40은 원본 안내 인물."
+  }
+]

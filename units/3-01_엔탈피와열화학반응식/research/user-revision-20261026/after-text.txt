@@ -1,0 +1,80 @@
+
+PAGE 1 (ppt/slides/slide1.xml)
+
+PAGE 2 (ppt/slides/slide2.xml)
+
+PAGE 3 (ppt/slides/slide3.xml)
+
+PAGE 4 (ppt/slides/slide4.xml)
+
+PAGE 5 (ppt/slides/slide5.xml)
+
+PAGE 6 (ppt/slides/slide6.xml)
+
+PAGE 7 (ppt/slides/slide7.xml)
+
+PAGE 8 (ppt/slides/slide8.xml)
+
+PAGE 9 (ppt/slides/slide9.xml)
+
+PAGE 10 (ppt/slides/slide10.xml)
+
+PAGE 11 (ppt/slides/slide11.xml)
+
+PAGE 12 (ppt/slides/slide12.xml)
+
+PAGE 13 (ppt/slides/slide13.xml)
+
+PAGE 14 (ppt/slides/slide14.xml)
+
+PAGE 15 (ppt/slides/slide15.xml)
+
+PAGE 16 (ppt/slides/slide16.xml)
+
+PAGE 17 (ppt/slides/slide17.xml)
+
+PAGE 18 (ppt/slides/slide18.xml)
+
+PAGE 19 (ppt/slides/slide19.xml)
+
+PAGE 20 (ppt/slides/slide20.xml)
+
+PAGE 21 (ppt/slides/slide21.xml)
+
+PAGE 22 (ppt/slides/slide22.xml)
+
+PAGE 23 (ppt/slides/slide23.xml)
+
+PAGE 24 (ppt/slides/slide24.xml)
+
+PAGE 25 (ppt/slides/slide25.xml)
+
+PAGE 26 (ppt/slides/slide26.xml)
+
+PAGE 27 (ppt/slides/slide27.xml)
+
+PAGE 28 (ppt/slides/slide28.xml)
+
+PAGE 29 (ppt/slides/slide29.xml)
+
+PAGE 30 (ppt/slides/slide30.xml)
+
+PAGE 31 (ppt/slides/slide31.xml)
+
+PAGE 32 (ppt/slides/slide32.xml)
+
+PAGE 33 (ppt/slides/slide33.xml)
+
+PAGE 34 (ppt/slides/slide34.xml)
+
+PAGE 35 (ppt/slides/slide35.xml)
+
+PAGE 36 (ppt/slides/slide36.xml)
+
+PAGE 37 (ppt/slides/slide37.xml)
+
+PAGE 38 (ppt/slides/slide38.xml)
+
+PAGE 39 (ppt/slides/slide39.xml)
+
+PAGE 40 (ppt/slides/slide40.xml)

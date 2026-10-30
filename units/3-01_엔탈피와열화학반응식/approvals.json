@@ -1,0 +1,13 @@
+[
+  {
+    "unit": "3-01 엔탈피와 열화학 반응식",
+    "actor": "human",
+    "decision": "approve",
+    "message_ref": "user:current-turn:시작해보자",
+    "plan_hash": "2258bfa3d6fa670a0401c7865932838af7a2915b4686f6cf8b3421d602836396",
+    "evidence": {
+      "path": "checks/user-start-approval.json",
+      "sha256": "918f2770c5372a50ebd76cb39f5938a173b55c816345bf70be380e5dd9219881"
+    }
+  }
+]

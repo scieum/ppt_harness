@@ -1,0 +1,16 @@
+{"schema":"openai.presentation.layout/v5","unit":"px","slide":{"id":"sl/c6n3cw","index":29,"layout":{"id":"ly/v6l072p8","name":"Blank"},"backgroundColor":"rgba(255,255,255,1)","position":{"left":0,"top":0,"width":1920,"height":1080}},
+"elements":[
+{"id":"sh/hcfy1c3m","kind":"textbox","name":"copyright","position":{"left":1440,"top":1038,"width":440,"height":28},"text":"© 2026. @sci_eum. All rights reserved.","style":{"fontSize":17,"typeface":"Pretendard","color":"#202020","alignment":"right"},"geometry":"rect","lineWidth":0},
+{"id":"sh/wb6h8r21","kind":"textbox","name":"text","position":{"left":90,"top":86,"width":1400,"height":44},"text":"Part 3 표준 생성 엔탈피","style":{"fontSize":28,"typeface":"Pretendard","color":"#898989","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/jehg3mlc","kind":"textbox","name":"text","position":{"left":90,"top":134,"width":75,"height":64},"text":"01","style":{"fontSize":44,"typeface":"Pretendard","color":"#28691C","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/id8zahkr","kind":"textbox","name":"text","position":{"left":158,"top":134,"width":1530,"height":64},"text":"기준 원소 물질","style":{"fontSize":44,"typeface":"Pretendard","color":"#202020","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/5gzy5w3i","kind":"textbox","name":"text","position":{"left":180,"top":294,"width":1560,"height":96},"text":"기준 원소 물질의 생성 엔탈피는 0","style":{"fontSize":64,"typeface":"Pretendard","color":"#202020","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/4fqhcr2x","kind":"textbox","name":"text","position":{"left":220,"top":402,"width":1480,"height":64},"text":"25°C의 기준 형태와 상태를 함께 확인한다.","style":{"fontSize":32,"typeface":"Pretendard","color":"#686868","alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"tb/ydon6d4r","kind":"table","position":{"left":200,"top":505,"width":1520,"height":360},"text":"원소\t기준 원소 물질\t표준 생성 엔탈피\n탄소\t흑연 · 고체\t0 kJ/mol\n수소\t수소 분자 · 기체\t0 kJ/mol\n산소\t산소 분자 · 기체\t0 kJ/mol","rows":4,"cols":3},
+{"id":"sh/6h8ze1k3","kind":"shape","name":"표 둥근 외곽 마스크","position":{"left":200,"top":505,"width":20,"height":20},"geometry":"custom","fillColor":"#FFFFFF","lineWidth":0},
+{"id":"sh/cje9ob6x","kind":"shape","name":"표 둥근 외곽 마스크","position":{"left":1700,"top":505,"width":20,"height":20},"geometry":"custom","fillColor":"#FFFFFF","lineWidth":0},
+{"id":"sh/dknaxg72","kind":"shape","name":"표 둥근 외곽 마스크","position":{"left":1700,"top":845,"width":20,"height":20},"geometry":"custom","fillColor":"#FFFFFF","lineWidth":0},
+{"id":"sh/qhwrml8r","kind":"shape","name":"표 둥근 외곽 마스크","position":{"left":200,"top":845,"width":20,"height":20},"geometry":"custom","fillColor":"#FFFFFF","lineWidth":0},
+{"id":"sh/ri58v6pc","kind":"textbox","name":"text","position":{"left":210,"top":915,"width":1500,"height":65},"text":"다른 동소체나 고립 원자의 값까지 0이라는 뜻은 아니다.","style":{"fontSize":36,"typeface":"Pretendard","color":"#686868","alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"im/bml4zulk","kind":"image","position":{"left":1778.67,"top":40,"width":108,"height":77.33},"fit":"contain","alt":"사이음 흰 배경용 원본 로고"}
+]}

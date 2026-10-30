@@ -1,0 +1,757 @@
+{
+  "unit": "3-01 엔탈피와 열화학 반응식",
+  "plan_hash": "2258bfa3d6fa670a0401c7865932838af7a2915b4686f6cf8b3421d602836396",
+  "version": "dark-callout-v9",
+  "reference_hash": "5da88a1b5ddad29b7d7d1779f4e86f3cfdc46b77d6bc3a6a527af13245f855e2",
+  "slides": [
+    {
+      "type": "cover",
+      "id": "candidate-v9-cover",
+      "reference_id": "approved-v9-cover",
+      "slide": 1,
+      "artifact": {
+        "path": "design-review/approved-v9/approved.pptx",
+        "sha256": "a594fa0b148c2e62743b391cc6d73d75de1194c71f638d783c097dad97d09d19"
+      },
+      "render": {
+        "path": "design-review/approved-v9/01.png",
+        "sha256": "1a48afc690db77c2f7a0f102843404d570799b469cac49e956af23e4cd78abb4"
+      },
+      "layout": {
+        "path": "design-review/approved-v9/01.json",
+        "sha256": "5556bf4df9439faa8d1907bc9c3af5cf3f1165937c23fae053230ad68f6875d0"
+      },
+      "comparison": {
+        "path": "design-review/approved-v9/01-comparison.md",
+        "sha256": "2efb6da985f50ec3e9aa76e2d2d5419328792fd516568ecffcc9f975763244d6"
+      },
+      "reviewer": "Codex",
+      "reason": "Latest user-approved representative adopted as exact production template",
+      "criteria": {
+        "title_hierarchy": {
+          "status": "passed",
+          "reviewer": "Codex",
+          "reason": "Approved v9 rendered baseline retained; see comparison and actual normalized export",
+          "evidence": {
+            "path": "design-review/approved-v9/01-comparison.md",
+            "sha256": "2efb6da985f50ec3e9aa76e2d2d5419328792fd516568ecffcc9f975763244d6"
+          }
+        },
+        "visual_scale": {
+          "status": "passed",
+          "reviewer": "Codex",
+          "reason": "Approved v9 rendered baseline retained; see comparison and actual normalized export",
+          "evidence": {
+            "path": "design-review/approved-v9/01-comparison.md",
+            "sha256": "2efb6da985f50ec3e9aa76e2d2d5419328792fd516568ecffcc9f975763244d6"
+          }
+        },
+        "spacing": {
+          "status": "passed",
+          "reviewer": "Codex",
+          "reason": "Approved v9 rendered baseline retained; see comparison and actual normalized export",
+          "evidence": {
+            "path": "design-review/approved-v9/01-comparison.md",
+            "sha256": "2efb6da985f50ec3e9aa76e2d2d5419328792fd516568ecffcc9f975763244d6"
+          }
+        },
+        "image_background": {
+          "status": "passed",
+          "reviewer": "Codex",
+          "reason": "Approved v9 rendered baseline retained; see comparison and actual normalized export",
+          "evidence": {
+            "path": "design-review/approved-v9/01-comparison.md",
+            "sha256": "2efb6da985f50ec3e9aa76e2d2d5419328792fd516568ecffcc9f975763244d6"
+          }
+        },
+        "borders": {
+          "status": "passed",
+          "reviewer": "Codex",
+          "reason": "Approved v9 rendered baseline retained; see comparison and actual normalized export",
+          "evidence": {
+            "path": "design-review/approved-v9/01-comparison.md",
+            "sha256": "2efb6da985f50ec3e9aa76e2d2d5419328792fd516568ecffcc9f975763244d6"
+          }
+        },
+        "layout_fidelity": {
+          "status": "passed",
+          "reviewer": "Codex",
+          "reason": "Approved v9 rendered baseline retained; see comparison and actual normalized export",
+          "evidence": {
+            "path": "design-review/approved-v9/01-comparison.md",
+            "sha256": "2efb6da985f50ec3e9aa76e2d2d5419328792fd516568ecffcc9f975763244d6"
+          }
+        },
+        "typography": {
+          "status": "passed",
+          "reviewer": "Codex",
+          "reason": "Approved v9 rendered baseline retained; see comparison and actual normalized export",
+          "evidence": {
+            "path": "design-review/approved-v9/01-comparison.md",
+            "sha256": "2efb6da985f50ec3e9aa76e2d2d5419328792fd516568ecffcc9f975763244d6"
+          }
+        },
+        "character_identity": {
+          "status": "passed",
+          "reviewer": "Codex",
+          "reason": "Approved v9 rendered baseline retained; see comparison and actual normalized export",
+          "evidence": {
+            "path": "design-review/approved-v9/01-comparison.md",
+            "sha256": "2efb6da985f50ec3e9aa76e2d2d5419328792fd516568ecffcc9f975763244d6"
+          }
+        },
+        "branding": {
+          "status": "passed",
+          "reviewer": "Codex",
+          "reason": "Approved v9 rendered baseline retained; see comparison and actual normalized export",
+          "evidence": {
+            "path": "design-review/approved-v9/01-comparison.md",
+            "sha256": "2efb6da985f50ec3e9aa76e2d2d5419328792fd516568ecffcc9f975763244d6"
+          }
+        }
+      }
+    },
+    {
+      "type": "contents",
+      "id": "candidate-v9-contents",
+      "reference_id": "approved-v9-contents",
+      "slide": 2,
+      "artifact": {
+        "path": "design-review/approved-v9/approved.pptx",
+        "sha256": "a594fa0b148c2e62743b391cc6d73d75de1194c71f638d783c097dad97d09d19"
+      },
+      "render": {
+        "path": "design-review/approved-v9/02.png",
+        "sha256": "df1643d180c6add89af891fa82fea9ea23d47222d1d87aa754dfa3652be119b6"
+      },
+      "layout": {
+        "path": "design-review/approved-v9/02.json",
+        "sha256": "524490965df1ffa30eb301859fa717773a5bc5197b3a248eb5415a0090ad5196"
+      },
+      "comparison": {
+        "path": "design-review/approved-v9/02-comparison.md",
+        "sha256": "2efb6da985f50ec3e9aa76e2d2d5419328792fd516568ecffcc9f975763244d6"
+      },
+      "reviewer": "Codex",
+      "reason": "Latest user-approved representative adopted as exact production template",
+      "criteria": {
+        "title_hierarchy": {
+          "status": "passed",
+          "reviewer": "Codex",
+          "reason": "Approved v9 rendered baseline retained; see comparison and actual normalized export",
+          "evidence": {
+            "path": "design-review/approved-v9/02-comparison.md",
+            "sha256": "2efb6da985f50ec3e9aa76e2d2d5419328792fd516568ecffcc9f975763244d6"
+          }
+        },
+        "visual_scale": {
+          "status": "passed",
+          "reviewer": "Codex",
+          "reason": "Approved v9 rendered baseline retained; see comparison and actual normalized export",
+          "evidence": {
+            "path": "design-review/approved-v9/02-comparison.md",
+            "sha256": "2efb6da985f50ec3e9aa76e2d2d5419328792fd516568ecffcc9f975763244d6"
+          }
+        },
+        "spacing": {
+          "status": "passed",
+          "reviewer": "Codex",
+          "reason": "Approved v9 rendered baseline retained; see comparison and actual normalized export",
+          "evidence": {
+            "path": "design-review/approved-v9/02-comparison.md",
+            "sha256": "2efb6da985f50ec3e9aa76e2d2d5419328792fd516568ecffcc9f975763244d6"
+          }
+        },
+        "image_background": {
+          "status": "passed",
+          "reviewer": "Codex",
+          "reason": "Approved v9 rendered baseline retained; see comparison and actual normalized export",
+          "evidence": {
+            "path": "design-review/approved-v9/02-comparison.md",
+            "sha256": "2efb6da985f50ec3e9aa76e2d2d5419328792fd516568ecffcc9f975763244d6"
+          }
+        },
+        "borders": {
+          "status": "passed",
+          "reviewer": "Codex",
+          "reason": "Approved v9 rendered baseline retained; see comparison and actual normalized export",
+          "evidence": {
+            "path": "design-review/approved-v9/02-comparison.md",
+            "sha256": "2efb6da985f50ec3e9aa76e2d2d5419328792fd516568ecffcc9f975763244d6"
+          }
+        },
+        "layout_fidelity": {
+          "status": "passed",
+          "reviewer": "Codex",
+          "reason": "Approved v9 rendered baseline retained; see comparison and actual normalized export",
+          "evidence": {
+            "path": "design-review/approved-v9/02-comparison.md",
+            "sha256": "2efb6da985f50ec3e9aa76e2d2d5419328792fd516568ecffcc9f975763244d6"
+          }
+        },
+        "typography": {
+          "status": "passed",
+          "reviewer": "Codex",
+          "reason": "Approved v9 rendered baseline retained; see comparison and actual normalized export",
+          "evidence": {
+            "path": "design-review/approved-v9/02-comparison.md",
+            "sha256": "2efb6da985f50ec3e9aa76e2d2d5419328792fd516568ecffcc9f975763244d6"
+          }
+        },
+        "character_identity": {
+          "status": "passed",
+          "reviewer": "Codex",
+          "reason": "Approved v9 rendered baseline retained; see comparison and actual normalized export",
+          "evidence": {
+            "path": "design-review/approved-v9/02-comparison.md",
+            "sha256": "2efb6da985f50ec3e9aa76e2d2d5419328792fd516568ecffcc9f975763244d6"
+          }
+        },
+        "branding": {
+          "status": "passed",
+          "reviewer": "Codex",
+          "reason": "Approved v9 rendered baseline retained; see comparison and actual normalized export",
+          "evidence": {
+            "path": "design-review/approved-v9/02-comparison.md",
+            "sha256": "2efb6da985f50ec3e9aa76e2d2d5419328792fd516568ecffcc9f975763244d6"
+          }
+        }
+      }
+    },
+    {
+      "type": "objectives",
+      "id": "candidate-v9-objectives",
+      "reference_id": "approved-v9-objectives",
+      "slide": 3,
+      "artifact": {
+        "path": "design-review/approved-v9/approved.pptx",
+        "sha256": "a594fa0b148c2e62743b391cc6d73d75de1194c71f638d783c097dad97d09d19"
+      },
+      "render": {
+        "path": "design-review/approved-v9/03.png",
+        "sha256": "e105b8b7c0d3bee126daaf839c1a1fb4a526779cb9391bac1a26806cf41b772a"
+      },
+      "layout": {
+        "path": "design-review/approved-v9/03.json",
+        "sha256": "f788b5cefc5376458901609e892aedc8efad0e3d6ce1f16d9111fa1020041390"
+      },
+      "comparison": {
+        "path": "design-review/approved-v9/03-comparison.md",
+        "sha256": "2efb6da985f50ec3e9aa76e2d2d5419328792fd516568ecffcc9f975763244d6"
+      },
+      "reviewer": "Codex",
+      "reason": "Latest user-approved representative adopted as exact production template",
+      "criteria": {
+        "title_hierarchy": {
+          "status": "passed",
+          "reviewer": "Codex",
+          "reason": "Approved v9 rendered baseline retained; see comparison and actual normalized export",
+          "evidence": {
+            "path": "design-review/approved-v9/03-comparison.md",
+            "sha256": "2efb6da985f50ec3e9aa76e2d2d5419328792fd516568ecffcc9f975763244d6"
+          }
+        },
+        "visual_scale": {
+          "status": "passed",
+          "reviewer": "Codex",
+          "reason": "Approved v9 rendered baseline retained; see comparison and actual normalized export",
+          "evidence": {
+            "path": "design-review/approved-v9/03-comparison.md",
+            "sha256": "2efb6da985f50ec3e9aa76e2d2d5419328792fd516568ecffcc9f975763244d6"
+          }
+        },
+        "spacing": {
+          "status": "passed",
+          "reviewer": "Codex",
+          "reason": "Approved v9 rendered baseline retained; see comparison and actual normalized export",
+          "evidence": {
+            "path": "design-review/approved-v9/03-comparison.md",
+            "sha256": "2efb6da985f50ec3e9aa76e2d2d5419328792fd516568ecffcc9f975763244d6"
+          }
+        },
+        "image_background": {
+          "status": "passed",
+          "reviewer": "Codex",
+          "reason": "Approved v9 rendered baseline retained; see comparison and actual normalized export",
+          "evidence": {
+            "path": "design-review/approved-v9/03-comparison.md",
+            "sha256": "2efb6da985f50ec3e9aa76e2d2d5419328792fd516568ecffcc9f975763244d6"
+          }
+        },
+        "borders": {
+          "status": "passed",
+          "reviewer": "Codex",
+          "reason": "Approved v9 rendered baseline retained; see comparison and actual normalized export",
+          "evidence": {
+            "path": "design-review/approved-v9/03-comparison.md",
+            "sha256": "2efb6da985f50ec3e9aa76e2d2d5419328792fd516568ecffcc9f975763244d6"
+          }
+        },
+        "layout_fidelity": {
+          "status": "passed",
+          "reviewer": "Codex",
+          "reason": "Approved v9 rendered baseline retained; see comparison and actual normalized export",
+          "evidence": {
+            "path": "design-review/approved-v9/03-comparison.md",
+            "sha256": "2efb6da985f50ec3e9aa76e2d2d5419328792fd516568ecffcc9f975763244d6"
+          }
+        },
+        "typography": {
+          "status": "passed",
+          "reviewer": "Codex",
+          "reason": "Approved v9 rendered baseline retained; see comparison and actual normalized export",
+          "evidence": {
+            "path": "design-review/approved-v9/03-comparison.md",
+            "sha256": "2efb6da985f50ec3e9aa76e2d2d5419328792fd516568ecffcc9f975763244d6"
+          }
+        },
+        "character_identity": {
+          "status": "passed",
+          "reviewer": "Codex",
+          "reason": "Approved v9 rendered baseline retained; see comparison and actual normalized export",
+          "evidence": {
+            "path": "design-review/approved-v9/03-comparison.md",
+            "sha256": "2efb6da985f50ec3e9aa76e2d2d5419328792fd516568ecffcc9f975763244d6"
+          }
+        },
+        "branding": {
+          "status": "passed",
+          "reviewer": "Codex",
+          "reason": "Approved v9 rendered baseline retained; see comparison and actual normalized export",
+          "evidence": {
+            "path": "design-review/approved-v9/03-comparison.md",
+            "sha256": "2efb6da985f50ec3e9aa76e2d2d5419328792fd516568ecffcc9f975763244d6"
+          }
+        }
+      }
+    },
+    {
+      "type": "part",
+      "id": "candidate-v9-part",
+      "reference_id": "approved-v9-part",
+      "slide": 5,
+      "artifact": {
+        "path": "design-review/approved-v9/approved.pptx",
+        "sha256": "a594fa0b148c2e62743b391cc6d73d75de1194c71f638d783c097dad97d09d19"
+      },
+      "render": {
+        "path": "design-review/approved-v9/05.png",
+        "sha256": "3cdad15d6c9534dafaba80dee192f5f1346471aa284b1014b96b3f7efeb1f60f"
+      },
+      "layout": {
+        "path": "design-review/approved-v9/05.json",
+        "sha256": "be2b5441197862d0c7bc0aea8548af93897c0bd702afc9bef85479f036b2da2f"
+      },
+      "comparison": {
+        "path": "design-review/approved-v9/05-comparison.md",
+        "sha256": "2efb6da985f50ec3e9aa76e2d2d5419328792fd516568ecffcc9f975763244d6"
+      },
+      "reviewer": "Codex",
+      "reason": "Latest user-approved representative adopted as exact production template",
+      "criteria": {
+        "title_hierarchy": {
+          "status": "passed",
+          "reviewer": "Codex",
+          "reason": "Approved v9 rendered baseline retained; see comparison and actual normalized export",
+          "evidence": {
+            "path": "design-review/approved-v9/05-comparison.md",
+            "sha256": "2efb6da985f50ec3e9aa76e2d2d5419328792fd516568ecffcc9f975763244d6"
+          }
+        },
+        "visual_scale": {
+          "status": "passed",
+          "reviewer": "Codex",
+          "reason": "Approved v9 rendered baseline retained; see comparison and actual normalized export",
+          "evidence": {
+            "path": "design-review/approved-v9/05-comparison.md",
+            "sha256": "2efb6da985f50ec3e9aa76e2d2d5419328792fd516568ecffcc9f975763244d6"
+          }
+        },
+        "spacing": {
+          "status": "passed",
+          "reviewer": "Codex",
+          "reason": "Approved v9 rendered baseline retained; see comparison and actual normalized export",
+          "evidence": {
+            "path": "design-review/approved-v9/05-comparison.md",
+            "sha256": "2efb6da985f50ec3e9aa76e2d2d5419328792fd516568ecffcc9f975763244d6"
+          }
+        },
+        "image_background": {
+          "status": "passed",
+          "reviewer": "Codex",
+          "reason": "Approved v9 rendered baseline retained; see comparison and actual normalized export",
+          "evidence": {
+            "path": "design-review/approved-v9/05-comparison.md",
+            "sha256": "2efb6da985f50ec3e9aa76e2d2d5419328792fd516568ecffcc9f975763244d6"
+          }
+        },
+        "borders": {
+          "status": "passed",
+          "reviewer": "Codex",
+          "reason": "Approved v9 rendered baseline retained; see comparison and actual normalized export",
+          "evidence": {
+            "path": "design-review/approved-v9/05-comparison.md",
+            "sha256": "2efb6da985f50ec3e9aa76e2d2d5419328792fd516568ecffcc9f975763244d6"
+          }
+        },
+        "layout_fidelity": {
+          "status": "passed",
+          "reviewer": "Codex",
+          "reason": "Approved v9 rendered baseline retained; see comparison and actual normalized export",
+          "evidence": {
+            "path": "design-review/approved-v9/05-comparison.md",
+            "sha256": "2efb6da985f50ec3e9aa76e2d2d5419328792fd516568ecffcc9f975763244d6"
+          }
+        },
+        "typography": {
+          "status": "passed",
+          "reviewer": "Codex",
+          "reason": "Approved v9 rendered baseline retained; see comparison and actual normalized export",
+          "evidence": {
+            "path": "design-review/approved-v9/05-comparison.md",
+            "sha256": "2efb6da985f50ec3e9aa76e2d2d5419328792fd516568ecffcc9f975763244d6"
+          }
+        },
+        "character_identity": {
+          "status": "passed",
+          "reviewer": "Codex",
+          "reason": "Approved v9 rendered baseline retained; see comparison and actual normalized export",
+          "evidence": {
+            "path": "design-review/approved-v9/05-comparison.md",
+            "sha256": "2efb6da985f50ec3e9aa76e2d2d5419328792fd516568ecffcc9f975763244d6"
+          }
+        },
+        "branding": {
+          "status": "passed",
+          "reviewer": "Codex",
+          "reason": "Approved v9 rendered baseline retained; see comparison and actual normalized export",
+          "evidence": {
+            "path": "design-review/approved-v9/05-comparison.md",
+            "sha256": "2efb6da985f50ec3e9aa76e2d2d5419328792fd516568ecffcc9f975763244d6"
+          }
+        }
+      }
+    },
+    {
+      "type": "comparison",
+      "id": "candidate-v9-comparison",
+      "reference_id": "approved-v9-comparison",
+      "slide": 6,
+      "artifact": {
+        "path": "design-review/approved-v9/approved.pptx",
+        "sha256": "a594fa0b148c2e62743b391cc6d73d75de1194c71f638d783c097dad97d09d19"
+      },
+      "render": {
+        "path": "design-review/approved-v9/06.png",
+        "sha256": "6a628c3b2daa3ac7962f0124558db85984bbb14762352b1b55efed498dd9bc4a"
+      },
+      "layout": {
+        "path": "design-review/approved-v9/06.json",
+        "sha256": "9117dcb2cd200c8bb9e447bf08ff4969f3241bb6b6fcf22557ae3d9516cc78d0"
+      },
+      "comparison": {
+        "path": "design-review/approved-v9/06-comparison.md",
+        "sha256": "2efb6da985f50ec3e9aa76e2d2d5419328792fd516568ecffcc9f975763244d6"
+      },
+      "reviewer": "Codex",
+      "reason": "Latest user-approved representative adopted as exact production template",
+      "criteria": {
+        "title_hierarchy": {
+          "status": "passed",
+          "reviewer": "Codex",
+          "reason": "Approved v9 rendered baseline retained; see comparison and actual normalized export",
+          "evidence": {
+            "path": "design-review/approved-v9/06-comparison.md",
+            "sha256": "2efb6da985f50ec3e9aa76e2d2d5419328792fd516568ecffcc9f975763244d6"
+          }
+        },
+        "visual_scale": {
+          "status": "passed",
+          "reviewer": "Codex",
+          "reason": "Approved v9 rendered baseline retained; see comparison and actual normalized export",
+          "evidence": {
+            "path": "design-review/approved-v9/06-comparison.md",
+            "sha256": "2efb6da985f50ec3e9aa76e2d2d5419328792fd516568ecffcc9f975763244d6"
+          }
+        },
+        "spacing": {
+          "status": "passed",
+          "reviewer": "Codex",
+          "reason": "Approved v9 rendered baseline retained; see comparison and actual normalized export",
+          "evidence": {
+            "path": "design-review/approved-v9/06-comparison.md",
+            "sha256": "2efb6da985f50ec3e9aa76e2d2d5419328792fd516568ecffcc9f975763244d6"
+          }
+        },
+        "image_background": {
+          "status": "passed",
+          "reviewer": "Codex",
+          "reason": "Approved v9 rendered baseline retained; see comparison and actual normalized export",
+          "evidence": {
+            "path": "design-review/approved-v9/06-comparison.md",
+            "sha256": "2efb6da985f50ec3e9aa76e2d2d5419328792fd516568ecffcc9f975763244d6"
+          }
+        },
+        "borders": {
+          "status": "passed",
+          "reviewer": "Codex",
+          "reason": "Approved v9 rendered baseline retained; see comparison and actual normalized export",
+          "evidence": {
+            "path": "design-review/approved-v9/06-comparison.md",
+            "sha256": "2efb6da985f50ec3e9aa76e2d2d5419328792fd516568ecffcc9f975763244d6"
+          }
+        },
+        "layout_fidelity": {
+          "status": "passed",
+          "reviewer": "Codex",
+          "reason": "Approved v9 rendered baseline retained; see comparison and actual normalized export",
+          "evidence": {
+            "path": "design-review/approved-v9/06-comparison.md",
+            "sha256": "2efb6da985f50ec3e9aa76e2d2d5419328792fd516568ecffcc9f975763244d6"
+          }
+        },
+        "typography": {
+          "status": "passed",
+          "reviewer": "Codex",
+          "reason": "Approved v9 rendered baseline retained; see comparison and actual normalized export",
+          "evidence": {
+            "path": "design-review/approved-v9/06-comparison.md",
+            "sha256": "2efb6da985f50ec3e9aa76e2d2d5419328792fd516568ecffcc9f975763244d6"
+          }
+        },
+        "character_identity": {
+          "status": "passed",
+          "reviewer": "Codex",
+          "reason": "Approved v9 rendered baseline retained; see comparison and actual normalized export",
+          "evidence": {
+            "path": "design-review/approved-v9/06-comparison.md",
+            "sha256": "2efb6da985f50ec3e9aa76e2d2d5419328792fd516568ecffcc9f975763244d6"
+          }
+        },
+        "branding": {
+          "status": "passed",
+          "reviewer": "Codex",
+          "reason": "Approved v9 rendered baseline retained; see comparison and actual normalized export",
+          "evidence": {
+            "path": "design-review/approved-v9/06-comparison.md",
+            "sha256": "2efb6da985f50ec3e9aa76e2d2d5419328792fd516568ecffcc9f975763244d6"
+          }
+        }
+      }
+    },
+    {
+      "type": "figure",
+      "id": "candidate-v9-figure",
+      "reference_id": "approved-v9-figure",
+      "slide": 7,
+      "artifact": {
+        "path": "design-review/approved-v9/approved.pptx",
+        "sha256": "a594fa0b148c2e62743b391cc6d73d75de1194c71f638d783c097dad97d09d19"
+      },
+      "render": {
+        "path": "design-review/approved-v9/07.png",
+        "sha256": "3129fd6026c4be346d8649a6bf5326a6c9f17e778267afddfea73cce58be94d2"
+      },
+      "layout": {
+        "path": "design-review/approved-v9/07.json",
+        "sha256": "31e9363ee31678a9575609a1a4a2c28befc4cccaefe115632cdad478b0135971"
+      },
+      "comparison": {
+        "path": "design-review/approved-v9/07-comparison.md",
+        "sha256": "2efb6da985f50ec3e9aa76e2d2d5419328792fd516568ecffcc9f975763244d6"
+      },
+      "reviewer": "Codex",
+      "reason": "Latest user-approved representative adopted as exact production template",
+      "criteria": {
+        "title_hierarchy": {
+          "status": "passed",
+          "reviewer": "Codex",
+          "reason": "Approved v9 rendered baseline retained; see comparison and actual normalized export",
+          "evidence": {
+            "path": "design-review/approved-v9/07-comparison.md",
+            "sha256": "2efb6da985f50ec3e9aa76e2d2d5419328792fd516568ecffcc9f975763244d6"
+          }
+        },
+        "visual_scale": {
+          "status": "passed",
+          "reviewer": "Codex",
+          "reason": "Approved v9 rendered baseline retained; see comparison and actual normalized export",
+          "evidence": {
+            "path": "design-review/approved-v9/07-comparison.md",
+            "sha256": "2efb6da985f50ec3e9aa76e2d2d5419328792fd516568ecffcc9f975763244d6"
+          }
+        },
+        "spacing": {
+          "status": "passed",
+          "reviewer": "Codex",
+          "reason": "Approved v9 rendered baseline retained; see comparison and actual normalized export",
+          "evidence": {
+            "path": "design-review/approved-v9/07-comparison.md",
+            "sha256": "2efb6da985f50ec3e9aa76e2d2d5419328792fd516568ecffcc9f975763244d6"
+          }
+        },
+        "image_background": {
+          "status": "passed",
+          "reviewer": "Codex",
+          "reason": "Approved v9 rendered baseline retained; see comparison and actual normalized export",
+          "evidence": {
+            "path": "design-review/approved-v9/07-comparison.md",
+            "sha256": "2efb6da985f50ec3e9aa76e2d2d5419328792fd516568ecffcc9f975763244d6"
+          }
+        },
+        "borders": {
+          "status": "passed",
+          "reviewer": "Codex",
+          "reason": "Approved v9 rendered baseline retained; see comparison and actual normalized export",
+          "evidence": {
+            "path": "design-review/approved-v9/07-comparison.md",
+            "sha256": "2efb6da985f50ec3e9aa76e2d2d5419328792fd516568ecffcc9f975763244d6"
+          }
+        },
+        "layout_fidelity": {
+          "status": "passed",
+          "reviewer": "Codex",
+          "reason": "Approved v9 rendered baseline retained; see comparison and actual normalized export",
+          "evidence": {
+            "path": "design-review/approved-v9/07-comparison.md",
+            "sha256": "2efb6da985f50ec3e9aa76e2d2d5419328792fd516568ecffcc9f975763244d6"
+          }
+        },
+        "typography": {
+          "status": "passed",
+          "reviewer": "Codex",
+          "reason": "Approved v9 rendered baseline retained; see comparison and actual normalized export",
+          "evidence": {
+            "path": "design-review/approved-v9/07-comparison.md",
+            "sha256": "2efb6da985f50ec3e9aa76e2d2d5419328792fd516568ecffcc9f975763244d6"
+          }
+        },
+        "character_identity": {
+          "status": "passed",
+          "reviewer": "Codex",
+          "reason": "Approved v9 rendered baseline retained; see comparison and actual normalized export",
+          "evidence": {
+            "path": "design-review/approved-v9/07-comparison.md",
+            "sha256": "2efb6da985f50ec3e9aa76e2d2d5419328792fd516568ecffcc9f975763244d6"
+          }
+        },
+        "branding": {
+          "status": "passed",
+          "reviewer": "Codex",
+          "reason": "Approved v9 rendered baseline retained; see comparison and actual normalized export",
+          "evidence": {
+            "path": "design-review/approved-v9/07-comparison.md",
+            "sha256": "2efb6da985f50ec3e9aa76e2d2d5419328792fd516568ecffcc9f975763244d6"
+          }
+        }
+      }
+    },
+    {
+      "type": "table_formula",
+      "id": "candidate-v9-table_formula",
+      "reference_id": "approved-v9-table_formula",
+      "slide": 8,
+      "artifact": {
+        "path": "design-review/approved-v9/approved.pptx",
+        "sha256": "a594fa0b148c2e62743b391cc6d73d75de1194c71f638d783c097dad97d09d19"
+      },
+      "render": {
+        "path": "design-review/approved-v9/08.png",
+        "sha256": "2e09d43de2301dd983ac66693cf22473ece76e9a3d4a8c45960240bfba2403a9"
+      },
+      "layout": {
+        "path": "design-review/approved-v9/08.json",
+        "sha256": "f361ae7020091e4c8e467afa0b3eaa37564e736da3650f9ae6d9c15c0bf64329"
+      },
+      "comparison": {
+        "path": "design-review/approved-v9/08-comparison.md",
+        "sha256": "2efb6da985f50ec3e9aa76e2d2d5419328792fd516568ecffcc9f975763244d6"
+      },
+      "reviewer": "Codex",
+      "reason": "Latest user-approved representative adopted as exact production template",
+      "criteria": {
+        "title_hierarchy": {
+          "status": "passed",
+          "reviewer": "Codex",
+          "reason": "Approved v9 rendered baseline retained; see comparison and actual normalized export",
+          "evidence": {
+            "path": "design-review/approved-v9/08-comparison.md",
+            "sha256": "2efb6da985f50ec3e9aa76e2d2d5419328792fd516568ecffcc9f975763244d6"
+          }
+        },
+        "visual_scale": {
+          "status": "passed",
+          "reviewer": "Codex",
+          "reason": "Approved v9 rendered baseline retained; see comparison and actual normalized export",
+          "evidence": {
+            "path": "design-review/approved-v9/08-comparison.md",
+            "sha256": "2efb6da985f50ec3e9aa76e2d2d5419328792fd516568ecffcc9f975763244d6"
+          }
+        },
+        "spacing": {
+          "status": "passed",
+          "reviewer": "Codex",
+          "reason": "Approved v9 rendered baseline retained; see comparison and actual normalized export",
+          "evidence": {
+            "path": "design-review/approved-v9/08-comparison.md",
+            "sha256": "2efb6da985f50ec3e9aa76e2d2d5419328792fd516568ecffcc9f975763244d6"
+          }
+        },
+        "image_background": {
+          "status": "passed",
+          "reviewer": "Codex",
+          "reason": "Approved v9 rendered baseline retained; see comparison and actual normalized export",
+          "evidence": {
+            "path": "design-review/approved-v9/08-comparison.md",
+            "sha256": "2efb6da985f50ec3e9aa76e2d2d5419328792fd516568ecffcc9f975763244d6"
+          }
+        },
+        "borders": {
+          "status": "passed",
+          "reviewer": "Codex",
+          "reason": "Approved v9 rendered baseline retained; see comparison and actual normalized export",
+          "evidence": {
+            "path": "design-review/approved-v9/08-comparison.md",
+            "sha256": "2efb6da985f50ec3e9aa76e2d2d5419328792fd516568ecffcc9f975763244d6"
+          }
+        },
+        "layout_fidelity": {
+          "status": "passed",
+          "reviewer": "Codex",
+          "reason": "Approved v9 rendered baseline retained; see comparison and actual normalized export",
+          "evidence": {
+            "path": "design-review/approved-v9/08-comparison.md",
+            "sha256": "2efb6da985f50ec3e9aa76e2d2d5419328792fd516568ecffcc9f975763244d6"
+          }
+        },
+        "typography": {
+          "status": "passed",
+          "reviewer": "Codex",
+          "reason": "Approved v9 rendered baseline retained; see comparison and actual normalized export",
+          "evidence": {
+            "path": "design-review/approved-v9/08-comparison.md",
+            "sha256": "2efb6da985f50ec3e9aa76e2d2d5419328792fd516568ecffcc9f975763244d6"
+          }
+        },
+        "character_identity": {
+          "status": "passed",
+          "reviewer": "Codex",
+          "reason": "Approved v9 rendered baseline retained; see comparison and actual normalized export",
+          "evidence": {
+            "path": "design-review/approved-v9/08-comparison.md",
+            "sha256": "2efb6da985f50ec3e9aa76e2d2d5419328792fd516568ecffcc9f975763244d6"
+          }
+        },
+        "branding": {
+          "status": "passed",
+          "reviewer": "Codex",
+          "reason": "Approved v9 rendered baseline retained; see comparison and actual normalized export",
+          "evidence": {
+            "path": "design-review/approved-v9/08-comparison.md",
+            "sha256": "2efb6da985f50ec3e9aa76e2d2d5419328792fd516568ecffcc9f975763244d6"
+          }
+        }
+      }
+    }
+  ]
+}

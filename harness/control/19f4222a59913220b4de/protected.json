@@ -1,0 +1,64 @@
+{
+  "unit": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-03_엔트로피",
+  "roots": [
+    "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/inbox/textbook/chunjae/고_물질과에너지(임희준)_교과서.pdf",
+    "/Users/keemhayeon/Downloads/Codex/scieum_ppt/assets/reference-library"
+  ],
+  "files": {
+    "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/inbox/textbook/chunjae/고_물질과에너지(임희준)_교과서.pdf": {
+      "kind": "file",
+      "sha256": "dbbb7c819dd76a523331a5e9235c7fabaa816b19f7f5c1bc1067a3c07a3adbf1"
+    },
+    "/Users/keemhayeon/Downloads/Codex/scieum_ppt/assets/reference-library": {
+      "kind": "directory"
+    },
+    "/Users/keemhayeon/Downloads/Codex/scieum_ppt/assets/reference-library/20261027/R01.pdf": {
+      "kind": "file",
+      "sha256": "3aec9500faa7284ae6de6e3fba7e29b6ebf1472a072b89494e44c93ebfd402a0"
+    },
+    "/Users/keemhayeon/Downloads/Codex/scieum_ppt/assets/reference-library/20261027/R02.pdf": {
+      "kind": "file",
+      "sha256": "ead2275da72baf5c5cafb4ab3eef4752f91fa652ff4391517e15a94502e2a73b"
+    },
+    "/Users/keemhayeon/Downloads/Codex/scieum_ppt/assets/reference-library/20261027/R03.pdf": {
+      "kind": "file",
+      "sha256": "c03c2c2b5cdabcc1a7405c280e659b5c224571305024397b54249c33bd4cf085"
+    },
+    "/Users/keemhayeon/Downloads/Codex/scieum_ppt/assets/reference-library/20261027/R04.pdf": {
+      "kind": "file",
+      "sha256": "4e432dd82365fca807e4d8fdad03504ca7cf6b1f949d77a7db9c9542b1887242"
+    },
+    "/Users/keemhayeon/Downloads/Codex/scieum_ppt/assets/reference-library/20261027/R05.pdf": {
+      "kind": "file",
+      "sha256": "223863d9794a32a704b0e6f8f9b0c7edffc702ffc945d339c04f18980c4fd61e"
+    },
+    "/Users/keemhayeon/Downloads/Codex/scieum_ppt/assets/reference-library/20261027/R06.pdf": {
+      "kind": "file",
+      "sha256": "a279d25f3420d6ae5199edde40e2d5df323d28660f0a70458e88db21ae79129d"
+    },
+    "/Users/keemhayeon/Downloads/Codex/scieum_ppt/assets/reference-library/20261027/README.md": {
+      "kind": "file",
+      "sha256": "b7a29e445e7755ffb10c36ee6f2fb2c7307f93d2bf3bb5d154d39747f475fe28"
+    },
+    "/Users/keemhayeon/Downloads/Codex/scieum_ppt/assets/reference-library/20261027/components/R02-p67-curved-arrow.png": {
+      "kind": "file",
+      "sha256": "def0b20ee2bb9cd68b51dc0e26bbb4db4852985df953d7309ebb6c115adf22e5"
+    },
+    "/Users/keemhayeon/Downloads/Codex/scieum_ppt/assets/reference-library/20261027/components/R03-p22-whiteboard-original.png": {
+      "kind": "file",
+      "sha256": "421f9390606913060809a6b532349965eb8c9fdccda5e4e4b7e7e5868c2725cd"
+    },
+    "/Users/keemhayeon/Downloads/Codex/scieum_ppt/assets/reference-library/20261027/components/manifest.json": {
+      "kind": "file",
+      "sha256": "e86152a6e424e860a03af5b78f89498a4f3f9c5eb4a6ff4a59bfea17b769a9d6"
+    },
+    "/Users/keemhayeon/Downloads/Codex/scieum_ppt/assets/reference-library/20261027/manifest.json": {
+      "kind": "file",
+      "sha256": "994a3c6faf3e54a01693485979ffbd06bb7bc78caf28dd72c341f042995094ce"
+    },
+    "/Users/keemhayeon/Downloads/Codex/scieum_ppt/assets/reference-library/README.md": {
+      "kind": "file",
+      "sha256": "e98b12fd23ee3a72111ea1ac011b5b7d4f8a95b7df56f5bf361fd10f0302fb0c"
+    }
+  }
+}

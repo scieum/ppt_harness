@@ -1,0 +1,19 @@
+{"schema":"openai.presentation.layout/v5","unit":"px","slide":{"id":"sl/4freru","index":4,"layout":{"id":"ly/el8r25g7","name":"Blank"},"backgroundColor":"rgba(0,0,0,1)","position":{"left":0,"top":0,"width":1920,"height":1080}},
+"elements":[
+{"id":"im/xcvqpsju","kind":"image","position":{"left":1778.67,"top":40,"width":108,"height":77.33},"fit":"contain","alt":"사이음 공식 로고"},
+{"id":"sh/ryhwvy5c","kind":"textbox","name":"copyright","position":{"left":1440,"top":1034,"width":440,"height":30},"text":"© 2026. @sci_eum. All rights reserved.","style":{"fontSize":21,"typeface":"Pretendard","color":"#FFFFFF","alignment":"right"},"geometry":"rect","lineWidth":0},
+{"id":"sh/qxovmt4r","kind":"textbox","name":"text","position":{"left":72,"top":76,"width":1530,"height":54},"text":"Part 1 엔트로피의 의미","style":{"fontSize":38,"typeface":"Pretendard","color":"#898989","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/5wfeton6","kind":"textbox","name":"text","position":{"left":72,"top":134,"width":70,"height":64},"text":"01","style":{"fontSize":48.8,"typeface":"Pretendard","color":"#9FFF68","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/4v6dkj61","kind":"textbox","name":"text","position":{"left":146,"top":134,"width":1550,"height":64},"text":"엔트로피","style":{"fontSize":48.8,"typeface":"Pretendard","color":"#FFFFFF","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/3uxwry5g","kind":"textbox","name":"rich","position":{"left":190,"top":279,"width":1540,"height":105},"text":"무질서도를 나타내는 척도","style":{"fontSize":76.4,"typeface":"Pretendard","color":"#9FFF68","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/itovitov","kind":"textbox","name":"text","position":{"left":590,"top":432,"width":500,"height":105},"text":"엔트로피","style":{"fontSize":78,"typeface":"Pretendard","color":"#FFFFFF","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/hsfepona","kind":"textbox","name":"text","position":{"left":1095,"top":449,"width":290,"height":80},"text":"기호 S","style":{"fontSize":56,"typeface":"Pretendard","color":"#9FFF68","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/gr6dgj6p","kind":"shape","name":"정의 핵심 밑줄","position":{"left":620,"top":548,"width":678,"height":1},"geometry":"custom","lineColor":"#9FFF68","lineWidth":4},
+{"id":"sh/yd07yto3","kind":"textbox","name":"text","position":{"left":320,"top":587,"width":1280,"height":70},"text":"무질서도가 클수록 엔트로피가 크다.","style":{"fontSize":44,"typeface":"Pretendard","color":"#FFFFFF","alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"im/kz6x4rat","kind":"image","position":{"left":280,"top":717,"width":220,"height":264},"fit":"contain","alt":"클라우지우스 기존 캐릭터"},
+{"id":"sh/kf2p036t","kind":"textbox","name":"text","position":{"left":530,"top":752,"width":430,"height":62},"text":"클라우지우스","style":{"fontSize":39,"typeface":"Pretendard","color":"#9FFF68","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/lgbqtone","kind":"textbox","name":"text","position":{"left":530,"top":826,"width":460,"height":58},"text":"엔트로피 개념 도입","style":{"fontSize":34,"typeface":"Pretendard","color":"#FFFFFF","alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"im/xwve9cr2","kind":"image","position":{"left":1040,"top":717,"width":218,"height":264},"fit":"contain","alt":"볼츠만 기존 캐릭터"},
+{"id":"sh/ba9one5c","kind":"textbox","name":"text","position":{"left":1288,"top":752,"width":440,"height":62},"text":"볼츠만","style":{"fontSize":39,"typeface":"Pretendard","color":"#9FFF68","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/cbipwj6x","kind":"textbox","name":"text","position":{"left":1288,"top":826,"width":480,"height":58},"text":"엔트로피의 통계적 해석","style":{"fontSize":34,"typeface":"Pretendard","color":"#FFFFFF","alignment":"left"},"geometry":"rect","lineWidth":0}
+]}

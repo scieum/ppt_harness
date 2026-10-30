@@ -1,0 +1,124 @@
+{
+  "unit": "3-03_엔트로피",
+  "templates": [
+    {
+      "id": "R-cover",
+      "type": "cover",
+      "slide": 1,
+      "source": {
+        "path": "design-review/references/user-edited.pptx",
+        "sha256": "55c3b53334c4675e6469466fedf6a150abba9ca3053e3920a70795b0eb5910c4"
+      },
+      "render": {
+        "path": "design-review/references/R01.png",
+        "sha256": "90a55970e6717b049a307209cc6e688d283cf1845d30bafc83d26faeab4e3834"
+      },
+      "layout": {
+        "path": "design-review/references/R01.layout.json",
+        "sha256": "c69907296cdb6d6472b26893174e7bf9574c6e7bf0c71f000b1e9988af14ee8f"
+      }
+    },
+    {
+      "id": "R-part",
+      "type": "part",
+      "slide": 5,
+      "source": {
+        "path": "design-review/references/user-edited.pptx",
+        "sha256": "55c3b53334c4675e6469466fedf6a150abba9ca3053e3920a70795b0eb5910c4"
+      },
+      "render": {
+        "path": "design-review/references/R05.png",
+        "sha256": "682a79b4a2fe7d905bda38640500b0f8ffc6ad90afde4a6f03c56584d3ffa0b0"
+      },
+      "layout": {
+        "path": "design-review/references/R05.layout.json",
+        "sha256": "68e00a793836d8beb04fce0ce375eb3626cee1c8a804ae1f48f790ba70442874"
+      }
+    },
+    {
+      "id": "R-objectives",
+      "type": "objectives",
+      "slide": 3,
+      "source": {
+        "path": "design-review/references/user-edited.pptx",
+        "sha256": "55c3b53334c4675e6469466fedf6a150abba9ca3053e3920a70795b0eb5910c4"
+      },
+      "render": {
+        "path": "design-review/references/R03.png",
+        "sha256": "1389f02a4c6c065e32ec4a48532b51b4f73c58bb7cb904a8a469ef262c7ca3d4"
+      },
+      "layout": {
+        "path": "design-review/references/R03.layout.json",
+        "sha256": "9b24edd5759b9674f98724d1e9d1eebfde53f9d8f8aab78e0462afecdc574cb2"
+      }
+    },
+    {
+      "id": "R-contents",
+      "type": "contents",
+      "slide": 2,
+      "source": {
+        "path": "design-review/references/user-edited.pptx",
+        "sha256": "55c3b53334c4675e6469466fedf6a150abba9ca3053e3920a70795b0eb5910c4"
+      },
+      "render": {
+        "path": "design-review/references/R02.png",
+        "sha256": "7307cc7c21582d6d427a14ce948e3425e739bea93927e6f9e9a47b8fe042079f"
+      },
+      "layout": {
+        "path": "design-review/references/R02.layout.json",
+        "sha256": "a0bdbeefe501d134b39184e30efae12a7d028cc9094cc20565a8411344b23a28"
+      }
+    },
+    {
+      "id": "R-figure",
+      "type": "figure",
+      "slide": 36,
+      "source": {
+        "path": "design-review/references/user-edited.pptx",
+        "sha256": "55c3b53334c4675e6469466fedf6a150abba9ca3053e3920a70795b0eb5910c4"
+      },
+      "render": {
+        "path": "design-review/references/R36.png",
+        "sha256": "e74f3c0e5e1047427c0d8e294c9caa982f4dc71858dbdb00d3f8c79603557062"
+      },
+      "layout": {
+        "path": "design-review/references/R36.layout.json",
+        "sha256": "3941254af9ad7e0a39c18a630e8ba985821f060455100b10de55f092ad131a86"
+      }
+    },
+    {
+      "id": "R-table_formula",
+      "type": "table_formula",
+      "slide": 18,
+      "source": {
+        "path": "design-review/references/user-edited.pptx",
+        "sha256": "55c3b53334c4675e6469466fedf6a150abba9ca3053e3920a70795b0eb5910c4"
+      },
+      "render": {
+        "path": "design-review/references/R18.png",
+        "sha256": "ec9b65dc5766ae3f8293d946cf3a52486e2ed65387a8c045cd221384920fc31d"
+      },
+      "layout": {
+        "path": "design-review/references/R18.layout.json",
+        "sha256": "c64c0cf5c103f312163d820b6dd71f2c1bae31c05f20972d3ae322008806e28e"
+      }
+    },
+    {
+      "id": "R-comparison",
+      "type": "comparison",
+      "slide": 11,
+      "source": {
+        "path": "design-review/references/user-edited.pptx",
+        "sha256": "55c3b53334c4675e6469466fedf6a150abba9ca3053e3920a70795b0eb5910c4"
+      },
+      "render": {
+        "path": "design-review/references/R11.png",
+        "sha256": "4424115e42450e72862d2174a224c6edd1b1b9132d813cbd1651d13b709de060"
+      },
+      "layout": {
+        "path": "design-review/references/R11.layout.json",
+        "sha256": "245109233b09176d89a2d9b2c40847971a8cd2d4f7805b30e63ed23adaa6bfa9"
+      }
+    }
+  ]
+}

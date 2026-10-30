@@ -1,0 +1,21 @@
+{
+  "results": [
+    {
+      "kind": "01_cover",
+      "filename": "3-01_V10_01_cover.svg",
+      "result": {
+        "success": true,
+        "imageHash": "fd0f6a13ffbf787f495eab9ef170a8e00a7b94a0",
+        "sizeBytes": 2490728,
+        "contentType": "image/svg+xml",
+        "placedOnNodeId": "39:2"
+      }
+    }
+  ],
+  "unchanged_nodes": {
+    "contents": "30:2",
+    "objectives": "34:2"
+  },
+  "remote_visual_verification": "not performed; Figma read/script tools hit Starter plan limit",
+  "text_editability": "font outlines; separate vectors/images; not native text strings"
+}

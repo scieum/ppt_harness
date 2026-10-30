@@ -1,0 +1,903 @@
+{
+  "artifact_sha256": "a594fa0b148c2e62743b391cc6d73d75de1194c71f638d783c097dad97d09d19",
+  "render_sha256": "df1643d180c6add89af891fa82fea9ea23d47222d1d87aa754dfa3652be119b6",
+  "exporter": "artifact-tool layout/v5 normalized actual named objects; grouped roles retain raw member geometry",
+  "canvas": [
+    1920,
+    1080
+  ],
+  "objects": [
+    {
+      "role": "part_blocks",
+      "kind": "image",
+      "bbox": [
+        208,
+        441.33,
+        1366.67,
+        398.67
+      ],
+      "fill": [
+        "none"
+      ],
+      "font_family": [
+        null
+      ],
+      "font_size": [
+        null
+      ],
+      "font_weight": [
+        400
+      ],
+      "alignment": [
+        null
+      ],
+      "character_asset_id": null,
+      "members": [
+        {
+          "id": "im/58bmlgvm",
+          "kind": "image",
+          "position": {
+            "left": 208,
+            "top": 441.33,
+            "width": 1366.67,
+            "height": 398.67
+          },
+          "fit": "contain",
+          "alt": "part_blocks"
+        }
+      ]
+    },
+    {
+      "role": "original_object_04",
+      "kind": "image",
+      "bbox": [
+        453.33,
+        504,
+        254.67000000000002,
+        208
+      ],
+      "fill": [
+        "none"
+      ],
+      "font_family": [
+        null
+      ],
+      "font_size": [
+        null
+      ],
+      "font_weight": [
+        400
+      ],
+      "alignment": [
+        null
+      ],
+      "character_asset_id": null,
+      "members": [
+        {
+          "id": "im/i503qlwb",
+          "kind": "image",
+          "position": {
+            "left": 453.33,
+            "top": 504,
+            "width": 254.67,
+            "height": 208
+          },
+          "fit": "contain",
+          "alt": "original_object_04"
+        }
+      ]
+    },
+    {
+      "role": "original_object_05",
+      "kind": "image",
+      "bbox": [
+        840,
+        504,
+        254.67000000000007,
+        208
+      ],
+      "fill": [
+        "none"
+      ],
+      "font_family": [
+        null
+      ],
+      "font_size": [
+        null
+      ],
+      "font_weight": [
+        400
+      ],
+      "alignment": [
+        null
+      ],
+      "character_asset_id": null,
+      "members": [
+        {
+          "id": "im/j6t4j6dw",
+          "kind": "image",
+          "position": {
+            "left": 840,
+            "top": 504,
+            "width": 254.67,
+            "height": 208
+          },
+          "fit": "contain",
+          "alt": "original_object_05"
+        }
+      ]
+    },
+    {
+      "role": "original_object_06",
+      "kind": "image",
+      "bbox": [
+        1228,
+        502.67,
+        254.67000000000007,
+        226.67000000000002
+      ],
+      "fill": [
+        "none"
+      ],
+      "font_family": [
+        null
+      ],
+      "font_size": [
+        null
+      ],
+      "font_weight": [
+        400
+      ],
+      "alignment": [
+        null
+      ],
+      "character_asset_id": null,
+      "members": [
+        {
+          "id": "im/w3ilobe5",
+          "kind": "image",
+          "position": {
+            "left": 1228,
+            "top": 502.67,
+            "width": 254.67,
+            "height": 226.67
+          },
+          "fit": "contain",
+          "alt": "original_object_06"
+        }
+      ]
+    },
+    {
+      "role": "original_object_13",
+      "kind": "image",
+      "bbox": [
+        1557.33,
+        441.33,
+        37.32999999999993,
+        166.67000000000002
+      ],
+      "fill": [
+        "none"
+      ],
+      "font_family": [
+        null
+      ],
+      "font_size": [
+        null
+      ],
+      "font_weight": [
+        400
+      ],
+      "alignment": [
+        null
+      ],
+      "character_asset_id": null,
+      "members": [
+        {
+          "id": "im/x4rmhgvq",
+          "kind": "image",
+          "position": {
+            "left": 1557.33,
+            "top": 441.33,
+            "width": 37.33,
+            "height": 166.67
+          },
+          "fit": "contain",
+          "alt": "original_object_13"
+        }
+      ]
+    },
+    {
+      "role": "original_object_14",
+      "kind": "image",
+      "bbox": [
+        1537.33,
+        454.67,
+        42.67000000000007,
+        94.67000000000002
+      ],
+      "fill": [
+        "none"
+      ],
+      "font_family": [
+        null
+      ],
+      "font_size": [
+        null
+      ],
+      "font_weight": [
+        400
+      ],
+      "alignment": [
+        null
+      ],
+      "character_asset_id": null,
+      "members": [
+        {
+          "id": "im/ah03m1wz",
+          "kind": "image",
+          "position": {
+            "left": 1537.33,
+            "top": 454.67,
+            "width": 42.67,
+            "height": 94.67
+          },
+          "fit": "contain",
+          "alt": "original_object_14"
+        }
+      ]
+    },
+    {
+      "role": "original_object_15",
+      "kind": "image",
+      "bbox": [
+        1537.33,
+        745.33,
+        42.67000000000007,
+        94.66999999999996
+      ],
+      "fill": [
+        "none"
+      ],
+      "font_family": [
+        null
+      ],
+      "font_size": [
+        null
+      ],
+      "font_weight": [
+        400
+      ],
+      "alignment": [
+        null
+      ],
+      "character_asset_id": null,
+      "members": [
+        {
+          "id": "im/vi94f6dk",
+          "kind": "image",
+          "position": {
+            "left": 1537.33,
+            "top": 745.33,
+            "width": 42.67,
+            "height": 94.67
+          },
+          "fit": "contain",
+          "alt": "original_object_15"
+        }
+      ]
+    },
+    {
+      "role": "original_object_16",
+      "kind": "image",
+      "bbox": [
+        1552,
+        700,
+        42.67000000000007,
+        94.66999999999996
+      ],
+      "fill": [
+        "none"
+      ],
+      "font_family": [
+        null
+      ],
+      "font_size": [
+        null
+      ],
+      "font_weight": [
+        400
+      ],
+      "alignment": [
+        null
+      ],
+      "character_asset_id": null,
+      "members": [
+        {
+          "id": "im/gzm50ve9",
+          "kind": "image",
+          "position": {
+            "left": 1552,
+            "top": 700,
+            "width": 42.67,
+            "height": 94.67
+          },
+          "fit": "contain",
+          "alt": "original_object_16"
+        }
+      ]
+    },
+    {
+      "role": "sci_eum_logo",
+      "kind": "image",
+      "bbox": [
+        1778.67,
+        40,
+        108.0,
+        77.33
+      ],
+      "fill": [
+        "none"
+      ],
+      "font_family": [
+        null
+      ],
+      "font_size": [
+        null
+      ],
+      "font_weight": [
+        400
+      ],
+      "alignment": [
+        null
+      ],
+      "character_asset_id": null,
+      "members": [
+        {
+          "id": "im/h0vmt0vu",
+          "kind": "image",
+          "position": {
+            "left": 1778.67,
+            "top": 40,
+            "width": 108,
+            "height": 77.33
+          },
+          "fit": "contain",
+          "alt": "sci_eum_logo"
+        }
+      ]
+    },
+    {
+      "role": "copyright",
+      "kind": "textbox",
+      "bbox": [
+        1535,
+        1035.73,
+        342,
+        30.0
+      ],
+      "fill": [
+        "none"
+      ],
+      "font_family": [
+        "Pretendard"
+      ],
+      "font_size": [
+        17
+      ],
+      "font_weight": [
+        400
+      ],
+      "alignment": [
+        "right"
+      ],
+      "character_asset_id": null,
+      "members": [
+        {
+          "id": "sh/uh4nilw3",
+          "kind": "textbox",
+          "name": "copyright",
+          "position": {
+            "left": 1535,
+            "top": 1035.73,
+            "width": 342,
+            "height": 30
+          },
+          "text": "© 2026. @sci_eum. All rights reserved.",
+          "style": {
+            "fontSize": 17,
+            "typeface": "Pretendard",
+            "color": "#111111",
+            "alignment": "right"
+          },
+          "geometry": "rect",
+          "lineWidth": 0
+        }
+      ]
+    },
+    {
+      "role": "title",
+      "kind": "textbox",
+      "bbox": [
+        326.7,
+        269.95,
+        1268.0,
+        127.0
+      ],
+      "fill": [
+        "none"
+      ],
+      "font_family": [
+        "Pretendard"
+      ],
+      "font_size": [
+        94
+      ],
+      "font_weight": [
+        700
+      ],
+      "alignment": [
+        "center"
+      ],
+      "character_asset_id": null,
+      "members": [
+        {
+          "id": "sh/f2dorqxo",
+          "kind": "textbox",
+          "name": "title",
+          "position": {
+            "left": 326.7,
+            "top": 269.95,
+            "width": 1268,
+            "height": 127
+          },
+          "text": "이번 단원의 목차",
+          "style": {
+            "fontSize": 94,
+            "typeface": "Pretendard",
+            "color": "#111111",
+            "bold": true,
+            "alignment": "center"
+          },
+          "geometry": "rect",
+          "lineWidth": 0
+        }
+      ]
+    },
+    {
+      "role": "part_1",
+      "kind": "textbox",
+      "bbox": [
+        473.3,
+        540.3,
+        279.99999999999994,
+        44.0
+      ],
+      "fill": [
+        "none"
+      ],
+      "font_family": [
+        "Pretendard"
+      ],
+      "font_size": [
+        36
+      ],
+      "font_weight": [
+        700
+      ],
+      "alignment": [
+        "left"
+      ],
+      "character_asset_id": null,
+      "members": [
+        {
+          "id": "sh/g3m5kve9",
+          "kind": "textbox",
+          "name": "part_1",
+          "position": {
+            "left": 473.3,
+            "top": 540.3,
+            "width": 280,
+            "height": 44
+          },
+          "text": "PART 1",
+          "style": {
+            "fontSize": 36,
+            "typeface": "Pretendard",
+            "color": "#9FFF68",
+            "bold": true,
+            "alignment": "left"
+          },
+          "geometry": "rect",
+          "lineWidth": 0
+        }
+      ]
+    },
+    {
+      "role": "part_title_1-line0",
+      "kind": "textbox",
+      "bbox": [
+        484,
+        595.15,
+        295,
+        55.0
+      ],
+      "fill": [
+        "none"
+      ],
+      "font_family": [
+        "Pretendard"
+      ],
+      "font_size": [
+        38
+      ],
+      "font_weight": [
+        400
+      ],
+      "alignment": [
+        "left"
+      ],
+      "character_asset_id": null,
+      "members": [
+        {
+          "id": "sh/h4v6t0fu",
+          "kind": "textbox",
+          "name": "part_title_1-line0",
+          "position": {
+            "left": 484,
+            "top": 595.15,
+            "width": 295,
+            "height": 55
+          },
+          "text": "엔탈피와",
+          "style": {
+            "fontSize": 38,
+            "typeface": "Pretendard",
+            "color": "#FFFFFF",
+            "alignment": "left"
+          },
+          "geometry": "rect",
+          "lineWidth": 0
+        }
+      ]
+    },
+    {
+      "role": "part_title_1-line1",
+      "kind": "textbox",
+      "bbox": [
+        484,
+        644.15,
+        295,
+        55.0
+      ],
+      "fill": [
+        "none"
+      ],
+      "font_family": [
+        "Pretendard"
+      ],
+      "font_size": [
+        38
+      ],
+      "font_weight": [
+        400
+      ],
+      "alignment": [
+        "left"
+      ],
+      "character_asset_id": null,
+      "members": [
+        {
+          "id": "sh/6dknelwr",
+          "kind": "textbox",
+          "name": "part_title_1-line1",
+          "position": {
+            "left": 484,
+            "top": 644.15,
+            "width": 295,
+            "height": 55
+          },
+          "text": "열화학 반응식",
+          "style": {
+            "fontSize": 38,
+            "typeface": "Pretendard",
+            "color": "#FFFFFF",
+            "alignment": "left"
+          },
+          "geometry": "rect",
+          "lineWidth": 0
+        }
+      ]
+    },
+    {
+      "role": "part_2",
+      "kind": "textbox",
+      "bbox": [
+        857.3,
+        540.3,
+        280.0,
+        44.0
+      ],
+      "fill": [
+        "none"
+      ],
+      "font_family": [
+        "Pretendard"
+      ],
+      "font_size": [
+        36
+      ],
+      "font_weight": [
+        700
+      ],
+      "alignment": [
+        "left"
+      ],
+      "character_asset_id": null,
+      "members": [
+        {
+          "id": "sh/7et4nqxc",
+          "kind": "textbox",
+          "name": "part_2",
+          "position": {
+            "left": 857.3,
+            "top": 540.3,
+            "width": 280,
+            "height": 44
+          },
+          "text": "PART 2",
+          "style": {
+            "fontSize": 36,
+            "typeface": "Pretendard",
+            "color": "#9FFF68",
+            "bold": true,
+            "alignment": "left"
+          },
+          "geometry": "rect",
+          "lineWidth": 0
+        }
+      ]
+    },
+    {
+      "role": "part_title_2-line0",
+      "kind": "textbox",
+      "bbox": [
+        868,
+        595.15,
+        295,
+        55.0
+      ],
+      "fill": [
+        "none"
+      ],
+      "font_family": [
+        "Pretendard"
+      ],
+      "font_size": [
+        38
+      ],
+      "font_weight": [
+        400
+      ],
+      "alignment": [
+        "left"
+      ],
+      "character_asset_id": null,
+      "members": [
+        {
+          "id": "sh/sf25gbex",
+          "kind": "textbox",
+          "name": "part_title_2-line0",
+          "position": {
+            "left": 868,
+            "top": 595.15,
+            "width": 295,
+            "height": 55
+          },
+          "text": "연료의",
+          "style": {
+            "fontSize": 38,
+            "typeface": "Pretendard",
+            "color": "#FFFFFF",
+            "alignment": "left"
+          },
+          "geometry": "rect",
+          "lineWidth": 0
+        }
+      ]
+    },
+    {
+      "role": "part_title_2-line1",
+      "kind": "textbox",
+      "bbox": [
+        868,
+        644.15,
+        295,
+        55.0
+      ],
+      "fill": [
+        "none"
+      ],
+      "font_family": [
+        "Pretendard"
+      ],
+      "font_size": [
+        38
+      ],
+      "font_weight": [
+        400
+      ],
+      "alignment": [
+        "left"
+      ],
+      "character_asset_id": null,
+      "members": [
+        {
+          "id": "sh/tgb6pgfi",
+          "kind": "textbox",
+          "name": "part_title_2-line1",
+          "position": {
+            "left": 868,
+            "top": 644.15,
+            "width": 295,
+            "height": 55
+          },
+          "text": "효율성",
+          "style": {
+            "fontSize": 38,
+            "typeface": "Pretendard",
+            "color": "#FFFFFF",
+            "alignment": "left"
+          },
+          "geometry": "rect",
+          "lineWidth": 0
+        }
+      ]
+    },
+    {
+      "role": "part_3",
+      "kind": "textbox",
+      "bbox": [
+        1242.7,
+        540.3,
+        280.0,
+        44.0
+      ],
+      "fill": [
+        "none"
+      ],
+      "font_family": [
+        "Pretendard"
+      ],
+      "font_size": [
+        36
+      ],
+      "font_weight": [
+        700
+      ],
+      "alignment": [
+        "left"
+      ],
+      "character_asset_id": null,
+      "members": [
+        {
+          "id": "sh/q9onq5wb",
+          "kind": "textbox",
+          "name": "part_3",
+          "position": {
+            "left": 1242.7,
+            "top": 540.3,
+            "width": 280,
+            "height": 44
+          },
+          "text": "PART 3",
+          "style": {
+            "fontSize": 36,
+            "typeface": "Pretendard",
+            "color": "#9FFF68",
+            "bold": true,
+            "alignment": "left"
+          },
+          "geometry": "rect",
+          "lineWidth": 0
+        }
+      ]
+    },
+    {
+      "role": "part_title_3-line0",
+      "kind": "textbox",
+      "bbox": [
+        1253.4,
+        595.15,
+        295.0,
+        55.0
+      ],
+      "fill": [
+        "none"
+      ],
+      "font_family": [
+        "Pretendard"
+      ],
+      "font_size": [
+        38
+      ],
+      "font_weight": [
+        400
+      ],
+      "alignment": [
+        "left"
+      ],
+      "character_asset_id": null,
+      "members": [
+        {
+          "id": "sh/raxozadw",
+          "kind": "textbox",
+          "name": "part_title_3-line0",
+          "position": {
+            "left": 1253.4,
+            "top": 595.15,
+            "width": 295,
+            "height": 55
+          },
+          "text": "결합 에너지와",
+          "style": {
+            "fontSize": 38,
+            "typeface": "Pretendard",
+            "color": "#FFFFFF",
+            "alignment": "left"
+          },
+          "geometry": "rect",
+          "lineWidth": 0
+        }
+      ]
+    },
+    {
+      "role": "part_title_3-line1",
+      "kind": "textbox",
+      "bbox": [
+        1253.4,
+        644.15,
+        295.0,
+        55.0
+      ],
+      "fill": [
+        "none"
+      ],
+      "font_family": [
+        "Pretendard"
+      ],
+      "font_size": [
+        38
+      ],
+      "font_weight": [
+        400
+      ],
+      "alignment": [
+        "left"
+      ],
+      "character_asset_id": null,
+      "members": [
+        {
+          "id": "sh/nepkb2d8",
+          "kind": "textbox",
+          "name": "part_title_3-line1",
+          "position": {
+            "left": 1253.4,
+            "top": 644.15,
+            "width": 295,
+            "height": 55
+          },
+          "text": "반응 엔탈피",
+          "style": {
+            "fontSize": 38,
+            "typeface": "Pretendard",
+            "color": "#FFFFFF",
+            "alignment": "left"
+          },
+          "geometry": "rect",
+          "lineWidth": 0
+        }
+      ]
+    }
+  ]
+}

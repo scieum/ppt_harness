@@ -1,0 +1,434 @@
+[
+  {
+    "id": "fragrance-original",
+    "pdf_page": 90,
+    "printed_page": 90,
+    "source": "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/inbox/textbook/chunjae/고_물질과에너지(임희준)_교과서.pdf",
+    "measurement_scale": 1.2,
+    "crop_bbox": [
+      505,
+      166,
+      645,
+      307
+    ],
+    "render_scale": 6,
+    "method": "original PDF page extraction; no redrawing",
+    "file": "assets/crops/fragrance-original.png"
+  },
+  {
+    "id": "water-states",
+    "pdf_page": 90,
+    "printed_page": 90,
+    "source": "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/inbox/textbook/chunjae/고_물질과에너지(임희준)_교과서.pdf",
+    "measurement_scale": 1.2,
+    "crop_bbox": [
+      210,
+      540,
+      661,
+      701
+    ],
+    "render_scale": 6,
+    "method": "original PDF page extraction; no redrawing",
+    "file": "assets/crops/water-states.png"
+  },
+  {
+    "id": "state-change",
+    "pdf_page": 91,
+    "printed_page": 91,
+    "source": "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/inbox/textbook/chunjae/고_물질과에너지(임희준)_교과서.pdf",
+    "measurement_scale": 1.2,
+    "crop_bbox": [
+      115,
+      255,
+      491,
+      334
+    ],
+    "render_scale": 6,
+    "method": "original PDF page extraction; no redrawing",
+    "file": "assets/crops/state-change.png"
+  },
+  {
+    "id": "ammonia-model",
+    "pdf_page": 91,
+    "printed_page": 91,
+    "source": "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/inbox/textbook/chunjae/고_물질과에너지(임희준)_교과서.pdf",
+    "measurement_scale": 1.2,
+    "crop_bbox": [
+      136,
+      513,
+      475,
+      632
+    ],
+    "render_scale": 6,
+    "method": "original PDF page extraction; no redrawing",
+    "file": "assets/crops/ammonia-model.png"
+  },
+  {
+    "id": "ammonia-equation",
+    "pdf_page": 91,
+    "printed_page": 91,
+    "source": "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/inbox/textbook/chunjae/고_물질과에너지(임희준)_교과서.pdf",
+    "measurement_scale": 1.2,
+    "crop_bbox": [
+      226,
+      636,
+      386,
+      654
+    ],
+    "render_scale": 6,
+    "method": "original PDF page extraction; no redrawing",
+    "file": "assets/crops/ammonia-equation.png"
+  },
+  {
+    "id": "gas-mixing",
+    "pdf_page": 91,
+    "printed_page": 91,
+    "source": "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/inbox/textbook/chunjae/고_물질과에너지(임희준)_교과서.pdf",
+    "measurement_scale": 1.2,
+    "crop_bbox": [
+      547,
+      707,
+      683,
+      833
+    ],
+    "render_scale": 6,
+    "method": "original PDF page extraction; no redrawing",
+    "file": "assets/crops/gas-mixing.png"
+  },
+  {
+    "id": "check-condense",
+    "pdf_page": 91,
+    "printed_page": 91,
+    "source": "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/inbox/textbook/chunjae/고_물질과에너지(임희준)_교과서.pdf",
+    "measurement_scale": 1.2,
+    "crop_bbox": [
+      139,
+      848,
+      246,
+      868
+    ],
+    "render_scale": 6,
+    "method": "original PDF page extraction; no redrawing",
+    "file": "assets/crops/check-condense.png"
+  },
+  {
+    "id": "check-no",
+    "pdf_page": 91,
+    "printed_page": 91,
+    "source": "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/inbox/textbook/chunjae/고_물질과에너지(임희준)_교과서.pdf",
+    "measurement_scale": 1.2,
+    "crop_bbox": [
+      321,
+      848,
+      484,
+      868
+    ],
+    "render_scale": 6,
+    "method": "original PDF page extraction; no redrawing",
+    "file": "assets/crops/check-no.png"
+  },
+  {
+    "id": "systems",
+    "pdf_page": 93,
+    "printed_page": 93,
+    "source": "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/inbox/textbook/chunjae/고_물질과에너지(임희준)_교과서.pdf",
+    "measurement_scale": 1.2,
+    "crop_bbox": [
+      87,
+      78,
+      523,
+      335
+    ],
+    "render_scale": 6,
+    "method": "original PDF page extraction; no redrawing",
+    "file": "assets/crops/systems.png"
+  },
+  {
+    "id": "isolated",
+    "pdf_page": 93,
+    "printed_page": 93,
+    "source": "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/inbox/textbook/chunjae/고_물질과에너지(임희준)_교과서.pdf",
+    "measurement_scale": 1.2,
+    "crop_bbox": [
+      88,
+      78,
+      231,
+      335
+    ],
+    "render_scale": 6,
+    "method": "original PDF page extraction; no redrawing",
+    "file": "assets/crops/isolated.png"
+  },
+  {
+    "id": "closed-open",
+    "pdf_page": 93,
+    "printed_page": 93,
+    "source": "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/inbox/textbook/chunjae/고_물질과에너지(임희준)_교과서.pdf",
+    "measurement_scale": 1.2,
+    "crop_bbox": [
+      233,
+      78,
+      523,
+      335
+    ],
+    "render_scale": 6,
+    "method": "original PDF page extraction; no redrawing",
+    "file": "assets/crops/closed-open.png"
+  },
+  {
+    "id": "heat-flow",
+    "pdf_page": 93,
+    "printed_page": 93,
+    "source": "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/inbox/textbook/chunjae/고_물질과에너지(임희준)_교과서.pdf",
+    "measurement_scale": 1.2,
+    "crop_bbox": [
+      105,
+      675,
+      507,
+      814
+    ],
+    "render_scale": 6,
+    "method": "original PDF page extraction; no redrawing",
+    "file": "assets/crops/heat-flow.png"
+  },
+  {
+    "id": "snow-photo",
+    "pdf_page": 94,
+    "printed_page": 94,
+    "source": "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/inbox/textbook/chunjae/고_물질과에너지(임희준)_교과서.pdf",
+    "measurement_scale": 1.2,
+    "crop_bbox": [
+      210,
+      408,
+      427,
+      546
+    ],
+    "render_scale": 6,
+    "method": "original PDF page extraction; no redrawing",
+    "file": "assets/crops/snow-photo.png"
+  },
+  {
+    "id": "flame-photo",
+    "pdf_page": 94,
+    "printed_page": 94,
+    "source": "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/inbox/textbook/chunjae/고_물질과에너지(임희준)_교과서.pdf",
+    "measurement_scale": 1.2,
+    "crop_bbox": [
+      427,
+      408,
+      711,
+      546
+    ],
+    "render_scale": 6,
+    "method": "original PDF page extraction; no redrawing",
+    "file": "assets/crops/flame-photo.png"
+  },
+  {
+    "id": "vapor-photo",
+    "pdf_page": 94,
+    "printed_page": 94,
+    "source": "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/inbox/textbook/chunjae/고_물질과에너지(임희준)_교과서.pdf",
+    "measurement_scale": 1.2,
+    "crop_bbox": [
+      210,
+      590,
+      427,
+      730
+    ],
+    "render_scale": 6,
+    "method": "original PDF page extraction; no redrawing",
+    "file": "assets/crops/vapor-photo.png"
+  },
+  {
+    "id": "cooling-photo",
+    "pdf_page": 94,
+    "printed_page": 94,
+    "source": "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/inbox/textbook/chunjae/고_물질과에너지(임희준)_교과서.pdf",
+    "measurement_scale": 1.2,
+    "crop_bbox": [
+      428,
+      590,
+      645,
+      730
+    ],
+    "render_scale": 6,
+    "method": "original PDF page extraction; no redrawing",
+    "file": "assets/crops/cooling-photo.png"
+  },
+  {
+    "id": "snow-equation",
+    "pdf_page": 94,
+    "printed_page": 94,
+    "source": "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/inbox/textbook/chunjae/고_물질과에너지(임희준)_교과서.pdf",
+    "measurement_scale": 1.2,
+    "crop_bbox": [
+      224,
+      561,
+      323,
+      579
+    ],
+    "render_scale": 6,
+    "method": "original PDF page extraction; no redrawing",
+    "file": "assets/crops/snow-equation.png"
+  },
+  {
+    "id": "flame-equation",
+    "pdf_page": 94,
+    "printed_page": 94,
+    "source": "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/inbox/textbook/chunjae/고_물질과에너지(임희준)_교과서.pdf",
+    "measurement_scale": 1.2,
+    "crop_bbox": [
+      440,
+      561,
+      676,
+      579
+    ],
+    "render_scale": 6,
+    "method": "original PDF page extraction; no redrawing",
+    "file": "assets/crops/flame-equation.png"
+  },
+  {
+    "id": "vapor-equation",
+    "pdf_page": 94,
+    "printed_page": 94,
+    "source": "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/inbox/textbook/chunjae/고_물질과에너지(임희준)_교과서.pdf",
+    "measurement_scale": 1.2,
+    "crop_bbox": [
+      224,
+      744,
+      325,
+      761
+    ],
+    "render_scale": 6,
+    "method": "original PDF page extraction; no redrawing",
+    "file": "assets/crops/vapor-equation.png"
+  },
+  {
+    "id": "cooling-equation",
+    "pdf_page": 94,
+    "printed_page": 94,
+    "source": "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/inbox/textbook/chunjae/고_물질과에너지(임희준)_교과서.pdf",
+    "measurement_scale": 1.2,
+    "crop_bbox": [
+      440,
+      744,
+      625,
+      763
+    ],
+    "render_scale": 6,
+    "method": "original PDF page extraction; no redrawing",
+    "file": "assets/crops/cooling-equation.png"
+  },
+  {
+    "id": "four-cases",
+    "pdf_page": 94,
+    "printed_page": 94,
+    "source": "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/inbox/textbook/chunjae/고_물질과에너지(임희준)_교과서.pdf",
+    "measurement_scale": 1.2,
+    "crop_bbox": [
+      209,
+      408,
+      711,
+      763
+    ],
+    "render_scale": 6,
+    "method": "original PDF page extraction; no redrawing",
+    "file": "assets/crops/four-cases.png"
+  },
+  {
+    "id": "case-a",
+    "pdf_page": 95,
+    "printed_page": 95,
+    "source": "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/inbox/textbook/chunjae/고_물질과에너지(임희준)_교과서.pdf",
+    "measurement_scale": 1.2,
+    "crop_bbox": [
+      87,
+      389,
+      347,
+      559
+    ],
+    "render_scale": 6,
+    "method": "original PDF page extraction; no redrawing",
+    "file": "assets/crops/case-a.png"
+  },
+  {
+    "id": "case-b",
+    "pdf_page": 95,
+    "printed_page": 95,
+    "source": "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/inbox/textbook/chunjae/고_물질과에너지(임희준)_교과서.pdf",
+    "measurement_scale": 1.2,
+    "crop_bbox": [
+      364,
+      389,
+      628,
+      559
+    ],
+    "render_scale": 6,
+    "method": "original PDF page extraction; no redrawing",
+    "file": "assets/crops/case-b.png"
+  },
+  {
+    "id": "case-c",
+    "pdf_page": 95,
+    "printed_page": 95,
+    "source": "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/inbox/textbook/chunjae/고_물질과에너지(임희준)_교과서.pdf",
+    "measurement_scale": 1.2,
+    "crop_bbox": [
+      87,
+      572,
+      348,
+      772
+    ],
+    "render_scale": 6,
+    "method": "original PDF page extraction; no redrawing",
+    "file": "assets/crops/case-c.png"
+  },
+  {
+    "id": "case-d",
+    "pdf_page": 95,
+    "printed_page": 95,
+    "source": "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/inbox/textbook/chunjae/고_물질과에너지(임희준)_교과서.pdf",
+    "measurement_scale": 1.2,
+    "crop_bbox": [
+      365,
+      572,
+      628,
+      772
+    ],
+    "render_scale": 6,
+    "method": "original PDF page extraction; no redrawing",
+    "file": "assets/crops/case-d.png"
+  },
+  {
+    "id": "no2-equation",
+    "pdf_page": 95,
+    "printed_page": 95,
+    "source": "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/inbox/textbook/chunjae/고_물질과에너지(임희준)_교과서.pdf",
+    "measurement_scale": 1.2,
+    "crop_bbox": [
+      220,
+      828,
+      449,
+      849
+    ],
+    "render_scale": 6,
+    "method": "original PDF page extraction; no redrawing",
+    "file": "assets/crops/no2-equation.png"
+  },
+  {
+    "id": "system-boundary",
+    "pdf_page": 92,
+    "printed_page": 92,
+    "source": "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/inbox/textbook/chunjae/고_물질과에너지(임희준)_교과서.pdf",
+    "measurement_scale": 1.2,
+    "crop_bbox": [
+      289,
+      478,
+      562,
+      620
+    ],
+    "render_scale": 6,
+    "method": "original PDF page extraction",
+    "file": "assets/crops/system-boundary.png"
+  }
+]

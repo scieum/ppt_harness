@@ -1,0 +1,448 @@
+[
+  {
+    "id": "V10_COVER",
+    "file": {
+      "path": "assets/V10-cover.png",
+      "sha256": "e749c9961b2e0f4a5d0d2fa57646b0220c88d935923d03ee13302355685c7237"
+    },
+    "kind": "existing",
+    "purpose": "V10 visual reference and original layer assets",
+    "review": "passed",
+    "reviewer": "Codex source-page and extracted-asset visual inspection",
+    "provenance": "V10 existing source asset, geometry preserved",
+    "review_note": "Compared with textbook pages 74–81, V10 source renders, and supplied character reference; repaired blank/misaligned legacy crops. Scientific graph labels and atom counts preserved. Generated cutouts inspected for identity, school uniform and alpha."
+  },
+  {
+    "id": "V10_CONTENTS",
+    "file": {
+      "path": "assets/V10-contents.png",
+      "sha256": "220ae9ea9f1b76f26958a3014d0070fc8e8d6a9f9207bde30e0ecc9852084707"
+    },
+    "kind": "existing",
+    "purpose": "V10 visual reference and original layer assets",
+    "review": "passed",
+    "reviewer": "Codex source-page and extracted-asset visual inspection",
+    "provenance": "V10 existing source asset, geometry preserved",
+    "review_note": "Compared with textbook pages 74–81, V10 source renders, and supplied character reference; repaired blank/misaligned legacy crops. Scientific graph labels and atom counts preserved. Generated cutouts inspected for identity, school uniform and alpha."
+  },
+  {
+    "id": "V10_GOALS",
+    "file": {
+      "path": "assets/V10-objectives.png",
+      "sha256": "ab021566854c4464463cb50eecfb520dd3c0d05bdcb0174578c4a6b26ab6d15e"
+    },
+    "kind": "existing",
+    "purpose": "V10 visual reference and original layer assets",
+    "review": "passed",
+    "reviewer": "Codex source-page and extracted-asset visual inspection",
+    "provenance": "V10 existing source asset, geometry preserved",
+    "review_note": "Compared with textbook pages 74–81, V10 source renders, and supplied character reference; repaired blank/misaligned legacy crops. Scientific graph labels and atom counts preserved. Generated cutouts inspected for identity, school uniform and alpha."
+  },
+  {
+    "id": "V10_HOOK",
+    "file": {
+      "path": "assets/V10-hook.png",
+      "sha256": "ec2cee8744607324652fa61f2a53a461cc04d6fef4f6350d0eeaf10698217308"
+    },
+    "kind": "existing",
+    "purpose": "V10 visual reference and original layer assets",
+    "review": "passed",
+    "reviewer": "Codex source-page and extracted-asset visual inspection",
+    "provenance": "V10 existing source asset, geometry preserved",
+    "review_note": "Compared with textbook pages 74–81, V10 source renders, and supplied character reference; repaired blank/misaligned legacy crops. Scientific graph labels and atom counts preserved. Generated cutouts inspected for identity, school uniform and alpha."
+  },
+  {
+    "id": "V10_PART",
+    "file": {
+      "path": "assets/V10-part.png",
+      "sha256": "0116a1846ec973c67e7ef886cce555d4df6d310b909e4ec934ce2468617f156d"
+    },
+    "kind": "existing",
+    "purpose": "V10 visual reference and original layer assets",
+    "review": "passed",
+    "reviewer": "Codex source-page and extracted-asset visual inspection",
+    "provenance": "V10 existing source asset, geometry preserved",
+    "review_note": "Compared with textbook pages 74–81, V10 source renders, and supplied character reference; repaired blank/misaligned legacy crops. Scientific graph labels and atom counts preserved. Generated cutouts inspected for identity, school uniform and alpha."
+  },
+  {
+    "id": "A_EQ1",
+    "file": {
+      "path": "assets/A_EQ1.png",
+      "sha256": "120734168a10fb3ca980f69dc1725ce96d3f2a2a4fc5b9d1ea9eae5d11ee5582"
+    },
+    "kind": "crop",
+    "purpose": "교과서 수식·사진 원본",
+    "review": "passed",
+    "reviewer": "Codex source-page and extracted-asset visual inspection",
+    "source_id": "pdf01",
+    "page": 76,
+    "crop_reference_1376x1791": [
+      595,
+      1412,
+      1095,
+      1480
+    ],
+    "review_note": "Compared with textbook pages 74–81, V10 source renders, and supplied character reference; repaired blank/misaligned legacy crops. Scientific graph labels and atom counts preserved. Generated cutouts inspected for identity, school uniform and alpha."
+  },
+  {
+    "id": "A_EQ2",
+    "file": {
+      "path": "assets/A_EQ2.png",
+      "sha256": "348fb5766fa1785f0fef7e82ff249b8b65873ff8313d2947ad7f19316ec33025"
+    },
+    "kind": "crop",
+    "purpose": "교과서 수식·사진 원본",
+    "review": "passed",
+    "reviewer": "Codex source-page and extracted-asset visual inspection",
+    "source_id": "pdf01",
+    "page": 76,
+    "crop_reference_1376x1791": [
+      630,
+      1543,
+      899,
+      1605
+    ],
+    "review_note": "Compared with textbook pages 74–81, V10 source renders, and supplied character reference; repaired blank/misaligned legacy crops. Scientific graph labels and atom counts preserved. Generated cutouts inspected for identity, school uniform and alpha."
+  },
+  {
+    "id": "EQ_STATE",
+    "file": {
+      "path": "assets/EQ_STATE.png",
+      "sha256": "9d2e9453ded8d401d16a1cf354418e95e47bed2d1ed33f937de455904a7a4fc0"
+    },
+    "kind": "crop",
+    "purpose": "교과서 수식·사진 원본",
+    "review": "passed",
+    "reviewer": "Codex source-page and extracted-asset visual inspection",
+    "source_id": "pdf01",
+    "page": 79,
+    "crop_reference_1376x1791": null,
+    "review_note": "Compared with textbook pages 74–81, V10 source renders, and supplied character reference; repaired blank/misaligned legacy crops. Scientific graph labels and atom counts preserved. Generated cutouts inspected for identity, school uniform and alpha."
+  },
+  {
+    "id": "EQ_Q",
+    "file": {
+      "path": "assets/EQ_Q.png",
+      "sha256": "845d1f345c35f83e33bd4779ba2ab473de6f41cff1bc2dcae487df8dc6af5236"
+    },
+    "kind": "crop",
+    "purpose": "교과서 수식·사진 원본",
+    "review": "passed",
+    "reviewer": "Codex source-page and extracted-asset visual inspection",
+    "source_id": "pdf01",
+    "page": 77,
+    "crop_reference_1376x1791": null,
+    "review_note": "Compared with textbook pages 74–81, V10 source renders, and supplied character reference; repaired blank/misaligned legacy crops. Scientific graph labels and atom counts preserved. Generated cutouts inspected for identity, school uniform and alpha."
+  },
+  {
+    "id": "PHOTO_BOILER",
+    "file": {
+      "path": "assets/PHOTO_BOILER-no-caption.png",
+      "sha256": "8d624c21bc731b00fd79973a2fa7aee3b6a41460f6feece293c31e1591273ca7"
+    },
+    "kind": "crop",
+    "purpose": "Latest user requested original photograph without external textbook caption, inside dark rounded explanation frame",
+    "review": "passed",
+    "reviewer": "Codex source-page and extracted-asset visual inspection",
+    "source_id": "pdf01",
+    "page": 78,
+    "crop_reference_1376x1791": null,
+    "review_note": "Actual photo retained, bottom caption strip removed; inspected in full slide with new editable underlined heading and explanation.",
+    "original_crop": {
+      "path": "assets/PHOTO_BOILER.png",
+      "sha256": "ca19e9ef431d56dc1525a2bbc08a4b2209d34a0485cf93be8e48a6f0af18114b"
+    }
+  },
+  {
+    "id": "PHOTO_CAR",
+    "file": {
+      "path": "assets/PHOTO_CAR-no-caption.png",
+      "sha256": "8dfb187b84f9ecf5e85f1671763c7719a2ccd535ec32a2dcac5417fbc4a5eb64"
+    },
+    "kind": "crop",
+    "purpose": "Latest user requested original photograph without external textbook caption, inside dark rounded explanation frame",
+    "review": "passed",
+    "reviewer": "Codex source-page and extracted-asset visual inspection",
+    "source_id": "pdf01",
+    "page": 78,
+    "crop_reference_1376x1791": null,
+    "review_note": "Actual photo retained, bottom caption strip removed; inspected in full slide with new editable underlined heading and explanation.",
+    "original_crop": {
+      "path": "assets/PHOTO_CAR.png",
+      "sha256": "a093e2e9e8e85aaab33f48025a02d2917e9a23d1a615b5109e165dd20949b7b4"
+    }
+  },
+  {
+    "id": "EQ_FUEL1",
+    "file": {
+      "path": "assets/EQ_FUEL1.png",
+      "sha256": "748245364a1dcfdee92fb7192ef14b3107be2ea93adb231de18c55d83a7c58c6"
+    },
+    "kind": "crop",
+    "purpose": "교과서 수식·사진 원본",
+    "review": "passed",
+    "reviewer": "Codex source-page and extracted-asset visual inspection",
+    "source_id": "pdf01",
+    "page": 79,
+    "crop_reference_1376x1791": null,
+    "review_note": "Compared with textbook pages 74–81, V10 source renders, and supplied character reference; repaired blank/misaligned legacy crops. Scientific graph labels and atom counts preserved. Generated cutouts inspected for identity, school uniform and alpha."
+  },
+  {
+    "id": "EQ_FUEL2",
+    "file": {
+      "path": "assets/EQ_FUEL2.png",
+      "sha256": "7a17812603a2ad4759b306a7cf184460645910702c9ef51d3040a5ba47666a82"
+    },
+    "kind": "crop",
+    "purpose": "교과서 수식·사진 원본",
+    "review": "passed",
+    "reviewer": "Codex source-page and extracted-asset visual inspection",
+    "source_id": "pdf01",
+    "page": 79,
+    "crop_reference_1376x1791": null,
+    "review_note": "Compared with textbook pages 74–81, V10 source renders, and supplied character reference; repaired blank/misaligned legacy crops. Scientific graph labels and atom counts preserved. Generated cutouts inspected for identity, school uniform and alpha."
+  },
+  {
+    "id": "EQ_BOND",
+    "file": {
+      "path": "assets/EQ_BOND.png",
+      "sha256": "2cc24df7cc08ee654ab433d34ff8f8d457aec7a8cca6eaaa0b855526c11465c3"
+    },
+    "kind": "crop",
+    "purpose": "교과서 수식·사진 원본",
+    "review": "passed",
+    "reviewer": "Codex source-page and extracted-asset visual inspection",
+    "source_id": "pdf01",
+    "page": 81,
+    "crop_reference_1376x1791": null,
+    "review_note": "Compared with textbook pages 74–81, V10 source renders, and supplied character reference; repaired blank/misaligned legacy crops. Scientific graph labels and atom counts preserved. Generated cutouts inspected for identity, school uniform and alpha."
+  },
+  {
+    "id": "FIG_EXOENDO",
+    "file": {
+      "path": "assets/FIG_EXOENDO.png",
+      "sha256": "38eba702ec430d6137059e07fc6d3ae7d4bf74bd3147399452f27d075bedf8a3"
+    },
+    "kind": "crop",
+    "purpose": "교과서 과학 그림 또는 사례 사진",
+    "review": "passed",
+    "reviewer": "Codex source-page and extracted-asset visual inspection",
+    "source_id": "pdf01",
+    "page": 75,
+    "crop_reference_1376x1791": [
+      216,
+      780,
+      930,
+      1134
+    ],
+    "review_note": "Compared with textbook pages 74–81, V10 source renders, and supplied character reference; repaired blank/misaligned legacy crops. Scientific graph labels and atom counts preserved. Generated cutouts inspected for identity, school uniform and alpha."
+  },
+  {
+    "id": "EQ_REACTIONS",
+    "file": {
+      "path": "assets/EQ_REACTIONS.png",
+      "sha256": "22317014110f33b27843a7f2f13f280b75b36101bc649cb9f8506f90d9ae845b"
+    },
+    "kind": "crop",
+    "purpose": "교과서 과학 그림 또는 사례 사진",
+    "review": "passed",
+    "reviewer": "Codex source-page and extracted-asset visual inspection",
+    "source_id": "pdf01",
+    "page": 76,
+    "crop_reference_1376x1791": [
+      395,
+      435,
+      1215,
+      558
+    ],
+    "review_note": "Compared with textbook pages 74–81, V10 source renders, and supplied character reference; repaired blank/misaligned legacy crops. Scientific graph labels and atom counts preserved. Generated cutouts inspected for identity, school uniform and alpha."
+  },
+  {
+    "id": "PHOTO_CAO",
+    "file": {
+      "path": "assets/PHOTO_CAO.png",
+      "sha256": "e58ca3a042bfe39b7297a7f530cd7aa32c061cae0fe38e4a8067a2cbef9c22aa"
+    },
+    "kind": "crop",
+    "purpose": "교과서 과학 그림 또는 사례 사진",
+    "review": "passed",
+    "reviewer": "Codex source-page and extracted-asset visual inspection",
+    "source_id": "pdf01",
+    "page": 76,
+    "crop_reference_1376x1791": [
+      490,
+      844,
+      822,
+      1056
+    ],
+    "review_note": "Compared with textbook pages 74–81, V10 source renders, and supplied character reference; repaired blank/misaligned legacy crops. Scientific graph labels and atom counts preserved. Generated cutouts inspected for identity, school uniform and alpha."
+  },
+  {
+    "id": "PHOTO_COOL",
+    "file": {
+      "path": "assets/PHOTO_COOL.png",
+      "sha256": "8904faa1b2a1490ab81e0856e45d5c6268144fbf2328d8357bd8753af31433ac"
+    },
+    "kind": "crop",
+    "purpose": "교과서 과학 그림 또는 사례 사진",
+    "review": "passed",
+    "reviewer": "Codex source-page and extracted-asset visual inspection",
+    "source_id": "pdf01",
+    "page": 76,
+    "crop_reference_1376x1791": [
+      845,
+      815,
+      1260,
+      1085
+    ],
+    "review_note": "Compared with textbook pages 74–81, V10 source renders, and supplied character reference; repaired blank/misaligned legacy crops. Scientific graph labels and atom counts preserved. Generated cutouts inspected for identity, school uniform and alpha."
+  },
+  {
+    "id": "FIG_CAL",
+    "file": {
+      "path": "assets/FIG_CAL.png",
+      "sha256": "585db5f0fc357fc3bd65ef9f5f725ee7a6e04b5aaefeb47efbb29c275f71b424"
+    },
+    "kind": "crop",
+    "purpose": "교과서 과학 그림 또는 사례 사진",
+    "review": "passed",
+    "reviewer": "Codex source-page and extracted-asset visual inspection",
+    "source_id": "pdf01",
+    "page": 77,
+    "crop_reference_1376x1791": [
+      965,
+      1325,
+      1250,
+      1660
+    ],
+    "review_note": "Compared with textbook pages 74–81, V10 source renders, and supplied character reference; repaired blank/misaligned legacy crops. Scientific graph labels and atom counts preserved. Generated cutouts inspected for identity, school uniform and alpha."
+  },
+  {
+    "id": "FIG_MOLECULES",
+    "file": {
+      "path": "assets/FIG_MOLECULES.png",
+      "sha256": "c6f2608929d04168bf733f37bcf13b2a3f94b0edafd2fe178d98a06a4f0550ca"
+    },
+    "kind": "crop",
+    "purpose": "교과서 과학 그림 또는 사례 사진",
+    "review": "passed",
+    "reviewer": "Codex source-page and extracted-asset visual inspection",
+    "source_id": "pdf01",
+    "page": 79,
+    "crop_reference_1376x1791": [
+      166,
+      1234,
+      997,
+      1412
+    ],
+    "review_note": "Compared with textbook pages 74–81, V10 source renders, and supplied character reference; repaired blank/misaligned legacy crops. Scientific graph labels and atom counts preserved. Generated cutouts inspected for identity, school uniform and alpha."
+  },
+  {
+    "id": "FIG_BREAK",
+    "file": {
+      "path": "assets/FIG_BREAK.png",
+      "sha256": "b7e31a026ea5b07036b0499a60860d61333ebf3c50102e19306aacb14c018e4b"
+    },
+    "kind": "crop",
+    "purpose": "교과서 과학 그림 또는 사례 사진",
+    "review": "passed",
+    "reviewer": "Codex source-page and extracted-asset visual inspection",
+    "source_id": "pdf01",
+    "page": 80,
+    "crop_reference_1376x1791": [
+      390,
+      427,
+      779,
+      749
+    ],
+    "review_note": "Compared with textbook pages 74–81, V10 source renders, and supplied character reference; repaired blank/misaligned legacy crops. Scientific graph labels and atom counts preserved. Generated cutouts inspected for identity, school uniform and alpha."
+  },
+  {
+    "id": "FIG_FORM",
+    "file": {
+      "path": "assets/FIG_FORM.png",
+      "sha256": "a1a5aad8656f017173473705de29640eb27696b709f64d810c9b62fbb1446a3c"
+    },
+    "kind": "crop",
+    "purpose": "교과서 과학 그림 또는 사례 사진",
+    "review": "passed",
+    "reviewer": "Codex source-page and extracted-asset visual inspection",
+    "source_id": "pdf01",
+    "page": 80,
+    "crop_reference_1376x1791": [
+      822,
+      427,
+      1211,
+      749
+    ],
+    "review_note": "Compared with textbook pages 74–81, V10 source renders, and supplied character reference; repaired blank/misaligned legacy crops. Scientific graph labels and atom counts preserved. Generated cutouts inspected for identity, school uniform and alpha."
+  },
+  {
+    "id": "FIG_REACTION",
+    "file": {
+      "path": "assets/FIG_REACTION.png",
+      "sha256": "6d0c469905bce5d900dc9c7c129f3a4a853267cde6d370c34cf2de3a863a4cb9"
+    },
+    "kind": "crop",
+    "purpose": "교과서 과학 그림 또는 사례 사진",
+    "review": "passed",
+    "reviewer": "Codex source-page and extracted-asset visual inspection",
+    "source_id": "pdf01",
+    "page": 81,
+    "crop_reference_1376x1791": [
+      164,
+      540,
+      1020,
+      780
+    ],
+    "review_note": "Compared with textbook pages 74–81, V10 source renders, and supplied character reference; repaired blank/misaligned legacy crops. Scientific graph labels and atom counts preserved. Generated cutouts inspected for identity, school uniform and alpha."
+  },
+  {
+    "id": "I01",
+    "file": {
+      "path": "assets/generated/I01.png",
+      "sha256": "3d4d767a414fe3186d28fe7de621cf2c702331cf51577c2e3f732bbf1df9089c"
+    },
+    "kind": "generated",
+    "purpose": "연료 비교 안내",
+    "review": "passed",
+    "reviewer": "Codex source-page and extracted-asset visual inspection",
+    "provenance": "Built-in imagegen with approved V10 body character reference; actual transparent PNG",
+    "review_note": "Compared with textbook pages 74–81, V10 source renders, and supplied character reference; repaired blank/misaligned legacy crops. Scientific graph labels and atom counts preserved. Generated cutouts inspected for identity, school uniform and alpha."
+  },
+  {
+    "id": "I02",
+    "file": {
+      "path": "assets/generated/I02.png",
+      "sha256": "4360adf2b40f0e68bcc0608c1536b65ee62fdacfdb3d4867b05f71d08c262d2d"
+    },
+    "kind": "generated",
+    "purpose": "손난로 질문 회수",
+    "review": "passed",
+    "reviewer": "Codex source-page and extracted-asset visual inspection",
+    "provenance": "Built-in imagegen with approved V10 body character reference; actual transparent PNG",
+    "review_note": "Compared with textbook pages 74–81, V10 source renders, and supplied character reference; repaired blank/misaligned legacy crops. Scientific graph labels and atom counts preserved. Generated cutouts inspected for identity, school uniform and alpha."
+  },
+  {
+    "id": "I03",
+    "file": {
+      "path": "assets/generated/I03.png",
+      "sha256": "7f5746a4c2de4ff70916b86c705d126441f08e7d59e723c3fcea7a7a19727d7a"
+    },
+    "kind": "generated",
+    "purpose": "긴 웨이브 머리 여학생, 연료 선택 비교 안내",
+    "provenance": "imagegen; project character reference attached; transparent output",
+    "review": "visually reviewed identity, uniform, hands and transparency"
+  },
+  {
+    "id": "I04",
+    "file": {
+      "path": "assets/generated/I04.png",
+      "sha256": "521525205fb2433c882b078d27696763735366e8c9ce3f889e725068747d71a4"
+    },
+    "kind": "generated",
+    "purpose": "검정 머리 남학생, 손난로 원리 설명",
+    "provenance": "imagegen; project character reference attached; transparent output",
+    "review": "visually reviewed identity, uniform, hands and transparency"
+  }
+]

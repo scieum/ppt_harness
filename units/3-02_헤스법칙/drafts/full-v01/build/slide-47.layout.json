@@ -1,0 +1,23 @@
+{"schema":"openai.presentation.layout/v5","unit":"px","slide":{"id":"sl/c0lxy4","index":46,"layout":{"id":"ly/10v2d8z6","name":"Blank"},"backgroundColor":"rgba(0,0,0,1)","position":{"left":0,"top":0,"width":1920,"height":1080}},
+"elements":[
+{"id":"sh/m1kz6hov","kind":"shape","name":"레퍼런스 내용 영역","position":{"left":300,"top":600,"width":1320,"height":310},"geometry":"roundRect","fillColor":"#222222","lineWidth":0},
+{"id":"im/1oz2xkjy","kind":"image","position":{"left":1778.67,"top":40,"width":108,"height":77.33},"fit":"contain","alt":"사이음 화이트 원본 로고"},
+{"id":"sh/rahkn6pw","kind":"textbox","name":"copyright","position":{"left":1440,"top":1038,"width":440,"height":28},"text":"© 2026. @sci_eum. All rights reserved.","style":{"fontSize":17,"typeface":"Pretendard","color":"#FFFFFF","alignment":"right"},"geometry":"rect","lineWidth":0},
+{"id":"sh/q983e18b","kind":"textbox","name":"text","position":{"left":90,"top":86,"width":1400,"height":44},"text":"Part 4 실험으로 확인하는 헤스 법칙","style":{"fontSize":28,"typeface":"Pretendard","color":"#898989","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/58z2lw7q","kind":"textbox","name":"text","position":{"left":90,"top":134,"width":70,"height":64},"text":"02","style":{"fontSize":44,"typeface":"Pretendard","color":"#9FFF68","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/47q1crq5","kind":"textbox","name":"text","position":{"left":158,"top":134,"width":1550,"height":64},"text":"측정값과 반응 엔탈피","style":{"fontSize":44,"typeface":"Pretendard","color":"#FFFFFF","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/36hkjmpk","kind":"textbox","name":"핵심 문장","position":{"left":180,"top":294,"width":1560,"height":96},"text":"용해 단계의 반응 엔탈피","style":{"fontSize":64,"typeface":"Pretendard","color":"#FFFFFF","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"im/5wf2p0j6","kind":"image","position":{"left":473.77,"top":625,"width":972.46,"height":245},"fit":"contain","alt":"교과서 수식체 생성 계산 패널 46"},
+{"id":"sh/n2t0z2pg","kind":"shape","name":"계산 순서 설명 바","position":{"left":300,"top":490,"width":420,"height":90},"geometry":"roundRect","fillColor":"#222A1D","lineWidth":0},
+{"id":"sh/o32h8761","kind":"shape","name":"계산 단계 번호","position":{"left":318,"top":511,"width":46,"height":46},"geometry":"roundRect","fillColor":"#9FFF68","lineWidth":0},
+{"id":"sh/94bi1c7m","kind":"textbox","name":"text","position":{"left":318,"top":511,"width":46,"height":46},"text":"1","style":{"fontSize":25,"typeface":"Pretendard","color":"#1B2815","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/ed0z2xoz","kind":"textbox","name":"text","position":{"left":382,"top":503,"width":310,"height":64},"text":"용액이 얻은 열","style":{"fontSize":30,"typeface":"Pretendard","color":"#FFFFFF","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/ze90v2pk","kind":"shape","name":"계산 순서 설명 바","position":{"left":750,"top":490,"width":420,"height":90},"geometry":"roundRect","fillColor":"#222A1D","lineWidth":0},
+{"id":"sh/0z2h4765","kind":"shape","name":"계산 단계 번호","position":{"left":768,"top":511,"width":46,"height":46},"geometry":"roundRect","fillColor":"#9FFF68","lineWidth":0},
+{"id":"sh/10bixc7q","kind":"textbox","name":"text","position":{"left":768,"top":511,"width":46,"height":46},"text":"2","style":{"fontSize":25,"typeface":"Pretendard","color":"#1B2815","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/i94je1o3","kind":"textbox","name":"text","position":{"left":832,"top":503,"width":310,"height":64},"text":"반응한 몰수","style":{"fontSize":30,"typeface":"Pretendard","color":"#FFFFFF","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/jad076po","kind":"shape","name":"계산 순서 설명 바","position":{"left":1200,"top":490,"width":420,"height":90},"geometry":"roundRect","fillColor":"#222A1D","lineWidth":0},
+{"id":"sh/fe5wzy50","kind":"shape","name":"계산 단계 번호","position":{"left":1218,"top":511,"width":46,"height":46},"geometry":"roundRect","fillColor":"#9FFF68","lineWidth":0},
+{"id":"sh/udwf6t4v","kind":"textbox","name":"text","position":{"left":1218,"top":511,"width":46,"height":46},"text":"3","style":{"fontSize":25,"typeface":"Pretendard","color":"#1B2815","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/hg7e1on6","kind":"textbox","name":"text","position":{"left":1282,"top":503,"width":310,"height":64},"text":"반응 엔탈피","style":{"fontSize":30,"typeface":"Pretendard","color":"#FFFFFF","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0}
+]}

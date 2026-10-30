@@ -1,0 +1,9 @@
+{
+  "version": "white-v02",
+  "based_on": "black-v42",
+  "latest": "units/3-02_헤스법칙/drafts/white-v01/output/3-02_헤스법칙_전체51장_화이트_초록강화_v02.pptx",
+  "sha256": "2c96dd1fd30944d9a9fccb973339157691276c3f58b2673ad3c6bed64e3ef60b",
+  "black_preserved_sha256": "0e0e130c96102be9173b31b3e44db8d14f518c7ae73ed20a8ee9ec7aa8e579c6",
+  "validation": "build/validation-white-v02.json",
+  "user_design_approval": "pending"
+}

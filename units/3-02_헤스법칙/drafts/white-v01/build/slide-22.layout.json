@@ -1,0 +1,16 @@
+{"schema":"openai.presentation.layout/v5","unit":"px","slide":{"id":"sl/jbureu","index":21,"layout":{"id":"ly/v6l072p8","name":"Blank"},"backgroundColor":"rgba(255,255,255,1)","position":{"left":0,"top":0,"width":1920,"height":1080}},
+"elements":[
+{"id":"sh/0va9szi5","kind":"shape","name":"v33 내용 구분","position":{"left":220,"top":775,"width":1480,"height":170},"geometry":"roundRect","fillColor":"#C5DDB5","lineWidth":0},
+{"id":"sh/q58rm503","kind":"shape","name":"v33 내용 구분","position":{"left":220,"top":480,"width":1480,"height":230},"geometry":"roundRect","fillColor":"#F2F3F1","lineWidth":0},
+{"id":"sh/ylsnep4f","kind":"textbox","name":"copyright","position":{"left":1440,"top":1038,"width":440,"height":28},"text":"© 2026. @sci_eum. All rights reserved.","style":{"fontSize":17,"typeface":"Pretendard","color":"#202020","alignment":"right"},"geometry":"rect","lineWidth":0},
+{"id":"sh/zm147u50","kind":"textbox","name":"text","position":{"left":90,"top":86,"width":1400,"height":44},"text":"Part 2 반응 엔탈피 구하기","style":{"fontSize":28,"typeface":"Pretendard","color":"#898989","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/8bu5kjmh","kind":"textbox","name":"text","position":{"left":90,"top":134,"width":70,"height":64},"text":"02","style":{"fontSize":44,"typeface":"Pretendard","color":"#28691C","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/9c36don2","kind":"textbox","name":"text","position":{"left":158,"top":134,"width":1550,"height":64},"text":"반응식 조합","style":{"fontSize":44,"typeface":"Pretendard","color":"#202020","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/mpsni94b","kind":"textbox","name":"핵심 문장","position":{"left":180,"top":294,"width":1560,"height":96},"text":"SO₂가 SO₃로 바뀔 때","style":{"fontSize":64,"typeface":"Pretendard","color":"#202020","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"im/hcjulkj6","kind":"image","position":{"left":481.06,"top":513.72,"width":957.88,"height":162.57},"fit":"contain","alt":"반응식 이미지 w122-sulfur-given — assets/equations-v05/provenance.json"},
+{"id":"im/i5sfmxob","kind":"image","position":{"left":541.9,"top":805,"width":836.19,"height":110},"fit":"contain","alt":"반응식 이미지 w122-sulfur-target — assets/equations-v05/provenance.json"},
+{"id":"sh/r6h8va1o","kind":"textbox","name":"text","position":{"left":220,"top":402,"width":1480,"height":64},"text":"다음 두 반응을 이용하여 목표 반응의 엔탈피를 구하시오.","style":{"fontSize":30,"typeface":"Pretendard","color":"#686868","alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/1wjq14jq","kind":"textbox","name":"text","position":{"left":250,"top":435,"width":420,"height":44},"text":"주어진 반응","style":{"fontSize":28,"typeface":"Pretendard","color":"#28691C","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/fu18zu1k","kind":"textbox","name":"text","position":{"left":250,"top":724,"width":250,"height":44},"text":"목표 반응","style":{"fontSize":28,"typeface":"Pretendard","color":"#28691C","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"im/h4jyds7q","kind":"image","position":{"left":1778.67,"top":40,"width":108,"height":77.33},"fit":"contain","alt":"사이음 흰 배경용 원본 로고"}
+]}

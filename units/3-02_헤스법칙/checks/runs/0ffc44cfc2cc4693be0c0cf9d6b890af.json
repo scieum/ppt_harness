@@ -1,0 +1,17 @@
+{
+  "run_id": "0ffc44cfc2cc4693be0c0cf9d6b890af",
+  "time_utc": "2026-10-28T13:23:42.776307+00:00",
+  "mode": "production",
+  "rules_version": "1.1.0",
+  "rules_sha256": "49bf48bc86aa0cde345ff8767bec635fe4691baf74c5103a7e7913eb8fd2ec41",
+  "unit": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-02_헤스법칙",
+  "results": [
+    {
+      "id": "G10",
+      "status": "failed",
+      "detail": "[Errno 2] No such file or directory: '/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-02_헤스법칙/checks/equations.json'",
+      "rollback": "production"
+    }
+  ],
+  "passed": false
+}

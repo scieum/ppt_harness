@@ -1,0 +1,238 @@
+[
+  {
+    "page": 1,
+    "text": "2주차 느릿느릿 초보자 3주 챌린지\r\nFigma 기초 &\n\r\n프론트엔드 화면\n\r\n만들어보기\r\n디자인이 진짜 화면으로 바뀌는 순간\r\n2026년 10월 15일 오후 9시 LIVE"
+  },
+  {
+    "page": 2,
+    "text": "느릿느릿 초보자 챌린지\n\r\n잘 따라오고 계신가요?\r\n오늘의 각오 한마디 "
+  },
+  {
+    "page": 3,
+    "text": "지난주, CLI 설치도 해보고 에이전트 스킬도 만들어 보셨나요?\r\n이번 주에는 Figma 기초를 익히고\n\r\n그 디자인으로 프론트엔드 화면을 만들어 봐요\r\n3주차 22일\r\n백엔드 구조\n\r\n이해 및 연결\n\r\n& Vercel 배\r\n포\r\n1주차 8일\r\nCLI 설치 및\n\r\n에이전트 \n\r\n스킬 만들기\r\n2주차 15일\r\nFigma 기초\n\r\n& 프론트엔드\n\r\n화면 만들기"
+  },
+  {
+    "page": 4,
+    "text": "1주차 챌린지에서 이런 내용을 배웠어요\r\n환경을 깔고 내 프로젝트를 만든 뒤,\n\r\nAI가 따를 규칙과 동료까지 세팅했어요\r\n터미널에서 Claude Code를 실행하고\n 개발 환경 세팅하기 승인 · 중단하며 일을 맡겨봤어요\r\nCLAUDE.md와 PRD로 기준을 정하고\n 규칙과 반복 작업 자동화 Figma MCP와 에이전트를 연결했어요\r\n템플릿으로 내 레포를 만들고\n 내 프로젝트 만들기 localhost 실행부터 커밋 · 푸시까지"
+  },
+  {
+    "page": 5,
+    "text": "2주차 목표\r\nFigma 디자인 기반으로 프론트엔드 화면 만들기"
+  },
+  {
+    "page": 6,
+    "text": "1\r\n디자인 시스템 이해\r\n토큰 · 스타일 · 컴포넌트\r\n디자인 시스템 읽기\r\n2주차 수업은 이렇게 진행됩니다\r\nFigma 디자인 시스템을 토큰 → 컴포넌트 → 화면 순서로 코드에 옮기고,\n\r\n마지막에 에이전트로 검수해요\r\n2\r\nFigma 파일 읽기\r\n프레임 링크로 읽어오기\r\n3\r\n토큰 · 스타일을 코드로\r\nglobals.css\r\n4\r\n컴포넌트를 코드로\r\ncomponents/*.tsx\r\n5\r\n화면 조립\r\n화면 3개 + 내 초대장\r\n디자인 to 코드 구현\r\n6\r\n검수와 푸시\r\nUI 리뷰어 → GitHub\r\n화면 조립 · 검수"
+  },
+  {
+    "page": 7,
+    "text": "지난주 GitHub에 올린 결과물,\n\r\n잘 열리는지 확인해볼까요?\r\n저장소와 로컬호스트, Figma MCP 연결, 세 가지만 확인하고 시작해요\r\nGitHub에 내 저장소와 1주차 커밋\r\nGitHub 에 저장소 열 1주차에 시 커밋 \r\nnpm run dev로 localhost 열림\r\nlocalhost에 1주차에 내 가 \r\nFigma MCP 연결 상태 확인\r\n 주고 에 요소가 지 에 "
+  },
+  {
+    "page": 8,
+    "text": "아직 못 끝냈어도 오늘 챌린지 바로 합류할 수 있어요\r\n막힌 부분이 있었다면, 아래 템플릿 저장소를 클론해서 사용해주세요!\r\n1주차 완성본 템플릿"
+  },
+  {
+    "page": 9,
+    "text": "오늘 우리가 만들 초대장 페이지\r\n해당 실습 파일을 내 파일로 복사해 사용해주세요\r\n실습 자료 바로가기\r\n/create 초대장 만들기 /i/demo 초대장 보기 + 응답 /i/demo/responses 응답 현황"
+  },
+  {
+    "page": 10,
+    "text": "PRD에 맞추어서, 초대장 서비스는\n\r\n총 3개의 화면으로 구성됩니다\r\n해당 실습 파일을 내 파일로 복사해 사용해주세요\r\nPRD.md\r\n## 화면 구성과 흐름\n\r\n- 화면은 세 개다. 호스트는 만들기, 공유, 응답 확인 \r\n순으로, 게스트는 보기, 응답 순으로 쓴다.\n\n\r\n## 경로\n\r\n- /create : 호스트내용 입력, 미리보기, 발행. 발행하\r\n면 초대장 링크와 응답 현황 링크를 보여주고 복사할 \r\n수 있다\n\r\n- /i/[id] : 게스트초대장 보기, 이름·참석 여부·동반 인\r\n원 제출\n\r\n- /i/[id]/responses : 호스트응답 목록, 참석·불참 \r\n수, 참석 인원 합계 확인\r\n/create 초대장 만들기\r\n/i/demo 초대장 보기 + 응답\r\n/i/demo/responses 응답 현황"
+  },
+  {
+    "page": 11,
+    "text": "Part 01\r\n디자인 시스템 이해하고\n\r\nFigma 파일 읽기"
+  },
+  {
+    "page": 12,
+    "text": "Part. 1\r\n01 디자인 시스템\r\nAI가 만든 화면, 왜 '밤티'가 될까요?\r\n기준이 없으면 AI가 색 · 크기 · 간격을 매번 새로 정하기 때문이에요"
+  },
+  {
+    "page": 13,
+    "text": "Part. 1\r\n01 디자인 시스템\r\n디자인 시스템 유무에 따라 결과는 달라져요\r\n왼쪽은 요청만, 오른쪽은 토큰 파일 + 프레임 링크를 함께 줬어요\r\n✕ Before → 임의 색상 · 제각각 크기 · 다른 간격 ✓ After → 지정한 색 · 간격 유지, 컴포넌트 재사용"
+  },
+  {
+    "page": 14,
+    "text": "Part. 1\r\n01 디자인 시스템\r\n일관된 화면 구현을 위한\n\r\n디자인 시스템 필수 구성 요소 3가지\r\n*디자인 시스템이란? 프로젝트에서 정해둔 디자인 규칙 모음집이에요\r\n토큰 스타일 컴포넌트\r\n컬러, 타이포그래피, 간격 등 \n\r\n시각적 요소에 정보를 담아 구성한 것\r\n디자인 용도와 중요도(위계)에 따라\n\r\n정한 디자인 속성 묶음\r\n반복해서 사용하는 템플릿 같은 에셋\n\r\n재사용하는 요소를 컴포넌트화 \r\n한 줄 정리 디자이너 · 개발자 · AI가 같은 기준으로 만들게 해주는 공용 언어"
+  },
+  {
+    "page": 15,
+    "text": "Part. 1\r\n01 디자인 시스템\r\n디자인 시스템, 왜 꼭 써야 할까요?\r\n기준이 있으면 디자인을 올바르고 빠르게, 일관되게 만들 수 있어요\r\nDesign System\r\n원본 하나로 관리\r\n원본 하나만 고치면 모든 화면에 반영돼요\r\n버튼 · 색을 화면마다 따로 고칠 필요가 없어요\r\nAI가 이름으로 코드 작성\r\nAI가 정해진 이름으로 일관된 코드를 써요\r\n#536DFE 대신 color/action/primary로 써요"
+  },
+  {
+    "page": 16,
+    "text": "Part. 1\r\n02 디자인 시스템 구성 요소\r\n디자인 시스템의 3가지 구성 요소에 대해\n\r\n살펴볼까요?\r\n디자인 시스템 요소 의미 예시\r\n1 토큰 색 · 간격 · 모서리에 이름을 붙인 값 color/action/primary\r\n글자 크기 · 굵기 · 행간을 묶은 세트 Typography/Body/MD 2 스타일\r\n토큰과 스타일로 만든 재사용 부품 Button · Input 3 컴포넌트"
+  },
+  {
+    "page": 17,
+    "text": "Part. 1\r\n02 디자인 시스템 구성 요소\r\n토큰은 화면 디자인의 가장 작은 원재료예요\r\n더 이상 쪼갤 수 없는 디자인 요소를 ‘토큰’으로 정하고\n\r\n한 단계씩 참조해서 화면을 조합해요\r\n메인 글자는?\r\nTypography/Body/MD\r\n카드 사이 간격은?\r\nspacing/stack-md\r\n포인트 색은?\r\ncolor/action/primary\r\n카드 모서리는?\r\nradius/card"
+  },
+  {
+    "page": 18,
+    "text": "Part. 1\r\n02 디자인 시스템 구성 요소\r\n디자인 시스템은\n\r\n가장 작은 것부터 한 단계씩 쌓아요\r\n더 쪼갤 수 없는 변수부터 한 단계씩 참조해서 화면을 구성해요\r\n1 토큰\r\ncolor/action/inverse\r\n→\r\n2 스타일 연결\r\nTypography/Body/MD\r\n→\r\n3 컴포넌트에 적용\r\nButton\r\n→\r\n4 화면 조합\r\nPage\r\n초대장 링크\r\nhttp:// Label\r\n응답 현황 링크\r\nhttp:// Label\r\nLabel Label\r\ncolor/action/inverse\r\n한 줄 정리 디자인 시스템으로 가이드를 제공하면, AI가 의도한 대로 화면을 만들어요"
+  },
+  {
+    "page": 19,
+    "text": "Part. 1\r\n03 MCP가 읽기 좋은 Figma 파일\r\n이렇게 쌓은 디자인 시스템, \n\r\nAI는 '눈'이 아니라 '구조'로 읽어요\r\n똑같아 보이는 버튼처럼 보이지만 구조와 이름이 정리돼야 AI가 이해할 수 있어요\r\n✕ 이름 없는 레이어\r\nButton\r\n✓ 이름 붙은 레이어\r\nButton\r\n→ Frame 12, #536DFE, Text 16px → Button, color/text/inverse, Typography/Label/\n\r\nHuddling\r\n→ AI가 무엇인지 추측해요 → AI가 역할을 바로 읽어요"
+  },
+  {
+    "page": 20,
+    "text": "Part. 1\r\n03 MCP가 읽기 좋은 Figma 파일\r\n이때, AI는 Figma 베리어블로 토큰 값을 이름으로 저장해요\r\n색 · 간격 · 모서리 값에 이름을 붙여 두면, AI가 그 이름으로 가져다 사용해요\r\n종류 Figma 이름 예시 쓰는 곳\r\n1 Color color/surface/subtle 카드 · 입력창 배경\r\n2 Spacing spacing/stack-md 요소 사이 간격 16\r\n3 Radius radius/card 카드 모서리 20\r\n4 Text style Typography/… 제목 · 본문 · 캡션"
+  },
+  {
+    "page": 21,
+    "text": "Part. 1\r\n03 MCP가 읽기 좋은 Figma 파일\r\nFigma 프로퍼티는 코드 props가 돼요\r\n프로퍼티 이름을 네이밍 규칙으로 일관되게 지을수록 코드도 깔끔해져요\r\nFigma 프로퍼티 코드 props Button.tsx \r\nfunction Button({ size, state, label }) {\n\r\n return (\n\r\n <button\n\r\n className={`btn-${size}`}\n\r\n disabled={state === \"disabled\"}\n\r\n >\n\r\n {label}\n\r\n </button>\n\r\n )\n\r\n}\n\n\r\n<Button size=\"md\" state=\"default\"\n\r\n label=\"발행하기\" />\r\nsize = md size=\"md\"\r\nstate = default state=\"default\"\r\nlabel = 발행하기 label=\"발행하기\"\r\nshowHelper = true showHelper"
+  },
+  {
+    "page": 22,
+    "text": "Part. 1\r\n03 MCP가 읽기 좋은 Figma 파일\r\nMCP로 피그마 파일을 읽을 땐,\n\r\nAI가 읽을 곳을 프레임 링크로 정확히 알려 주세요\r\nAI가 전달받은 링크의 노드 위치를 파악해 직접 레이어를 분석해요\r\n객체를 선택한 상태에서 우클릭하고,\n\r\n[Copy link to selection] 메뉴 누르기!\r\n[프레임 링크]\n\r\nFigma MCP로 이 프레임을 읽\r\n고, 어떤 컴포넌트와 변수가 쓰였\r\n는지 알려줘."
+  },
+  {
+    "page": 23,
+    "text": "Part 02\r\nFigma MCP로 토큰 · 스타일과\n\r\n컴포넌트를 코드로 옮기기"
+  },
+  {
+    "page": 24,
+    "text": "Part. 2\r\n01 토큰을 코드로\r\n본격적으로 Figma 디자인 시스템을\n\r\n코드로 옮겨볼까요?\r\n변수부터 옮겨야 컴포넌트와 화면이 임의 값을 쓰지 않아요"
+  },
+  {
+    "page": 25,
+    "text": "Part. 2\r\n01 토큰을 코드로\r\nFigma에서 디자인 시스템을 만든 순서 그대로 코드에 옮겨요\r\n변수 → 스타일 → 컴포넌트 → 화면 순서로 하나씩 옮겨요\r\n1 토큰 color/action/primary @theme --color-action-primary\r\n2 스타일 Typography/Body/MD Text Style Class\r\n3 컴포넌트 Button src/components/Button.tsx\r\n4 화면 /create src/apps/create/page.tsx"
+  },
+  {
+    "page": 26,
+    "text": "Part. 2\r\n01 토큰을 코드로\r\nglobals.css는 모든 화면이 같이 쓰는 스타일 파일이에요\r\n토큰을 여기에 한 번 등록하면, 모든 화면과 컴포넌트가 같은 값을 가져다 써요\r\nsrc/app/globals.css\r\n@theme {\n\r\n --color-action-primary: #536DFE;\n\r\n}\r\nFigma 변수\r\ncolor/action/primary\r\n화면 코드\r\nclassName=\"bg-action-primary\"\r\n→ →\r\n@theme이 뭔가요? Tailwind (스타일링)에서 토큰을 등록하는 지시어예요"
+  },
+  {
+    "page": 27,
+    "text": "Part. 2\r\n01 토큰을 코드로\r\n토큰 섹션의 링크를 복붙하고,  \r\nFigma 변수를 globals.css 토큰으로 만들어 달라고 해요\r\n{Tokens 섹션 URL}\r\nFigma MCP로 변수를 읽어서 src/app/\r\nglobals.css의 @theme에 토큰으로 넣어줘. \r\n간격은 Figma 숫자를 px 그대로 쓰게 해줘. 텍\r\n스트 스타일(Typography)도 글자 크기, 굵기, \r\n행간을 묶은 클래스로 만들어줘. 글꼴은 \r\nPretendard CDN으로 연결해줘."
+  },
+  {
+    "page": 28,
+    "text": "Part. 2\r\n01 토큰을 코드로\r\n‘CDN’은 폰트,이미지 같은 파일을  \r\n대신 보관해 주는 서버예요\r\n폰트 파일을 프로젝트 폴더에 넣지 않고, 링크 한 줄로 빌려 써요\r\n내 초대장 화면\r\n구현한 화면\r\nCDN 서버\r\n누구나 쓰는 공개 파일 보관소\r\nlayout.tsx에서 폰트를 부르는 주소\r\n<link rel=\"stylesheet\" \r\nhref=\"https://cdn.jsdelivr.net/\r\ngh/orioncactus/\n\r\n pretendard@v1.3.9/dist/web/\r\nvariable/pretendardvariable￾dynamic-subset.min.css\" />\r\nPretendard 폰트\r\n화면에 쓴 글자만 가볍게\r\n폰트 주세요\r\n→\r\n보내 줄게요\r\n→ 가나다나바사..\r\nABCDEFG.."
+  },
+  {
+    "page": 29,
+    "text": "Part. 2\r\n01 토큰을 코드로\r\n실습하다 막혔을 때는 이렇게 해결해요\r\n안심하고 해당하는 증상을 찾아 대응을 그대로 따라 해 보세요\r\n증상\r\n토큰을 바꿨는데 화면이 그대로예요\r\n대응\r\nCtrl + C로 서버를 끄고 npm run dev를 다시 실행해요\r\n화면이 Figma와 달라 보여요 무엇이 · 어떻게 · 기준 · 요청, 4가지를 넣어 다시 요청해요\r\nClaude가 선택지 질문 창을 띄워요 (Recommended)를 고르거나 \"추천대로 해줘\"라고 답해요\r\nFigma MCP가 응답하지 않아요 Figma 앱 실행 → 로그인 확인 → Claude Code 재시작"
+  },
+  {
+    "page": 30,
+    "text": "Part. 2\r\n01 토큰을 코드로\r\nFigma 변수는 코드 토큰으로 이렇게 채워져요\r\nglobals.css를 열어 Variables 패널과 나란히 이름 · 값을 대조해요"
+  },
+  {
+    "page": 31,
+    "text": "Part. 2\r\n02 컴포넌트를 코드로\r\n그럼 버튼 컴포넌트를 구현 요청해볼까요?\r\nFigma 프로퍼티가 그대로 props 코드로 구현되는지 함께 확인해요\r\n{버튼 프레임 링크URL}\r\n이 버튼을 src/components/\r\nButton.tsx로 만들어줘. 토큰만 사\r\n용해."
+  },
+  {
+    "page": 32,
+    "text": "Part. 2\r\n02 컴포넌트를 코드로\r\nFigma와 브라우저를 나란히 놓고 비교해요\r\n테스트 페이지에 버튼을 띄우고 다른 점을 1개 찾아보세요\r\n실습용 테스트 페이지(/test)를 만\r\n들고 Button을 종류별로 전부 띄워\r\n줘."
+  },
+  {
+    "page": 33,
+    "text": "Part. 2\r\n02 컴포넌트를 코드로\r\n수정이 필요할 땐, 어디가 어떻게 다른지\n\r\n구체적으로 짚어 주세요\r\n무엇이 · 어떻게 다른지 · 기준 · 요청, 네 가지만 넣으면 돼요\r\n무엇이 고칠 곳을 짚어요\r\n[무엇이] 버튼 좌우 여백이\n\r\n[어떻게 다른지] Figma 컴포넌트와 달라 보여.\n\r\n[기준] 이 프레임(링크)을 다시 읽고\n\r\n[요청] 같은 값으로 맞춰줘. 토큰만 사용해.\r\n어떻게 다른지 눈에 보이는 차이를 적어요\r\n기준 무엇에 맞출지 알려줘요\r\n요청 원하는 결과와 규칙을 말해요\t"
+  },
+  {
+    "page": 34,
+    "text": "Part. 2\r\n02 컴포넌트를 코드로\r\n테스트가 끝났다면,\n\r\n나머지 컴포넌트 부품은 한 번에 요청해요\r\n인풋 · 카드 · 배지도 버튼과 같은 방식으로 만들어요\r\n{컴포넌트 프레임 링크}\r\n이 컴포넌트들도 Button과 같은 방식으로 src/\r\ncomponents/에 하나씩 만들어줘. 의존성 관계를 \r\n고려해서 순서대로 만들어.  \r\n이름은 Figma와 같게, 토큰만 사용해. \r\nImages 컴포넌트는 이미지 PNG로 받아서 만들어."
+  },
+  {
+    "page": 35,
+    "text": "Part. 2\r\n02 컴포넌트를 코드로\r\n컴포넌트 코드는 아톰 단위부터 구현하되,\n\r\n의존성 관계에 따라 순서대로 진행해야 재사용 구조로 작성돼요! \r\n가장 단순한 UI 구현으로 검증하고 구조 난이도의 복잡한 순서대로 구현 요청\r\n단순 구조 난이도 복잡/복합\r\nButton/Icon\r\n \r\nInput /TextField\r\n \r\nBadge / Tag\r\n \r\nCard\r\nButton \r\nSelect / \r\nDropdown\r\n \r\nModal, Toast, \r\nTabs, Table, \r\nNav\r\n "
+  },
+  {
+    "page": 36,
+    "text": "Part 03\r\n컴포넌트로\n\r\n화면 3개 조립하기"
+  },
+  {
+    "page": 37,
+    "text": "Part. 3\r\n01 화면 조립\r\n이제 컴포넌트로\n\r\n전체 화면 조립해볼까요?\r\n코드로 옮겨온 토큰과 컴포넌트를 재료로\n\r\n프론트엔드 화면을 구현해요"
+  },
+  {
+    "page": 38,
+    "text": "Part. 3\r\n01 화면 조립\r\n초대장 서비스는 2가지 유저 유형에 맞춰\n\r\n화면에 담길 기능이 나뉘어요\r\n초대장을 제작하고 응답을 관리하는 ‘호스트’와,\n\r\n초대장을 확인하고 참석 여부를 남기는 ‘게스트’를 위한 화면입니다\r\n게스트 참석자\r\n정확한 정보 확인\r\n참석 여부(RSVP) 전달\r\n호스트 주최자\r\n초대할 행사 전달\r\n참석 여부(RSVP) 파악\r\n/create\r\n/i/demo/responses\r\n/i/demo"
+  },
+  {
+    "page": 39,
+    "text": "Part. 3\r\n01 화면 조립\r\nPRD 문서의 MVP 기능 5가지는 화면에 이렇게 담겨요\r\n기능마다 어느 화면에서, 어떤 컴포넌트로 보이는지 확인해요\r\nPRD 기능\r\n만들기 폼\r\n화면\r\n/create\r\n화면에서 보이는 모습\r\n제목 · 일시 · 장소 · 본문 입력 + 실시간 미리보기\r\n발행 /create 발행 완료 초대장 · 응답 현황 링크 2개 + 복사 버튼\r\n장소 /i/demo 주소를 글자로 표시\r\n참석 응답 /i/demo 이름 · 참석 여부 · 동반 인원 입력 → 제출 후 완료\r\n응답 현황 /i/demo/responses 참석 · 불참 수, 참석 인원 합계, 응답 목록"
+  },
+  {
+    "page": 40,
+    "text": "Part. 3\r\n01 화면 조립\r\n먼저 화면을 채울 가짜 데이터를 만들어요\r\nsrc/lib/mock.ts에 초대장 1개와 응답 3개를 임시로 채워요. 3주차에 진짜 데이터로 바꿀 자리예요\r\ndocs/PRD.md 기준으로 src/lib/\r\nmock.ts에 가짜 데이터를 만들어줘.\n\r\n초대장 1개(제목 · 일시 · 장소 · 본문)\n\r\n응답 3개(이름 · 참석 여부 · 동반 인\r\n원). 응답 현황 화면을 확인할 수 있게 \r\n참석과 불참이 섞이고, 동반 인원이 있\r\n는 응답도 넣어줘."
+  },
+  {
+    "page": 41,
+    "text": "Part. 3\r\n01 화면 조립\r\n첫번째 화면 구현이 끝났다면,\n\r\n로컬 브라우저로 열어 확인해보세요.\r\n글자, 컬러, 레이아웃 등 기존 디자인 가이드와 달라진 점이 있는지 확인해요\r\nnpm run dev 서버 띄워봐\r\n둘 중 하나로 요청해보세요!\r\n힌트 npm run dev 명령에 오류가 나면 npm install 먼저 요청해보기!"
+  },
+  {
+    "page": 42,
+    "text": "Part. 3\r\n01 화면 조립\r\n호스트 실습 1 /create (행사 생성)\r\n화면 링크와 프롬프트로  \r\n초대장 만들기 화면을 구현해보세요!\r\n반드시 지켜야 할 규칙을 넣어 의도한 대로 구현할 수 있게 해요\r\n{create 프레임}\r\n{create_published 프레임}\r\n{create 프레임 링크}{create_published 프레임 링크}\r\ncreate 화면을 만들어줘. src/components/에 \r\n있는 컴포넌트만 쓰고, 미리보기는 입력한 값을 \r\n그대로 보여줘. 화면 최대 너비는 375px로 하고, \r\n미리보기는 스크롤 영역으로, 발행하기 버튼은 \r\n화면 하단에 고정해줘. 이 프레임 링크를 docs/\r\nfigma-frames.md 표에도 적어줘."
+  },
+  {
+    "page": 43,
+    "text": "Part. 3\r\n01 화면 조립\r\n게스트 실습 2 /i/id (초대장 화면)\r\n게스트가 받는 초대장 화면을 만들어요\r\n초대장 내용과 참석 신청 카드가 보이고, 제출하면 완료 상태로 바뀌면 성공이에요\r\n{i/id 프레임}\r\n{i/id} 프레임 링크}\r\ni/id 화면을 만들어줘. src/lib/mock.ts \r\n데이터를 쓰고, 참석 신청 카드(이름 · 참\r\n석 여부 · 동반 인원)까지 넣어줘. 제출하\r\n면 같은 자리에서 완료 상태로 바꿔줘. 화\r\n면 너비는 /create와 같게 해줘. 이 프레\r\n임 링크를 docs/figma-frames.md 표\r\n에도 적어줘."
+  },
+  {
+    "page": 44,
+    "text": "Part. 3\r\n01 화면 조립\r\n호스트 실습 3 /i/demo/responses (응답현황)\r\n마지막으로 응답 현황을 확인하는 화면을 만들어요\r\n참석 · 불참 수와 응답 3개가 목록으로 보이면 성공이에요\r\ni/demo/responses \r\n{i/[id]/responses 프레임 링크}\r\ni/demo/responses 화면을 만들어\r\n줘. src/lib/mock.ts 응답으로 참석 · \r\n불참 수와 참석 인원 합계 카드, 응답 \r\n목록을 보여줘. 화면 너비는 /create\r\n와 같게 해줘. 이 프레임 링크를 \r\ndocs/figma-frames.md 표에도 적\r\n어줘."
+  },
+  {
+    "page": 45,
+    "text": "Part. 3\r\n01 화면 조립\r\n호스트 실습 4 /i/empty/responses (응답현황)\r\n(심화) 응답이 아직 없을 때 화면도 만들어요\r\n빈 목록 대신 안내 문구가 보이면 성공이에요. 제출 안내의 empty case 화면이에요\r\n/i/[id]/responses_empty\r\n{i/[id]/responses_empty프레임 링크}\r\n응답이 0건일 때는 이 화면처럼 \r\nEmptyState를 보여줘. 확인할 수 있\r\n게 src/lib/mock.ts에 응답이 없는 \r\n초대장(id: empty)도 추가해줘. \r\ndemo 데이터는 그대로 둬."
+  },
+  {
+    "page": 46,
+    "text": "Part. 3\r\n01 화면 조립\r\n실습 5 화면 조합(플로우 연결)\r\n화면끼리 이어 붙여요\r\n'발행하기'를 누르면 같은 화면이 발행 완료 상태로 바뀌고 링크 2개가 나와요\r\n구현된 화면 플로우로 연결하자.  \r\n/create에서 발행하기를 누르면 같은 \r\n화면이 발행 완료 상태로 바뀌게 해줘. \r\n초대장 링크(/i/demo)와 응답 현황 \r\n링크(/i/demo/responses) 2개를 \r\n복사할 수 있게 보여줘.\r\n게스트 /i/demo\r\n초대장 + 참석 신청 카드\r\n호스트 /create\r\n초대장 생성 + 초대장 발행 완료 · 링크 2개\r\n호스트 /responses\r\n응답 현황 확인"
+  },
+  {
+    "page": 47,
+    "text": "Part. 3\r\n01 화면 조립\r\n3개의 화면을 구현했다면,\n\r\n전체적인 화면 흐름을 확인해요\r\n/create → /i/demo → /i/demo/responses 순서로 눌러 보며 흐름을 확인해요\r\n/create /i/demo /i/demo/responses"
+  },
+  {
+    "page": 48,
+    "text": "Part. 3\r\n02 내 초대장으로 바꾸기\r\n실습 6 나만의 초대장 완성하기\r\n1주차 기획 메모 과제로\n\r\n나만의 초대장을 완성해보세요\r\n문구는 기획 메모 그대로 바꿔요\r\n예시\r\n내 기획 메모대로 초대장 문구를 바꿔줘. src/lib/\r\nmock.ts의 demo 초대장만 바꾸고 화면 코드는 건\r\n드리지 마.\n\n\r\n행사: 허들링 클럽 연말 네트워킹 / 초대 대상: 3기 \r\n멤버와 퍼디·버디 / 분위기: 따뜻하고 편안한 송년회\n\n\r\n일시: 2026년 12월 19일 (토) 18:00 / \n\r\n장소: 서울 성수동\r\n내 기획 메모대로 초대장 문구를 바꿔\r\n줘.\n\r\n포인트 색은 #OOOOOO로 바꿔줘. \r\nglobals.css의 action-primary 토\r\n큰만 바꿔줘.\n\r\n행사: OO / 초대 대상: OO / 분위기: \r\nOO"
+  },
+  {
+    "page": 49,
+    "text": "Part. 3\r\n03 검수와 푸시\r\n구현을 완료했으면,\n\r\n검수를 맡은 에이전트에게 QA를 요청해요\r\n1주차에 만든 UI 리뷰어(ui-reviewer) 에이전트에게 화면 3개 검수를 맡겨요\r\n지적 목록 확인 → 수정 요청 → 재검수 통과\r\n2번 프롬프트\r\n리뷰 결과에서 중요도를 표시\r\n해줘\r\n3번 프롬프트\r\n결과 중요도 '중간' 이상인 문제\r\n를 고쳐줘. 토큰만 사용해. 고\r\n친 뒤 ui-reviewer로 다시 검\r\n수해줘.\r\n1번 프롬프트\r\nui-reviewer 에이전트로 /\r\ncreate, /i/demo, /i/demo/\r\nresponses를 검수해줘. 수정\r\n은 하지 말고 문제 목록과 위치\r\n만 알려줘."
+  },
+  {
+    "page": 50,
+    "text": "Part. 3\r\n03 검수와 푸시\r\n작업한 내용을 푸시하고\n\r\nGitHub 저장소에서 확인해요\r\n2주차 작업이 커밋으로 올라가면 오늘 실습 완료!\r\nnpm run build와 npm run lint가 통과하는지 확인하고, 통과하면 커밋하고 푸시해줘. \r\n커밋 메시지는 \"2주차: 화면 3개 조립\"."
+  },
+  {
+    "page": 51,
+    "text": "Part. 3\r\n03 검수와 푸시\r\n만약, 오늘 챌린지 처음 합류해서  \r\n깃허브 저장소가 없다면?\r\n깃허브에서 상단 프로필을 눌러 Repository에 들어간 뒤,\n\r\nNew를 눌러 Repository를 생성해 보세요.\r\n깃허브 바로가기"
+  },
+  {
+    "page": 52,
+    "text": "Part. 3\r\n03 검수와 푸시\r\n새로운 저장소를 만들었으면,\n\r\n아래처럼 링크를 주면서 아래와 같이 요청하세요\r\n내 레파지토리 링크+ 지금까지 작업된 것 깃에 커밋(기록)하고 푸쉬(업로드)해줘."
+  },
+  {
+    "page": 53,
+    "text": "Part. 3\r\n04 다음 주 예고\r\n화면은 만들었는데, 왜 입력한 내용이 안 보일까요?\r\n지금 구축한 화면은 모델 하우스 같아요 \r\n실제로 화면이 잘 운영되려면 데이터를 처리하는 연결 배관(백엔드)이 필요해요.\r\n백엔드 = 배관\r\n데이터를 처리\r\n프론트엔드 = 모델하우스\r\n 지는 화면 "
+  },
+  {
+    "page": 54,
+    "text": "Part. 3\r\n04 다음 주 예고\r\n다음 시간에는 오늘 만든 화면에\n\r\n데이터를 저장해 볼 거예요!\r\n프론트엔드 = 모델하우스 백엔드 = 배관\r\n입력·가입·기록을 데이터베이스에 저장\r\n다시 들어와도 어제 상태 그대로 불러옴\r\n'기억이 필요한 순간' = 백엔드가 필요한 순간\r\n버튼·입력창·이미지 등 디자인 영역\r\n새로고침하면 입력한 내용이 사라진다\r\n'저장'과 '기억'은 할 수 없다"
+  },
+  {
+    "page": 55,
+    "text": "Part 04\r\n챌린지 제출 안내 및\n\r\n공지 사항"
+  },
+  {
+    "page": 56,
+    "text": "Part. 4\r\n01 챌린지 제출 안내\r\n여기까지 따라오신 분은 디스코드에 2주차 결과물을 제출해 주세요!\r\n필수 완성한 화면 3개\r\n챌린지 결과물 제출\r\n화면 스크린샷 캡처본\r\n필수 UI 리뷰어 검수 결과\r\n챌린지 결과물 제출\r\n임의 값 지적 0건 캡처본\r\n필수 GitHub 커밋\r\n챌린지 결과물 제출\r\nGitHub 커밋 링크\r\n선택 · 심화 empty state 화면\r\n챌린지 결과물 제출\r\nempty state 화면 캡처본"
+  },
+  {
+    "page": 57,
+    "text": "Part. 4\r\n02 후기 공유\r\n2주차 후기를 공유해 주세요!\r\n느릿느릿 초보자 3주 챌린지\r\n후기 공유하러 가기"
+  },
+  {
+    "page": 58,
+    "text": "Part. 4\r\n03 다음 챌린지 일정\r\n느릿느릿 초보자 3주 챌린지, 다음 주에 만나요~!\r\n10/22(목) 21:00 · 백엔드 구조 이해하고 DB 연결 & Vercel 배포\r\n3주차 챌린지 10/22 (목) 21:00~\r\n유저 데이터 직접 받아보기\r\n백엔드 구조 이해하고 연결 &\n\r\nVercel로 배포하기"
+  },
+  {
+    "page": 59,
+    "text": "Part. 4\r\n04 Upcoming Live\r\n다가오는 10월 라이브 안내\r\n스페셜 연사자\n\r\n토도 성문님과 함께해요!\r\n10월 27일 (화) 21:00 Live"
+  }
+]

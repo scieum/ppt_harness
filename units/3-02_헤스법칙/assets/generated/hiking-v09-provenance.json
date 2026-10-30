@@ -1,0 +1,9 @@
+{
+  "asset": "units/3-02_헤스법칙/assets/generated/hiking-two-characters-latest-reference-v09.png",
+  "sha256": "4256ffac8978135e3db6827728fad1ff0debf411e1ccd0700b3521f7265462ed",
+  "method": "built-in image_gen edit",
+  "latest_reference": "/var/folders/4n/2g8dnxcd60d_4vz9g_1c9q8m0000gn/T/codex-clipboard-56124565-3f62-48c4-baa6-5d8a398b7bda.png",
+  "prompt": "기존 두 인물과 등산 안내도 장면을 유지하고 남학생만 최신 첨부처럼 둥근 검정 안경과 머리 위 검정 고글로 수정. 투명 배경 유지.",
+  "slide": 2,
+  "approval": "사용자 검토 대기"
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "slide": 8,
+    "id": "10",
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-02_헤스법칙/assets/calculation-v31/slide-8-white.png",
+    "glyph_px": 33.78125,
+    "source_glyph_px": 94,
+    "expression": "ΔH₁ = −189.3 kJ\nΔH₂ + ΔH₃ = −76.9 + (−112.4)\n= −189.3 kJ\nΔH₁ = ΔH₂ + ΔH₃"
+  },
+  {
+    "slide": 9,
+    "id": "12",
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-02_헤스법칙/assets/calculation-v31/slide-9-white.png",
+    "glyph_px": 26.371191135734072,
+    "source_glyph_px": 112,
+    "expression": "ΔH₁ = ΔH₂ + ΔH₃ = −189.3 kJ"
+  },
+  {
+    "slide": 16,
+    "id": "10",
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-02_헤스법칙/assets/calculation-v31/slide-16-white.png",
+    "glyph_px": 41.980830670926515,
+    "source_glyph_px": 171,
+    "expression": "ΔH₃ = ΔH₁ − ΔH₂"
+  },
+  {
+    "slide": 17,
+    "id": "11",
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-02_헤스법칙/assets/calculation-v31/slide-17-white.png",
+    "glyph_px": 39.408849557522124,
+    "source_glyph_px": 112,
+    "expression": "ΔH₃ = ΔH₁ − ΔH₂\n= −393.5 − (−283.0) = −110.5 kJ"
+  },
+  {
+    "slide": 19,
+    "id": "12",
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-02_헤스법칙/assets/calculation-v31/slide-19-white.png",
+    "glyph_px": 44,
+    "source_glyph_px": 106,
+    "expression": "ΔH = −393.5 − (−395.4) = +1.9 kJ"
+  },
+  {
+    "slide": 22,
+    "id": "11",
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-02_헤스법칙/assets/calculation-v31/slide-22-white.png",
+    "glyph_px": 44,
+    "source_glyph_px": 97,
+    "expression": "ΔH = −791 − 2 × (−297) = −197 kJ"
+  },
+  {
+    "slide": 23,
+    "id": "9",
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-02_헤스법칙/assets/calculation-v31/slide-23-white.png",
+    "glyph_px": 44,
+    "source_glyph_px": 156.5,
+    "expression": "ΔH₁ = ΔH₃ + ΔH₂\nΔH₃ = ΔH₁ − ΔH₂"
+  },
+  {
+    "slide": 34,
+    "id": "14",
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-02_헤스법칙/assets/calculation-v31/slide-34-white.png",
+    "glyph_px": 41.415929203539825,
+    "source_glyph_px": 78,
+    "expression": "ΔH = 생성물의 표준 생성 엔탈피 합\n− 반응물의 표준 생성 엔탈피 합"
+  },
+  {
+    "slide": 35,
+    "id": "14",
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-02_헤스법칙/assets/calculation-v31/slide-35-white.png",
+    "glyph_px": 29.732142857142854,
+    "source_glyph_px": 72,
+    "expression": "ΔH = Σ(생성물의 계수 × 표준 생성 엔탈피)\n− Σ(반응물의 계수 × 표준 생성 엔탈피)"
+  },
+  {
+    "slide": 36,
+    "id": "13",
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-02_헤스법칙/assets/calculation-v31/slide-36-white.png",
+    "glyph_px": 34.056603773584904,
+    "source_glyph_px": 83,
+    "expression": "ΔH = [−393.5 + 2 × (−285.8)] − [−74.8 + 2 × 0]\n= −890.3 kJ"
+  },
+  {
+    "slide": 39,
+    "id": "14",
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-02_헤스법칙/assets/calculation-v31/slide-39-white.png",
+    "glyph_px": 26.751592356687897,
+    "source_glyph_px": 137,
+    "expression": "ΔH = −241.8 − (−285.8)\n= +44.0 kJ"
+  },
+  {
+    "slide": 43,
+    "id": "14",
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-02_헤스법칙/assets/calculation-v31/slide-43-white.png",
+    "glyph_px": 31.18686868686869,
+    "source_glyph_px": 95,
+    "expression": "NaOH: 8.0 g ÷ 40.0 g/mol = 0.200 mol\nHCl: 1.0 mol/L × 0.200 L = 0.200 mol"
+  },
+  {
+    "slide": 44,
+    "id": "27",
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-02_헤스법칙/assets/calculation-v31/slide-44-white.png",
+    "glyph_px": 30.11056511056511,
+    "source_glyph_px": 129,
+    "expression": "Q용액 = c × m × Δt"
+  },
+  {
+    "slide": 46,
+    "id": "9",
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-02_헤스법칙/assets/calculation-v31/slide-46-white.png",
+    "glyph_px": 44,
+    "source_glyph_px": 83,
+    "expression": "Q용액 = 4.2 × 208 × 9.5 = 8299.2 J ≈ 8.30 kJ\nn(NaOH) = 8.0 ÷ 40.0 = 0.200 mol\nΔH용해 = −8.30 ÷ 0.200 ≈ −41.50 kJ/mol"
+  },
+  {
+    "slide": 48,
+    "id": "8",
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-02_헤스법칙/assets/calculation-v31/slide-48-white.png",
+    "glyph_px": 44,
+    "source_glyph_px": 99,
+    "expression": "−41.50 + (−52.25) = −93.75 kJ/mol\n−94.25 kJ/mol\n차이: 0.50 kJ/mol"
+  }
+]

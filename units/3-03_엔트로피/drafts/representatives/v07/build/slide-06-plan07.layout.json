@@ -1,0 +1,17 @@
+{"schema":"openai.presentation.layout/v5","unit":"px","slide":{"id":"sl/gm139q","index":5,"layout":{"id":"ly/5wzu5wnq","name":"Blank"},"backgroundColor":"rgba(0,0,0,1)","position":{"left":0,"top":0,"width":1920,"height":1080}},
+"elements":[
+{"id":"im/pwnixobe","kind":"image","position":{"left":1778.67,"top":40,"width":108,"height":77.33},"fit":"contain","alt":"사이음 공식 로고"},
+{"id":"sh/japkne90","kind":"textbox","name":"copyright","position":{"left":1440,"top":1034,"width":440,"height":30},"text":"© 2026. @sci_eum. All rights reserved.","style":{"fontSize":21,"typeface":"Pretendard","color":"#FFFFFF","alignment":"right"},"geometry":"rect","lineWidth":0},
+{"id":"sh/y9gjet8f","kind":"textbox","name":"text","position":{"left":72,"top":76,"width":1530,"height":54},"text":"Part 1 엔트로피의 의미","style":{"fontSize":38,"typeface":"Pretendard","color":"#898989","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/tgr2t872","kind":"textbox","name":"text","position":{"left":72,"top":134,"width":70,"height":64},"text":"01","style":{"fontSize":48.8,"typeface":"Pretendard","color":"#9FFF68","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/8filk3qx","kind":"textbox","name":"text","position":{"left":146,"top":134,"width":1550,"height":64},"text":"엔트로피","style":{"fontSize":48.8,"typeface":"Pretendard","color":"#FFFFFF","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/7e9kry9c","kind":"textbox","name":"핵심 문장","position":{"left":100,"top":245,"width":1720,"height":112},"text":"물질의 상태와 엔트로피","style":{"fontSize":76.4,"typeface":"Pretendard","color":"#FFFFFF","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/6d03it8r","kind":"textbox","name":"text","position":{"left":150,"top":370,"width":1620,"height":72},"text":"같은 물질은 일반적으로 고체, 액체, 기체 순으로 엔트로피가 커진다.","style":{"fontSize":36.4,"typeface":"Pretendard","color":"#A6A6A6","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"im/s3uhwza1","kind":"image","position":{"left":250,"top":475,"width":1420,"height":445},"fit":"contain","alt":"교과서 물의 세 상태와 입자 배열 원본"},
+{"id":"sh/oje18zqd","kind":"shape","name":"상태 캡션","position":{"left":250,"top":923,"width":450,"height":66},"geometry":"roundRect","fillColor":"#202420","lineWidth":0},
+{"id":"sh/il07yh4b","kind":"textbox","name":"text","position":{"left":250,"top":923,"width":450,"height":66},"text":"고체","style":{"fontSize":38,"typeface":"Pretendard","color":"#9FFF68","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/3mtormlw","kind":"shape","name":"상태 캡션","position":{"left":723,"top":923,"width":450,"height":66},"geometry":"roundRect","fillColor":"#202420","lineWidth":0},
+{"id":"sh/472p0rm1","kind":"textbox","name":"text","position":{"left":723,"top":923,"width":450,"height":66},"text":"액체","style":{"fontSize":38,"typeface":"Pretendard","color":"#9FFF68","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/58b6tw3m","kind":"shape","name":"상태 캡션","position":{"left":1196,"top":923,"width":450,"height":66},"geometry":"roundRect","fillColor":"#202420","lineWidth":0},
+{"id":"sh/q9k72147","kind":"textbox","name":"text","position":{"left":1196,"top":923,"width":450,"height":66},"text":"기체","style":{"fontSize":38,"typeface":"Pretendard","color":"#9FFF68","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0}
+]}

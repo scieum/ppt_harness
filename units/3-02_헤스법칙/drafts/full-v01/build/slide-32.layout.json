@@ -1,0 +1,21 @@
+{"schema":"openai.presentation.layout/v5","unit":"px","slide":{"id":"sl/qlj541","index":31,"layout":{"id":"ly/qlg7adkb","name":"Blank"},"backgroundColor":"rgba(0,0,0,1)","position":{"left":0,"top":0,"width":1920,"height":1080}},
+"elements":[
+{"id":"im/apcz6xgj","kind":"image","position":{"left":1778.67,"top":40,"width":108,"height":77.33},"fit":"contain","alt":"사이음 화이트 원본 로고"},
+{"id":"sh/0n6xwbm5","kind":"textbox","name":"copyright","position":{"left":1440,"top":1038,"width":440,"height":28},"text":"© 2026. @sci_eum. All rights reserved.","style":{"fontSize":17,"typeface":"Pretendard","color":"#FFFFFF","alignment":"right"},"geometry":"rect","lineWidth":0},
+{"id":"sh/1ofy5wna","kind":"textbox","name":"text","position":{"left":90,"top":86,"width":1400,"height":44},"text":"Part 3 표준 생성 엔탈피","style":{"fontSize":28,"typeface":"Pretendard","color":"#898989","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/2pofy14v","kind":"textbox","name":"text","position":{"left":90,"top":134,"width":70,"height":64},"text":"01","style":{"fontSize":44,"typeface":"Pretendard","color":"#9FFF68","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/nqxg765g","kind":"textbox","name":"text","position":{"left":158,"top":134,"width":1550,"height":64},"text":"표준 생성 엔탈피","style":{"fontSize":44,"typeface":"Pretendard","color":"#FFFFFF","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/or6x0bm1","kind":"textbox","name":"핵심 문장","position":{"left":180,"top":294,"width":1560,"height":96},"text":"같은 탄소라도 기준값은 다르다","style":{"fontSize":64,"typeface":"Pretendard","color":"#FFFFFF","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"tb/udc36pob","kind":"table","position":{"left":820,"top":495,"width":930,"height":330},"text":"탄소의 형태\t표준 생성 엔탈피\n흑연\t0 kJ/mol\n다이아몬드\t+1.88 kJ/mol","rows":3,"cols":2},
+{"id":"sh/3utg7e5o","kind":"shape","name":"표 둥근 외곽 마스크","position":{"left":820,"top":495,"width":20,"height":20},"geometry":"custom","fillColor":"#000000","lineWidth":0},
+{"id":"sh/itkfy943","kind":"shape","name":"표 둥근 외곽 마스크","position":{"left":1730,"top":495,"width":20,"height":20},"geometry":"custom","fillColor":"#000000","lineWidth":0},
+{"id":"sh/5wvy9onu","kind":"shape","name":"표 둥근 외곽 마스크","position":{"left":1730,"top":805,"width":20,"height":20},"geometry":"custom","fillColor":"#000000","lineWidth":0},
+{"id":"sh/4vmx0jm9","kind":"shape","name":"표 둥근 외곽 마스크","position":{"left":820,"top":805,"width":20,"height":20},"geometry":"custom","fillColor":"#000000","lineWidth":0},
+{"id":"sh/hsby54ni","kind":"textbox","name":"반응식·수식","position":{"left":220,"top":395,"width":1480,"height":64},"text":"원소 물질이어도, 다른 동소체의 값까지 0은 아니다.","style":{"fontSize":32,"typeface":"Pretendard","color":"#BBBBBB","alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"im/72d83y5o","kind":"image","position":{"left":165,"top":515,"width":290,"height":350},"fit":"contain","alt":"천재39쪽 흑연 구조만 배경 제거 편집"},
+{"id":"im/w7m90nm5","kind":"image","position":{"left":490,"top":515,"width":290,"height":350},"fit":"contain","alt":"천재39쪽 다이아몬드 구조만 배경 제거 편집"},
+{"id":"sh/el4f6t4b","kind":"textbox","name":"text","position":{"left":200,"top":880,"width":220,"height":55},"text":"흑연","style":{"fontSize":30,"typeface":"Pretendard","color":"#FFFFFF","bold":true,"alignment":"center"},"geometry":"roundRect","fillColor":"#333333","lineWidth":0},
+{"id":"sh/ah8jyxoj","kind":"textbox","name":"text","position":{"left":525,"top":880,"width":220,"height":55},"text":"다이아몬드","style":{"fontSize":30,"typeface":"Pretendard","color":"#FFFFFF","bold":true,"alignment":"center"},"geometry":"roundRect","fillColor":"#333333","lineWidth":0},
+{"id":"sh/bih072p4","kind":"textbox","name":"text","position":{"left":1010,"top":858,"width":750,"height":65},"text":"이 조건에서 더 안정한 기준 원소 물질","style":{"fontSize":28,"typeface":"Pretendard","color":"#9FFF68","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"im/3m98rixo","kind":"image","position":{"left":870,"top":835,"width":130,"height":56},"fit":"contain","alt":"물에맛.Zip 물의 여러 가지 성질14장 원본 공통 곡선 화살표"}
+]}

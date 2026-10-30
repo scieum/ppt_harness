@@ -1,0 +1,18 @@
+{"schema":"openai.presentation.layout/v5","unit":"px","slide":{"id":"sl/8zy90k","index":2,"layout":{"id":"ly/cra94v2h","name":"Blank"},"backgroundColor":"rgba(255,255,255,1)","position":{"left":0,"top":0,"width":1920,"height":1080}},
+"elements":[
+{"id":"im/gfahofut","kind":"image","position":{"left":1778.67,"top":40,"width":108,"height":77.33},"fit":"contain","alt":"사이음 공식 로고"},
+{"id":"sh/e1gva9kj","kind":"textbox","name":"copyright","position":{"left":1440,"top":1034,"width":440,"height":30},"text":"© 2026. @sci_eum. All rights reserved.","style":{"fontSize":21,"typeface":"Pretendard","color":"#000000","alignment":"right"},"geometry":"rect","lineWidth":0},
+{"id":"sh/f2pcjel4","kind":"textbox","name":"목차 제목","position":{"left":326.67,"top":264,"width":1268,"height":126.67},"text":"이번 단원의 목차","style":{"fontSize":100,"typeface":"Pretendard","color":"#000000","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/oridgj21","kind":"shape","name":"원본 윤곽 목차 블록","position":{"left":181,"top":470,"width":410,"height":350},"geometry":"custom","fillColor":"#202020","lineWidth":0},
+{"id":"sh/psrupo36","kind":"textbox","name":"text","position":{"left":261,"top":536,"width":250,"height":60},"text":"Part 1","style":{"fontSize":38,"typeface":"Pretendard","color":"#9FFF68","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/25gve9kv","kind":"textbox","name":"text","position":{"left":261,"top":610,"width":285,"height":148},"text":"엔트로피","style":{"fontSize":42,"typeface":"Pretendard","color":"#FFFFFF","alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/3q9cnelg","kind":"shape","name":"원본 윤곽 목차 블록","position":{"left":565,"top":470,"width":410,"height":350},"geometry":"custom","fillColor":"#202020","lineWidth":0},
+{"id":"sh/4vet4zmh","kind":"textbox","name":"text","position":{"left":645,"top":536,"width":250,"height":60},"text":"Part 2","style":{"fontSize":38,"typeface":"Pretendard","color":"#9FFF68","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/5wnudk32","kind":"textbox","name":"text","position":{"left":645,"top":610,"width":285,"height":148},"text":"계와 주위","style":{"fontSize":42,"typeface":"Pretendard","color":"#FFFFFF","alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/lgzi1wve","kind":"shape","name":"원본 윤곽 목차 블록","position":{"left":949,"top":470,"width":410,"height":350},"geometry":"custom","fillColor":"#202020","lineWidth":0},
+{"id":"sh/kfq18rut","kind":"textbox","name":"text","position":{"left":1029,"top":536,"width":250,"height":60},"text":"Part 3","style":{"fontSize":38,"typeface":"Pretendard","color":"#9FFF68","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/jeh0zmd8","kind":"textbox","name":"text","position":{"left":1029,"top":610,"width":285,"height":148},"text":"전체 엔트로피와\n자발성","style":{"fontSize":42,"typeface":"Pretendard","color":"#FFFFFF","alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/yd8z6hcn","kind":"shape","name":"원본 윤곽 목차 블록","position":{"left":1333,"top":470,"width":410,"height":350},"geometry":"custom","fillColor":"#202020","lineWidth":0},
+{"id":"sh/t4ji5gva","kind":"textbox","name":"text","position":{"left":1413,"top":536,"width":250,"height":60},"text":"Part 4","style":{"fontSize":38,"typeface":"Pretendard","color":"#9FFF68","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/83a1cbup","kind":"textbox","name":"text","position":{"left":1413,"top":610,"width":285,"height":148},"text":"네 가지 변화\n해석","style":{"fontSize":42,"typeface":"Pretendard","color":"#FFFFFF","alignment":"left"},"geometry":"rect","lineWidth":0}
+]}

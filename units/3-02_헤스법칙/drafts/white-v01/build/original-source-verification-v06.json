@@ -1,0 +1,36 @@
+{
+  "pptx": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-02_헤스법칙/drafts/full-v01/output/3-02_헤스법칙_전체40장_교과서원본반영_v06.pptx",
+  "sha256": "8d82903bb6e396b537854340099c995268b3c215c3872b057e8daf3761222f04",
+  "original_equation_and_graph_assets_used": [
+    "t76-water-one",
+    "t76-water-two",
+    "t84-cao-direct",
+    "t84-cao-dissolve",
+    "t84-cao-graph",
+    "t84-cao-neutral",
+    "t85-co-combine",
+    "t85-co-graph",
+    "t85-co-oxidize",
+    "t85-co-target",
+    "t85-co-total",
+    "t85-water-gas",
+    "t85-water-liquid",
+    "t85-water-vaporize",
+    "t86-ch4-combustion",
+    "t86-ch4-formation",
+    "t87-ch4-decomposition",
+    "t87-three-processes",
+    "w120-naoh-direct",
+    "w120-naoh-dissolve",
+    "w120-naoh-neutral",
+    "w122-sulfur-given",
+    "w122-sulfur-target"
+  ],
+  "count": 23,
+  "rejected_generated_equation_images_present": [],
+  "original_character_used_slides": [
+    2,
+    4
+  ],
+  "checks": "All changed slides visually reviewed; package/font/import verification in validation-v06.json. Native PowerPoint execution not tested. No G08/G09 approval claimed."
+}

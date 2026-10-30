@@ -1,0 +1,381 @@
+
+PAGE 1 (ppt/slides/slide1.xml)
+title-line0: Ⅲ. 화학 변화의 자발성
+title-line1: 01. 엔탈피와 열화학 반응식
+ai_notice: 본 수업 자료에 사용된 일부 이미지는 생성형 AI 기술을 활용하여 제작되었습니다.
+
+PAGE 2 (ppt/slides/slide2.xml)
+title: 이번 단원의 목차
+part-label-0: Part 1
+part-title-0-0: 엔탈피
+part-label-1: Part 2
+part-title-1-0: 열화학 반응식
+part-label-2: Part 3
+part-title-2-0: 연료의 효율성
+part-label-3: Part 4
+part-title-3-0: 결합 에너지와
+part-title-3-1: 반응 엔탈피
+
+PAGE 3 (ppt/slides/slide3.xml)
+title: 이번 단원의 학습 목표
+number_1: 1
+objective_1: 엔탈피의 의미를 알고, 열화학 반응식을 표현할 수 있다.
+number_2: 2
+objective_2: 단위 질량당 방출열로 연료의 효율성을 비교할 수 있다.
+number_3: 3
+objective_3: 결합 에너지와 반응 엔탈피의 관계를 설명할 수 있다.
+
+PAGE 4 (ppt/slides/slide4.xml)
+part_heading: Part 0 동기 유발
+topic_number: 01
+topic_heading: 손난로와 열
+title: 흔들기만 했는데도 따뜻해지는 손난로!?
+observation_explanation: 포장을 뜯고 흔든 손난로가 따뜻해진다. 손난로 안에서는 어떤 변화가 일어날까?
+
+PAGE 5 (ppt/slides/slide5.xml)
+part_label: Part 1
+title: 엔탈피
+theory_curiosity: 반응할 때 열은 어디로 이동할까?
+
+PAGE 6 (ppt/slides/slide6.xml)
+part_heading: Part 1 엔탈피
+topic_number: 01
+topic_heading: 발열 반응과 흡열 반응
+title: 발열 반응은 주위로 열을 방출한다
+explanation: 물질이 반응하며 방출한 열이 주위를 따뜻하게 한다
+example-title-0: 메테인의 연소
+example-caption-0: 도시가스가 연소하며 열을 방출한다
+example-title-1: 철의 산화
+example-caption-1: 손난로는 철 가루의 산화열을 이용한다
+
+PAGE 7 (ppt/slides/slide7.xml)
+part_heading: Part 1 엔탈피
+topic_number: 01
+topic_heading: 발열 반응과 흡열 반응
+title: 흡열 반응은 주위에서 열을 흡수한다
+explanation: 냉각 팩은 물질이 용해될 때 주위의 열을 흡수하는 성질을 이용한다
+example-title-0: 냉각 팩
+example-caption-0: 질산 암모늄이 용해되며 열을 흡수한다
+example-title-1: 탄산수소 나트륨의 분해
+example-caption-1: 제빵 소다가 분해될 때 열을 흡수한다
+
+PAGE 8 (ppt/slides/slide8.xml)
+part_heading: Part 1 엔탈피
+topic_number: 02
+topic_heading: 엔탈피와 열 출입
+title: 엔탈피(Enthalpy)
+explanation: 일정한 압력에서 어떤 물질이 갖는 에너지의 양
+enthalpy-point-number-1: 1
+enthalpy-point-1-line-0: 물질은 분자의 운동 에너지뿐 아니라
+enthalpy-point-1-line-1: 여러 종류의 에너지를 갖는다.
+enthalpy-point-number-2: 2
+enthalpy-point-2-line-0: 물질의 양과 상태, 온도와 압력에 따라
+enthalpy-point-2-line-1: 엔탈피가 달라진다.
+enthalpy-symbol: H
+enthalpy-symbol-caption: 엔탈피의 기호
+takeaway: ‘덥다’를 뜻하는 그리스어 enthalpo에서 유래한 엔탈피
+
+PAGE 9 (ppt/slides/slide9.xml)
+part_heading: Part 1 엔탈피
+topic_number: 02
+topic_heading: 엔탈피와 열 출입
+title: 화학 반응에서의 엔탈피 변화
+explanation: 일정한 압력에서 화학 반응이 일어날 때의 엔탈피 변화를 반응 엔탈피라고 한다
+after-label: 반응 후
+before-label: 반응 전
+change-meaning: Δ는 변화량을 뜻한다
+
+PAGE 10 (ppt/slides/slide10.xml)
+part_heading: Part 1 엔탈피
+topic_number: 02
+topic_heading: 엔탈피와 열 출입
+title: 발열 반응과 흡열 반응의 엔탈피 변화
+explanation: 발열 반응은 엔탈피가 감소하고, 흡열 반응은 엔탈피가 증가한다
+exothermic-caption: 발열 반응
+exothermic-sign: ΔH < 0
+endothermic-caption: 흡열 반응
+endothermic-sign: ΔH > 0
+
+PAGE 11 (ppt/slides/slide11.xml)
+part_heading: Part 1 엔탈피
+topic_number: 02
+topic_heading: 엔탈피와 열 출입
+title: 반응 엔탈피의 부호
+explanation: 생성물과 반응물의 엔탈피 합의 차이에 따라 부호가 달라진다
+
+PAGE 12 (ppt/slides/slide12.xml)
+part_label: Part 2
+title: 열화학 반응식
+theory_curiosity: 같은 반응도 물질의 양이나 상태가 달라지면 출입하는 열이 달라질까?
+
+PAGE 13 (ppt/slides/slide13.xml)
+part_heading: Part 2 열화학 반응식
+topic_number: 01
+topic_heading: 열화학 반응식
+title: 열화학 반응식이란?
+definition-line-1: 화학 반응식에 반응 엔탈피를
+definition-line-2: 함께 나타낸 것을 열화학 반응식이라고 한다
+
+PAGE 14 (ppt/slides/slide14.xml)
+part_heading: Part 2 열화학 반응식
+topic_number: 01
+topic_heading: 열화학 반응식
+title: 열화학 반응식에 나타낸 열 출입
+explanation: 반응 엔탈피는 반응식에 나타낸 물질의 상태와 양을 기준으로 한다
+cao-meaning: 산화 칼슘 1 mol이 반응하면 76.9 kJ을 방출한다
+nh4-meaning: 질산 암모늄 1 mol이 용해되면 26.2 kJ을 흡수한다
+
+PAGE 15 (ppt/slides/slide15.xml)
+part_heading: Part 2 열화학 반응식
+topic_number: 01
+topic_heading: 열화학 반응식
+title: 열화학 반응식의 세 가지 특징
+: 특징 / 반응 엔탈피의 변화 / 계수 / 반응식 전체의 계수 × n  →  ΔH × n / 상태 / 물질의 상태가 다르면 ΔH도 달라진다 / 역반응 / 반응 엔탈피의 크기는 같고 부호는 반대
+reverse-condition: 온도·압력이 같고 물질의 상태와 양이 대응하는 정반응과 역반응의 비교
+
+PAGE 16 (ppt/slides/slide16.xml)
+part_heading: Part 2 열화학 반응식
+topic_number: 01
+topic_heading: 열화학 반응식
+title: 계수가 두 배가 되면 ΔH도 두 배가 된다
+explanation: 엔탈피 변화는 반응한 물질의 양에 비례한다
+
+PAGE 17 (ppt/slides/slide17.xml)
+part_heading: Part 2 열화학 반응식
+topic_number: 01
+topic_heading: 열화학 반응식
+title: 생성물의 상태에 따른 반응 엔탈피
+explanation: 같은 양이 반응해도 생성물이 액체 물인지 수증기인지에 따라 방출열이 다르다
+takeaway: 액체 물이 생성될 때 더 많은 열을 방출한다
+
+PAGE 18 (ppt/slides/slide18.xml)
+part_heading: Part 2 열화학 반응식
+topic_number: 01
+topic_heading: 열화학 반응식
+title: 반응 전후의 엔탈피 변화
+explanation: 생성물의 엔탈피 합이 반응물보다 작으면 그 차이만큼 열을 방출한다
+
+PAGE 19 (ppt/slides/slide19.xml)
+part_heading: Part 2 열화학 반응식
+topic_number: 01
+topic_heading: 열화학 반응식
+title: 여러 가지 반응의 열화학 반응식
+explanation: 생성 반응 · 연소 반응 · 중화 반응 · 용해 반응
+
+PAGE 20 (ppt/slides/slide20.xml)
+part_heading: Part 2 열화학 반응식
+topic_number: 01
+topic_heading: 열화학 반응식
+left-title: 열량계로 측정하는 / 반응열
+symbols: c  용액의 비열 / m  용액의 질량 / Δt  나중 온도 − 처음 온도
+
+PAGE 21 (ppt/slides/slide21.xml)
+part_heading: Part 2 열화학 반응식
+topic_number: 01
+topic_heading: 열화학 반응식
+title: 열화학 반응식으로 알아보는 열 출입
+q1: 생성물과 반응물 중 어느 쪽의 엔탈피 합이 클까?
+answer-1: 생성물의 엔탈피 합이 더 크다
+q2: NH₃(g) 1 mol 생성 시 45.9 kJ 방출 → 반응식을 완성해 보자
+answer-2: N₂(g) + 3H₂(g) → 2NH₃(g)    ΔH = −91.8 kJ
+
+PAGE 22 (ppt/slides/slide22.xml)
+part_label: Part 3
+title: 연료의 효율성
+theory_curiosity: 같은 질량의 연료라면 어느 연료가 더 많은 열을 낼까?
+
+PAGE 23 (ppt/slides/slide23.xml)
+part_heading: Part 3 연료의 효율성
+topic_number: 01
+topic_heading: 연소 반응의 이용
+title: 연소 반응의 이용
+explanation: 연료가 연소하며 방출하는 에너지를 난방과 자동차의 운동에 이용한다
+PHOTO_BOILER-title: 가정용 난방 보일러
+PHOTO_BOILER-description: 연료가 연소하며 방출한 열로 난방
+PHOTO_CAR-title: 가솔린 자동차
+PHOTO_CAR-description: 연료의 연소 에너지를 운동에 이용
+
+PAGE 24 (ppt/slides/slide24.xml)
+part_heading: Part 3 연료의 효율성
+topic_number: 02
+topic_heading: 연료의 효율성 비교
+title: 연료 1 mol이 연소할 때의 방출열
+explanation: 반응 엔탈피는 반응식에 나타낸 연료의 양을 기준으로 한다
+number-1: 1
+label-1: 메테인 1 mol
+value-1: 890.5 kJ 방출
+number-2: 2
+label-2: 뷰테인 1 mol
+value-2: 5754 ÷ 2 = 2877 kJ 방출
+
+PAGE 25 (ppt/slides/slide25.xml)
+part_heading: Part 3 연료의 효율성
+topic_number: 02
+topic_heading: 연료의 효율성 비교
+title: 연료 1 g이 연소할 때의 방출열
+equation: 1 g당 방출열 = 1 mol당 방출열 ÷ 몰질량
+number-1: 1
+label-1: 메테인
+value-1: 890.5 ÷ 16 ≈ 55.7 kJ/g
+number-2: 2
+label-2: 뷰테인
+value-2: 2877 ÷ 58 ≈ 49.6 kJ/g
+unit: (kJ/mol) ÷ (g/mol) = kJ/g
+
+PAGE 26 (ppt/slides/slide26.xml)
+part_heading: Part 3 연료의 효율성
+topic_number: 02
+topic_heading: 연료의 효율성 비교
+title: 에탄올과 수소의 1 g당 방출열
+explanation: 반응식에 나타난 연료의 질량으로 방출열을 나눈다
+eq-ethanol-fuel: 에탄올
+eq-ethanol-mass: 1 mol = 46 g
+eq-ethanol-calculation: 1367 ÷ 46 ≈ 29.7 kJ/g
+eq-water-liquid-fuel: 수소
+eq-water-liquid-mass: 2 mol = 4 g
+eq-water-liquid-calculation: 571.6 ÷ 4 = 142.9 kJ/g
+
+PAGE 27 (ppt/slides/slide27.xml)
+part_heading: Part 3 연료의 효율성
+topic_number: 02
+topic_heading: 연료의 효율성 비교
+title: 같은 질량의 연료가 방출하는 열
+explanation: 네 연료가 완전 연소하여 액체 물이 생성되는 조건에서 비교한다
+: 연료 / 메테인 / 뷰테인 / 에탄올 / 수소 / 분자식 / CH₄ / C₄H₁₀ / C₂H₆O / H₂ / 분자량 / 16 / 58 / 46 / 2 / 1 mol당 방출열(kJ/mol) / 890.5 / 2877 / 1367 / 285.8 / 1 g당 방출열(kJ/g) / 55.7 / 49.6 / 29.7 / 142.9
+takeaway: 1 g당 방출열: 수소 > 메테인 > 뷰테인 > 에탄올
+
+PAGE 28 (ppt/slides/slide28.xml)
+part_heading: Part 3 연료의 효율성
+topic_number: 02
+topic_heading: 연료의 효율성 비교
+left-title: 연료를 비교할 때 / 고려할 조건
+criterion-label-1: 방출하는 열
+criterion-body-1: 같은 질량의 완전 연소에서 / 방출하는 열
+criterion-label-2: 실제 이용 조건
+criterion-body-2: 생산 과정 · 저장과 운송 / 장치의 효율
+student-question-text: 방출열만 크면 / 좋은 연료일까?
+
+PAGE 29 (ppt/slides/slide29.xml)
+part_heading: Part 3 연료의 효율성
+topic_number: 02
+topic_heading: 연료의 효율성 비교
+title: 같은 질량일 때 방출열이 큰 연료는?
+explanation: 표의 빈칸을 채우고, 방출열이 큰 순서대로 나열해 보자
+: 연료 / 메테인 / 뷰테인 / 에탄올 / 수소 / 분자식 / CH₄ / C₄H₁₀ / C₂H₆O / H₂ / 분자량 / 16 / 1 mol당 방출열(kJ/mol) / 890.5 / 1 g당 방출열(kJ/g) / 55.7
+question: 같은 질량일 때 방출열이 큰 순서는?
+answer-1: 뷰테인 49.6 · 수소 142.9 kJ/g
+answer-2: 수소 > 메테인 > 뷰테인 > 에탄올
+
+PAGE 30 (ppt/slides/slide30.xml)
+part_label: Part 4
+title: 결합 에너지와 반응 엔탈피
+theory_curiosity: 결합을 끊을 때와 만들 때, 에너지는 어떻게 출입할까?
+
+PAGE 31 (ppt/slides/slide31.xml)
+part_heading: Part 4 결합 에너지와 반응 엔탈피
+topic_number: 01
+topic_heading: 결합 에너지
+title: 결합을 끊을 때 에너지를 흡수한다
+explanation: 기체 상태의 수소 분자를 원자로 분리하는 과정
+bond-explanation-label-1: 결합의 변화
+bond-explanation-body-1: H–H 결합 1 mol을 끊는다
+bond-explanation-label-2: 열 출입과 엔탈피
+bond-explanation-body-2: 436 kJ 흡수 · ΔH > 0
+reaction-bar-text: H₂(g) → 2H(g)    ΔH = 436 kJ
+
+PAGE 32 (ppt/slides/slide32.xml)
+part_heading: Part 4 결합 에너지와 반응 엔탈피
+topic_number: 01
+topic_heading: 결합 에너지
+title: 결합이 형성될 때 에너지를 방출한다
+explanation: 기체 상태의 수소 원자가 결합하여 수소 분자가 되는 과정
+bond-explanation-label-1: 결합의 변화
+bond-explanation-body-1: H–H 결합 1 mol이 만들어진다
+bond-explanation-label-2: 열 출입과 엔탈피
+bond-explanation-body-2: 436 kJ 방출 · ΔH < 0
+reaction-bar-text: 2H(g) → H₂(g)    ΔH = −436 kJ
+
+PAGE 33 (ppt/slides/slide33.xml)
+part_heading: Part 4 결합 에너지와 반응 엔탈피
+topic_number: 01
+topic_heading: 결합 에너지
+title: 결합 에너지란?
+explanation: 기체 상태에서 공유 결합 1 mol을 끊는 데 필요한 에너지
+reading-index-1: 1
+reading-label-1: H–H 결합
+reading-body-1: 1 mol 해리: 436 kJ 흡수
+reading-index-2: 2
+reading-label-2: 물 1 mol
+reading-body-2: O–H 결합은 2 mol
+reading-index-3: 3
+reading-label-3: 다원자 분자
+reading-body-3: 평균 결합 에너지 사용
+
+PAGE 34 (ppt/slides/slide34.xml)
+part_heading: Part 4 결합 에너지와 반응 엔탈피
+topic_number: 02
+topic_heading: 결합 에너지와 반응 엔탈피
+title: 원자 수는 보존되고, 결합은 달라진다
+explanation: 수소와 산소의 결합이 끊어지고, 산소와 수소 사이에 새로운 결합이 형성된다
+conclusion: 반응 전후 수소 원자는 4개, 산소 원자는 2개로 같다
+
+PAGE 35 (ppt/slides/slide35.xml)
+part_heading: Part 4 결합 에너지와 반응 엔탈피
+topic_number: 02
+topic_heading: 결합 에너지와 반응 엔탈피
+title: 물 생성 반응에서 변하는 결합
+explanation: 2H₂(g) + O₂(g) → 2H₂O(g)
+: 과정 / 결합의 종류 / 반응식 기준 결합의 양 / 끊기 / H–H / 2 mol / 끊기 / O=O / 1 mol / 만들기 / O–H / 4 mol
+takeaway: 물 2 mol에는 O–H 결합이 4 mol 있다
+
+PAGE 36 (ppt/slides/slide36.xml)
+part_heading: Part 4 결합 에너지와 반응 엔탈피
+topic_number: 02
+topic_heading: 결합 에너지와 반응 엔탈피
+title: 흡수하는 에너지에서 방출하는 에너지를 뺀다
+explanation: 2H₂(g) + O₂(g) → 2H₂O(g) · 반응식 전체 기준
+step-number-0: 1
+step-label-0: 끊는 결합
+step-equation-0: 2 × 436 + 498 = 1370 kJ
+step-number-1: 2
+step-label-1: 만드는 결합
+step-equation-1: 4 × 460 = 1840 kJ
+step-number-2: 3
+step-label-2: 반응 엔탈피
+step-equation-2: ΔH ≈ 1370 − 1840 = −470 kJ
+
+PAGE 37 (ppt/slides/slide37.xml)
+part_heading: Part 4 결합 에너지와 반응 엔탈피
+topic_number: 02
+topic_heading: 결합 에너지와 반응 엔탈피
+title: 평균 결합 에너지로 구한 반응 엔탈피
+explanation: 평균 결합 에너지를 사용하므로 계산한 반응 엔탈피는 근삿값이다
+state-label-text-1: 수증기 생성
+method-1: 평균 결합 에너지로 계산한 근삿값
+state-label-text-2: 액체 물 생성
+equation: 2H₂(g) + O₂(g) → 2H₂O(g)    ΔH ≈ −470 kJ
+
+PAGE 38 (ppt/slides/slide38.xml)
+part_heading: 정리 · 형성평가
+topic_heading: 정리와 확인
+title: 발열 반응과 흡열 반응
+: 비교 기준 / 발열 반응 / 흡열 반응 / 열의 이동 / 반응하는 물질 → 주위 / 주위 → 반응하는 물질 / 반응 전후 엔탈피 / 감소한다 / 증가한다 / 엔탈피 합의 비교 / 생성물 < 반응물 / 생성물 > 반응물 / 반응 엔탈피의 부호 / ΔH < 0 / ΔH > 0
+recap-other-relations: 계수를 n배 하면 ΔH도 n배 · 물질의 상태가 달라지면 ΔH도 달라진다
+summary-bond-equation: ΔH ≈ 결합을 끊는 데 흡수한 에너지 − 결합 형성 시 방출한 에너지
+
+PAGE 39 (ppt/slides/slide39.xml)
+part_heading: 정리 · 형성평가
+topic_heading: 정리와 확인
+title: 손난로가 따뜻해지는 까닭
+warm-question-text: 손이 따뜻해진 까닭은?
+recap-label-1: 반응
+recap-body-1: 철의 산화
+recap-arrow-1: →
+recap-label-2: 열 이동
+recap-body-2: 주위로 방출
+recap-arrow-2: →
+recap-label-3: 부호
+recap-body-3: ΔH < 0
+exit-reaction: H₂(g) + F₂(g) → 2HF(g)
+exit-instruction: 결합 에너지로 ΔH를 구해 보자
+answer-1: ΔH ≈ 436 + 159 − 2 × 570 = −545 kJ

@@ -1,0 +1,374 @@
+[
+  {
+    "page": 1,
+    "text": "AI 이미지 실력은\n\r\n확장에서 갈립니다\r\n캐릭터 일관성부터 디테일 붕괴, 후보정까지\r\n2026년 08월 02일 오후 9시 LIVE"
+  },
+  {
+    "page": 2,
+    "text": "오늘 라이브는 이렇게 진행할 예정입니다.\r\nPART 5·6\r\n후보정 연출 &\n\r\n아이콘 일관성\n\r\n유지하기\r\nPART 1·2\r\n힉스필드 소개 &\n\r\n이미지 생성 \r\n문제정의\r\nPART 3\r\n캐릭터 일관성 \n\r\n설계 & 캐릭터 완성\r\n하기\r\nPART 7·Bonus\r\n무료 툴로  \r\n이미지 생성하기\r\n+ 힉스필드 MCP 활용법"
+  },
+  {
+    "page": 3,
+    "text": "AI 생성형 쉽다는데..왜 내가 만든 것만\n\r\n이렇게 무너질까요?\r\n생성할 때마다 달라지는 캐릭터"
+  },
+  {
+    "page": 4,
+    "text": "어려운 건 캐릭터 생성이 아니라 \r\n 같은 캐릭터의 재현\r\n장면이 바뀌어도 같은 캐릭터로 보이게 하기"
+  },
+  {
+    "page": 5,
+    "text": "이번 라이브에서는\n\r\nAI 캐릭터 설계와 일관성 유지에 대해 알아볼게요\r\n이미지가 무너지는 이유부터, 캐릭터를 만들고 연출하는 방법까지 한번에"
+  },
+  {
+    "page": 6,
+    "text": "Part 1\r\n힉스필드 인터페이스와\n\r\n툴 차이점 알아보기\r\n힉스필드 기능을 살펴보고 캐릭터 생성을 위한 세팅 방법에 대해 알아봅니다."
+  },
+  {
+    "page": 7,
+    "text": "Part 1 힉스필드 인터페이스와 툴 차이점 알아보기\r\n01 About Higgsfield\r\n오늘 라이브는, 힉스필드로 진행해요\r\n힉스필드(Higgsfield)란?\r\n여러 AI 모델을 한 곳에서 쓰는 생성형 AI 서비스\r\n힉스필드\r\n*툴 사용을 위해서는 유료 구독이 필요해요!"
+  },
+  {
+    "page": 8,
+    "text": "Part 1 힉스필드 인터페이스와 툴 차이점 알아보기\r\n01 About Higgsfield\r\n힉스필드 인터페이스 구조 살펴보기\r\n자세한 인터페이스 소개는 피튜브에서 확인!\r\n1 이미지 첨부\r\n2 텍스트 프롬프트\r\n3 AI 모델 선택\r\n4 비율 선택\r\n5 해상도 선택\r\n6 출력 장수 선택\r\n7 Draw to Edit\r\n8 결과물 미리보기\r\n8\r\n1 2\r\n4 5 6 7\r\n3"
+  },
+  {
+    "page": 9,
+    "text": "Part 1 힉스필드 인터페이스와 툴 차이점 알아보기\r\n01 About Higgsfield\r\n인터페이스에서 이런 기능을\n\r\n주로 사용하게 돼요\r\n생성 설정 통제 추가 수정\r\ncreate penguin character"
+  },
+  {
+    "page": 10,
+    "text": "Part 1 힉스필드 인터페이스와 툴 차이점 알아보기\r\n01 About Higgsfield\r\n다양하게 활용되는 멀티 AI 산출물들\r\n이 중에서, 이번 시간에는\n\r\nAI를 활용한 3D 캐릭터 디자인 작업에 대해서 \t배워볼 거예요\r\n모델 캐릭터 광고영상"
+  },
+  {
+    "page": 11,
+    "text": "Part 1 힉스필드 인터페이스와 툴 차이점 알아보기\r\n01 About Higgsfield\r\n종합 생성형 AI 플랫폼 비교하기\r\n구분\r\n출발점\r\n장점\r\n힉스필드\r\n영상·모션 생성\r\n매그니픽\r\n이미지 업스케일 \r\n폴로 AI\r\n모델 애그리게이터\r\nSNS 콘텐츠, 영상 생성 화질, 후보정 한국어 전용 UI, 쉬운 무료진입\r\n일관성 Element (자산 등록) 별도 기능 없음 Consistent 캐릭터 지원\r\nFigma Weave, Flora같이 노드 기반의 AI 작업도 늘어나는 추세"
+  },
+  {
+    "page": 12,
+    "text": "Part 1 힉스필드 인터페이스와 툴 차이점 알아보기\r\n01 About Higgsfield\r\n특히 힉스필드는 MCP로 클로드 연결해\n\r\n이미지 생성 자동화\r\nMCP or CLI 연결로 자동화하기"
+  },
+  {
+    "page": 13,
+    "text": "Part 1 힉스필드 인터페이스와 툴 차이점 알아보기\r\n01 About Higgsfield\r\n선택한 모델은 나노바나나 프로로 진행\r\n모델 선정에 정답은 없지만, 캐릭터 활용으로 사용하기 위해선\n\r\n일관성 유지할 수 있는 모델을 사용해주세요\r\n우수한 텍스트 렌더링 인물 및 요소 일관성 구도 및 연출력 활용"
+  },
+  {
+    "page": 14,
+    "text": "Part 2\r\n캐릭터 오류 케이스와\n\r\n일관성 유지하는 법\r\n대표적인 이미지 생성 실패 사례들의 문제점을 살펴보고\n\r\n실제 허들링 클럽 캐릭터 설계 케이스로 일관성 유지 방법을 배워보아요"
+  },
+  {
+    "page": 15,
+    "text": "Part 2 캐릭터 오류 케이스와 일관성 유지하는 법\r\n01 오류 케이스 살펴보기\r\n대표적으로 보이는 실패 사례들\r\n에러케이스 1 에러케이스 2\r\n눈, 입 등 얼굴 무너짐 소품, 질감 달라짐 다른 캐릭터 등장"
+  },
+  {
+    "page": 16,
+    "text": "Part 2 캐릭터 오류 케이스와 일관성 유지하는 법\r\n01 오류 케이스 살펴보기\r\n고치려고 하는 부분은 명확하게 파악하기\r\n무맥락으로, 이상한데? 애매한데?라는 문장보다,\n\r\n어떤 문제가 발생했는지 알려줘야 해결할 수 있어요\r\n전혀 다른 캐릭터 등장\r\n디테일한 디자인 미일치\r\n일관되지 않는 질감,톤\r\n엉뚱한 추가 요소"
+  },
+  {
+    "page": 17,
+    "text": "Part 2 캐릭터 오류 케이스와 일관성 유지하는 법\r\n01 오류 케이스 살펴보기\r\n캐릭터 왜곡이 발생할 땐, 외모 묘사 정의하기\r\n레퍼런스 이미지 첨부+ 캐릭터 외모 설명하기\r\n실패 케이스 (필수 적용)\r\nBase prompt\r\n하늘색 삼각 반다나 필수\r\n부리·발은 골든 옐로우\r\n통통한 둥근 실루엣 유지\r\n(제약 적용)\r\nNegative prompt \r\nmissing bandana\r\ngray beak, black feet\r\nslim penguin, realistic penguin\r\nplump rounded penguin with dark chocolate-brown\n\r\nto near-black fur on the head, back, and flipper wings, and a large creamy-white\n\r\nfur chest and belly. White face patches surround the eyes, meeting above a small\n\r\ngolden-yellow beak. Big glossy dark eyes with two small white highlights each.\n\r\n**Wears a light-blue triangular bandana knotted at the neck, the knot sitting on \r\nhis\n\r\nright side with the fabric point hanging down over his white chest.** Golden￾yellow\n\r\nwebbed feet with three rounded toes. Brushed soft-fur texture, soft-matte plush \r\n3D\n\r\nrender, gentle ambient light."
+  },
+  {
+    "page": 18,
+    "text": "Part 2 캐릭터 오류 케이스와 일관성 유지하는 법\r\n01 오류 케이스 살펴보기\r\n베이스 캐릭터의 기준이 명확할수록 \r\n배리에이션 성공 확률이 상승\r\n베이스 캐릭터\n\r\n(레퍼런스)\r\n모범생 퍼디\r\n 이 \r\n야구선수 퍼디\r\n \r\n락커 퍼디\r\n "
+  },
+  {
+    "page": 19,
+    "text": "Part 2 캐릭터 오류 케이스와 일관성 유지하는 법\r\n01 오류 케이스 살펴보기\r\n캐릭터 중복 등장하거나, \n\r\n요구하지 않은 요소가 추가될 땐?\r\n등장하는 캐릭터가 늘어날수록 서로의 특징이 섞여요\r\n퍼디와 버디, 그리고 일반 펭귄 5마리까지\n\r\n총 7마리 펭귄 캐릭터가 등장하는 교실 풍경\r\nPenguin Classroom — SEVEN penguins, every desk \r\noccupied"
+  },
+  {
+    "page": 20,
+    "text": "Part 2 캐릭터 오류 케이스와 일관성 유지하는 법\r\n01 오류 케이스 살펴보기\r\n등장 인물이 많을수록\n\r\n왜곡이 발생할 가능성은 높아져요\r\n예시처럼 모델은 어떤 캐릭터가 반다나를 해야하는 것인지 확신하지 못해요\r\n한 컷 당 배분되는\n\r\n모델의 주의력이 한정됭\r\n인원이 늘어날수록\n\r\n속성 조건이 흐려짐 \r\n설명이 길어질수록\n\r\n후반부 내용을 생략"
+  },
+  {
+    "page": 21,
+    "text": "Part 2 캐릭터 오류 케이스와 일관성 유지하는 법\r\n01 오류 케이스 살펴보기\r\n여러 캐릭터가 등장하는 씬에서는\n\r\n중요도에 따라 소개하기\r\n필수로 등장하는 주인공과 보조 인물 순서로 나열해주세요\r\nx5\r\n주인공 캐릭터 보조 캐릭터\r\n주인공 캐릭터 1\r\n**PUDDY(퍼디):** medium-sized penguin, soft matte felt texture. \r\nBlack back and\n\r\nflippers, **large white face patch and white belly**, small yellow \r\nbeak, yellow feet.  \r\n**A light-blue bandana scarf tied around the neck — always\n\r\npresent.** Rounded upright body, stands on the floor.\r\n주인공 캐릭터 2\r\n**BUDDY(버디):** small gray baby penguin, soft fluffy texture. \r\n**Single rounded\n\r\negg silhouette head and body merge, head is about 45% of \r\ntotal height.**\n\r\nLarge white oval face patch, **two small round black eyes set \r\nWIDE apart**\n\r\nnear the outer edges of the patch. Tiny short gray beak. **NO \r\naccessories of any kind — completely bare neck.**\r\n보조인물 \r\n**THE FIVE PLAIN PENGUINS (extras):** built EXACTLY like 퍼디— \r\nblack back\n\r\nand flippers, white face patch and white belly, small yellow beak, \r\nyellow\n\r\nfeet, same soft matte felt texture. **They wear NO bandana, NO \r\nscarf and NO\n\r\naccessories of any kind — completely bare necks.** Their colours \r\nand markings\n\r\nare identical to one another; only their poses and expressions \r\ndiffer."
+  },
+  {
+    "page": 22,
+    "text": "Part 2 캐릭터 오류 케이스와 일관성 유지하는 법\r\n01 오류 케이스 살펴보기\r\n이미지 오류 문제 유형별 모아보기\r\n어떤 문제가 발생했는지 원인을 파악한 뒤, 프롬프트에 보완해요\r\n구분\r\n정체성\r\n디테일\r\n현상\r\n컷마다 딴사람, 얼굴·비율·머리가 바뀜\r\n손가락, 눈 스타일, 글자, 소품, 캐릭터 크기\r\n원인\r\n캐릭터가 특징을 특정할 만큼 정밀하지 않다\r\n하지 말라는 제약 조건 없으면, 무시하기 쉽다\r\n 스타일 컷마다 조명·재질·색감이 다름 매번 새로 쓰니까 매번 다르다\r\n누락·순서 시킨 게 아예 안 나옴 / 배경만 덩그러니 필수 제약 요소를 후반부에 넣어, 모델이 무시"
+  },
+  {
+    "page": 23,
+    "text": "Part 2 캐릭터 오류 케이스와 일관성 유지하는 법\r\n02 프롬프트 구조화\r\n프롬프트 길어지면, 결과가 정확해질까?\r\n콘텍스트 양이 너무 길어지면 뒷부분은 잘리거나 반드시 지켜야하는\n\r\n주요 블록의 영향력도 급격히 하락하게 돼요\r\n1\r\n2\r\n3\r\n4\r\n4\r\n5\r\n6"
+  },
+  {
+    "page": 24,
+    "text": "Part 2 캐릭터 오류 케이스와 일관성 유지하는 법\r\n02 프롬프트 구조화\r\n프롬프트에 한번에 전체 생성하기보다\n\r\n필요한 소재를 나누어서 생성\r\n작은 단위부터 쪼개서 생성해서 프롬프트 분량과 구현 정밀도를 조절\r\nStep A\r\n튜브, 서핑보드, 수영복\r\nStep B\r\n수영복 입은 퍼디\r\nStep C\r\n바닷가에서\n\r\n수영복 입은 퍼디"
+  },
+  {
+    "page": 25,
+    "text": "Part 2 캐릭터 오류 케이스와 일관성 유지하는 법\r\n03 캐릭터 케이스 스터디\r\n그렇다면, 캐릭터 기획과 일관성은\n\r\n어떻게 유지하는 걸까요?\r\n퍼디와 버디 캐릭터 케이스 스터디로 보여드릴게요"
+  },
+  {
+    "page": 26,
+    "text": "Part 2 캐릭터 오류 케이스와 일관성 유지하는 법\r\n03 캐릭터 케이스 스터디\r\n허들링 클럽의 캐릭터는 이렇게 탄생했어요\r\n멤버들의 페르소나를 상징할 수 있도록\n\r\n아기펭귄과 어른 펭귄 2단계로 구성\r\n캐릭터 아이디어 기획 캐릭터 컨셉 시안 N회차\r\n2D 시절 퍼디, 버디"
+  },
+  {
+    "page": 27,
+    "text": "Part 2 캐릭터 오류 케이스와 일관성 유지하는 법\r\n04 캐릭터 프롬프트 문법\r\n기획한 컨셉은 모델이 쉽게 읽을 수 있는\n\r\n프롬프트 문법으로 반영\r\n캐릭터 정체성부터 구체적인 스타일, 디테일 묘사까지\n\r\n정리해서 외모 변화가 없도록 고정시켜줘요\r\n이름(대문자) 종류/성별 헤어 / 재질 몸 색·패턴 / 의상 시그니처 디테일 강조제약\r\nPuddy Penguin brushed soft-fur \r\ntexture, soft￾matte plush\r\ndark chocolate-brown\n\r\nto near-black fur on the \r\nhead, back, and flipper \r\nwings, and a large creamy￾white\n\r\nfur chest and belly.\r\nExactly light-blue \r\nbandanas appear in the \r\nimage\r\n#Negative\n\r\nmissing \r\nbandana, \r\nscarf instead \r\nof bandana, \r\nwrong \r\nbandana \r\ncolor"
+  },
+  {
+    "page": 28,
+    "text": "Part 2 캐릭터 오류 케이스와 일관성 유지하는 법\r\n04 캐릭터 프롬프트 문법\r\n캐릭터 일관성을 위해\n\r\n4가지 방어 수단으로 구조화해요\r\n퍼디와 버디 캐릭터 케이스 스터디로 보여드릴게요\r\n1\r\nElement 자산\n\r\n반복 설명 고정\r\n2\r\n캐릭터\n\r\n외형 블록 \r\n3\r\n디테일\n\r\n시그니처 묘사\r\n4\r\nNegative\n\r\n제약 조건"
+  },
+  {
+    "page": 29,
+    "text": "Part 2 캐릭터 오류 케이스와 일관성 유지하는 법\r\n04 캐릭터 프롬프트 문법\r\n이때 놓치면 안 되는\n\r\n중요한 부분은 강조 처리 하기\r\n특히, 한 번이라도 틀렸거나 자주 실수하는 요소를 한번 더 언급해주는 것을 권장\r\n대문자, 볼드로 강조\r\n**BUDDY (baby penguin chick)**\r\n제약 조건으로 강조\r\n light-blue triangular\n\r\nbandana is present ···"
+  },
+  {
+    "page": 30,
+    "text": "Part 2 캐릭터 오류 케이스와 일관성 유지하는 법\r\n04 캐릭터 프롬프트 문법\r\n컨셉 시안을 레퍼런스로 첨부해\n\r\n3D 캐릭터 초안을 생성\r\n결과물의 톤앤매너를 살펴보며 부족한 보완점을 정리\r\n너무 매끈매끈해\r\n뭔가 애매한데?"
+  },
+  {
+    "page": 31,
+    "text": "Part 2 캐릭터 오류 케이스와 일관성 유지하는 법\r\n04 캐릭터 프롬프트 문법\r\n스타일과 디테일한 시그니처를  \r\n보완해 최종 캐릭터 완성하기\r\n특정 구도에서 캐릭터가 안 무너지도록, 캐릭터 고정 강조하기\r\npvc 재질\r\n펭귄 동물 털 표현 부족\r\n바둑알 같은 눈동자\r\n감정 표현에 제약\r\n짧은 신체 비율\r\n동작 추가, 자세 변주에 한계\r\n플러피한 털 추가\r\nBrushed soft-fur texture\r\n큰 눈동자\r\n눈은 광택 있는 돔형 + 흰 하이라이트\r\n비율만 살짝 증가\r\nNOT TOO SHORT penguin"
+  },
+  {
+    "page": 32,
+    "text": "Part 2 캐릭터 오류 케이스와 일관성 유지하는 법\r\n05 카메라 구도 & 조명 효과\r\n카메라 구도별 표현 예시\r\n구도 하나만 바꿔도 같은 캐릭터가 다른 이야기가 돼요\r\nEye level shot High angle shot Low angle shot Bird’s eye view Worm’s eye view\r\nOver the shoulder Profile shot Three quarter view Rear view Close up\r\nDutch angle\r\nWIDE SHOT"
+  },
+  {
+    "page": 33,
+    "text": "Part 2 캐릭터 오류 케이스와 일관성 유지하는 법\r\n05 카메라 구도 & 조명 효과\r\n조명 효과별 표현 예시\r\n조명 효과만 추가해도 연출컷의 깊이감이 달라져요\r\nFront lighting Backlight\t Side lighting Rim light Crystal refraction\r\nCandlelight Bioluminescent Top light Underlight\t Silhouette\r\nNeon light\r\nSoft window light"
+  },
+  {
+    "page": 34,
+    "text": "Part 2 캐릭터 오류 케이스와 일관성 유지하는 법\r\n05 카메라 구도 & 조명 효과\r\n캐릭터에 구도, 조명 설명으로\n\r\n다양한 스토리텔링 연출\r\n이때, 어느 스타일에서든지 디자인 유지에 대한 제약 조건을 넣어주면\n\r\n다양한 베리에이션에서도 캐릭터 일관성 유지에 도움\r\nClose up Rim light 연출컷"
+  },
+  {
+    "page": 35,
+    "text": "Part 2 캐릭터 오류 케이스와 일관성 유지하는 법\r\n06 추가 꿀팁\r\n이때, 프롬프트 작성은\n\r\n사용하는 AI에게 레퍼런스와 함께 요청하기\r\n클로드, GPT 등 AI 채팅으로 작성해보기\r\n퍼디와 버디가 뜨거운 사막을 건너는  \r\n연출컷 이미지 프롬프트 작성해줘\r\n## Scene — dynamic action\n\r\nI and \r\n이후 반복 사용하는 템플릿은 md파일로 문서화한 뒤,\n\r\n깃허브에 올리면 자동화도 가능 TIP"
+  },
+  {
+    "page": 36,
+    "text": "Part 3\r\n의존성 순서대로 구성\n\r\n& 베이스 연출컷 완성\r\n완성한 캐릭터를 기반으로 "
+  },
+  {
+    "page": 37,
+    "text": "Part 3 의존성 순서대로 구성 & 베이스 연출컷 완성\r\n01 프롬프트 계층 순서\r\n계층 단위부터 순서대로 나열하기\r\n한 번에 모든 요소를 설명하지 말고 블록 단위로 소개하며\n\r\n하나씩 레이어 계층을 올려주기\r\n캐릭터 누가 장소 어디서 연출 어떻게 보이나"
+  },
+  {
+    "page": 38,
+    "text": "Part 3 의존성 순서대로 구성 & 베이스 연출컷 완성\r\n01 프롬프트 계층 순서\r\n이미지 생성은 '한 번에'가 아니라 순차적으로 쌓아주세요\r\n프롬프트 예시 연출 프롬프트 구조\r\n1 5 #Scene a plump rounded penguin, comes running across a beach and \r\nLEAPS into the sea\r\nEye-level medium wide shot, PUDDY mid-leap in the left third,\n\r\nfully framed and not cut off. Shallow depth of field.\r\n1\r\n2 #Subject\r\n3 #Environment\r\n4 #Style\r\n5 #Composition\r\n6 #Critical\r\n7 #Negative\r\n6 1. ONLY one penguin appears.  \r\n2. Keep the light-blue bandana on PUDDY.\n\r\n3. Both feet off the ground — a real leap, not standing.\r\n2 Only PUDDY appears. **PUDDY:** black back and flippers, \r\nwhite face patch and\n\r\nbelly, small yellow beak, **light-blue bandana always tied at \r\nthe neck.**\r\n7 extra penguins, duplicated characters, missing bandana, \r\nstanding still, feet on the ground, cropped figure, cluttered \r\nbackground, blurry 3 Miniature beach diorama — pale sand, a small palm,\n\r\nclear shallow sea, bright soft daylight.\r\n4 Soft-matte vinyl collectible-figure render, smooth surfaces,\n\r\nstudio-soft lighting, gentle shadows, no harsh contrast."
+  },
+  {
+    "page": 39,
+    "text": "Part 3 의존성 순서대로 구성 & 베이스 연출컷 완성\r\n02 자산 등록\r\n이때, 최상단 블록에 엘리먼트를 넣어\n\r\n등장 캐릭터를 확실하게 고정\r\n@ #Element 메인 캐릭터·배경·소품\r\n1 #Scene 장소·상황·핵심 액션을 3~5문장\r\n3 #Environment 장소 묘사\r\n5 #Composition 카메라 구도\r\n7 #Negative 금지 조건 \r\n2\r\n4\r\n6\r\n#Subject 등장 캐릭터 외모 묘사\r\n#Style 디테일한 캐릭터 외모, 시그니처 추가\r\n#Critical 필수 제약 조건\r\n반복 작업 자산화"
+  },
+  {
+    "page": 40,
+    "text": "Part 3 의존성 순서대로 구성 & 베이스 연출컷 완성\r\n02 자산 등록\r\n고정 요소는 엘리먼트로 관리,\n\r\n가변적인 변경 사항을 프롬프트로 조절\r\n불변요소\r\n메인 캐릭터·배경·소품\r\n가변요소\r\n캐릭터 감정 표현, 추가 소품, 행동\n\r\n변주값"
+  },
+  {
+    "page": 41,
+    "text": "Part 3 의존성 순서대로 구성 & 베이스 연출컷 완성\r\n02 자산 등록\r\n반복 요소는 element에 등록해서 활용하기\r\n전체 프롬프트 컨텍스트 길이는 줄이고, AI 모델이 요구사항을 정확하게 반영할 수 있게 구조화\r\n@ #Element 메인 캐릭터·배경·소품\r\n1 #Scene 장소·상황·핵심 액션을 3~5문장\r\n2 #Subject 등장 캐릭터 외모 묘사\r\n3 #Environment 장소 묘사\r\n4 #Style 디테일한 캐릭터 외모, 시그니처 추가\r\n5 #Critical 필수 제약 조건\r\n#etive 조건 \r\n4 #mer omoition 메 , , 등 \r\n자산에 등록하고, 바인딩으로 참조해서\n\r\n전체 프롬프트에서 생략 가능해요"
+  },
+  {
+    "page": 42,
+    "text": "Part 3 의존성 순서대로 구성 & 베이스 연출컷 완성\r\n02 자산 등록\r\n1\r\n엘리먼트 등록 방법은 간단해요!\r\n베이스 이미지 생성하고 2 각도별 레퍼런스 이미지 추가 등록 3 카테고리 지정\r\n이 를 가\r\n퍼디 가 노란색 튜브를 메고 태양이 강렬한\r\n여름 바다 속으로 풍덩 빠짐\r\n퍼디\r\n4 저장 후 사용"
+  },
+  {
+    "page": 43,
+    "text": "Part 3 의존성 순서대로 구성 & 베이스 연출컷 완성\r\n03 캐릭터 생성 시연\r\n캐릭터 생성하기 시연 -1\r\n그럼 캐릭터를 생성하고\n\r\n베이스 연출컷을 생성해볼까요? \r\n하프물범 ‘하디' 캐릭터\r\n프롬프트 복사!\r\nConvert the attached 2D line-art concept into a single 3D character render named “HARDY”. The line-art defines the SILHOUETTE, EYE PLACEMENT and FLIPPER LINES exactly — follow it. Everything else is described below.\n\n\r\n## Subject\n\r\nONE single baby harp seal mascot character named HARDY, full body, STRICT STRAIGHT-ON FRONT VIEW — camera exactly level and centered on the face, the character facing the viewer head-on, perfectly symmetrical left and right. NOT a three-quarter angle, NOT turned, NOT tilted. \r\nCentered, complete figure fully inside frame.\n\n\r\n## Pose\n\r\nLYING PRONE like a real seal pup — belly on the ground, body low and rounded, chest slightly lifted and propped on two small front flippers that tuck close to the body on either side, mirrored symmetrically. NOT standing upright, NOT bipedal, NOT sitting like a human. Two small rear flippers \r\npeek out at the bottom of the body, forming a soft V.\n\n\r\n## Body\n\r\nOne single rounded egg/teardrop silhouette — head and body merge into one continuous mass with NO neck. Head reads as roughly the top 40% of the shape.\n\n\r\n## Face — MINIMAL AND STYLIZED (most important)\n\r\n**Eyes:** two large glossy DOME eyes, set WIDE apart, deep dark navy-black, very wet and reflective, with one small crisp white specular highlight in the upper-left of each eye. The dark pupil fills about 90% of each eye. **A FAINT sliver of sclera shows: a thin, soft, low-contrast pale bluish￾grey crescent barely visible along the OUTER and LOWER rim of each eye** — it must read as a soft shadow rim, NOT a bright outlined white ring. Both eyes perfectly symmetrical — identical shape, size, and sclera amount. Gentle plush-character eyes, not plain black safety-eye beads.\n\n\r\n**Muzzle — KEEP IT MINIMAL, NOT ANATOMICAL:** a small, low, SOFT ROUNDED PATCH in a slightly DARKER warm-grey tone than the surrounding fur, sitting just below and between the eyes, fading gently into the white fur with no hard edge — it reads as a gentle bump, almost flush with \r\nthe face. NO realistic nose bridge, NO visible nostril openings, NO philtrum groove, NO defined upper-lip pads, NO whisker follicle dots, NO cheek pouches. Just: **one tiny matte deep-grey nose (a small soft rounded triangle, no more than 1/3 the width of one eye)** and **one single simple \r\nthin curved lip line directly beneath it, a small shallow downward arc — nothing more.** The muzzle must look like a simple graphic mark on the face, exactly as flat and abstract as in the line-art, not like a real seal snout.\n\r\n**No mouth opening, no teeth, no tongue, no whiskers.**\n\r\nTwo barely-visible faint pale dots above the eyes as tiny eyebrow marks.\n\n\r\n## Material\n\r\nCOTTON-CANDY FLUFFY fur — long, soft, weightless, airy, slightly wispy fuzz with a light halo along the silhouette edge catching a soft rim of light. Warm creamy-white, matte and soft-light-absorbing. The eyes are the ONLY glossy part of the character.\n\r\nNOT wool, NOT needle-felt, NOT yarn, NOT knitted, NOT matted, NOT spiky, NOT porcelain, NOT ceramic, NOT glossy PVC, NOT shiny plastic, NOT wet realistic seal skin.\n\n\r\n## Background\n\r\nPURE WHITE seamless studio background, clean and completely empty, evenly lit with no grey gradient and no visible backdrop corner. Only a very soft, subtle contact shadow directly under the body.\n\n\r\n## Style\n\r\nCute chibi 3D collectible character render, clean and simple, soft studio global illumination, gentle soft shadows, no props, no text.\n\n\r\n## Critical conditions (must all hold)\n\r\n1. STRICT straight-on FRONT view, perfectly symmetrical — never a 3/4 turn.\n\r\n2. PURE WHITE background, completely empty.\n\r\n3. The muzzle is MINIMAL and graphic — a slightly darker soft patch + one tiny nose + one simple lip line. Nothing anatomical.\n\r\n4. The eyes are large glossy dark domes with only a FAINT pale sclera crescent on the outer-lower rim, both eyes matching.\n\r\n5. Surface is cotton-candy fluffy matte fur; only the eyes are glossy.\n\r\n6. Pose is LYING PRONE on the belly, propped on front flippers — never standing upright.\n\r\n7. ONLY one character, complete and uncropped, no duplicates.\n\n\r\n## Negative\n\r\nthree-quarter view, side view, turned head, tilted body, asymmetrical pose, asymmetrical eyes, uneven eyes, grey background, gradient background, coloured background, studio backdrop corner, floor line, large white sclera, bright white eye whites, outlined eyes, thick eye rim, cartoon \r\nanime eyes, small eyes, narrowed eyes, realistic seal snout, anatomical muzzle, nose bridge, visible nostrils, philtrum, upper lip pads, whiskers, whisker dots, open mouth, teeth, detailed realistic face, standing upright, bipedal pose, human posture, neck, wool texture, needle felt, yarn, knitted, \r\nmatted fur, spiky fur, porcelain, ceramic, glossy plastic, PVC toy, wet shiny skin, extra characters, duplicated characters, cropped figure, text, watermark, cluttered background"
+  },
+  {
+    "page": 44,
+    "text": "Part 3 의존성 순서대로 구성 & 베이스 연출컷 완성\r\n03 캐릭터 생성 시연\r\n캐릭터 생성하기 시연 -2\r\n소품과 캐릭터를\n\r\n각각 엘리먼트에 등록하고 합치기\r\n프롬프트 복사!\r\n@하디 holding @하프\n\n\r\n## #SCENE\n\r\nONE single HARDY the baby harp seal mascot, HOLDING his harp, full body,\n\r\nthree-quarter front view, centered, complete figure fully inside frame.\n\r\nEXACTLY one character and EXACTLY one harp — nothing else in the image.\n\r\nHARDY rests directly on the ground in his natural prone seal pose — belly down,\n\r\nbody low and rounded, chest lifted and propped on his front flippers. The harp\n\r\nstands upright right in front of his chest, and BOTH FRONT FLIPPERS rest gently\n\r\non its frame, holding it steady. He looks straight toward the viewer, calm and\n\r\nfriendly, soft closed-mouth expression.\n\r\nHe is simply HOLDING the harp — NOT playing it, NOT mid-pluck; flippers on the\n\r\nframe rather than on the strings.\n\r\nNOT standing on two legs, NOT a human sitting posture, NO legs, NO knees,\n\r\nNO hips, NO arms, NO hands, NO fingers.\n\n\r\n## #SUBJECT\n\r\n**HARDY:** one single rounded egg/teardrop silhouette, head and body merged with\n\r\nNO neck, head about the top 40% of the shape.\n\r\nTwo LARGE glossy dome eyes set WIDE apart near the outer edges of the face, deep\n\r\ndark navy-black, the dark pupil filling about 90% of each eye, with only a FAINT\n\r\nthin pale bluish-grey sclera crescent on the outer-lower rim — a soft shadow rim,\n\r\nnever a bright outlined ring. Both eyes identical.\n\r\nMuzzle is MINIMAL and NOT ANATOMICAL — a small low soft patch in a slightly\n\r\ndarker warm-grey, fading gently into the fur with no hard edge. ONLY one tiny\n\r\nmatte deep-grey nose (no wider than 1/3 of one eye) and ONE single thin curved\n\r\nlip line beneath it. NO nose bridge, NO nostrils, NO philtrum, NO lip pads,\n\r\nNO cheek pouches, NO whisker dots, NO whiskers, NO open mouth, NO teeth.\n\r\nIt reads as a flat graphic mark, not a real seal snout.\r\n하프 하디"
+  },
+  {
+    "page": 45,
+    "text": "Part 3 의존성 순서대로 구성 & 베이스 연출컷 완성\r\n03 캐릭터 생성 시연\r\n캐릭터 생성하기 시연-3\r\n다양한 배경에서\n\r\n캐릭터 연출컷 해보기\r\n얼음 박스 위 바닷가"
+  },
+  {
+    "page": 46,
+    "text": "Part 3 의존성 순서대로 구성 & 베이스 연출컷 완성\r\n03 캐릭터 생성 시연\r\n그럼 이제 장면 후보정과\n\r\n연출컷을 확장하는 방법에 대해 알아볼까요?"
+  },
+  {
+    "page": 47,
+    "text": "Part 4\r\n후보정 및 캐릭터 전체\n\r\n연출컷 생성\r\n잘 나온 이미지를 버리지 않고, 오브제와 캐릭터를 유지한 채 원하는 장면으로\n\r\n확장하는 방법을 알아봅니다."
+  },
+  {
+    "page": 48,
+    "text": "Part 4 후보정 및 캐릭터 전체 연출컷 생성\r\n01 이미지 후보정\r\n잘 나온 이미지, 처음부터 다시 만들 필요 없습니다\r\n딱 하나 아쉬운 요소 때문에 전체 이미지를 다시 생성하고 있지는 않나요?\r\n으아 눈부셔..\n\r\n선글라스 있으면 딱 인데..."
+  },
+  {
+    "page": 49,
+    "text": "Part 4 후보정 및 캐릭터 전체 연출컷 생성\r\n01 이미지 후보정\r\n그렇다고 다시 생성하면...?\r\n캐릭터 얼굴, 구도, 조명 , 포즈 전부 다시 달라졌던 경험 다들 있으시죠?\r\n얼굴이 달라지고\r\n포즈가 달라지고\r\n구도가 달라지고\r\n원래 잘 나온 부분까지..."
+  },
+  {
+    "page": 50,
+    "text": "Part 4 후보정 및 캐릭터 전체 연출컷 생성\r\n01 이미지 후보정\r\n이미 잘 나온 이미지가 있다면 그 이미지를 시작점으로 사용합니다\r\nBase Image를 유지하면서 수정이 필요한 수정을 지시하여 새로운 결과를 생성합니다.\n\r\n간단한 수정은 이것만으로도 충분할 수 있습니다.\r\n+ =\r\n베이스 텍스트 아웃풋"
+  },
+  {
+    "page": 51,
+    "text": "Part 4 후보정 및 캐릭터 전체 연출컷 생성\r\n01 이미지 후보정\r\n그런데 AI가 자꾸 다르게 이해한다면?\r\n텍스트만으로 형태를 특정하기 어렵다면 원하는 모습을 직접 보여주는 편이 정확합니다.\r\n+ =\r\n베이스 이미지 텍스트 아웃풋"
+  },
+  {
+    "page": 52,
+    "text": "Part 4 후보정 및 캐릭터 전체 연출컷 생성\r\n02 Element & Binding\r\n그래도 잘 생성이 안된다면?\n\r\n생성할 오브제를 엘리먼트&바인딩합니다\r\n1 Element \r\n무엇을 사용할지 보여줍니다.\r\n2 Binding\r\n그 Element가 무엇을 의미하는지 연결합니다."
+  },
+  {
+    "page": 53,
+    "text": "Part 4 후보정 및 캐릭터 전체 연출컷 생성\r\n02 Element & Binding\r\n이미지 제작 시 4가지만 기억하세요\r\n원하는 요소를 등록하고 이미지 속 대상과 연결합니다.\r\n1 Element\r\n무엇을 사용할지\r\n2 Binding\r\n어디에 적용할지\r\n3 Prompt\r\n어떤 장면을 만들지\r\n4 Result\r\n새로운 이미지\r\n* Binding으로 외형을 고정했다면 Prompt에서는 각 캐릭터의 행동과 위치를 분리합니다.\n\r\n이미지 생성 시 엘리먼트는 3~5개 이하로 유지하는 것이 가장 좋습니다."
+  },
+  {
+    "page": 54,
+    "text": "Part 4 후보정 및 캐릭터 전체 연출컷 생성\r\n02 Element & Binding\r\n꼭 잘 나온 이미지가 있어야 하는 건 아닙니다\r\nBase Image 없이 Element를 기준으로 처음부터 새로운 장면을 생성할 수도 있습니다.\r\n베이스\n\r\n이미지\r\n기존 이미지가 있다면 처음부터 새로운 장면을 생성해야 한다면"
+  },
+  {
+    "page": 55,
+    "text": "Part 4 후보정 및 캐릭터 전체 연출컷 생성\r\n02 Element & Binding\r\n오브제는 각각 하나의 엘리먼트로 등록해주세요\r\n함께 사용되는 오브제는 하나의 엘리먼트로 등록해주세요.\r\n선글라스 이미지 넣기 스카프 이미지 그릇 위 담긴 케이크"
+  },
+  {
+    "page": 56,
+    "text": "Part 4 후보정 및 캐릭터 전체 연출컷 생성\r\n02 Element & Binding\r\n모든 걸 엘리먼트로 만들 필요는 없습니다\r\n결과에서 반드시 유지되어야 하는 오브제만 엘리먼트로 등록,\n\r\n여러번 시도해도 잘 생성되지 않았던 오브제를 등록합니다.\r\nPrompt로 충분\r\n하늘 일반적인 책상\r\n단순한 배경 요소\r\n나무\r\nElement로 등록 추천\r\n브랜드 제품 특정 소품 고유한 캐릭터\r\n디자인이 반드시 유지되어야 하는 오브제\r\n* Element가 많다고 항상 더 정확해지는 것은 아닙니다."
+  },
+  {
+    "page": 57,
+    "text": "Part 4 후보정 및 캐릭터 전체 연출컷 생성\r\n03 캐릭터 일관성\r\n새로운 캐릭터가 등장하는 순간\n\r\n이미지가 쉽게 무너지기 시작합니다\r\n캐릭터가 늘어나면 얼굴과 색상, 의상 같은 고유 특징이 서로 섞이기 쉽습니다."
+  },
+  {
+    "page": 58,
+    "text": "Part 4 후보정 및 캐릭터 전체 연출컷 생성\r\n03 캐릭터 일관성\r\n오브제가 된다면, 캐릭터도 같은 방식입니다\r\nElement에는 사물뿐 아니라 유지하고 싶은 캐릭터도 사용할 수 있습니다.\r\n어디서 봤더라?\r\n아 맞다! 아토믹!!!\r\n오브제 캐릭터"
+  },
+  {
+    "page": 59,
+    "text": "Part 4 후보정 및 캐릭터 전체 연출컷 생성\r\n03 캐릭터 일관성\r\n외형은 바인딩으로, 행동은 프롬프트로 나눕니다\r\n유지하고 싶은 캐릭터도 하나의 엘리먼트로 등록하고, 장면 속 역할과 위치를 바인딩으로 지정합니다.\r\nELEMENT / BINDING PROMPT\r\n퍼디의 비쥬얼 퍼디의 행동\r\nWHO\r\n검정 털 흰 얼굴 푸른 스카프 고유 외형 의자에 앉아 노트북을 보고 버디에게 설명한다\r\n* 캐릭터 역시 Element로 등록하면 고유한 외형을 유지하며 새로운 장면에 활용할 수 있습니다.\r\nWhat"
+  },
+  {
+    "page": 60,
+    "text": "Part 4 후보정 및 캐릭터 전체 연출컷 생성\r\n03 캐릭터 일관성\r\n잘 나온 이미지는 ‘완성본’이 아니라 다음 재료가 됩니다\r\n베이스 이미지와 엘리먼트&바인딩을 반복하면 캐릭터와 오브제를 유지하면서 장면을 계속 확장할 수 있습니다.\r\nBASE IMAGE ELEMENT BINDING\r\nPROMPT GENERATE RESULT"
+  },
+  {
+    "page": 61,
+    "text": "Part 5\r\n일관성 있는 3D 아이콘\n\r\n세트 만들어보기\r\n하나의 프롬프트 구조를 설계해 다양한 오브제를 같은 스타일의\n\r\n에셋으로 확장해봅니다."
+  },
+  {
+    "page": 62,
+    "text": "Part 5 일관성 있는 3D 아이콘 세트 만들어보기\r\n01 일관성 유지\r\n아이콘 하나는 잘 나오는데, 세트로 만들면 왜 달라질까요?\r\n같은 ‘3D 아이콘’을 요청해도 재질, 조명, 형태, 색감이 조금씩 달라지면 하나의 세트처럼 보이지 않습니다.\r\n재질 다름\r\n각도 다름\r\n조명 다름\r\n색감 다름\r\n* 주제만 통일한다고 스타일이 통일되지는 않습니다."
+  },
+  {
+    "page": 63,
+    "text": "Part 5 일관성 있는 3D 아이콘 세트 만들어보기\r\n01 일관성 유지\r\n바꿔야 할 것과, 바꾸면 안 되는 것을 분리합니다\r\n아이콘마다 달라지는 것은 ‘대상’뿐이고, 나머지 스타일 규칙은 최대한 고정합니다.\r\n3D 형태 재질 조명 색감 배경 디테일\r\n* 같은 스타일 규칙 안에서 오브제만 바꾸면, 일관된 아이콘 세트가 만들어집니다."
+  },
+  {
+    "page": 64,
+    "text": "Part 5 일관성 있는 3D 아이콘 세트 만들어보기\r\n02 프롬프트 설계\r\n그래서 저는 프롬프트를 이렇게 만들어두었습니다\r\n매번 새로 작성하는 대신, 오브제 이름만 바꿔 반복 사용할 수 있는 하나의 템플릿을 만듭니다.\r\nCreate a 3D collectible toy-style icon of a cute (이름). \n\n\r\n⚠️ General Style Rules \n\r\n- This is NOT a flat or line icon. It must look like a real 3D PVC figure \r\n— rounded, soft, and solid with visible volume. \n\r\n- The surface should have a matte vinyl texture and smooth plastic \r\nmaterial, similar to designer toy figures. \n\r\n- Use soft, even lighting to highlight its curves and dimension. \n\r\n- Keep the colors pastel and warm, giving it a cute, cozy mood. \n\r\n- No text, logos, or shadows should appear. \n\r\n- The background must be pure white (#FFFFFF) — clean and \r\nminimal. \n\n\r\n✨ Conditional Style Logic \n\r\nIF (이름) represents a **living creature or character** → \n\r\nAdd minimal, cute facial features (eyes, nose, mouth) in the same 3D \r\nPVC figure style. \n\r\nFacial expressions should be gentle, friendly, and not exaggerated. \n\r\nMaintain consistency in facial proportions and style typical of \r\ncollectible toy figures. \n\n\r\nELSE IF (이름) represents a **non-living object** → \n\r\nDo NOT add any facial features such as eyes, nose, or mouth. \n\r\nKeep the object in its original form, emphasizing its shape, material, \r\nand contours only. \n\r\nFocus on realistic 3D modeling and surface detail without \r\nanthropomorphic traits.\n\r\n(이름)\r\n유일하게\n\r\n계속 바뀌는 값"
+  },
+  {
+    "page": 65,
+    "text": "Part 5 일관성 있는 3D 아이콘 세트 만들어보기\r\n02 프롬프트 설계\r\n그런데 이 프롬프트, 왜 이렇게 길게 작성했을까요?\r\n일관성을 만드는 핵심은 긴 프롬프트가 아니라, 스타일을 구성하는 조건을 명확하게 분리해두는 것입니다.\r\n1\r\n무엇을 만들지\r\n2\r\n어떤 형태인지\r\n3\r\n무슨 재질인지\r\n4\r\n어떤 색감인지\r\n5\r\n빛을 어떻게 사용할지\r\n6\r\n어떤 어떻게 배치할지\r\n7\r\n어떤 환경인지\r\n8\r\n \r\n대상에 따라 무엇을 다르게 처리할지"
+  },
+  {
+    "page": 66,
+    "text": "Part 5 일관성 있는 3D 아이콘 세트 만들어보기\r\n02 프롬프트 설계\r\n일관성은 긴 프롬프트가 아니라, 규칙에서 만들어집니다\r\n이 프롬프트는 단순한 묘사가 아니라 바뀌는 대상과 고정할 스타일, 상황에 따른 조건을 분리해 설계했습니다.\r\n1 Create a 3D collectible toy-style icon of a cute (이름). 1 대상 정의\r\n 만들 가 만 Create a 3D collectible toy-style icon of a cute (이름). \n\n\r\n⚠️ General Style Rules \n\r\n- This is NOT a flat or line icon. It must look like a real 3D PVC \r\nfigure — rounded, soft, and solid with visible volume. \n\r\n- The surface should have a matte vinyl texture and smooth \r\nplastic material, similar to designer toy figures. \n\r\n- Use soft, even lighting to highlight its curves and dimension. \n\r\n- Keep the colors pastel and warm, giving it a cute, cozy mood. \n\r\n- No text, logos, or shadows should appear. \n\r\n- The background must be pure white (#FFFFFF) — clean and \r\nminimal. \n\n\r\n✨ Conditional Style Logic \n\r\nIF (이름) represents a **living creature or character** → \n\r\nAdd minimal, cute facial features (eyes, nose, mouth) in the \r\nsame 3D PVC figure style. \n\r\nFacial expressions should be gentle, friendly, and not \r\nexaggerated. \n\r\nMaintain consistency in facial proportions and style typical of \r\ncollectible toy figures. \n\n\r\nELSE IF (이름) represents a **non-living object** → \n\r\nDo NOT add any facial features such as eyes, nose, or mouth. \n\r\nKeep the object in its original form, emphasizing its shape, \r\nmaterial, and contours only. \n\r\nFocus on realistic 3D modeling and surface detail without \r\nanthropomorphic traits.\n\r\n3\r\n4\r\n2 eneral Style ules \n\r\n his is a flat or line icon. It must loo lie a real 3D PVC figure rounded, soft, and solid ith visible \r\nvolume. \n\r\n he surface should have a matte vinyl texture and smooth plastic material, similar to designer toy figures. \n\r\n se soft, even lighting to highlight its curves and dimension. \n\r\n eep the colors pastel and arm, giving it a cute, coy mood. \n\r\n o text, logos, or shados should appear. \n\r\n he bacground must be pure hite (FFFFFF) clean and minimal. \r\n✨ Conditional Style Logic \n\r\nIF (이름) represents a **living creature or character** → Add minimal, cute facial features (eyes, nose, mouth) in \r\nthe same 3D PVC figure style. Facial expressions should be gentle, friendly, and not exaggerated. Maintain \r\nconsistency in facial proportions and style typical of collectible toy figures. \r\nLS IF (이름) represents a **nonliving obect** \n\r\nDo add any facial features such as eyes, nose, or mouth. eep the obect in its original form, emphasiing \r\nits shape, material, and contours only. Focus on realistic 3D modeling and surface detail ithout \r\nanthropomorphic traits.\r\n2 공통 스타일 규칙\r\n어 일 만들 가 \r\n3 캐릭터 조건 규칙\r\n 라 규칙 \r\n4 사물 조건 규칙\r\n라 "
+  },
+  {
+    "page": 67,
+    "text": "Part 5 일관성 있는 3D 아이콘 세트 만들어보기\r\n03 스타일 규칙\r\n01 형태\r\n형태부터 고정합니다\r\n같은 3D라도 형태를 어떻게 정의하느냐에 따라 아이콘의 인상이 크게 달라집니다.\r\nrounded, soft, and solid \r\nwith visible volume\r\n그냥 3D 아이콘이라고\n\r\n프롬프팅 했을 때"
+  },
+  {
+    "page": 68,
+    "text": "Part 5 일관성 있는 3D 아이콘 세트 만들어보기\r\n03 스타일 규칙\r\n02 재질\r\n같은 형태도 재질 하나로 완전히 달라집니다\r\nMaterial은 아이콘의 표면뿐 아니라 반사, 빛, 분위기까지 함께 결정하는 강력한 변주값입니다.\r\n매트 보송보송 유리알 풍선 메탈"
+  },
+  {
+    "page": 69,
+    "text": "Part 5 일관성 있는 3D 아이콘 세트 만들어보기\r\n03 스타일 규칙\r\n03 조명·색감·배경\r\n재질이 바뀌면 조명도 함께 바뀌어야 합니다\r\n표면의 특성을 가장 잘 보여주는 조명까지 함께 정의해야 원하는 재질감이 안정적으로 표현됩니다.\r\n부드러운 재질\r\nPVC 벨벳 패브릭 클레이\r\n→ Soft / Diffused Lighting\n\r\n부드러운 확산광으로 매트하고 말랑한 질감 표현\r\n투명 재질\r\n유리 아크릴 크리스탈\r\n→ Bright / Clean Lighting\n\r\n밝고 깨끗한 빛으로 투명도와 굴절감 표현\r\n반사 재질\r\n메탈 크롬 티타늄\r\n→ Strong / Directional Lighting\n\r\n강한 방향광으로 반사와 하이라이트 강조\r\n* 재질만 바꾸고 Lighting Rule을 그대로 두지 마세요."
+  },
+  {
+    "page": 70,
+    "text": "Part 5 일관성 있는 3D 아이콘 세트 만들어보기\r\n03 스타일 규칙\r\n아이콘을 만들어 달라고 했는데, \n\r\nAI가 눈코입을 생성한 적 있으신가요?\r\n대상의 종류에 따라 적용할 규칙이 다르다면 조건문으로 분리해두는 것이 좋습니다.\r\nIF living\r\n눈 / 코 / 입 허용\r\n→ 캐릭터\r\n귀여운 표정\r\nIF non-living → 무생물\r\n얼굴 ❌ 원래 형태 유지\r\n* 귀엽게 만들라고 했더니 모든 것에 얼굴을 붙이는 문제 방지"
+  },
+  {
+    "page": 71,
+    "text": "Part 5 일관성 있는 3D 아이콘 세트 만들어보기\r\n03 스타일 규칙\r\n고정할 값과 변주할 값을 정하면 확장이 쉬워집니다\r\n스타일의 핵심 규칙은 유지하고 필요한 값만 바꾸면, 하나의 프롬프트에서 다양한 에셋 세트를 만들 수 있습니다.\r\n변주 고정\r\n필요에 따라 변주\r\n재질 색상 배경\r\n→ 스타일 규칙\r\n조명\r\n변주\r\n오브젝트 → 무엇을 만들지\r\n팥빙수 공룡 콜라 스카프\r\n퍼디 캐릭터\r\n고정 추천\r\n카메라 각도\r\n디테일 수준\r\n→ 형태 규칙\r\n화면 구성 형태·비율\r\n* 대상은 바꾸되 형태 규칙은 유지하고, 재질·색상·배경·조명 같은 스타일 값만 필요에 따라 변주합니다."
+  },
+  {
+    "page": 72,
+    "text": "Part 5 일관성 있는 3D 아이콘 세트 만들어보기\r\n03 스타일 규칙\r\n이제 하나의 프롬프트로 아이콘 세트를 만들어봅시다\r\n스타일 규칙은 그대로 유지하고 오브제만 교체해 하나의 서비스에서 사용할 3D 아이콘 세트를 생성합니다.\r\n1\r\n원하는 스타일의\n\r\n프롬프트 복사\r\n2\r\n만들고 싶은 아이콘\n\r\n이름으로 변경 후 생성\r\n3\r\n같은 프롬프트로 이름만\n\r\n바꿔 추가로 더 생성\r\n4\r\n만들어진 아웃풋들을\n\r\n나란히 놓고 일관성 확인"
+  },
+  {
+    "page": 73,
+    "text": "Part 6\r\n무료 툴로 일관성\n\r\n유지하는 방법\r\n앞에서 만든 프롬프트 구조를 그대로 활용해 ChatGPT와 Gemini에서도\n\r\n일관된 에셋을 생성해봅니다."
+  },
+  {
+    "page": 74,
+    "text": "Part 6 무료 툴로 일관성 유지하는 방법\r\n01 무료 툴 활용\r\n앞에서 만든 프롬프트, 꼭 힉스필드에서만 써야 할까요?\r\n스타일을 만드는 규칙이 잘 정리되어 있다면 같은 프롬프트를 다른 이미지 생성 모델에서도 활용할 수 있습니다.\r\nCreate a 3D collectible toy-style icon of a cute (팥빙수). \n\n\r\n⚠️ General Style Rules \n\r\n- This is NOT a flat or line icon. It must look like a real 3D PVC figure — rounded, soft, and solid with \r\nvisible volume. \n\r\n- The surface should have a matte vinyl texture and smooth plastic material, similar to designer toy \r\nfigures. \n\r\n- Use soft, even lighting to highlight its curves and dimension. \n\r\n- Keep the colors pastel and warm, giving it a cute, cozy mood. \n\r\n- No text, logos, or shadows should appear. \n\r\n- The background must be pure white (#FFFFFF) — clean and minimal. \n\n\r\n✨ Conditional Style Logic \n\r\nIF (이름) represents a **living creature or character** → \n\r\nAdd minimal, cute facial features (eyes, nose, mouth) in the same 3D PVC figure style. \n\r\nFacial expressions should be gentle, friendly, and not exaggerated. \n\r\nMaintain consistency in facial proportions and style typical of collectible toy figures. \n\n\r\nELSE IF (팥빙수) represents a **non-living object** → \n\r\nDo NOT add any facial features such as eyes, nose, or mouth. \n\r\nKeep the object in its original form, emphasizing its shape, material, and contours only. \n\r\nFocus on realistic 3D modeling and surface detail without anthropomorphic traits.\n\r\nChatGPT Gemini"
+  },
+  {
+    "page": 75,
+    "text": "Part 6 무료 툴로 일관성 유지하는 방법\r\n01 무료 툴 활용\r\n하나의 마스터 프롬프트로 다양한 스타일을 만들 수 있습니다\r\n스타일 규칙만 변경해 다양한 재질과 분위기로 확장해봅니다."
+  },
+  {
+    "page": 76,
+    "text": "Part 6 무료 툴로 일관성 유지하는 방법\r\n02 모델별 차이\r\n모델마다 해석 방식이 조금씩 다릅니다\r\n같은 Master Prompt를 사용해도 모델마다 형태와 재질을 해석하는 방식이 조금씩 다릅니다.\r\n조건이 많은 프롬프트를 \r\n안정적으로 반영\r\n형태와 규칙을 비교적 \r\n충실하게 유지\r\n아이콘, 캐릭터, 반복 제작\r\n다양한 시안을 빠르게 생성\r\n재질과 분위기를 자연스럽게 해석\r\n아이디어 탐색, 스타일 실험"
+  },
+  {
+    "page": 77,
+    "text": "Part 6 무료 툴로 일관성 유지하는 방법\r\n02 모델별 차이\r\n모델이 바뀌면 필요한 부분만 보정합니다\r\n핵심 스타일 규칙은 유지하고, 모델마다 달라지는 부분만 조금씩 보완하면 됩니다.\r\nCreate a 3D collectible toy-style icon of a \r\ncute (이름). \n\n\r\n⚠️ General Style Rules \n\r\n- This is NOT a flat or line icon. It must \r\nlook like a real 3D PVC figure — rounded, \r\nsoft, and solid with visible volume. \n\r\n- The surface should have a matte vinyl \r\ntexture and smooth plastic material, \r\nsimilar to designer toy figures. \n\r\n- Use soft, even lighting to highlight its \r\ncurves and dimension. \n\r\n- Keep the colors pastel and warm, giving \r\nit a cute, cozy mood. \n\r\n- No text, logos, or shadows should \r\nappear. \n\r\n- The background must be pure white \r\n(#FFFFFF) — clean and minimal. \n\n\r\n✨ Conditional Style Logic \n\r\nIF (이름) represents a **living creature or \r\ncharacter** → \n\r\nAdd minimal, cute facial features (eyes, \r\nnose, mouth) in the same 3D PVC figure \r\nstyle. \n\r\nFacial expressions should be gentle, \r\nfriendly, and not exaggerated. \n\r\nMaintain consistency in facial proportions \r\nand style typical of collectible toy figures. \n\n\r\nELSE IF (팥빙수) represents a **non-living \r\nobject** → \n\r\nDo NOT add any facial features such as \r\neyes, nose, or mouth. \n\r\nKeep the object in its original form, \r\nemphasizing its shape, material, and \r\ncontours only. \n\r\nFocus on realistic 3D modeling and \r\nsurface detail without anthropomorphic \r\ntraits.\n\r\n형태가 너무 자유롭다면\r\nstrict front-facing view\n\r\nconsistent object scale\r\n면 고\r\n 일 유지\r\n재질이 약하다면\r\nclearly visible matte vinyl texture\n\r\navoid glossy surface\r\n 하\r\n유 면은 "
+  },
+  {
+    "page": 78,
+    "text": "Bonus\r\n클로드에 힉스필드 MCP\n\r\n연결하여 사용해보기\r\n이미지 생성 툴을 직접 열지 않고, Claude와 대화하며 이미지를\n\r\n생성하는 또 다른 방법을 소개합니다."
+  },
+  {
+    "page": 79,
+    "text": "Bonus 클로드에 힉스필드 MCP 연결하여 사용해보기\r\n01 MCP 이해하기\r\nMCP, 어렵게 생각할 필요 없습니다\r\nClaude가 외부 도구와 연결되어 직접 기능을 사용할 수 있게 해주는 연결 방식이라고 이해하면 충분합니다.\r\nMCP 없이\r\nClaude로 프롬프트 작성\r\n복사\r\n이미지 툴에 붙여넣기\r\n생성\r\nMCP 연결 후\r\nClaude로 시킴\r\nClaude가 힉스필드 바로 실행\r\n결과 생성\r\n* 우리가 할 일은 Claude에게 ‘이미지를 만들 수 있는 도구’를 하나 추가해주는 것입니다."
+  },
+  {
+    "page": 80,
+    "text": "Bonus 클로드에 힉스필드 MCP 연결하여 사용해보기\r\n01 MCP 이해하기\r\nMCP를 활용하여 사용하는 환경 두가지\r\n코드를 몰라도 사용할 수 있는 Claude 앱 방식과, 작업환경까지 확장할 수 있는 Claude Code 방식을 비교해봅니다."
+  },
+  {
+    "page": 81,
+    "text": "Bonus 클로드에 힉스필드 MCP 연결하여 사용해보기\r\n02 클로드 앱 활용\r\n이미지 생성에 사용할 ‘작업 기준’을 먼저 연결합니다\r\nGitHub 저장소에 프롬프트와 스타일 가이드를 정리해두면 Claude가 이를 참고하며 작업할 수 있습니다.\n\r\n프롬프트를 매번 채팅창에 처음부터 설명하는 대신, 작업 기준 자체를 저장소로 만들어두는 방식입니다.\r\n 할\r\nprompts/ → 이미지 생성 프롬프트\r\nstyle/ → 스타일 가이드\r\ntemplates/ → 반복해서 사용할 템플릿\r\nCLAUDE.md → Claude가 따라야 할 프로젝트 규칙\r\n.mcp.json → 이미지 생성 프롬프트\r\n.mcp.json → MCP 설정\r\nREADME.md → 프로젝트 사용법"
+  },
+  {
+    "page": 82,
+    "text": "Bonus 클로드에 힉스필드 MCP 연결하여 사용해보기\r\n02 클로드 앱 활용\r\nClaude 앱에서 GitHub 저장소 연결하기\r\n저장소를 연결하면 Claude가 프로젝트에 정리해둔 프롬프트와 스타일 정보를 참고할 수 있습니다.\r\nhttps://api.githubcopilot.com/mcp\r\n4\r\n1\r\n5 3\r\n2"
+  },
+  {
+    "page": 83,
+    "text": "Bonus 클로드에 힉스필드 MCP 연결하여 사용해보기\r\n02 클로드 앱 활용\r\n힉스필드 MCP까지 연결하면 이미지를 만들 수 있습니다\r\n프로젝트의 작업 기준은 GitHub에서 참고하고, 실제 이미지 생성은 Higgsfield MCP를 통해 실행합니다.\r\n작업 기준\r\nprompts/ style/\r\n참조\r\ntemplates/\r\n힉스필드로 퍼디가 수박\r\n먹으며 여름방학을 보내\r\n는 모습 만들어줘.\r\n사용자 요청\r\nMCP 호출\r\n판단·실행 이미지 생성\r\n생성 결과"
+  },
+  {
+    "page": 84,
+    "text": "Bonus 클로드에 힉스필드 MCP 연결하여 사용해보기\r\n02 클로드 앱 활용\r\n연결이 끝났다면 사용법은 생각보다 단순합니다\r\nClaude에게 원하는 이미지를 자연어로 요청하면 프로젝트의 기준을 참고해 이미지 생성을 진행할 수 있습니다.\r\n힉스필드로 시원 이서 대일 비비가 동굴 대탐험하는 장면 연출해줘. 의상과 포즈는 상황에 맞게 연출해줘"
+  },
+  {
+    "page": 85,
+    "text": "Bonus 클로드에 힉스필드 MCP 연결하여 사용해보기\r\n03 클로드 코드 활용\r\n같은 작업을 클로드코드에서도 할 수 있습니다\r\nGitHub에 만들어둔 이미지 생성 프로젝트를 로컬로 가져오면 CLI에서도 같은 작업환경을 사용할 수 있습니다."
+  },
+  {
+    "page": 86,
+    "text": "Bonus 클로드에 힉스필드 MCP 연결하여 사용해보기\r\n03 클로드 코드 활용\r\n프로젝트를 가져왔다면 힉스필드 MCP를 연결합니다\r\n프로젝트에 MCP 설정을 연결하면 Claude Code에서도 자연어 명령으로 이미지 생성을 실행할 수 있습니다.\r\n/mcp"
+  },
+  {
+    "page": 87,
+    "text": "Bonus 클로드에 힉스필드 MCP 연결하여 사용해보기\r\n03 클로드 코드 활용\r\n코드 대신, CLI에서도 말로 이미지를 요청합니다\r\n터미널 환경이지만 사용 방식은 동일합니다. 원하는 이미지와 참고할 스타일을 자연어로 지시합니다."
+  },
+  {
+    "page": 88,
+    "text": "Bonus 클로드에 힉스필드 MCP 연결하여 사용해보기\r\n03 클로드 코드 활용\r\n문제는 하나, CLI에서는 결과를 보기 어렵습니다\r\n이미지는 생성됐지만 터미널만으로 여러 결과를 비교하고 선택하기에는 불편합니다.\n\r\n생성 결과를 볼 수 있는 화면도 같이 만들어달라고 하면 좋습니다."
+  },
+  {
+    "page": 89,
+    "text": "Bonus 클로드에 힉스필드 MCP 연결하여 사용해보기\r\n03 클로드 코드 활용\r\n생성 결과는 웹에서 확인하면 됩니다\r\n로컬 웹을 실행해 생성된 이미지를 한눈에 확인하고 비교할 수 있도록 구성합니다."
+  },
+  {
+    "page": 90,
+    "text": "Bonus 클로드에 힉스필드 MCP 연결하여 사용해보기\r\n04 이미지 생성 환경\r\n이미지를 만드는 것에서\n\r\n‘이미지 생성 환경’을 만드는 것으로\r\n프롬프트와 스타일을 저장하고, 생성하고, 확인하고, 다운로드하는 과정을 하나의 작업환경으로 연결할 수 있습니다."
+  },
+  {
+    "page": 91,
+    "text": "첫번째 실험 안내\r\n일관성 있는 3D \r\n아이콘 세트 만들어보기\r\n지금까지 배운 내용을 활용해 직접 일관성 있는 3D 아이콘 세트를 설계하고 제작해봅니다."
+  },
+  {
+    "page": 92,
+    "text": "1차 실험 주제 공개\r\n01 1차 실험 미션\r\n1차 실험 주제를 공개합니다!\r\n주제\r\n일관성 있는 아이콘 세트 만들기\r\n진행 방식\r\n라이브에서 배운 내용을 기반으로 나만의 커스텀 프롬프트를 만들고\n\r\n하나의 주제를 잡아 일관성 있는 아이콘 세트를 만들어보세요\r\n 실험 결과 제출\r\n일관성있는 아이콘 3D 세트 이미지 (12개 이상), \r\n프롬프트 제출, 개선되었거나 만들 때 특히 신경 부분 2~3줄 안내."
+  },
+  {
+    "page": 93,
+    "text": "1차 실험 주제 공개\r\n02 1차 실험 일정\r\n1차 실험 진행 일정\r\n일 월 화 수 목 금 토\r\n8/2\r\n라이브 스터디\r\n3 4 5\r\n1차 실험 진행\r\n7 8\r\n1주차\r\n9 10 11\r\n1차 실험 진행\r\n12 13 14 15\r\n2주차\r\n1차 실험 종료!"
+  }
+]

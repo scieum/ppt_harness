@@ -1,0 +1,16 @@
+{"schema":"openai.presentation.layout/v5","unit":"px","slide":{"id":"sl/rp292w","index":3,"layout":{"id":"ly/5wzu5wnq","name":"Blank"},"backgroundColor":"rgba(0,0,0,1)","position":{"left":0,"top":0,"width":1920,"height":1080}},
+"elements":[
+{"id":"im/nep03exs","kind":"image","position":{"left":1778.67,"top":40,"width":108,"height":77.33},"fit":"contain","alt":"사이음 공식 로고"},
+{"id":"sh/dcnilgn6","kind":"textbox","name":"copyright","position":{"left":1440,"top":1034,"width":440,"height":30},"text":"© 2026. @sci_eum. All rights reserved.","style":{"fontSize":21,"typeface":"Pretendard","color":"#FFFFFF","alignment":"right"},"geometry":"rect","lineWidth":0},
+{"id":"sh/cbehsbml","kind":"textbox","name":"핵심 문장","position":{"left":100,"top":230,"width":1720,"height":112},"text":"학습 목표","style":{"fontSize":76.4,"typeface":"Pretendard","color":"#FFFFFF","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/3mlgf654","kind":"shape","name":"학습 목표","position":{"left":154,"top":424,"width":1611,"height":451},"geometry":"roundRect","fillColor":"#202420","lineWidth":0},
+{"id":"sh/2lczm14j","kind":"shape","position":{"left":242.5,"top":490.5,"width":55,"height":55},"geometry":"ellipse","fillColor":"#9FFF68","lineWidth":0},
+{"id":"sh/p8nihgnu","kind":"textbox","name":"text","position":{"left":244,"top":486,"width":52,"height":62},"text":"1","style":{"fontSize":38,"typeface":"Pretendard","color":"#000000","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/47uhobmp","kind":"textbox","name":"text","position":{"left":330,"top":478,"width":1330,"height":80},"text":"엔트로피의 의미를 물질의 상태와 연결해 설명한다.","style":{"fontSize":44,"typeface":"Pretendard","color":"#FFFFFF","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/filgbm5s","kind":"shape","position":{"left":242.5,"top":610.5,"width":55,"height":55},"geometry":"ellipse","fillColor":"#9FFF68","lineWidth":0},
+{"id":"sh/uhczih47","kind":"textbox","name":"text","position":{"left":244,"top":606,"width":52,"height":62},"text":"2","style":{"fontSize":38,"typeface":"Pretendard","color":"#000000","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/87ip0ji1","kind":"textbox","name":"text","position":{"left":330,"top":598,"width":1330,"height":80},"text":"상태 변화와 기체 분자 수로 엔트로피 변화를 판단한다.","style":{"fontSize":44,"typeface":"Pretendard","color":"#FFFFFF","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/98rqtojm","kind":"shape","position":{"left":242.5,"top":730.5,"width":55,"height":55},"geometry":"ellipse","fillColor":"#9FFF68","lineWidth":0},
+{"id":"sh/m5g7yt0b","kind":"textbox","name":"text","position":{"left":244,"top":726,"width":52,"height":62},"text":"3","style":{"fontSize":38,"typeface":"Pretendard","color":"#000000","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/n698ry1w","kind":"textbox","name":"text","position":{"left":330,"top":718,"width":1330,"height":80},"text":"기체가 섞일 때의 변화를 입자 모형으로 설명한다.","style":{"fontSize":44,"typeface":"Pretendard","color":"#FFFFFF","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0}
+]}

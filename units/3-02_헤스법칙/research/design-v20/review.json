@@ -1,0 +1,72 @@
+{
+  "version": "v20",
+  "kind": "design_review_draft",
+  "slide_count": 42,
+  "latest": "units/3-02_헤스법칙/drafts/full-v01/output/3-02_헤스법칙_전체42장_캐릭터절제_v20.pptx",
+  "sha256": "047151ade2598f8f810b0040a345cb5da6026fc657943415282c252c73cbb03f",
+  "changed_slides": [
+    12,
+    25,
+    26,
+    29,
+    32,
+    36,
+    40,
+    42
+  ],
+  "user_design_approved": false,
+  "final_lesson": false,
+  "visual_review": "8 changed full size renders checked;34 unchanged by pixel comparison",
+  "package_integrity": {
+    "chart_count": 0,
+    "claim_boundary": "Structural package checks only; no slide text, notes, formulas, chart values, or native PowerPoint execution were inspected.",
+    "finding_count": 0,
+    "findings": [],
+    "notes_parts_skipped": 42,
+    "relationship_part_count": 94,
+    "slide_count": 42,
+    "status": "pass",
+    "exitCode": 0,
+    "findingCount": 0,
+    "warnings": []
+  },
+  "layout": {
+    "finding_count": 0,
+    "findings": [],
+    "font_policy": {
+      "checked_text_script_count": 781,
+      "native_font_rendering_verified": false,
+      "observed_font_families": [
+        "Pretendard"
+      ],
+      "observed_font_use_counts": {
+        "Pretendard": 781
+      },
+      "passed": true,
+      "performed": true
+    },
+    "slide_count": 42,
+    "slide_size_in": [
+      20,
+      11.25
+    ],
+    "warning_count": 0,
+    "warnings": [],
+    "exitCode": 0,
+    "findingCount": 0,
+    "fontPolicy": {
+      "checked_text_script_count": 781,
+      "native_font_rendering_verified": false,
+      "observed_font_families": [
+        "Pretendard"
+      ],
+      "observed_font_use_counts": {
+        "Pretendard": 781
+      },
+      "passed": true,
+      "performed": true
+    }
+  },
+  "powerpoint_application_verified": false,
+  "figma_verified": false
+}

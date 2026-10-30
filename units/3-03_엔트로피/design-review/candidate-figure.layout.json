@@ -1,0 +1,187 @@
+{
+  "artifact_sha256": "a9e961cead38d9b4a5215da60bf916c8854060580c651c210c44b87c2aeb060f",
+  "render_sha256": "157677a7166bcbf93ac0a227bece285d986b48db3e910275177d6eed53905a19",
+  "exporter": "Artifact Tool slide.export layout/v5; actual element IDs",
+  "canvas": [
+    1920,
+    1080
+  ],
+  "objects": [
+    {
+      "role": "im/6hsf2pcf",
+      "kind": "image",
+      "bbox": [
+        0.926390625,
+        0.037037037037037035,
+        0.05625,
+        0.07160185185185185
+      ],
+      "fill": null,
+      "font_family": null,
+      "font_size": null,
+      "font_weight": 400,
+      "alignment": null,
+      "character_asset_id": "사이음 공식 로고"
+    },
+    {
+      "role": "sh/wrm18nu1",
+      "kind": "textbox",
+      "bbox": [
+        0.75,
+        0.9574074074074074,
+        0.22916666666666666,
+        0.027777777777777776
+      ],
+      "fill": null,
+      "font_family": "Pretendard",
+      "font_size": 21,
+      "font_weight": 400,
+      "alignment": "right",
+      "character_asset_id": null
+    },
+    {
+      "role": "sh/xsfi18bm",
+      "kind": "textbox",
+      "bbox": [
+        0.0375,
+        0.07037037037037037,
+        0.796875,
+        0.05
+      ],
+      "fill": null,
+      "font_family": "Pretendard",
+      "font_size": 38,
+      "font_weight": 700,
+      "alignment": "left",
+      "character_asset_id": null
+    },
+    {
+      "role": "sh/idojadcr",
+      "kind": "textbox",
+      "bbox": [
+        0.0375,
+        0.12407407407407407,
+        0.036458333333333336,
+        0.05925925925925926
+      ],
+      "fill": null,
+      "font_family": "Pretendard",
+      "font_size": 48.8,
+      "font_weight": 700,
+      "alignment": "left",
+      "character_asset_id": null
+    },
+    {
+      "role": "sh/jex03itc",
+      "kind": "textbox",
+      "bbox": [
+        0.07604166666666666,
+        0.12407407407407407,
+        0.8072916666666666,
+        0.05925925925925926
+      ],
+      "fill": null,
+      "font_family": "Pretendard",
+      "font_size": 48.8,
+      "font_weight": 700,
+      "alignment": "left",
+      "character_asset_id": null
+    },
+    {
+      "role": "sh/kf61cnux",
+      "kind": "textbox",
+      "bbox": [
+        0.052083333333333336,
+        0.25,
+        0.8958333333333334,
+        0.1037037037037037
+      ],
+      "fill": null,
+      "font_family": "Pretendard",
+      "font_size": 76.4,
+      "font_weight": 700,
+      "alignment": "center",
+      "character_asset_id": null
+    },
+    {
+      "role": "sh/5gfi5sbi",
+      "kind": "textbox",
+      "bbox": [
+        0.078125,
+        0.35833333333333334,
+        0.84375,
+        0.06018518518518518
+      ],
+      "fill": null,
+      "font_family": "Pretendard",
+      "font_size": 36.4,
+      "font_weight": 700,
+      "alignment": "center",
+      "character_asset_id": null
+    },
+    {
+      "role": "im/vqhwnads",
+      "kind": "image",
+      "bbox": [
+        0.14583333333333334,
+        0.43148148148148147,
+        0.7088541666666667,
+        0.34074074074074073
+      ],
+      "fill": null,
+      "font_family": null,
+      "font_size": null,
+      "font_weight": 400,
+      "alignment": null,
+      "character_asset_id": "교과서91 그림Ⅲ-12 원본"
+    },
+    {
+      "role": "im/ap8fu5c7",
+      "kind": "image",
+      "bbox": [
+        0.2682291666666667,
+        0.7759259259259259,
+        0.4635416666666667,
+        0.0712962962962963
+      ],
+      "fill": null,
+      "font_family": null,
+      "font_size": null,
+      "font_weight": 400,
+      "alignment": null,
+      "character_asset_id": "교과서91 암모니아 합성 반응식 원본"
+    },
+    {
+      "role": "sh/nahgzep8",
+      "kind": "shape",
+      "bbox": [
+        0.12708333333333333,
+        0.8611111111111112,
+        0.7458333333333333,
+        0.07777777777777778
+      ],
+      "fill": "#484847",
+      "font_family": null,
+      "font_size": null,
+      "font_weight": 400,
+      "alignment": null,
+      "character_asset_id": null
+    },
+    {
+      "role": "sh/m98fq98n",
+      "kind": "textbox",
+      "bbox": [
+        0.14583333333333334,
+        0.8685185185185185,
+        0.7083333333333334,
+        0.062037037037037036
+      ],
+      "fill": null,
+      "font_family": "Pretendard",
+      "font_size": 43,
+      "font_weight": 400,
+      "alignment": "center",
+      "character_asset_id": null
+    }
+  ]
+}

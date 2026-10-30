@@ -1,0 +1,8 @@
+{"schema":"openai.presentation.layout/v5","unit":"px","slide":{"id":"sl/52gjux","index":0,"layout":{"id":"ly/f6x0nq1w","name":"Blank"},"backgroundColor":"rgba(0,0,0,1)","position":{"left":0,"top":0,"width":1920,"height":1080}},
+"elements":[
+{"id":"sh/vm50zyhk","kind":"textbox","name":"text","position":{"left":120,"top":304,"width":1500,"height":94},"text":"Part 3","style":{"fontSize":68,"typeface":"Pretendard","color":"#9FFF68","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/gne1s3y5","kind":"textbox","name":"text","position":{"left":120,"top":410,"width":1680,"height":142},"text":"엔트로피 변화의 적용","style":{"fontSize":104,"typeface":"Pretendard","color":"#FFFFFF","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/honi18za","kind":"textbox","name":"text","position":{"left":120,"top":562,"width":1680,"height":76},"text":"주어진 변화에서 엔트로피가 커지는지 근거를 말할 수 있을까?","style":{"fontSize":42,"typeface":"Pretendard","color":"#FFFFFF","alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"im/ratkrahk","kind":"image","position":{"left":1778.67,"top":40,"width":108,"height":77.33},"fit":"contain","alt":"사이음 공식 로고"},
+{"id":"sh/7il0vyh8","kind":"textbox","name":"copyright","position":{"left":1440,"top":1034,"width":440,"height":30},"text":"© 2026. @sci_eum. All rights reserved.","style":{"fontSize":21,"typeface":"Pretendard","color":"#FFFFFF","alignment":"right"},"geometry":"rect","lineWidth":0}
+]}

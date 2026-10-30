@@ -1,0 +1,15 @@
+{"schema":"openai.presentation.layout/v5","unit":"px","slide":{"id":"sl/ep7itd","index":13,"layout":{"id":"ly/rutkret0","name":"Blank"},"backgroundColor":"rgba(255,255,255,1)","position":{"left":0,"top":0,"width":1920,"height":1080}},
+"elements":[
+{"id":"im/4vax4bml","kind":"image","position":{"left":1778.67,"top":40,"width":108,"height":77.33},"fit":"contain","alt":"sci_eum_logo"},
+{"id":"sh/q1gf65cj","kind":"textbox","name":"part_heading","position":{"left":72,"top":78,"width":1500,"height":52},"text":"Part 2 열화학 반응식","style":{"fontSize":38,"typeface":"Pretendard","color":"#909090","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/b2pgzat4","kind":"textbox","name":"topic_number","position":{"left":72,"top":137,"width":73,"height":67},"text":"01","style":{"fontSize":48.8,"typeface":"Pretendard","color":"#57962F","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/krixcfu1","kind":"textbox","name":"topic_heading","position":{"left":157,"top":137,"width":1500,"height":67},"text":"열화학 반응식","style":{"fontSize":48.8,"typeface":"Pretendard","color":"#111111","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/lsry5kbm","kind":"textbox","name":"title","position":{"left":72,"top":285,"width":1776,"height":100},"text":"열화학 반응식에 나타낸 열 출입","style":{"fontSize":76.4,"typeface":"Pretendard","color":"#111111","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/yp0fapcv","kind":"textbox","name":"explanation","position":{"left":72,"top":398,"width":1776,"height":70},"text":"반응 엔탈피는 반응식에 나타낸 물질의 상태와 양을 기준으로 한다","style":{"fontSize":36.4,"typeface":"Pretendard","color":"#888888","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/zq9g3atg","kind":"textbox","name":"copyright","position":{"left":1535,"top":1037,"width":342,"height":30},"text":"© 2026. @sci_eum. All rights reserved.","style":{"fontSize":17,"typeface":"Pretendard","color":"#111111","alignment":"right"},"geometry":"rect","lineWidth":0},
+{"id":"im/9ozepwny","kind":"image","position":{"left":190,"top":500,"width":1540,"height":76},"fit":"contain","alt":"textbook-eq-cao"},
+{"id":"im/8nqxwrmt","kind":"image","position":{"left":190,"top":610,"width":1540,"height":76},"fit":"contain","alt":"textbook-eq-nh4"},
+{"id":"sh/5w7ytwr6","kind":"shape","name":"interpretation-panel","position":{"left":245,"top":750,"width":1430,"height":220},"geometry":"roundRect","fillColor":"#F5F5F5","lineWidth":0},
+{"id":"sh/4vyhkral","kind":"textbox","name":"cao-meaning","position":{"left":290,"top":790,"width":1340,"height":65},"text":"산화 칼슘 1 mol이 반응하면 76.9 kJ을 방출한다","style":{"fontSize":43,"typeface":"Pretendard","color":"#333333","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/jupgrm90","kind":"textbox","name":"nh4-meaning","position":{"left":290,"top":880,"width":1340,"height":65},"text":"질산 암모늄 1 mol이 용해되면 26.2 kJ을 흡수한다","style":{"fontSize":43,"typeface":"Pretendard","color":"#333333","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0}
+]}

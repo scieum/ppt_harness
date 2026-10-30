@@ -1,0 +1,17 @@
+{"schema":"openai.presentation.layout/v5","unit":"px","slide":{"id":"sl/h8u4h4","index":3,"layout":{"id":"ly/cra94v2h","name":"Blank"},"backgroundColor":"rgba(255,255,255,1)","position":{"left":0,"top":0,"width":1920,"height":1080}},
+"elements":[
+{"id":"im/ozedgn65","kind":"image","position":{"left":1778.67,"top":40,"width":108,"height":77.33},"fit":"contain","alt":"사이음 공식 로고"},
+{"id":"sh/q9svq5oz","kind":"textbox","name":"copyright","position":{"left":1440,"top":1034,"width":440,"height":30},"text":"© 2026. @sci_eum. All rights reserved.","style":{"fontSize":21,"typeface":"Pretendard","color":"#000000","alignment":"right"},"geometry":"rect","lineWidth":0},
+{"id":"sh/balcjapk","kind":"textbox","name":"목표 제목","position":{"left":326.67,"top":177.33,"width":1268,"height":126.67},"text":"이번 단원의 학습 목표","style":{"fontSize":100,"typeface":"Pretendard","color":"#000000","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/0zudwz6h","kind":"shape","name":"목표 상자","position":{"left":154.67,"top":424,"width":1610.67,"height":450.67},"geometry":"roundRect","fillColor":"#F5F5F5","lineWidth":0},
+{"id":"sh/l03ep47m","kind":"shape","position":{"left":258.67,"top":501.33,"width":56,"height":56},"geometry":"ellipse","fillColor":"#000000","lineWidth":0},
+{"id":"sh/yxcvupob","kind":"textbox","name":"목표 번호","position":{"left":258.67,"top":499.33,"width":56,"height":60},"text":"1","style":{"fontSize":42,"typeface":"Pretendard","color":"#FFFFFF","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/zylcnupw","kind":"textbox","name":"목표 문장","position":{"left":337.33,"top":495.33,"width":1297.33,"height":66.67},"text":"엔트로피의 의미와 변화 방향을 설명할 수 있다.","style":{"fontSize":44.51,"typeface":"Pretendard","color":"#484847","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/83ed0z6d","kind":"shape","position":{"left":258.67,"top":621.33,"width":56,"height":56},"geometry":"ellipse","fillColor":"#000000","lineWidth":0},
+{"id":"sh/94net47y","kind":"textbox","name":"목표 번호","position":{"left":258.67,"top":619.33,"width":56,"height":60},"text":"2","style":{"fontSize":42,"typeface":"Pretendard","color":"#FFFFFF","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/p8nyl4n6","kind":"textbox","name":"목표 문장","position":{"left":337.33,"top":615.33,"width":1297.33,"height":66.67},"text":"계와 주위를 정하고 계의 종류를 구분할 수 있다.","style":{"fontSize":44.51,"typeface":"Pretendard","color":"#484847","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/47excz6l","kind":"shape","position":{"left":258.67,"top":741.33,"width":56,"height":56},"geometry":"ellipse","fillColor":"#000000","lineWidth":0},
+{"id":"sh/365gju50","kind":"textbox","name":"목표 번호","position":{"left":258.67,"top":739.33,"width":56,"height":60},"text":"3","style":{"fontSize":42,"typeface":"Pretendard","color":"#FFFFFF","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/25wfapof","kind":"textbox","name":"목표 문장","position":{"left":337.33,"top":735.33,"width":1297.33,"height":66.67},"text":"엔탈피와 엔트로피 변화로 자발성을 설명할 수 있다.","style":{"fontSize":44.51,"typeface":"Pretendard","color":"#484847","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"im/el0zex4b","kind":"image","position":{"left":1670.67,"top":564,"width":217.33,"height":460},"fit":"contain","alt":"목표 안내 원본"}
+]}

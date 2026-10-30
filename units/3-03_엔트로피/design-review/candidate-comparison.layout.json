@@ -1,0 +1,347 @@
+{
+  "artifact_sha256": "a9e961cead38d9b4a5215da60bf916c8854060580c651c210c44b87c2aeb060f",
+  "render_sha256": "027a4b2dbe555254105957b6231e480d02e1dfffb89296762f433e14a91f90eb",
+  "exporter": "Artifact Tool slide.export layout/v5; actual element IDs",
+  "canvas": [
+    1920,
+    1080
+  ],
+  "objects": [
+    {
+      "role": "im/dsje1wr6",
+      "kind": "image",
+      "bbox": [
+        0.926390625,
+        0.037037037037037035,
+        0.05625,
+        0.07160185185185185
+      ],
+      "fill": null,
+      "font_family": null,
+      "font_size": null,
+      "font_weight": 400,
+      "alignment": null,
+      "character_asset_id": "사이음 공식 로고"
+    },
+    {
+      "role": "sh/36dw3ql4",
+      "kind": "textbox",
+      "bbox": [
+        0.75,
+        0.9574074074074074,
+        0.22916666666666666,
+        0.027777777777777776
+      ],
+      "fill": null,
+      "font_family": "Pretendard",
+      "font_size": 21,
+      "font_weight": 400,
+      "alignment": "right",
+      "character_asset_id": null
+    },
+    {
+      "role": "sh/i54vul4j",
+      "kind": "textbox",
+      "bbox": [
+        0.0375,
+        0.07037037037037037,
+        0.796875,
+        0.05
+      ],
+      "fill": null,
+      "font_family": "Pretendard",
+      "font_size": 38,
+      "font_weight": 700,
+      "alignment": "left",
+      "character_asset_id": null
+    },
+    {
+      "role": "sh/dwve9036",
+      "kind": "textbox",
+      "bbox": [
+        0.0375,
+        0.12407407407407407,
+        0.036458333333333336,
+        0.05925925925925926
+      ],
+      "fill": null,
+      "font_family": "Pretendard",
+      "font_size": 48.8,
+      "font_weight": 700,
+      "alignment": "left",
+      "character_asset_id": null
+    },
+    {
+      "role": "sh/svmd0vml",
+      "kind": "textbox",
+      "bbox": [
+        0.07604166666666666,
+        0.12407407407407407,
+        0.8072916666666666,
+        0.05925925925925926
+      ],
+      "fill": null,
+      "font_family": "Pretendard",
+      "font_size": 48.8,
+      "font_weight": 700,
+      "alignment": "left",
+      "character_asset_id": null
+    },
+    {
+      "role": "sh/rudw7ql0",
+      "kind": "textbox",
+      "bbox": [
+        0.052083333333333336,
+        0.25,
+        0.8958333333333334,
+        0.1037037037037037
+      ],
+      "fill": null,
+      "font_family": "Pretendard",
+      "font_size": 76.4,
+      "font_weight": 700,
+      "alignment": "center",
+      "character_asset_id": null
+    },
+    {
+      "role": "sh/qt4vy54f",
+      "kind": "textbox",
+      "bbox": [
+        0.06770833333333333,
+        0.35833333333333334,
+        0.8645833333333334,
+        0.06018518518518518
+      ],
+      "fill": null,
+      "font_family": "Pretendard",
+      "font_size": 36.4,
+      "font_weight": 700,
+      "alignment": "center",
+      "character_asset_id": null
+    },
+    {
+      "role": "sh/t0buxgn2",
+      "kind": "shape",
+      "bbox": [
+        0.1,
+        0.4425925925925926,
+        0.38645833333333335,
+        0.32407407407407407
+      ],
+      "fill": "#484847",
+      "font_family": null,
+      "font_size": null,
+      "font_weight": 400,
+      "alignment": null,
+      "character_asset_id": null
+    },
+    {
+      "role": "sh/8z2dobmh",
+      "kind": "shape",
+      "bbox": [
+        0.11145833333333334,
+        0.46296296296296297,
+        0.36354166666666665,
+        0.2222222222222222
+      ],
+      "fill": "#FFFFFF",
+      "font_family": null,
+      "font_size": null,
+      "font_weight": 400,
+      "alignment": null,
+      "character_asset_id": null
+    },
+    {
+      "role": "im/x8nih8bu",
+      "kind": "image",
+      "bbox": [
+        0.11145833333333334,
+        0.46296296296296297,
+        0.36354166666666665,
+        0.2222222222222222
+      ],
+      "fill": null,
+      "font_family": null,
+      "font_size": null,
+      "font_weight": 400,
+      "alignment": null,
+      "character_asset_id": "snow-photo"
+    },
+    {
+      "role": "sh/fal8jup4",
+      "kind": "textbox",
+      "bbox": [
+        0.115625,
+        0.7018518518518518,
+        0.35520833333333335,
+        0.04814814814814815
+      ],
+      "fill": null,
+      "font_family": "Pretendard",
+      "font_size": 36,
+      "font_weight": 700,
+      "alignment": "center",
+      "character_asset_id": null
+    },
+    {
+      "role": "sh/gbu9szqp",
+      "kind": "shape",
+      "bbox": [
+        0.14166666666666666,
+        0.7555555555555555,
+        0.303125,
+        0.001851851851851852
+      ],
+      "fill": "#FFFFFF",
+      "font_family": null,
+      "font_size": null,
+      "font_weight": 400,
+      "alignment": null,
+      "character_asset_id": null
+    },
+    {
+      "role": "sh/hc3ql47a",
+      "kind": "shape",
+      "bbox": [
+        0.5135416666666667,
+        0.4425925925925926,
+        0.38645833333333335,
+        0.32407407407407407
+      ],
+      "fill": "#484847",
+      "font_family": null,
+      "font_size": null,
+      "font_weight": 400,
+      "alignment": null,
+      "character_asset_id": null
+    },
+    {
+      "role": "sh/2xwru98f",
+      "kind": "shape",
+      "bbox": [
+        0.525,
+        0.46296296296296297,
+        0.36354166666666665,
+        0.2222222222222222
+      ],
+      "fill": "#FFFFFF",
+      "font_family": null,
+      "font_size": null,
+      "font_weight": 400,
+      "alignment": null,
+      "character_asset_id": null
+    },
+    {
+      "role": "im/o3eh43ux",
+      "kind": "image",
+      "bbox": [
+        0.525,
+        0.46296296296296297,
+        0.36354166666666665,
+        0.2222222222222222
+      ],
+      "fill": null,
+      "font_family": null,
+      "font_size": null,
+      "font_weight": 400,
+      "alignment": null,
+      "character_asset_id": "flame-photo"
+    },
+    {
+      "role": "sh/4ze9wjql",
+      "kind": "textbox",
+      "bbox": [
+        0.5291666666666667,
+        0.7018518518518518,
+        0.35520833333333335,
+        0.04814814814814815
+      ],
+      "fill": null,
+      "font_family": "Pretendard",
+      "font_size": 40,
+      "font_weight": 700,
+      "alignment": "center",
+      "character_asset_id": null
+    },
+    {
+      "role": "sh/p0nqp476",
+      "kind": "shape",
+      "bbox": [
+        0.5552083333333333,
+        0.7555555555555555,
+        0.303125,
+        0.001851851851851852
+      ],
+      "fill": "#FFFFFF",
+      "font_family": null,
+      "font_size": null,
+      "font_weight": 400,
+      "alignment": null,
+      "character_asset_id": null
+    },
+    {
+      "role": "im/t07ipsb2",
+      "kind": "image",
+      "bbox": [
+        0.17604166666666668,
+        0.7796296296296297,
+        0.234375,
+        0.06759259259259259
+      ],
+      "fill": null,
+      "font_family": null,
+      "font_size": null,
+      "font_weight": 400,
+      "alignment": null,
+      "character_asset_id": "고체화 원본 반응식"
+    },
+    {
+      "role": "im/8zy1gnuh",
+      "kind": "image",
+      "bbox": [
+        0.5239583333333333,
+        0.7796296296296297,
+        0.365625,
+        0.06759259259259259
+      ],
+      "fill": null,
+      "font_family": null,
+      "font_size": null,
+      "font_weight": 400,
+      "alignment": null,
+      "character_asset_id": "프로페인 연소 원본 반응식"
+    },
+    {
+      "role": "sh/n6p8fe5k",
+      "kind": "textbox",
+      "bbox": [
+        0.12239583333333333,
+        0.862037037037037,
+        0.3416666666666667,
+        0.06111111111111111
+      ],
+      "fill": null,
+      "font_family": "Pretendard",
+      "font_size": 44,
+      "font_weight": 700,
+      "alignment": "center",
+      "character_asset_id": null
+    },
+    {
+      "role": "sh/m5g76toz",
+      "kind": "textbox",
+      "bbox": [
+        0.5359375,
+        0.862037037037037,
+        0.3416666666666667,
+        0.06111111111111111
+      ],
+      "fill": null,
+      "font_family": "Pretendard",
+      "font_size": 44,
+      "font_weight": 700,
+      "alignment": "center",
+      "character_asset_id": null
+    }
+  ]
+}

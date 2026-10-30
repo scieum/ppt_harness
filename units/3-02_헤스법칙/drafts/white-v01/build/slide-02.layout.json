@@ -1,0 +1,11 @@
+{"schema":"openai.presentation.layout/v5","unit":"px","slide":{"id":"sl/8u0fuu","index":1,"layout":{"id":"ly/v6l072p8","name":"Blank"},"backgroundColor":"rgba(255,255,255,1)","position":{"left":0,"top":0,"width":1920,"height":1080}},
+"elements":[
+{"id":"sh/8je58zy5","kind":"textbox","name":"copyright","position":{"left":1440,"top":1038,"width":440,"height":28},"text":"© 2026. @sci_eum. All rights reserved.","style":{"fontSize":17,"typeface":"Pretendard","color":"#202020","alignment":"right"},"geometry":"rect","lineWidth":0},
+{"id":"sh/94n61kzq","kind":"textbox","name":"text","position":{"left":90,"top":86,"width":1400,"height":44},"text":"Part 0 동기 유발","style":{"fontSize":28,"typeface":"Pretendard","color":"#898989","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/ydcn25g3","kind":"textbox","name":"text","position":{"left":90,"top":134,"width":70,"height":64},"text":"01","style":{"fontSize":44,"typeface":"Pretendard","color":"#28691C","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/zelovah8","kind":"textbox","name":"text","position":{"left":158,"top":134,"width":1550,"height":64},"text":"등산 경로와 높이","style":{"fontSize":44,"typeface":"Pretendard","color":"#202020","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/0fu54fyt","kind":"textbox","name":"핵심 문장","position":{"left":180,"top":294,"width":1560,"height":96},"text":"다른 길로 가도, 높이 차는 같을까?","style":{"fontSize":64,"typeface":"Pretendard","color":"#202020","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/lg36xkze","kind":"textbox","name":"관찰 설명","position":{"left":220,"top":402,"width":1480,"height":64},"text":"같은 지점에서 출발해 정상에 도착하는 두 등산로를 비교해 보자.","style":{"fontSize":32,"typeface":"Pretendard","color":"#686868","alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"im/zu5szaps","kind":"image","position":{"left":415,"top":474,"width":1090,"height":545},"crop":{"left":0.12,"top":0,"right":0.12,"bottom":0.24},"fit":"contain","alt":"사용자가 첨부한 두 캐릭터의 등산 장면 — 원본 비율"},
+{"id":"im/ytwbqp87","kind":"image","position":{"left":1778.67,"top":40,"width":108,"height":77.33},"fit":"contain","alt":"사이음 흰 배경용 원본 로고"}
+]}

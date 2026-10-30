@@ -1,0 +1,17 @@
+{"schema":"openai.presentation.layout/v5","unit":"px","slide":{"id":"sl/sj0nun","index":8,"layout":{"id":"ly/cra94v2h","name":"Blank"},"backgroundColor":"rgba(255,255,255,1)","position":{"left":0,"top":0,"width":1920,"height":1080}},
+"elements":[
+{"id":"im/nqp4f2hs","kind":"image","position":{"left":1778.67,"top":40,"width":108,"height":77.33},"fit":"contain","alt":"사이음 공식 로고"},
+{"id":"sh/1wbat8nq","kind":"textbox","name":"copyright","position":{"left":1440,"top":1034,"width":440,"height":30},"text":"© 2026. @sci_eum. All rights reserved.","style":{"fontSize":21,"typeface":"Pretendard","color":"#000000","alignment":"right"},"geometry":"rect","lineWidth":0},
+{"id":"sh/0v2tk3m5","kind":"textbox","name":"text","position":{"left":72,"top":76,"width":1530,"height":54},"text":"Part 3 전체 엔트로피와 자발성","style":{"fontSize":38,"typeface":"Pretendard","color":"#898989","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/nytsvi5w","kind":"textbox","name":"text","position":{"left":72,"top":134,"width":70,"height":64},"text":"03","style":{"fontSize":48.8,"typeface":"Pretendard","color":"#57962F","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/mxkbmd4b","kind":"textbox","name":"text","position":{"left":146,"top":134,"width":1550,"height":64},"text":"자발성 판단","style":{"fontSize":48.8,"typeface":"Pretendard","color":"#000000","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/90vaxsn2","kind":"textbox","name":"핵심 문장","position":{"left":100,"top":270,"width":1720,"height":112},"text":"자발성 판단 소정리","style":{"fontSize":76.4,"typeface":"Pretendard","color":"#000000","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/ozmtonmh","kind":"textbox","name":"text","position":{"left":150,"top":387,"width":1620,"height":65},"text":"계와 주위의 엔트로피 변화를 더해 판단한다.","style":{"fontSize":36.4,"typeface":"Pretendard","color":"#898989","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"tb/2p8729o3","kind":"table","position":{"left":199,"top":485,"width":1523,"height":425},"text":"ΔH\tΔS계\tΔS주위\t자발성\n< 0\t> 0\t> 0\t자발적\n> 0\t< 0\t< 0\t비자발적\n< 0\t< 0\t> 0\t두 변화량의 크기에 따라 다름\n> 0\t> 0\t< 0\t두 변화량의 크기에 따라 다름","rows":5,"cols":4},
+{"id":"sh/a14bqx47","kind":"shape","name":"표 둥근 외곽 마스크","position":{"left":199,"top":485,"width":24,"height":24},"geometry":"custom","fillColor":"#FFFFFF","lineWidth":0},
+{"id":"sh/8nqtcfm1","kind":"shape","name":"표 둥근 외곽 마스크","position":{"left":1698,"top":485,"width":24,"height":24},"geometry":"custom","fillColor":"#FFFFFF","lineWidth":0},
+{"id":"sh/98za5k3m","kind":"shape","name":"표 둥근 외곽 마스크","position":{"left":1698,"top":886,"width":24,"height":24},"geometry":"custom","fillColor":"#FFFFFF","lineWidth":0},
+{"id":"sh/ml8bap4v","kind":"shape","name":"표 둥근 외곽 마스크","position":{"left":199,"top":886,"width":24,"height":24},"geometry":"custom","fillColor":"#FFFFFF","lineWidth":0},
+{"id":"sh/nmhs3ulg","kind":"shape","name":"판단 기준","position":{"left":199,"top":941,"width":1523,"height":78},"geometry":"roundRect","fillColor":"#484847","lineWidth":0},
+{"id":"sh/wbatgz2x","kind":"textbox","name":"text","position":{"left":225,"top":950,"width":1470,"height":60},"text":"ΔS계와 ΔS주위의 부호가 반대이면 크기를 비교한다.","style":{"fontSize":39,"typeface":"Pretendard","color":"#FFFFFF","alignment":"center"},"geometry":"rect","lineWidth":0}
+]}

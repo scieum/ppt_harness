@@ -1,0 +1,11 @@
+{
+  "asset": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-03_엔트로피/assets/generated/hook-two-students-v11.png",
+  "sha256": "2d6da8df57fa08b9416910839b4165015317b9d3ac5bd76ad2e685ed024d1197",
+  "references": [
+    "units/3-02_헤스법칙/assets/characters-v17/glasses-boy-original.png",
+    "units/3-02_헤스법칙/assets/characters-v17/long-hair-girl-original.png"
+  ],
+  "method": "built-in imagegen identity-preserve; second pass background extraction",
+  "scene": "남학생1·여학생1, 흰색/남색 교복, 파란 넥타이/리본, 방향제 관찰, 고글 없음",
+  "visualReview": "검정 합성에서 알파 배경 제거·얼굴·헤어·인형 비율·손·소품 확인. 사용자 승인 대기"
+}

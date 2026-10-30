@@ -1,0 +1,52 @@
+{
+  "run_id": "2e95aececad845a8ac900edc1e0b2fbd",
+  "time_utc": "2026-10-26T14:41:12.929056+00:00",
+  "mode": "production",
+  "rules_version": "1.1.0",
+  "rules_sha256": "ae966e7cd082dc57010b835e46ffde4b8aa12ffae3ae129acf70242a123cbbdf",
+  "unit": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-02_헤스법칙",
+  "results": [
+    {
+      "id": "G01",
+      "status": "failed",
+      "detail": "unclassified curriculum content",
+      "rollback": "research"
+    },
+    {
+      "id": "G02",
+      "status": "failed",
+      "detail": "unclassified curriculum content",
+      "rollback": "plan"
+    },
+    {
+      "id": "G03",
+      "status": "failed",
+      "detail": "unclassified curriculum content",
+      "rollback": "plan"
+    },
+    {
+      "id": "G04",
+      "status": "failed",
+      "detail": "unclassified curriculum content",
+      "rollback": "image"
+    },
+    {
+      "id": "G07",
+      "status": "passed",
+      "detail": "conditions satisfied"
+    },
+    {
+      "id": "G08",
+      "status": "failed",
+      "detail": "unclassified curriculum content",
+      "rollback": "prototype"
+    },
+    {
+      "id": "G09",
+      "status": "failed",
+      "detail": "unclassified curriculum content",
+      "rollback": "prototype"
+    }
+  ],
+  "passed": false
+}

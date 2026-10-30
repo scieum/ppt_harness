@@ -1,0 +1,16 @@
+{"schema":"openai.presentation.layout/v5","unit":"px","slide":{"id":"sl/7bozdb","index":42,"layout":{"id":"ly/vidwji5c","name":"Blank"},"backgroundColor":"rgba(0,0,0,1)","position":{"left":0,"top":0,"width":1920,"height":1080}},
+"elements":[
+{"id":"sh/ih4ru9of","kind":"shape","name":"v34 내용 영역","position":{"left":230,"top":785,"width":1460,"height":170},"geometry":"roundRect","fillColor":"#242424","lineWidth":0},
+{"id":"sh/xwvql4nu","kind":"shape","name":"v34 내용 영역","position":{"left":230,"top":450,"width":1460,"height":295},"geometry":"roundRect","fillColor":"#242424","lineWidth":0},
+{"id":"im/9obat8fm","kind":"image","position":{"left":1778.67,"top":40,"width":108,"height":77.33},"fit":"contain","alt":"사이음 화이트 원본 로고"},
+{"id":"sh/rups36xg","kind":"textbox","name":"copyright","position":{"left":1440,"top":1038,"width":440,"height":28},"text":"© 2026. @sci_eum. All rights reserved.","style":{"fontSize":17,"typeface":"Pretendard","color":"#FFFFFF","alignment":"right"},"geometry":"rect","lineWidth":0},
+{"id":"sh/6tgbu1wv","kind":"textbox","name":"text","position":{"left":90,"top":86,"width":1400,"height":44},"text":"Part 4 실험으로 확인하는 헤스 법칙","style":{"fontSize":28,"typeface":"Pretendard","color":"#898989","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/10ra9gfi","kind":"textbox","name":"text","position":{"left":90,"top":134,"width":70,"height":64},"text":"01","style":{"fontSize":44,"typeface":"Pretendard","color":"#9FFF68","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/0zit0vex","kind":"textbox","name":"text","position":{"left":158,"top":134,"width":1550,"height":64},"text":"두 실험 경로","style":{"fontSize":44,"typeface":"Pretendard","color":"#FFFFFF","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/fyps7qxc","kind":"textbox","name":"핵심 문장","position":{"left":180,"top":294,"width":1560,"height":96},"text":"같은 처음과 끝을 만드는 두 경로","style":{"fontSize":64,"typeface":"Pretendard","color":"#FFFFFF","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"im/dwralofe","kind":"image","position":{"left":628.06,"top":553,"width":663.86,"height":64},"fit":"contain","alt":"반응식 이미지 w120-naoh-dissolve — assets/equations-v05/provenance.json"},
+{"id":"im/x0zq9cjm","kind":"image","position":{"left":457.83,"top":659.74,"width":1004.33,"height":60.53},"fit":"contain","alt":"반응식 이미지 w120-naoh-neutral — assets/equations-v05/provenance.json"},
+{"id":"im/byh872lg","kind":"image","position":{"left":466.06,"top":877.73,"width":987.86,"height":59.54},"fit":"contain","alt":"반응식 이미지 w120-naoh-direct — assets/equations-v05/provenance.json"},
+{"id":"sh/jid8ne50","kind":"textbox","name":"text","position":{"left":265,"top":468,"width":470,"height":58},"text":"경로 1 · 용해 후 중화","style":{"fontSize":30,"typeface":"Pretendard","color":"#FFFFFF","bold":true,"alignment":"center"},"geometry":"roundRect","fillColor":"#365C25","lineWidth":0},
+{"id":"sh/kjm9wj6l","kind":"textbox","name":"text","position":{"left":265,"top":800,"width":520,"height":58},"text":"경로 2 · 고체와 직접 반응","style":{"fontSize":30,"typeface":"Pretendard","color":"#FFFFFF","bold":true,"alignment":"center"},"geometry":"roundRect","fillColor":"#344E67","lineWidth":0}
+]}

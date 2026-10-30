@@ -1,0 +1,137 @@
+{
+  "number": 4,
+  "kind": "part",
+  "title": "PART 1 엔탈피와 열화학 반응식",
+  "nodes": [
+    {
+      "type": "image",
+      "role": "dimmed_classroom_scene",
+      "bbox": [
+        0,
+        0,
+        1920,
+        1080
+      ],
+      "asset_sha256": "e6d934a5fe80dd067cbcd70d88de6bccfa7a667799cbacb7b5c692b743958ad7",
+      "source": "/private/tmp/scieum-unit3-five/assets/classroom-part-dimmed.png"
+    },
+    {
+      "type": "gradient",
+      "role": "reference_green_fade",
+      "bbox": [
+        0,
+        0,
+        1920,
+        1080
+      ],
+      "color": "#063D04",
+      "stops": [
+        [
+          0,
+          1
+        ],
+        [
+          0.22,
+          1
+        ],
+        [
+          0.58,
+          0
+        ],
+        [
+          1,
+          0
+        ]
+      ]
+    },
+    {
+      "type": "image",
+      "role": "sci_eum_logo",
+      "bbox": [
+        1776.0,
+        34.66666666666667,
+        113.33333333333333,
+        70.66666666666667
+      ],
+      "asset_sha256": "fc398dfbb173e3b6db1208124678df140c5bf7a8b80f8972a6b6bfef807b7c04",
+      "source": {
+        "kind": "part",
+        "role": "sci_eum_logo"
+      }
+    },
+    {
+      "type": "text",
+      "role": "copyright",
+      "text": "© 2026. @sci_eum. All rights reserved.",
+      "bbox": [
+        1535,
+        1037,
+        342,
+        30
+      ],
+      "font": "Pretendard",
+      "fontSize": 17,
+      "weight": "Medium",
+      "color": "#FFFFFF",
+      "align": "right",
+      "lineHeight": 21.25
+    },
+    {
+      "type": "text",
+      "role": "part_label",
+      "text": "PART 1",
+      "bbox": [
+        118.7,
+        322,
+        330,
+        99
+      ],
+      "font": "Pretendard",
+      "fontSize": 68,
+      "weight": "Bold",
+      "color": "#9FFF68",
+      "align": "left",
+      "lineHeight": 85.0
+    },
+    {
+      "type": "text",
+      "role": "title",
+      "text": "엔탈피와 열화학 반응식",
+      "bbox": [
+        118.7,
+        427,
+        1400,
+        157.3
+      ],
+      "font": "Pretendard",
+      "fontSize": 94,
+      "weight": "Bold",
+      "color": "#FFFFFF",
+      "align": "left",
+      "lineHeight": 117.5
+    },
+    {
+      "type": "text",
+      "role": "theory_curiosity",
+      "text": "같은 반응도 물질의 양이나 상태가 달라지면 출입하는 열이 달라질까?",
+      "bbox": [
+        118.7,
+        580,
+        1400,
+        62
+      ],
+      "font": "Pretendard",
+      "fontSize": 38,
+      "weight": "Regular",
+      "color": "#FFFFFF",
+      "align": "left",
+      "lineHeight": 47.5
+    }
+  ],
+  "notes": "천재교육 물질과 에너지 p.74. 물질의 양과 상태에 따른 반응 엔탈피 차이를 궁금증 유발 한 줄로 제시한다. 근거: 천재교육 물질과 에너지 p.76의 상태 및 반응 계수 유의점. 개념·수식의 나열은 피한다. 배경에는 원본 PART와 같은 51% 검정 덮개를 적용하며 제목과 로고는 불투명하게 유지.",
+  "source_recipe": {
+    "template": "approved PART label/title left anchors; theoretical definition replaces question by latest user instruction; 51% source overlay encoded into image bytes to avoid Figma import opacity loss",
+    "source_opacity": 0.51
+  },
+  "artifact_sha256": "6055eac98a9d808fbce08ab212a14f80d152d4240231b95a648b39752e9bd585"
+}

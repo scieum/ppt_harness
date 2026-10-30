@@ -1,0 +1,11 @@
+{"schema":"openai.presentation.layout/v5","unit":"px","slide":{"id":"sl/8gy7br","index":15,"layout":{"id":"ly/rutkret0","name":"Blank"},"backgroundColor":"rgba(255,255,255,1)","position":{"left":0,"top":0,"width":1920,"height":1080}},
+"elements":[
+{"id":"im/wb6h0nid","kind":"image","position":{"left":1778.67,"top":40,"width":108,"height":77.33},"fit":"contain","alt":"sci_eum_logo"},
+{"id":"sh/edgf2x0j","kind":"textbox","name":"part_heading","position":{"left":72,"top":78,"width":1500,"height":52},"text":"Part 2 열화학 반응식","style":{"fontSize":38,"typeface":"Pretendard","color":"#909090","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/fepwb2h4","kind":"textbox","name":"topic_number","position":{"left":72,"top":137,"width":73,"height":67},"text":"01","style":{"fontSize":48.8,"typeface":"Pretendard","color":"#57962F","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/sbyx0nid","kind":"textbox","name":"topic_heading","position":{"left":157,"top":137,"width":1500,"height":67},"text":"열화학 반응식","style":{"fontSize":48.8,"typeface":"Pretendard","color":"#111111","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/dc7e9szy","kind":"textbox","name":"title","position":{"left":72,"top":285,"width":1776,"height":100},"text":"계수가 두 배가 되면 ΔH도 두 배가 된다","style":{"fontSize":76.4,"typeface":"Pretendard","color":"#111111","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/qpwfyx0n","kind":"textbox","name":"explanation","position":{"left":72,"top":398,"width":1776,"height":70},"text":"엔탈피 변화는 반응한 물질의 양에 비례한다","style":{"fontSize":36.4,"typeface":"Pretendard","color":"#888888","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/rqpw7i1s","kind":"textbox","name":"copyright","position":{"left":1535,"top":1037,"width":342,"height":30},"text":"© 2026. @sci_eum. All rights reserved.","style":{"fontSize":17,"typeface":"Pretendard","color":"#111111","alignment":"right"},"geometry":"rect","lineWidth":0},
+{"id":"im/t4zi1sz6","kind":"image","position":{"left":440,"top":475,"width":1040,"height":500},"fit":"contain","alt":"textbook-coefficient-state"}
+]}

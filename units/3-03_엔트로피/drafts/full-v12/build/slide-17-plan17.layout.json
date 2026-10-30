@@ -1,0 +1,12 @@
+{"schema":"openai.presentation.layout/v5","unit":"px","slide":{"id":"sl/cx4eug","index":0,"layout":{"id":"ly/e1gjepcr","name":"Blank"},"backgroundColor":"rgba(0,0,0,1)","position":{"left":0,"top":0,"width":1920,"height":1080}},
+"elements":[
+{"id":"im/7at4nyl0","kind":"image","position":{"left":1778.67,"top":40,"width":108,"height":77.33},"fit":"contain","alt":"사이음 공식 로고"},
+{"id":"sh/do7mlgza","kind":"textbox","name":"copyright","position":{"left":1440,"top":1034,"width":440,"height":30},"text":"© 2026. @sci_eum. All rights reserved.","style":{"fontSize":21,"typeface":"Pretendard","color":"#FFFFFF","alignment":"right"},"geometry":"rect","lineWidth":0},
+{"id":"sh/snylcbip","kind":"textbox","name":"text","position":{"left":72,"top":76,"width":1530,"height":54},"text":"Part 2 엔트로피 변화","style":{"fontSize":38,"typeface":"Pretendard","color":"#898989","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/zqp4n6h0","kind":"textbox","name":"text","position":{"left":72,"top":134,"width":70,"height":64},"text":"01","style":{"fontSize":48.8,"typeface":"Pretendard","color":"#9FFF68","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/epg3el0v","kind":"textbox","name":"text","position":{"left":146,"top":134,"width":1550,"height":64},"text":"기체 분자 수","style":{"fontSize":48.8,"typeface":"Pretendard","color":"#FFFFFF","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/1s7mpgz6","kind":"textbox","name":"핵심 문장","position":{"left":100,"top":245,"width":1720,"height":112},"text":"분자 수가 줄어도 원자는 사라지지 않는다","style":{"fontSize":76.4,"typeface":"Pretendard","color":"#FFFFFF","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"im/l8bmlo3a","kind":"image","position":{"left":120,"top":455,"width":860,"height":410},"fit":"contain","alt":"반응 전후 원자의 색과 수를 비교하는 원본 모형"},
+{"id":"tb/u1k7i183","kind":"table","position":{"left":1030,"top":450,"width":770,"height":430},"text":"비교 대상\t반응 전\t반응 후\n질소 원자\t2개\t2개\n수소 원자\t6개\t6개\n기체 분자\t4개\t2개","rows":4,"cols":3},
+{"id":"sh/mt03il0r","kind":"textbox","name":"text","position":{"left":170,"top":938,"width":1580,"height":70},"text":"원자는 보존되고, 원자가 묶인 분자의 수가 달라진다.","style":{"fontSize":43,"typeface":"Pretendard","color":"#9FFF68","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0}
+]}

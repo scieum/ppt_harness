@@ -1,0 +1,21 @@
+{
+  "user_request": "동기유발 자료에는 이거 말고 다음 두 캐릭터가 등산 복을 입고 등산 루트를 보는 형식으로 해주자.",
+  "kind": "user-authorized identity-preserving scene generation",
+  "references": [
+    {
+      "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-02_헤스법칙/assets/registered-originals/body_student_two_flasks.png",
+      "role": "female identity"
+    },
+    {
+      "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-02_헤스법칙/assets/registered-originals/boy-flask-user-reference.png",
+      "role": "male identity"
+    }
+  ],
+  "output": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-02_헤스법칙/assets/generated/hiking-two-registered-characters-v08.png",
+  "sha256": "90023e3253d973829cc9d4b2c51448012aae8aec4c0f170e646b84b0168efeb4",
+  "transparent_background": true,
+  "changes": "Hiking clothing, backpacks, map board and poses; laboratory gear removed; reference faces and hairstyles retained as generation constraints.",
+  "slide": 2,
+  "scientific_evidence": false,
+  "note": "User design review pending; identity resemblance visually inspected but not claimed exact."
+}

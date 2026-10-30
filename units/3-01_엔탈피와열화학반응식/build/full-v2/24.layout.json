@@ -1,0 +1,22 @@
+{"schema":"openai.presentation.layout/v5","unit":"px","slide":{"id":"sl/jmnnv5","index":23,"layout":{"id":"ly/rutkret0","name":"Blank"},"backgroundColor":"rgba(255,255,255,1)","position":{"left":0,"top":0,"width":1920,"height":1080}},
+"elements":[
+{"id":"im/ri1wv2dk","kind":"image","position":{"left":1778.67,"top":40,"width":108,"height":77.33},"fit":"contain","alt":"sci_eum_logo"},
+{"id":"sh/tcvyx07y","kind":"textbox","name":"part_heading","position":{"left":72,"top":78,"width":1500,"height":52},"text":"Part 3 연료의 효율성","style":{"fontSize":38,"typeface":"Pretendard","color":"#909090","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/sb2xov6d","kind":"textbox","name":"topic_number","position":{"left":72,"top":137,"width":73,"height":67},"text":"02","style":{"fontSize":48.8,"typeface":"Pretendard","color":"#57962F","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/fydgzqp4","kind":"textbox","name":"topic_heading","position":{"left":157,"top":137,"width":1500,"height":67},"text":"연료의 효율성 비교","style":{"fontSize":48.8,"typeface":"Pretendard","color":"#111111","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/ex4fq5oj","kind":"textbox","name":"title","position":{"left":72,"top":285,"width":1776,"height":100},"text":"연료 1 mol이 연소할 때의 방출열","style":{"fontSize":76.4,"typeface":"Pretendard","color":"#111111","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/10vy107u","kind":"textbox","name":"explanation","position":{"left":72,"top":398,"width":1776,"height":70},"text":"반응 엔탈피는 반응식에 나타낸 연료의 양을 기준으로 한다","style":{"fontSize":36.4,"typeface":"Pretendard","color":"#888888","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/gzmxsv69","kind":"textbox","name":"copyright","position":{"left":1535,"top":1037,"width":342,"height":30},"text":"© 2026. @sci_eum. All rights reserved.","style":{"fontSize":17,"typeface":"Pretendard","color":"#111111","alignment":"right"},"geometry":"rect","lineWidth":0},
+{"id":"im/2pcfuhc7","kind":"image","position":{"left":190,"top":490,"width":1540,"height":76},"fit":"contain","alt":"textbook-eq-methane"},
+{"id":"im/3qlw3mdc","kind":"image","position":{"left":190,"top":590,"width":1540,"height":76},"fit":"contain","alt":"textbook-eq-butane"},
+{"id":"sh/c3mdw369","kind":"shape","name":"strip-1","position":{"left":245,"top":730,"width":1430,"height":100},"geometry":"roundRect","fillColor":"#F0F0F0","lineWidth":0},
+{"id":"sh/d4ve587u","kind":"shape","name":"circle-1","position":{"left":280,"top":758,"width":44,"height":44},"geometry":"roundRect","fillColor":"#252525","lineWidth":0},
+{"id":"sh/q14vuto3","kind":"textbox","name":"number-1","position":{"left":280,"top":759,"width":44,"height":44},"text":"1","style":{"fontSize":30,"typeface":"Pretendard","color":"#FFFFFF","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/r2dw3ypo","kind":"textbox","name":"label-1","position":{"left":370,"top":756,"width":340,"height":62},"text":"메테인 1 mol","style":{"fontSize":39,"typeface":"Pretendard","color":"#555555","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/07md036l","kind":"textbox","name":"value-1","position":{"left":725,"top":750,"width":900,"height":70},"text":"890.5 kJ 방출","style":{"fontSize":46,"typeface":"Pretendard","color":"#111111","alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/18ve98nq","kind":"shape","name":"strip-2","position":{"left":245,"top":850,"width":1430,"height":100},"geometry":"roundRect","fillColor":"#F0F0F0","lineWidth":0},
+{"id":"sh/e54vydof","kind":"shape","name":"circle-2","position":{"left":280,"top":878,"width":44,"height":44},"geometry":"roundRect","fillColor":"#252525","lineWidth":0},
+{"id":"sh/z6dw7i50","kind":"textbox","name":"number-2","position":{"left":280,"top":879,"width":44,"height":44},"text":"2","style":{"fontSize":30,"typeface":"Pretendard","color":"#FFFFFF","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/ob6d4n6h","kind":"textbox","name":"label-2","position":{"left":370,"top":876,"width":340,"height":62},"text":"뷰테인 1 mol","style":{"fontSize":39,"typeface":"Pretendard","color":"#555555","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/9wfedsn2","kind":"textbox","name":"value-2","position":{"left":725,"top":870,"width":900,"height":70},"text":"5754 ÷ 2 = 2877 kJ 방출","style":{"fontSize":46,"typeface":"Pretendard","color":"#111111","alignment":"left"},"geometry":"rect","lineWidth":0}
+]}

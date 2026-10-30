@@ -1,0 +1,16 @@
+{"schema":"openai.presentation.layout/v5","unit":"px","slide":{"id":"sl/8fqw0x","index":36,"layout":{"id":"ly/10v2d8z6","name":"Blank"},"backgroundColor":"rgba(0,0,0,1)","position":{"left":0,"top":0,"width":1920,"height":1080}},
+"elements":[
+{"id":"im/94fihwnq","kind":"image","position":{"left":1778.67,"top":40,"width":108,"height":77.33},"fit":"contain","alt":"사이음 화이트 원본 로고"},
+{"id":"sh/nypgrah0","kind":"textbox","name":"copyright","position":{"left":1440,"top":1038,"width":440,"height":28},"text":"© 2026. @sci_eum. All rights reserved.","style":{"fontSize":17,"typeface":"Pretendard","color":"#FFFFFF","alignment":"right"},"geometry":"rect","lineWidth":0},
+{"id":"sh/mxgfi50f","kind":"textbox","name":"text","position":{"left":90,"top":86,"width":1400,"height":44},"text":"Part 3 표준 생성 엔탈피","style":{"fontSize":28,"typeface":"Pretendard","color":"#898989","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/lw7yp0zu","kind":"textbox","name":"text","position":{"left":90,"top":134,"width":70,"height":64},"text":"02","style":{"fontSize":44,"typeface":"Pretendard","color":"#9FFF68","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/0vexgvi9","kind":"textbox","name":"text","position":{"left":158,"top":134,"width":1550,"height":64},"text":"생성 엔탈피로 계산","style":{"fontSize":44,"typeface":"Pretendard","color":"#FFFFFF","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/zu5gnqho","kind":"textbox","name":"핵심 문장","position":{"left":180,"top":294,"width":1560,"height":96},"text":"메테인 연소열 구하기","style":{"fontSize":64,"typeface":"Pretendard","color":"#FFFFFF","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"im/v6h0j65w","kind":"image","position":{"left":400.86,"top":395,"width":1120.28,"height":95},"fit":"contain","alt":"반응식 이미지 t86-ch4-combustion — assets/equations-v05/provenance.json"},
+{"id":"tb/knit8vix","kind":"table","position":{"left":192,"top":522,"width":1537,"height":190},"text":"물질\tCH₄(g)\tO₂(g)\tCO₂(g)\tH₂O(l)\n생성 엔탈피 (kJ/mol)\t−74.8\t0\t−393.5\t−285.8","rows":2,"cols":5},
+{"id":"sh/krihszyt","kind":"shape","name":"표 둥근 외곽 마스크","position":{"left":192,"top":522,"width":20,"height":20},"geometry":"custom","fillColor":"#000000","lineWidth":0},
+{"id":"sh/exo7adg3","kind":"shape","name":"표 둥근 외곽 마스크","position":{"left":1709,"top":522,"width":20,"height":20},"geometry":"custom","fillColor":"#000000","lineWidth":0},
+{"id":"sh/fyxojixo","kind":"shape","name":"표 둥근 외곽 마스크","position":{"left":1709,"top":692,"width":20,"height":20},"geometry":"custom","fillColor":"#000000","lineWidth":0},
+{"id":"sh/gzqpcny9","kind":"shape","name":"표 둥근 외곽 마스크","position":{"left":192,"top":692,"width":20,"height":20},"geometry":"custom","fillColor":"#000000","lineWidth":0},
+{"id":"im/614ryxsv","kind":"image","position":{"left":523.21,"top":807.76,"width":873.57,"height":114.48},"fit":"contain","alt":"교과서 수식체 생성 계산 패널 36"}
+]}

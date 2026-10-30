@@ -1,0 +1,45 @@
+{
+  "version": "miri-equation-v4",
+  "state_runs_italic": [
+    {
+      "slide": "ppt/slides/slide7.xml",
+      "state": "(g)"
+    },
+    {
+      "slide": "ppt/slides/slide7.xml",
+      "state": "(g)"
+    },
+    {
+      "slide": "ppt/slides/slide7.xml",
+      "state": "(g)"
+    },
+    {
+      "slide": "ppt/slides/slide8.xml",
+      "state": "(g)"
+    },
+    {
+      "slide": "ppt/slides/slide8.xml",
+      "state": "(g)"
+    },
+    {
+      "slide": "ppt/slides/slide8.xml",
+      "state": "(g)"
+    }
+  ],
+  "native_equation_replaces": "EQ_BOND raster",
+  "changed_slides_visually_checked": [
+    4,
+    6,
+    7,
+    8
+  ],
+  "preview_italic": "Derived oblique Pretendard outlines for renderer only; PPT retains Pretendard with native italic flag",
+  "body_sizes_px": {
+    "part": 38,
+    "topic": 48.8,
+    "message": 76.4,
+    "explanation": 36.4
+  },
+  "G07": true,
+  "human_confirmation": "pending"
+}

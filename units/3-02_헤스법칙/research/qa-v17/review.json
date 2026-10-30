@@ -1,0 +1,475 @@
+{
+  "version": "v17",
+  "deck": "units/3-02_헤스법칙/drafts/full-v01/output/3-02_헤스법칙_전체42장_캐릭터와전체QA_v17.pptx",
+  "deck_sha256": "7447bc8501e7c9938dd2141f45d1a2029ace6aeee67884d6bcc6751b2ccc0243",
+  "slides": [
+    {
+      "number": 1,
+      "title": "표지",
+      "render": "units/3-02_헤스법칙/drafts/full-v01/output/slide-01.png",
+      "sha256": "eeb2682ac2d57f5ac183ca088a4f0513adf5777daf4f7ab2e9ff74f47ed41d30",
+      "science": "reviewed_against_sources",
+      "visual": "reviewed",
+      "comment": "원래 표지·녹색 그라데이션 유지, 두 줄 제목·첫장 로고"
+    },
+    {
+      "number": 2,
+      "title": "다른 길로 가도, 높이 차는 같을까?",
+      "render": "units/3-02_헤스법칙/drafts/full-v01/output/slide-02.png",
+      "sha256": "235472bd5d10e165d29de69132f81f9bd15e6d2933025aab8a5cc173e0e59bbc",
+      "science": "reviewed_against_sources",
+      "visual": "reviewed",
+      "comment": "원본 비율·두 등산로·남학생 사용자 지정 고글 유지"
+    },
+    {
+      "number": 3,
+      "title": "수업 목차",
+      "render": "units/3-02_헤스법칙/drafts/full-v01/output/slide-03.png",
+      "sha256": "814e9cf20a0c3f19cf55470db807081907f52a38139196996f42a1bb208d7d7a",
+      "science": "reviewed_against_sources",
+      "visual": "reviewed",
+      "comment": "네 목차 블록·좁은 간격·문구 유지"
+    },
+    {
+      "number": 4,
+      "title": "학습 목표",
+      "render": "units/3-02_헤스법칙/drafts/full-v01/output/slide-04.png",
+      "sha256": "51f3505c74f34fab79161d230d265ac60e5ee9289324c5910cb28a5ac45d71a5",
+      "science": "reviewed_against_sources",
+      "visual": "reviewed",
+      "comment": "목표 문구·번호 정렬 유지, 원본 참조 여학생 교체"
+    },
+    {
+      "number": 5,
+      "title": "Part 1 헤스 법칙",
+      "render": "units/3-02_헤스법칙/drafts/full-v01/output/slide-05.png",
+      "sha256": "9010d3aaa541ef8b1bd97b3a92494435a74b2bb3452c44fc1831ad3435325739",
+      "science": "reviewed_against_sources",
+      "visual": "reviewed",
+      "comment": "동일 표지 배경·51% 검정 덮개·T셀파 없음"
+    },
+    {
+      "number": 6,
+      "title": "헤스 법칙",
+      "render": "units/3-02_헤스법칙/drafts/full-v01/output/slide-06.png",
+      "sha256": "06b778e9ed318458d295d0aa52ddfaa2f77cb467a8e182005d7e13dc73d493cc",
+      "science": "reviewed_against_sources",
+      "visual": "reviewed",
+      "comment": "가운데 점·완결된 세 줄·둘째 문구·기울임H 유지"
+    },
+    {
+      "number": 7,
+      "title": "같은 반응을 비교하려면",
+      "render": "units/3-02_헤스법칙/drafts/full-v01/output/slide-07.png",
+      "sha256": "1de6f04521618ec15833b84f50b5f42a76e740dc574701958e20e6f03cd80814",
+      "science": "reviewed_against_sources",
+      "visual": "reviewed",
+      "comment": "비교 조건3항·갈색남학생·직접 연결 말풍선"
+    },
+    {
+      "number": 8,
+      "title": "경로가 달라도, ΔH는 같다",
+      "render": "units/3-02_헤스법칙/drafts/full-v01/output/slide-08.png",
+      "sha256": "8271d09d99cf4d749d84e9fa3371244f9bc284575038f3ec89ef34ec7a1abd60",
+      "science": "reviewed_against_sources",
+      "visual": "reviewed",
+      "comment": "원본 CaO 그래프·직접/두단계 수치 대조"
+    },
+    {
+      "number": 9,
+      "title": "두 반응식을 더하면",
+      "render": "units/3-02_헤스법칙/drafts/full-v01/output/slide-09.png",
+      "sha256": "5005c8d3b083a7d25d9e4cfdf536fb4bc0731200daa4f70631324999c3a9e519",
+      "science": "reviewed_against_sources",
+      "visual": "reviewed",
+      "comment": "원본 중화식의 ΔH를 한 줄에 재배치·물질소거 검산"
+    },
+    {
+      "number": 10,
+      "title": "계수와 ΔH는 같은 비율로",
+      "render": "units/3-02_헤스법칙/drafts/full-v01/output/slide-10.png",
+      "sha256": "ee190b7b427c8c5f500c55d47d93f1353bcbf8faeba72b3f90212c0f541f8bc8",
+      "science": "reviewed_against_sources",
+      "visual": "reviewed",
+      "comment": "물 생성식2배·같은 글자 크기·계수와ΔH에 직접주석"
+    },
+    {
+      "number": 11,
+      "title": "반응을 뒤집으면 부호도 반대",
+      "render": "units/3-02_헤스법칙/drafts/full-v01/output/slide-11.png",
+      "sha256": "697666b34d0a0069f533537b0aad7af57d7f5cffe08bcf9fae363a42572a7bfd",
+      "science": "reviewed_against_sources",
+      "visual": "reviewed",
+      "comment": "원본 역반응·부호 반대·발열/흡열 직접주석"
+    },
+    {
+      "number": 12,
+      "title": "열화학 반응식의 세 가지 조작",
+      "render": "units/3-02_헤스법칙/drafts/full-v01/output/slide-12.png",
+      "sha256": "e443dc5abf59b7d4beb40f09ff9ce9a16e9551e22721472ab7754ff462dbd856",
+      "science": "reviewed_against_sources",
+      "visual": "reviewed",
+      "comment": "표 하단 여백·원본4명 중 확인역할·말풍선"
+    },
+    {
+      "number": 13,
+      "title": "Part 2 반응 엔탈피 구하기",
+      "render": "units/3-02_헤스법칙/drafts/full-v01/output/slide-13.png",
+      "sha256": "06f417e92af68cf6a15072156c1bdfa690a09ef9a88cdf1db440fd9cdcba77bb",
+      "science": "reviewed_against_sources",
+      "visual": "reviewed",
+      "comment": "표지 배경 반복·명암·로고 규칙 유지"
+    },
+    {
+      "number": 14,
+      "title": "CO 생성열을 직접 재기 어려운 까닭",
+      "render": "units/3-02_헤스법칙/drafts/full-v01/output/slide-14.png",
+      "sha256": "6da6b07379aedb35e06939b93ae5572203bb7d843855133f6558e71547b52f20",
+      "science": "reviewed_against_sources",
+      "visual": "reviewed",
+      "comment": "CO 직접측정 설명·안경남학생 질문 연결"
+    },
+    {
+      "number": 15,
+      "title": "구하려는 반응부터 확인",
+      "render": "units/3-02_헤스법칙/drafts/full-v01/output/slide-15.png",
+      "sha256": "7a1f06fd670d45bb227508515854a2c795db22d75f3a33c22192620667e95b80",
+      "science": "reviewed_against_sources",
+      "visual": "reviewed",
+      "comment": "원본 CO 목표식·연소식·같은 배율 적용"
+    },
+    {
+      "number": 16,
+      "title": "CO₂를 소거해 목표 반응을 만든다",
+      "render": "units/3-02_헤스법칙/drafts/full-v01/output/slide-16.png",
+      "sha256": "a8bee8e6aace6c8460657a94a114225fbaddb024a5b723587d9b3f01648e8345",
+      "science": "reviewed_against_sources",
+      "visual": "reviewed",
+      "comment": "원본 CO2소거식·원소수/산소1/2mol 검산"
+    },
+    {
+      "number": 17,
+      "title": "CO 생성 반응의 반응 엔탈피",
+      "render": "units/3-02_헤스법칙/drafts/full-v01/output/slide-17.png",
+      "sha256": "88a3c8cbd2beb308ef0bdd5fe6c5d62ef866cd2147b6f7f678f7131b5dbecca9",
+      "science": "reviewed_against_sources",
+      "visual": "reviewed",
+      "comment": "CO 두 연소식의 크기 통일·−110.5kJ 검산"
+    },
+    {
+      "number": 18,
+      "title": "흑연으로 다이아몬드를 만들 수 있을까?",
+      "render": "units/3-02_헤스법칙/drafts/full-v01/output/slide-18.png",
+      "sha256": "caa4b0587eece3bd8d49e3eb2dd8dfe9171efc7250549b8a53c704a302ed1d17",
+      "science": "reviewed_against_sources",
+      "visual": "reviewed",
+      "comment": "ΔH3=? 삭제 유지·보통조건·흑연누르는 여학생 개념장면"
+    },
+    {
+      "number": 19,
+      "title": "두 연소열의 차이로 구한다",
+      "render": "units/3-02_헤스법칙/drafts/full-v01/output/slide-19.png",
+      "sha256": "a9e56d86b36e43827ad444a573f4e2c2fbff878af80940a9294c60617420560e",
+      "science": "reviewed_against_sources",
+      "visual": "reviewed",
+      "comment": "완자 원본 연소식·+1.9kJ·1.88혼용 안함"
+    },
+    {
+      "number": 20,
+      "title": "헤스 법칙 계산의 순서",
+      "render": "units/3-02_헤스법칙/drafts/full-v01/output/slide-20.png",
+      "sha256": "de3e7704a04006b8637199320836f7ed1ddbf8e9cc6666f18b8bc02d22044c37",
+      "science": "reviewed_against_sources",
+      "visual": "reviewed",
+      "comment": "목표/조절/소거/검산4단계 정렬 유지"
+    },
+    {
+      "number": 21,
+      "title": "SO₂가 SO₃로 바뀔 때",
+      "render": "units/3-02_헤스법칙/drafts/full-v01/output/slide-21.png",
+      "sha256": "bdf3ca411b3bb0d38b2b1e86a658e515097e13dbdeb9ee2ecc33db57e06b72dd",
+      "science": "reviewed_against_sources",
+      "visual": "reviewed",
+      "comment": "황 반응 원본의 배경 투명화·같은 글자 크기 유지"
+    },
+    {
+      "number": 22,
+      "title": "반응식과 ΔH를 함께 검산",
+      "render": "units/3-02_헤스법칙/drafts/full-v01/output/slide-22.png",
+      "sha256": "2970bd29ccbc4e4bb253b377e1d3a8e667660f9025c053e29d0de68d58094d47",
+      "science": "reviewed_against_sources",
+      "visual": "reviewed",
+      "comment": "원본 반응식·−197kJ 검산·배경 없음"
+    },
+    {
+      "number": 23,
+      "title": "그림과 반응식은 같은 관계",
+      "render": "units/3-02_헤스법칙/drafts/full-v01/output/slide-23.png",
+      "sha256": "18ee98690c8eb500b3d4a24c5c0fffe320b8a48f215e2d1698688198de8b0171",
+      "science": "reviewed_against_sources",
+      "visual": "reviewed",
+      "comment": "원본 CO 그래프·ΔH1=ΔH3+ΔH2 관계 확인"
+    },
+    {
+      "number": 24,
+      "title": "Part 3 표준 생성 엔탈피",
+      "render": "units/3-02_헤스법칙/drafts/full-v01/output/slide-24.png",
+      "sha256": "7b863233b238350a7e4d13ea81e9f5706b94b6a4f8107ee524eca0ec930a60ac",
+      "science": "reviewed_against_sources",
+      "visual": "reviewed",
+      "comment": "Part3 배경·51%명암 유지"
+    },
+    {
+      "number": 25,
+      "title": "표준 생성 엔탈피",
+      "render": "units/3-02_헤스법칙/drafts/full-v01/output/slide-25.png",
+      "sha256": "4e5aea5c828c655bfb2a409dc22dbee29d66f6c4dd1bba7743b83829bbfbfd74",
+      "science": "reviewed_against_sources",
+      "visual": "reviewed",
+      "comment": "원본 물 생성식 확대·1mol 기준·긴머리여학생"
+    },
+    {
+      "number": 26,
+      "title": "기준 원소 물질의 값은 0",
+      "render": "units/3-02_헤스법칙/drafts/full-v01/output/slide-26.png",
+      "sha256": "0b81448c922da220d76b4a9da15ace9789b33d8237d7133f3cc9083ef8fb3f11",
+      "science": "reviewed_against_sources",
+      "visual": "reviewed",
+      "comment": "표 제목·모든셀가운데·기준원소0의뜻·여학생/바 겹침해소"
+    },
+    {
+      "number": 27,
+      "title": "물과 수증기는 서로 다른 자료",
+      "render": "units/3-02_헤스법칙/drafts/full-v01/output/slide-27.png",
+      "sha256": "d1b448b90d3ef1de9d2327941fdca498d52497d632068b5fbed5c5dba75df303",
+      "science": "reviewed_against_sources",
+      "visual": "reviewed",
+      "comment": "동일상태별원본식·액체/수증기 직접라벨·원본곡선화살표"
+    },
+    {
+      "number": 28,
+      "title": "생성물에서 반응물을 빼는 까닭",
+      "render": "units/3-02_헤스법칙/drafts/full-v01/output/slide-28.png",
+      "sha256": "fb4dfbc76265c90106798181b53604dc7741f60d4dd4c54688e8af3d458deb95",
+      "science": "reviewed_against_sources",
+      "visual": "reviewed",
+      "comment": "원본 세과정·역반응부호·최종합산 확인"
+    },
+    {
+      "number": 29,
+      "title": "계수를 곱해 더한다",
+      "render": "units/3-02_헤스법칙/drafts/full-v01/output/slide-29.png",
+      "sha256": "1d4cf57b607d9d6a3a38d06afae9eb43f3be4d71e2421a475cdf4e45c998e95f",
+      "science": "reviewed_against_sources",
+      "visual": "reviewed",
+      "comment": "관계식 왼쪽 정렬묶음·계수확인 안경남학생·겹침없음"
+    },
+    {
+      "number": 30,
+      "title": "메테인 연소열 구하기",
+      "render": "units/3-02_헤스법칙/drafts/full-v01/output/slide-30.png",
+      "sha256": "e22345996a8700ff17fa4b9a8fb79baa023bd6662b6b62d6d2bd9dddf79dd133",
+      "science": "reviewed_against_sources",
+      "visual": "reviewed",
+      "comment": "원본 메테인식·편집가능표·−890.3kJ 검산"
+    },
+    {
+      "number": 31,
+      "title": "물의 상태 변화 엔탈피",
+      "render": "units/3-02_헤스법칙/drafts/full-v01/output/slide-31.png",
+      "sha256": "63d9267973e8a582e545eab456e1121f10fdbb091ce7485be06842dd9a89acdb",
+      "science": "reviewed_against_sources",
+      "visual": "reviewed",
+      "comment": "원본 상태그래프·25°C기화자료+44.0kJ·100°C와구분"
+    },
+    {
+      "number": 32,
+      "title": "생성 엔탈피 계산의 확인점",
+      "render": "units/3-02_헤스법칙/drafts/full-v01/output/slide-32.png",
+      "sha256": "9e21f0eec7d6765a1e815247d53a1ca7ba424979fd5010d06b875fc822530a59",
+      "science": "reviewed_against_sources",
+      "visual": "reviewed",
+      "comment": "확인표 여백·기준/상태/계수/단위 질문·남학생"
+    },
+    {
+      "number": 33,
+      "title": "Part 4 실험으로 확인하는 헤스 법칙",
+      "render": "units/3-02_헤스법칙/drafts/full-v01/output/slide-33.png",
+      "sha256": "734531c7fd97bbdd88122500abcef283ee7b97f62225c5f84ce9c5af583c2377",
+      "science": "reviewed_against_sources",
+      "visual": "reviewed",
+      "comment": "Part4 배경·명암·로고 유지"
+    },
+    {
+      "number": 34,
+      "title": "같은 처음과 끝을 만드는 두 경로",
+      "render": "units/3-02_헤스법칙/drafts/full-v01/output/slide-34.png",
+      "sha256": "61f128e4dcde8809a50bb6ab04e05a650e1fb03ac747aa2bb06ed2b0103599c6",
+      "science": "reviewed_against_sources",
+      "visual": "reviewed",
+      "comment": "NaOH 경로/반응식 원본·중간물질대조"
+    },
+    {
+      "number": 35,
+      "title": "실험 조건을 맞추자",
+      "render": "units/3-02_헤스법칙/drafts/full-v01/output/slide-35.png",
+      "sha256": "fd63631277bf0db0fcaaf1e6b94774c9532de678e781527f1b247cf7683cc3bf",
+      "science": "reviewed_against_sources",
+      "visual": "reviewed",
+      "comment": "실험I 원본사진·캡션 구분·냉각조건·몰수"
+    },
+    {
+      "number": 36,
+      "title": "용액이 얻은 열에서 반응열로",
+      "render": "units/3-02_헤스법칙/drafts/full-v01/output/slide-36.png",
+      "sha256": "ed5325ce9501ce371675dbfe2cfe83991e5da0023e7fceccaa28c1bc0016252d",
+      "science": "reviewed_against_sources",
+      "visual": "reviewed",
+      "comment": "Q=cmΔt·반응부호·설명여학생·하단바겹침해소"
+    },
+    {
+      "number": 37,
+      "title": "실험 온도와 용액의 질량",
+      "render": "units/3-02_헤스법칙/drafts/full-v01/output/slide-37.png",
+      "sha256": "21e61108baf84ee7bc9176e4fb9946cd9db31f09e393c3b97c2fb72ccdef7da5",
+      "science": "reviewed_against_sources",
+      "visual": "reviewed",
+      "comment": "구체적 제목·208/408/408g·온도상승대조"
+    },
+    {
+      "number": 38,
+      "title": "용해 단계의 반응 엔탈피",
+      "render": "units/3-02_헤스법칙/drafts/full-v01/output/slide-38.png",
+      "sha256": "32ad9b84bfe71f21753b3178bc8aa5080517bbe7cd61a4a309382a80bd307398",
+      "science": "reviewed_against_sources",
+      "visual": "reviewed",
+      "comment": "8.30kJ·0.200mol·−41.50kJ/mol검산"
+    },
+    {
+      "number": 39,
+      "title": "나머지 두 단계와 비교",
+      "render": "units/3-02_헤스법칙/drafts/full-v01/output/slide-39.png",
+      "sha256": "4dcc58b4c21dd2cc3365c46fbdd3d2ce3a4d7d2785f818672a30afd719660bd9",
+      "science": "reviewed_against_sources",
+      "visual": "reviewed",
+      "comment": "완자 중간반올림자료 한세트·표열정렬·−52.25/−94.25"
+    },
+    {
+      "number": 40,
+      "title": "실험값은 얼마나 가까울까?",
+      "render": "units/3-02_헤스법칙/drafts/full-v01/output/slide-40.png",
+      "sha256": "b3a72834beee091cf7cb11bab7208d60501cf357a0cbd2ad9ef750cf2fd033c7",
+      "science": "reviewed_against_sources",
+      "visual": "reviewed",
+      "comment": "실험근사일치·차이0.50kJ/mol·검토여학생"
+    },
+    {
+      "number": 41,
+      "title": "직접 재지 못한 ΔH를 알게 되는 까닭",
+      "render": "units/3-02_헤스법칙/drafts/full-v01/output/slide-41.png",
+      "sha256": "6dc13159784b8d747f4f1ad65f1289339ee066fc6068ff7176825e9280b22f54",
+      "science": "reviewed_against_sources",
+      "visual": "reviewed",
+      "comment": "유용성 요약·처음과끝 조건·질문남학생"
+    },
+    {
+      "number": 42,
+      "title": "경로와 식으로 설명하기",
+      "render": "units/3-02_헤스법칙/drafts/full-v01/output/slide-42.png",
+      "sha256": "e0c5a508ff148fb2ab54269dd7db6067c699a21c7fb716a1bd38e9cfed0ca978",
+      "science": "reviewed_against_sources",
+      "visual": "reviewed",
+      "comment": "CO·상태변화·실험오차 확인과제·설명남학생"
+    }
+  ],
+  "arithmetic": [
+    {
+      "id": "CaO",
+      "actual": -189.3,
+      "expected": -189.3,
+      "passed": true
+    },
+    {
+      "id": "CO",
+      "actual": -110.5,
+      "expected": -110.5,
+      "passed": true
+    },
+    {
+      "id": "SO2",
+      "actual": -197,
+      "expected": -197,
+      "passed": true
+    },
+    {
+      "id": "diamond",
+      "actual": 1.8999999999999773,
+      "expected": 1.9,
+      "passed": true
+    },
+    {
+      "id": "methane",
+      "actual": -890.3000000000001,
+      "expected": -890.3,
+      "passed": true
+    },
+    {
+      "id": "vaporize",
+      "actual": 44.0,
+      "expected": 44,
+      "passed": true
+    },
+    {
+      "id": "mol NaOH",
+      "actual": 0.2,
+      "expected": 0.2,
+      "passed": true
+    },
+    {
+      "id": "dissolve",
+      "actual": -41.5,
+      "expected": -41.5,
+      "passed": true
+    },
+    {
+      "id": "neutralize rounded",
+      "actual": -52.24999999999999,
+      "expected": -52.25,
+      "passed": true
+    },
+    {
+      "id": "direct rounded",
+      "actual": -94.25,
+      "expected": -94.25,
+      "passed": true
+    },
+    {
+      "id": "path difference",
+      "actual": 0.5,
+      "expected": 0.5,
+      "passed": true
+    }
+  ],
+  "text_fit": {
+    "checked": 335,
+    "findings": [],
+    "claim": "font-based horizontal advance estimates only;does not prove glyph or table fit"
+  },
+  "native_structure_and_font": {
+    "findings": 0,
+    "warnings": 0
+  },
+  "scope": "42장 PNG와 원본 출처·계산·서식 검토. 변경 장표 개별 확대 및 전체 축소 대조.",
+  "limitations": [
+    "PowerPoint 앱에서 직접 재생한 검증 아님",
+    "Figma 대조·전체 사용자 대표 디자인 승인 미완료",
+    "하네스 G01·G02·G07 통과. G03~G06·G08·G09는 승인 데이터 미기록으로 통과하지 않음"
+  ],
+  "user_design_approved": false,
+  "open_content_or_layout_findings": [],
+  "image_aspect": {
+    "checked_pictures": 99,
+    "tolerance": 0.015,
+    "findings": []
+  }
+}

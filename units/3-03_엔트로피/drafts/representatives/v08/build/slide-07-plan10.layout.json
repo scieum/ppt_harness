@@ -1,0 +1,16 @@
+{"schema":"openai.presentation.layout/v5","unit":"px","slide":{"id":"sl/c7uzvp","index":6,"layout":{"id":"ly/el8r25g7","name":"Blank"},"backgroundColor":"rgba(0,0,0,1)","position":{"left":0,"top":0,"width":1920,"height":1080}},
+"elements":[
+{"id":"im/y94r2dor","kind":"image","position":{"left":1778.67,"top":40,"width":108,"height":77.33},"fit":"contain","alt":"사이음 공식 로고"},
+{"id":"sh/k7qtsvmt","kind":"textbox","name":"copyright","position":{"left":1440,"top":1034,"width":440,"height":30},"text":"© 2026. @sci_eum. All rights reserved.","style":{"fontSize":21,"typeface":"Pretendard","color":"#FFFFFF","alignment":"right"},"geometry":"rect","lineWidth":0},
+{"id":"sh/l8zal03e","kind":"textbox","name":"text","position":{"left":72,"top":76,"width":1530,"height":54},"text":"Part 2 엔트로피 변화","style":{"fontSize":38,"typeface":"Pretendard","color":"#898989","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/a1orml4r","kind":"textbox","name":"text","position":{"left":72,"top":134,"width":70,"height":64},"text":"01","style":{"fontSize":48.8,"typeface":"Pretendard","color":"#9FFF68","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/b2xsfqlw","kind":"textbox","name":"text","position":{"left":146,"top":134,"width":1550,"height":64},"text":"상태 변화","style":{"fontSize":48.8,"typeface":"Pretendard","color":"#FFFFFF","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/w3q9ovmh","kind":"textbox","name":"핵심 문장","position":{"left":100,"top":245,"width":1720,"height":112},"text":"상태 변화의 방향을 읽어 보자","style":{"fontSize":76.4,"typeface":"Pretendard","color":"#FFFFFF","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"im/c7290n6l","kind":"image","position":{"left":460,"top":370,"width":1000,"height":680},"fit":"contain","alt":"레퍼런스 원본 칠판 에셋"},
+{"id":"sh/mdoril4f","kind":"textbox","name":"text","position":{"left":540,"top":443,"width":840,"height":60},"text":"고체에서 액체로, 액체에서 기체로","style":{"fontSize":39,"typeface":"Pretendard","color":"#245419","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"im/2hk7utoj","kind":"image","position":{"left":530,"top":554,"width":860,"height":181},"fit":"contain","alt":"상태와 엔트로피 부호 원본 도식"},
+{"id":"sh/zq14faxc","kind":"textbox","name":"text","position":{"left":560,"top":804,"width":360,"height":58},"text":"융해 · 기화","style":{"fontSize":37,"typeface":"Pretendard","color":"#245419","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/epsnm5gr","kind":"textbox","name":"text","position":{"left":1000,"top":804,"width":360,"height":58},"text":"응고 · 액화","style":{"fontSize":37,"typeface":"Pretendard","color":"#245419","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/1s3mhkfi","kind":"textbox","name":"text","position":{"left":560,"top":872,"width":360,"height":58},"text":"엔트로피 증가","style":{"fontSize":33,"typeface":"Pretendard","color":"#202020","alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/0ra5ofyx","kind":"textbox","name":"text","position":{"left":1000,"top":872,"width":360,"height":58},"text":"엔트로피 감소","style":{"fontSize":33,"typeface":"Pretendard","color":"#202020","alignment":"center"},"geometry":"rect","lineWidth":0}
+]}

@@ -1,0 +1,16 @@
+{"schema":"openai.presentation.layout/v5","unit":"px","slide":{"id":"sl/n296co","index":32,"layout":{"id":"ly/10v2d8z6","name":"Blank"},"backgroundColor":"rgba(0,0,0,1)","position":{"left":0,"top":0,"width":1920,"height":1080}},
+"elements":[
+{"id":"sh/f2hcve1k","kind":"shape","name":"레퍼런스 내용 영역","position":{"left":220,"top":800,"width":1480,"height":145},"geometry":"roundRect","fillColor":"#222222","lineWidth":0},
+{"id":"sh/g3qd4j25","kind":"shape","name":"레퍼런스 내용 영역","position":{"left":220,"top":545,"width":1480,"height":145},"geometry":"roundRect","fillColor":"#222222","lineWidth":0},
+{"id":"im/0vyx0bat","kind":"image","position":{"left":1778.67,"top":40,"width":108,"height":77.33},"fit":"contain","alt":"사이음 화이트 원본 로고"},
+{"id":"sh/yp03i5sv","kind":"textbox","name":"copyright","position":{"left":1440,"top":1038,"width":440,"height":28},"text":"© 2026. @sci_eum. All rights reserved.","style":{"fontSize":17,"typeface":"Pretendard","color":"#FFFFFF","alignment":"right"},"geometry":"rect","lineWidth":0},
+{"id":"sh/zqt4bq9g","kind":"textbox","name":"text","position":{"left":90,"top":86,"width":1400,"height":44},"text":"Part 3 표준 생성 엔탈피","style":{"fontSize":28,"typeface":"Pretendard","color":"#898989","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/cnilgva5","kind":"textbox","name":"text","position":{"left":90,"top":134,"width":70,"height":64},"text":"01","style":{"fontSize":44,"typeface":"Pretendard","color":"#9FFF68","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/xorm90rq","kind":"textbox","name":"text","position":{"left":158,"top":134,"width":1550,"height":64},"text":"표준 생성 엔탈피","style":{"fontSize":44,"typeface":"Pretendard","color":"#FFFFFF","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/al03elsz","kind":"textbox","name":"핵심 문장","position":{"left":180,"top":294,"width":1560,"height":96},"text":"물과 수증기는 서로 다른 자료","style":{"fontSize":64,"typeface":"Pretendard","color":"#FFFFFF","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"im/qpwfu1sr","kind":"image","position":{"left":443.46,"top":565,"width":1033.08,"height":110},"fit":"contain","alt":"반응식 이미지 t85-water-liquid — assets/equations-v05/provenance.json"},
+{"id":"im/xory10rm","kind":"image","position":{"left":443.46,"top":820,"width":1033.08,"height":110},"fit":"contain","alt":"반응식 이미지 t85-water-gas — assets/equations-v05/provenance.json"},
+{"id":"sh/e18v29kz","kind":"textbox","name":"text","position":{"left":250,"top":480,"width":210,"height":60},"text":"액체 물","style":{"fontSize":30,"typeface":"Pretendard","color":"#FFFFFF","bold":true,"alignment":"center"},"geometry":"roundRect","fillColor":"#365C25","lineWidth":0},
+{"id":"sh/t0fut4ju","kind":"textbox","name":"text","position":{"left":250,"top":735,"width":210,"height":60},"text":"수증기","style":{"fontSize":30,"typeface":"Pretendard","color":"#FFFFFF","bold":true,"alignment":"center"},"geometry":"roundRect","fillColor":"#365C25","lineWidth":0},
+{"id":"sh/sz6d0j29","kind":"textbox","name":"text","position":{"left":220,"top":395,"width":1480,"height":64},"text":"물질의 상태가 다르면 생성 엔탈피도 다르다.","style":{"fontSize":32,"typeface":"Pretendard","color":"#BBBBBB","alignment":"center"},"geometry":"rect","lineWidth":0}
+]}

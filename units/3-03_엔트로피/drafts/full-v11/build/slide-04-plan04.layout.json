@@ -1,0 +1,13 @@
+{"schema":"openai.presentation.layout/v5","unit":"px","slide":{"id":"sl/3kx0ku","index":0,"layout":{"id":"ly/cr6103yd","name":"Blank"},"backgroundColor":"rgba(0,0,0,1)","position":{"left":0,"top":0,"width":1920,"height":1080}},
+"elements":[
+{"id":"im/xc7ah8fe","kind":"image","position":{"left":1778.67,"top":40,"width":108,"height":77.33},"fit":"contain","alt":"사이음 공식 로고"},
+{"id":"sh/vmpsbah4","kind":"textbox","name":"copyright","position":{"left":1440,"top":1034,"width":440,"height":30},"text":"© 2026. @sci_eum. All rights reserved.","style":{"fontSize":21,"typeface":"Pretendard","color":"#FFFFFF","alignment":"right"},"geometry":"rect","lineWidth":0},
+{"id":"sh/ulgri50j","kind":"textbox","name":"text","position":{"left":326,"top":210,"width":1268,"height":126},"text":"학습 목표","style":{"fontSize":100,"typeface":"Pretendard","color":"#FFFFFF","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/5srahkz6","kind":"shape","name":"학습 목표 한 상자","position":{"left":154,"top":424,"width":1611,"height":451},"geometry":"roundRect","fillColor":"#484847","lineWidth":0},
+{"id":"sh/4ri9ofil","kind":"textbox","name":"text","position":{"left":245,"top":480,"width":100,"height":82},"text":"01","style":{"fontSize":46,"typeface":"Pretendard","color":"#9FFF68","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/jq9sfah0","kind":"textbox","name":"text","position":{"left":380,"top":480,"width":1280,"height":82},"text":"엔트로피의 의미를 물질의 상태와 연결해 설명한다.","style":{"fontSize":44,"typeface":"Pretendard","color":"#FFFFFF","alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/ipgrm50v","kind":"textbox","name":"text","position":{"left":245,"top":600,"width":100,"height":82},"text":"02","style":{"fontSize":46,"typeface":"Pretendard","color":"#9FFF68","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/lwna5gz2","kind":"textbox","name":"text","position":{"left":380,"top":600,"width":1280,"height":82},"text":"상태 변화와 기체 혼합에 따른 엔트로피 변화를 비교한다.","style":{"fontSize":44,"typeface":"Pretendard","color":"#FFFFFF","alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/kve9cbih","kind":"textbox","name":"text","position":{"left":245,"top":720,"width":100,"height":82},"text":"03","style":{"fontSize":46,"typeface":"Pretendard","color":"#9FFF68","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/epcj650n","kind":"textbox","name":"text","position":{"left":380,"top":720,"width":1280,"height":82},"text":"기체 분자 수를 근거로 반응의 엔트로피 변화를 판단한다.","style":{"fontSize":44,"typeface":"Pretendard","color":"#FFFFFF","alignment":"left"},"geometry":"rect","lineWidth":0}
+]}

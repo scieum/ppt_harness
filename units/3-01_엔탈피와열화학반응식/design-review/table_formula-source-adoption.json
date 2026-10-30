@@ -1,0 +1,400 @@
+{
+  "scope": "body-only multi-reference adaptation explicitly requested by user; common cover/PART/objectives/contents remain exact original geometry",
+  "original_science_source": "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/inbox/ppt/[물에맛.Zip] 2-05. 삼투 현상.pptx",
+  "source_sha256": "79bd1ed28dc3e562264d378cb3799531e18f2d1c90f2b1b1b125d55ec0796741",
+  "source_slide": 19,
+  "borrowed_layout_sources": [
+    {
+      "source": "[허들링 클럽] 0802 AI 생성형 이미지 만들기.pdf",
+      "page": 60,
+      "element": "User correction: no illustration column; restore original full-width numbered calculation strips without scientific alteration",
+      "render": "/private/tmp/scieum-externalrefs/ref0-page060.jpg"
+    },
+    {
+      "source": "물에맛.Zip 삼투 현상",
+      "page": 19,
+      "element": "numbered gray calculation steps with units and final result",
+      "render": "/private/tmp/scieum-reference-v3/references/table_formula-raw.png"
+    }
+  ],
+  "adopted_elements": [
+    {
+      "role": "sci_eum_logo",
+      "kind": "original-picture",
+      "bbox": [
+        0.9361111111111111,
+        0.037037037037037035,
+        0.05625,
+        0.07160493827160494
+      ],
+      "fill": "original-image",
+      "font_family": "embedded-original-raster",
+      "font_size": null,
+      "font_weight": null,
+      "alignment": "embedded-original",
+      "character_asset_id": "9d044366936fcad9204ba43766e76b0b6408fb314be39dc252ce631a611fe9db",
+      "asset_sha256": "9d044366936fcad9204ba43766e76b0b6408fb314be39dc252ce631a611fe9db",
+      "origin": {
+        "original_media": "ppt/media/image6.png",
+        "source_slide": 19
+      }
+    },
+    {
+      "role": "copyright",
+      "kind": "original-picture",
+      "bbox": [
+        0.7972222222222223,
+        0.9543209876543208,
+        0.18611111111111114,
+        0.03580246913580247
+      ],
+      "fill": "original-image",
+      "font_family": "embedded-original-raster",
+      "font_size": null,
+      "font_weight": null,
+      "alignment": "embedded-original",
+      "character_asset_id": "28733bfe4606cafd9d74f7b5053a1648eae975ea1871d4abdf5e23a26533f268",
+      "asset_sha256": "28733bfe4606cafd9d74f7b5053a1648eae975ea1871d4abdf5e23a26533f268",
+      "origin": {
+        "original_media": "ppt/media/image11.png",
+        "source_slide": 19
+      }
+    },
+    {
+      "role": "part_heading",
+      "kind": "original-picture",
+      "bbox": [
+        0.011111111111111112,
+        0.0654320987654321,
+        0.15138888888888888,
+        0.05185185185185185
+      ],
+      "fill": "original-image",
+      "font_family": "embedded-original-raster",
+      "font_size": null,
+      "font_weight": null,
+      "alignment": "embedded-original",
+      "character_asset_id": "d906e2202f9687246e74f5abd565f7376201189bd9249b7913478fe422faf357",
+      "asset_sha256": "d906e2202f9687246e74f5abd565f7376201189bd9249b7913478fe422faf357",
+      "origin": {
+        "original_media": "ppt/media/image143.png",
+        "source_slide": 19
+      }
+    },
+    {
+      "role": "topic_heading",
+      "kind": "original-picture",
+      "bbox": [
+        0.0375,
+        0.11604938271604938,
+        0.17708333333333334,
+        0.0654320987654321
+      ],
+      "fill": "original-image",
+      "font_family": "embedded-original-raster",
+      "font_size": null,
+      "font_weight": null,
+      "alignment": "embedded-original",
+      "character_asset_id": "ee3c0be567eadbeba5864146e0a82798b7686be797b586b64d2de8051065d3ea",
+      "asset_sha256": "ee3c0be567eadbeba5864146e0a82798b7686be797b586b64d2de8051065d3ea",
+      "origin": {
+        "original_media": "ppt/media/image167.png",
+        "source_slide": 19
+      }
+    },
+    {
+      "role": "title",
+      "kind": "original-picture",
+      "bbox": [
+        0.14652777777777778,
+        0.2506172839506173,
+        0.7076388888888889,
+        0.10246913580246914
+      ],
+      "fill": "original-image",
+      "font_family": "embedded-original-raster",
+      "font_size": null,
+      "font_weight": null,
+      "alignment": "embedded-original",
+      "character_asset_id": "b42f1daa5fddc285fd73989a9435127cc1edcb4a75867fe66fccf70619a42ddb",
+      "asset_sha256": "b42f1daa5fddc285fd73989a9435127cc1edcb4a75867fe66fccf70619a42ddb",
+      "origin": {
+        "original_media": "ppt/media/image181.png",
+        "source_slide": 19
+      }
+    },
+    {
+      "role": "question",
+      "kind": "original-picture",
+      "bbox": [
+        0.10277777777777777,
+        0.3617283950617284,
+        0.7944444444444444,
+        0.04938271604938271
+      ],
+      "fill": "original-image",
+      "font_family": "embedded-original-raster",
+      "font_size": null,
+      "font_weight": null,
+      "alignment": "embedded-original",
+      "character_asset_id": "ce91d7e37c36a8cd4dba32de0f8d6900f9463aab2e7fe8994338281eef8801ae",
+      "asset_sha256": "ce91d7e37c36a8cd4dba32de0f8d6900f9463aab2e7fe8994338281eef8801ae",
+      "origin": {
+        "original_media": "ppt/media/image182.png",
+        "source_slide": 19
+      }
+    },
+    {
+      "role": "table_or_formula",
+      "kind": "original-picture",
+      "bbox": [
+        0.1,
+        0.44814814814814813,
+        0.8006944444444445,
+        0.12469135802469135
+      ],
+      "fill": "original-image",
+      "font_family": "embedded-original-raster",
+      "font_size": null,
+      "font_weight": null,
+      "alignment": "embedded-original",
+      "character_asset_id": "c53b40c081a3969631d068940540b3235cdd142fe7f3b6abd68668cf892cd11d",
+      "asset_sha256": "c53b40c081a3969631d068940540b3235cdd142fe7f3b6abd68668cf892cd11d",
+      "origin": {
+        "original_media": "ppt/media/image183.png",
+        "source_slide": 19
+      }
+    },
+    {
+      "role": "calc_object_5",
+      "kind": "original-picture",
+      "bbox": [
+        0.17222222222222222,
+        0.4802469135802469,
+        0.7069444444444445,
+        0.061728395061728385
+      ],
+      "fill": "original-image",
+      "font_family": "embedded-original-raster",
+      "font_size": null,
+      "font_weight": null,
+      "alignment": "embedded-original",
+      "character_asset_id": "87992d1aedd096d9fb4a4fdef3dffa641782c181225fa695d0d1f9a6ffd50053",
+      "asset_sha256": "87992d1aedd096d9fb4a4fdef3dffa641782c181225fa695d0d1f9a6ffd50053",
+      "origin": {
+        "original_media": "ppt/media/image185.png",
+        "source_slide": 19
+      }
+    },
+    {
+      "role": "calc_object_6",
+      "kind": "original-picture",
+      "bbox": [
+        0.12986111111111112,
+        0.4790123456790124,
+        0.034722222222222224,
+        0.061728395061728385
+      ],
+      "fill": "original-image",
+      "font_family": "embedded-original-raster",
+      "font_size": null,
+      "font_weight": null,
+      "alignment": "embedded-original",
+      "character_asset_id": "d458ae3f2ba4f518c155bd09af571e728a16536ac17d3950207d04c6b22a21c9",
+      "asset_sha256": "d458ae3f2ba4f518c155bd09af571e728a16536ac17d3950207d04c6b22a21c9",
+      "origin": {
+        "original_media": "ppt/media/image186.png",
+        "source_slide": 19
+      }
+    },
+    {
+      "role": "calc_object_7",
+      "kind": "original-picture",
+      "bbox": [
+        0.1388888888888889,
+        0.4802469135802469,
+        0.016666666666666666,
+        0.05925925925925926
+      ],
+      "fill": "original-image",
+      "font_family": "embedded-original-raster",
+      "font_size": null,
+      "font_weight": null,
+      "alignment": "embedded-original",
+      "character_asset_id": "ae8e75bb3a80b79447eea65ad66e0a96ed6185b803b73e909a7490388578b329",
+      "asset_sha256": "ae8e75bb3a80b79447eea65ad66e0a96ed6185b803b73e909a7490388578b329",
+      "origin": {
+        "original_media": "ppt/media/image110.png",
+        "source_slide": 19
+      }
+    },
+    {
+      "role": "calc_object_8",
+      "kind": "original-picture",
+      "bbox": [
+        0.1,
+        0.5987654320987654,
+        0.8006944444444445,
+        0.12469135802469135
+      ],
+      "fill": "original-image",
+      "font_family": "embedded-original-raster",
+      "font_size": null,
+      "font_weight": null,
+      "alignment": "embedded-original",
+      "character_asset_id": "a1be310f3546fd787570e50bef1644ad29d3bf02f1bacb2c666c590692d7bbb2",
+      "asset_sha256": "a1be310f3546fd787570e50bef1644ad29d3bf02f1bacb2c666c590692d7bbb2",
+      "origin": {
+        "original_media": "ppt/media/image187.png",
+        "source_slide": 19
+      }
+    },
+    {
+      "role": "calc_object_9",
+      "kind": "original-picture",
+      "bbox": [
+        0.17152777777777778,
+        0.6296296296296297,
+        0.7069444444444445,
+        0.061728395061728385
+      ],
+      "fill": "original-image",
+      "font_family": "embedded-original-raster",
+      "font_size": null,
+      "font_weight": null,
+      "alignment": "embedded-original",
+      "character_asset_id": "c0488865e0c564548cb4920e4ed83c148a5290b0fcc60a1022af89cc25a77fb9",
+      "asset_sha256": "c0488865e0c564548cb4920e4ed83c148a5290b0fcc60a1022af89cc25a77fb9",
+      "origin": {
+        "original_media": "ppt/media/image189.png",
+        "source_slide": 19
+      }
+    },
+    {
+      "role": "calc_object_10",
+      "kind": "original-picture",
+      "bbox": [
+        0.12916666666666668,
+        0.6296296296296297,
+        0.034722222222222224,
+        0.061728395061728385
+      ],
+      "fill": "original-image",
+      "font_family": "embedded-original-raster",
+      "font_size": null,
+      "font_weight": null,
+      "alignment": "embedded-original",
+      "character_asset_id": "c75e165ece0d248edbed45fa9e464ad62b6f68ea638961014cbc92e9e81709dd",
+      "asset_sha256": "c75e165ece0d248edbed45fa9e464ad62b6f68ea638961014cbc92e9e81709dd",
+      "origin": {
+        "original_media": "ppt/media/image173.png",
+        "source_slide": 19
+      }
+    },
+    {
+      "role": "calc_object_11",
+      "kind": "original-picture",
+      "bbox": [
+        0.13819444444444445,
+        0.6308641975308642,
+        0.016666666666666666,
+        0.05925925925925926
+      ],
+      "fill": "original-image",
+      "font_family": "embedded-original-raster",
+      "font_size": null,
+      "font_weight": null,
+      "alignment": "embedded-original",
+      "character_asset_id": "85d7fada6d66f0943f468f9140466a30b692bcdd14fd67f7f8879a1c11b33492",
+      "asset_sha256": "85d7fada6d66f0943f468f9140466a30b692bcdd14fd67f7f8879a1c11b33492",
+      "origin": {
+        "original_media": "ppt/media/image113.png",
+        "source_slide": 19
+      }
+    },
+    {
+      "role": "calc_object_12",
+      "kind": "original-picture",
+      "bbox": [
+        0.1,
+        0.7481481481481481,
+        0.8006944444444445,
+        0.12469135802469135
+      ],
+      "fill": "original-image",
+      "font_family": "embedded-original-raster",
+      "font_size": null,
+      "font_weight": null,
+      "alignment": "embedded-original",
+      "character_asset_id": "a5b4b1057221dc108ab6d92ee6703bd8eb4dfd1d32cd98b0bbdea4af8e196350",
+      "asset_sha256": "a5b4b1057221dc108ab6d92ee6703bd8eb4dfd1d32cd98b0bbdea4af8e196350",
+      "origin": {
+        "original_media": "ppt/media/image190.png",
+        "source_slide": 19
+      }
+    },
+    {
+      "role": "calc_object_13",
+      "kind": "original-picture",
+      "bbox": [
+        0.17152777777777778,
+        0.7802469135802469,
+        0.7069444444444445,
+        0.061728395061728385
+      ],
+      "fill": "original-image",
+      "font_family": "embedded-original-raster",
+      "font_size": null,
+      "font_weight": null,
+      "alignment": "embedded-original",
+      "character_asset_id": "41e345a2299df2f54bc9f0998a1252bc8b73d8b5722dacbe85bf1dfec360231d",
+      "asset_sha256": "41e345a2299df2f54bc9f0998a1252bc8b73d8b5722dacbe85bf1dfec360231d",
+      "origin": {
+        "original_media": "ppt/media/image191.png",
+        "source_slide": 19
+      }
+    },
+    {
+      "role": "calc_object_14",
+      "kind": "original-picture",
+      "bbox": [
+        0.12916666666666668,
+        0.7802469135802469,
+        0.034722222222222224,
+        0.061728395061728385
+      ],
+      "fill": "original-image",
+      "font_family": "embedded-original-raster",
+      "font_size": null,
+      "font_weight": null,
+      "alignment": "embedded-original",
+      "character_asset_id": "48568c9c029b1095280d98634be2ca0d0f9da85619de9dd392b6d97448181155",
+      "asset_sha256": "48568c9c029b1095280d98634be2ca0d0f9da85619de9dd392b6d97448181155",
+      "origin": {
+        "original_media": "ppt/media/image192.png",
+        "source_slide": 19
+      }
+    },
+    {
+      "role": "calc_object_15",
+      "kind": "original-picture",
+      "bbox": [
+        0.13819444444444445,
+        0.7814814814814814,
+        0.016666666666666666,
+        0.05925925925925926
+      ],
+      "fill": "original-image",
+      "font_family": "embedded-original-raster",
+      "font_size": null,
+      "font_weight": null,
+      "alignment": "embedded-original",
+      "character_asset_id": "05c7d5addf1326da92a5d4ccc25ac893e2c9724a8ef3057dbea6c5c92be2f803",
+      "asset_sha256": "05c7d5addf1326da92a5d4ccc25ac893e2c9724a8ef3057dbea6c5c92be2f803",
+      "origin": {
+        "original_media": "ppt/media/image116.png",
+        "source_slide": 19
+      }
+    }
+  ]
+}

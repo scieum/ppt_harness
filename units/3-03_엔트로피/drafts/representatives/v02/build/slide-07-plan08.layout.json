@@ -1,0 +1,18 @@
+{"schema":"openai.presentation.layout/v5","unit":"px","slide":{"id":"sl/jns2nn","index":6,"layout":{"id":"ly/cra94v2h","name":"Blank"},"backgroundColor":"rgba(255,255,255,1)","position":{"left":0,"top":0,"width":1920,"height":1080}},
+"elements":[
+{"id":"im/0vu54zmx","kind":"image","position":{"left":1778.67,"top":40,"width":108,"height":77.33},"fit":"contain","alt":"사이음 공식 로고"},
+{"id":"sh/2lg76pcz","kind":"textbox","name":"copyright","position":{"left":1440,"top":1034,"width":440,"height":30},"text":"© 2026. @sci_eum. All rights reserved.","style":{"fontSize":21,"typeface":"Pretendard","color":"#000000","alignment":"right"},"geometry":"rect","lineWidth":0},
+{"id":"sh/nmp8zut4","kind":"textbox","name":"text","position":{"left":72,"top":76,"width":1530,"height":54},"text":"Part 1 엔트로피","style":{"fontSize":38,"typeface":"Pretendard","color":"#898989","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/0jep4fut","kind":"textbox","name":"text","position":{"left":72,"top":134,"width":70,"height":64},"text":"02","style":{"fontSize":48.8,"typeface":"Pretendard","color":"#57962F","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/1k7qxkbe","kind":"textbox","name":"text","position":{"left":146,"top":134,"width":1550,"height":64},"text":"엔트로피 변화","style":{"fontSize":48.8,"typeface":"Pretendard","color":"#000000","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/ehw725cn","kind":"textbox","name":"핵심 문장","position":{"left":100,"top":270,"width":1720,"height":112},"text":"엔트로피 변화","style":{"fontSize":76.4,"typeface":"Pretendard","color":"#000000","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/fi5ovat8","kind":"textbox","name":"관계식","position":{"left":340,"top":454,"width":1240,"height":146},"text":"ΔS = S최종 − S초기","style":{"fontSize":100,"typeface":"Pretendard","color":"#000000","italic":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/kfipgjax","kind":"shape","name":"최종 항 밑줄","position":{"left":806,"top":611,"width":240,"height":7},"geometry":"rect","fillColor":"#57962F","lineWidth":0},
+{"id":"sh/lgrq9obi","kind":"shape","name":"초기 항 밑줄","position":{"left":1200,"top":611,"width":235,"height":7},"geometry":"rect","fillColor":"#898989","lineWidth":0},
+{"id":"sh/58butg3i","kind":"textbox","name":"text","position":{"left":806,"top":635,"width":240,"height":65},"text":"변화 후","style":{"fontSize":42,"typeface":"Pretendard","color":"#57962F","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/k72tkbmd","kind":"textbox","name":"text","position":{"left":1200,"top":635,"width":235,"height":65},"text":"변화 전","style":{"fontSize":42,"typeface":"Pretendard","color":"#898989","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/j6tsr6ls","kind":"shape","name":"증가 해석","position":{"left":192,"top":776,"width":745,"height":151},"geometry":"roundRect","fillColor":"#F5F5F5","lineWidth":0},
+{"id":"sh/i5kbi147","kind":"shape","name":"감소 해석","position":{"left":984,"top":776,"width":745,"height":151},"geometry":"roundRect","fillColor":"#F5F5F5","lineWidth":0},
+{"id":"sh/x4bapw3m","kind":"textbox","name":"text","position":{"left":224,"top":803,"width":680,"height":90},"text":"엔트로피 증가: ΔS > 0","style":{"fontSize":45,"typeface":"Pretendard","color":"#000000","alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/w3itgrm1","kind":"textbox","name":"text","position":{"left":1016,"top":803,"width":680,"height":90},"text":"엔트로피 감소: ΔS < 0","style":{"fontSize":45,"typeface":"Pretendard","color":"#000000","alignment":"center"},"geometry":"rect","lineWidth":0}
+]}

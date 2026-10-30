@@ -1,0 +1,68 @@
+[
+  {
+    "id": "CaO",
+    "actual": -189.3,
+    "expected": -189.3,
+    "passed": true
+  },
+  {
+    "id": "CO",
+    "actual": -110.5,
+    "expected": -110.5,
+    "passed": true
+  },
+  {
+    "id": "SO2",
+    "actual": -197,
+    "expected": -197,
+    "passed": true
+  },
+  {
+    "id": "diamond",
+    "actual": 1.8999999999999773,
+    "expected": 1.9,
+    "passed": true
+  },
+  {
+    "id": "methane",
+    "actual": -890.3000000000001,
+    "expected": -890.3,
+    "passed": true
+  },
+  {
+    "id": "vaporize",
+    "actual": 44.0,
+    "expected": 44,
+    "passed": true
+  },
+  {
+    "id": "mol NaOH",
+    "actual": 0.2,
+    "expected": 0.2,
+    "passed": true
+  },
+  {
+    "id": "dissolve",
+    "actual": -41.5,
+    "expected": -41.5,
+    "passed": true
+  },
+  {
+    "id": "neutralize rounded",
+    "actual": -52.24999999999999,
+    "expected": -52.25,
+    "passed": true
+  },
+  {
+    "id": "direct rounded",
+    "actual": -94.25,
+    "expected": -94.25,
+    "passed": true
+  },
+  {
+    "id": "path difference",
+    "actual": 0.5,
+    "expected": 0.5,
+    "passed": true
+  }
+]

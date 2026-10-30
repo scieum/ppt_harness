@@ -1,0 +1,326 @@
+{
+  "artifact_sha256": "a594fa0b148c2e62743b391cc6d73d75de1194c71f638d783c097dad97d09d19",
+  "render_sha256": "3cdad15d6c9534dafaba80dee192f5f1346471aa284b1014b96b3f7efeb1f60f",
+  "exporter": "artifact-tool layout/v5 normalized actual named objects; grouped roles retain raw member geometry",
+  "canvas": [
+    1920,
+    1080
+  ],
+  "objects": [
+    {
+      "role": "dimmed_classroom_scene",
+      "kind": "image",
+      "bbox": [
+        0,
+        0,
+        1920,
+        1080
+      ],
+      "fill": [
+        "none"
+      ],
+      "font_family": [
+        null
+      ],
+      "font_size": [
+        null
+      ],
+      "font_weight": [
+        400
+      ],
+      "alignment": [
+        null
+      ],
+      "character_asset_id": null,
+      "members": [
+        {
+          "id": "im/j2hkvi54",
+          "kind": "image",
+          "position": {
+            "left": 0,
+            "top": 0,
+            "width": 1920,
+            "height": 1080
+          },
+          "fit": "contain",
+          "alt": "dimmed_classroom_scene"
+        }
+      ]
+    },
+    {
+      "role": "reference_green_fade",
+      "kind": "shape",
+      "bbox": [
+        0,
+        0,
+        1920,
+        1080
+      ],
+      "fill": [
+        "none"
+      ],
+      "font_family": [
+        null
+      ],
+      "font_size": [
+        null
+      ],
+      "font_weight": [
+        400
+      ],
+      "alignment": [
+        null
+      ],
+      "character_asset_id": null,
+      "members": [
+        {
+          "id": "sh/x0zqpgfa",
+          "kind": "shape",
+          "name": "reference_green_fade",
+          "position": {
+            "left": 0,
+            "top": 0,
+            "width": 1920,
+            "height": 1080
+          },
+          "geometry": "rect",
+          "lineWidth": 0
+        }
+      ]
+    },
+    {
+      "role": "sci_eum_logo",
+      "kind": "image",
+      "bbox": [
+        1776,
+        34.67,
+        113.32999999999993,
+        70.67
+      ],
+      "fill": [
+        "none"
+      ],
+      "font_family": [
+        null
+      ],
+      "font_size": [
+        null
+      ],
+      "font_weight": [
+        400
+      ],
+      "alignment": [
+        null
+      ],
+      "character_asset_id": null,
+      "members": [
+        {
+          "id": "im/54z2x8na",
+          "kind": "image",
+          "position": {
+            "left": 1776,
+            "top": 34.67,
+            "width": 113.33,
+            "height": 70.67
+          },
+          "fit": "contain",
+          "alt": "sci_eum_logo"
+        }
+      ]
+    },
+    {
+      "role": "copyright",
+      "kind": "textbox",
+      "bbox": [
+        1535,
+        1035.73,
+        342,
+        30.0
+      ],
+      "fill": [
+        "none"
+      ],
+      "font_family": [
+        "Pretendard"
+      ],
+      "font_size": [
+        17
+      ],
+      "font_weight": [
+        400
+      ],
+      "alignment": [
+        "right"
+      ],
+      "character_asset_id": null,
+      "members": [
+        {
+          "id": "sh/j2h8rqxg",
+          "kind": "textbox",
+          "name": "copyright",
+          "position": {
+            "left": 1535,
+            "top": 1035.73,
+            "width": 342,
+            "height": 30
+          },
+          "text": "© 2026. @sci_eum. All rights reserved.",
+          "style": {
+            "fontSize": 17,
+            "typeface": "Pretendard",
+            "color": "#FFFFFF",
+            "alignment": "right"
+          },
+          "geometry": "rect",
+          "lineWidth": 0
+        }
+      ]
+    },
+    {
+      "role": "part_label",
+      "kind": "textbox",
+      "bbox": [
+        118.7,
+        316.9,
+        330.0,
+        99.0
+      ],
+      "fill": [
+        "none"
+      ],
+      "font_family": [
+        "Pretendard"
+      ],
+      "font_size": [
+        68
+      ],
+      "font_weight": [
+        700
+      ],
+      "alignment": [
+        "left"
+      ],
+      "character_asset_id": null,
+      "members": [
+        {
+          "id": "sh/i18rilwv",
+          "kind": "textbox",
+          "name": "part_label",
+          "position": {
+            "left": 118.7,
+            "top": 316.9,
+            "width": 330,
+            "height": 99
+          },
+          "text": "PART 1",
+          "style": {
+            "fontSize": 68,
+            "typeface": "Pretendard",
+            "color": "#9FFF68",
+            "bold": true,
+            "alignment": "left"
+          },
+          "geometry": "rect",
+          "lineWidth": 0
+        }
+      ]
+    },
+    {
+      "role": "title",
+      "kind": "textbox",
+      "bbox": [
+        118.7,
+        419.95,
+        1400.0,
+        157.3
+      ],
+      "fill": [
+        "none"
+      ],
+      "font_family": [
+        "Pretendard"
+      ],
+      "font_size": [
+        94
+      ],
+      "font_weight": [
+        700
+      ],
+      "alignment": [
+        "left"
+      ],
+      "character_asset_id": null,
+      "members": [
+        {
+          "id": "sh/54zat0fm",
+          "kind": "textbox",
+          "name": "title",
+          "position": {
+            "left": 118.7,
+            "top": 419.95,
+            "width": 1400,
+            "height": 157.3
+          },
+          "text": "엔탈피와 열화학 반응식",
+          "style": {
+            "fontSize": 94,
+            "typeface": "Pretendard",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "geometry": "rect",
+          "lineWidth": 0
+        }
+      ]
+    },
+    {
+      "role": "question",
+      "kind": "textbox",
+      "bbox": [
+        118.7,
+        577.15,
+        1400.0,
+        62.0
+      ],
+      "fill": [
+        "none"
+      ],
+      "font_family": [
+        "Pretendard"
+      ],
+      "font_size": [
+        38
+      ],
+      "font_weight": [
+        400
+      ],
+      "alignment": [
+        "left"
+      ],
+      "character_asset_id": null,
+      "members": [
+        {
+          "id": "sh/k3q9kve1",
+          "kind": "textbox",
+          "name": "theory_curiosity",
+          "position": {
+            "left": 118.7,
+            "top": 577.15,
+            "width": 1400,
+            "height": 62
+          },
+          "text": "같은 반응도 물질의 양이나 상태가 달라지면 출입하는 열이 달라질까?",
+          "style": {
+            "fontSize": 38,
+            "typeface": "Pretendard",
+            "color": "#FFFFFF",
+            "alignment": "left"
+          },
+          "geometry": "rect",
+          "lineWidth": 0
+        }
+      ]
+    }
+  ]
+}

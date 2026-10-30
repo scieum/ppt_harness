@@ -1,0 +1,910 @@
+{
+  "unit": "3-02_헤스법칙",
+  "curriculum": "2022 개정 물질과 에너지",
+  "target_slides": 40,
+  "minutes": 100,
+  "objectives": [
+    "동일한 처음·끝 조건에서 반응 경로와 ΔH 총합의 관계를 설명한다.",
+    "열화학 반응식을 조합하여 직접 측정하기 어려운 반응의 ΔH를 구한다.",
+    "표준 생성 엔탈피를 이용한 계산과 실험 자료로 헤스 법칙을 적용한다(생성 엔탈피 범위 잠정)."
+  ],
+  "design": {
+    "reference": "brief.md + 사용자 수정본 실제40장",
+    "canvas": "1920×1080",
+    "parts": "검정형; Part 표기; T셀파 첫 장만",
+    "status": "계획 초안; G01 미판정 포함"
+  },
+  "supplementary": {},
+  "slides": [
+    {
+      "number": 1,
+      "title": "표지",
+      "message": "Ⅲ. 화학 변화의 자발성 / 02 헤스 법칙",
+      "activity": "단원명 확인",
+      "content_ids": [
+        "C01"
+      ],
+      "visual": [
+        "P01"
+      ],
+      "source_ids": [
+        "W22",
+        "STD22"
+      ],
+      "source_locator": "W22 118",
+      "layout": "표지",
+      "character": "표지 원본 네 캐릭터",
+      "part": 0,
+      "topic": "—",
+      "revision_reference": "1"
+    },
+    {
+      "number": 2,
+      "title": "다른 길, 같은 열?",
+      "message": "같은 출발점과 도착점이라면 이동 경로가 달라도 높이 차는 같을까?",
+      "activity": "높이 차 예상 후 반응열도 같은지 질문; 답은 보류",
+      "content_ids": [
+        "C01"
+      ],
+      "visual": [
+        "P02"
+      ],
+      "source_ids": [
+        "W22",
+        "STD22"
+      ],
+      "source_locator": "W22 118의 처음·나중 상태 비교를 바탕으로 한 교사 비유",
+      "layout": "생활질문",
+      "character": "I03 상황 질문",
+      "part": 0,
+      "topic": "01 경로와 변화",
+      "revision_reference": "4·31"
+    },
+    {
+      "number": 3,
+      "title": "수업 목차",
+      "message": "원리·계산·생성 엔탈피·실험의 네 흐름",
+      "activity": "배울 내용의 연결 예상",
+      "content_ids": [
+        "C01"
+      ],
+      "visual": [
+        "P03"
+      ],
+      "source_ids": [
+        "W22",
+        "STD22"
+      ],
+      "source_locator": "W22 118~123",
+      "layout": "목차",
+      "character": "none",
+      "part": 0,
+      "topic": "—",
+      "revision_reference": "2"
+    },
+    {
+      "number": 4,
+      "title": "학습 목표",
+      "message": "경로를 비교하고 반응 엔탈피를 구해 실험 자료를 해석한다",
+      "activity": "수행 목표 세 문장 읽기",
+      "content_ids": [
+        "C01"
+      ],
+      "visual": [
+        "P04"
+      ],
+      "source_ids": [
+        "W22",
+        "STD22"
+      ],
+      "source_locator": "STD22; W22 118~123",
+      "layout": "목표",
+      "character": "I02 기존 안내 자산",
+      "part": 0,
+      "topic": "—",
+      "revision_reference": "3"
+    },
+    {
+      "number": 5,
+      "title": "Part 1 헤스 법칙",
+      "message": "같은 반응이 다른 경로로 일어나면 출입하는 열도 달라질까?",
+      "activity": "파트 질문 예상",
+      "content_ids": [
+        "C01"
+      ],
+      "visual": [
+        "P05"
+      ],
+      "source_ids": [
+        "W22",
+        "STD22"
+      ],
+      "source_locator": "W22 118",
+      "layout": "검정전환",
+      "character": "none",
+      "part": 1,
+      "topic": "—",
+      "revision_reference": "5"
+    },
+    {
+      "number": 6,
+      "title": "헤스 법칙",
+      "message": "반응 전후 물질의 종류와 상태가 같으면 반응 엔탈피의 총합은 경로와 무관하다",
+      "activity": "정의의 조건·대상·결론 짚기",
+      "content_ids": [
+        "C01"
+      ],
+      "visual": [
+        "P06"
+      ],
+      "source_ids": [
+        "W22",
+        "STD22"
+      ],
+      "source_locator": "W22 118",
+      "layout": "정의행",
+      "character": "none",
+      "part": 1,
+      "topic": "01 헤스 법칙",
+      "revision_reference": "8·15"
+    },
+    {
+      "number": 7,
+      "title": "무엇이 같아야 할까?",
+      "message": "시작·끝의 종류·상태·양과 온도·압력 조건을 맞춰 비교한다",
+      "activity": "양·상태가 다른 예 판별; 합·배수·역반응 세 조작을 먼저 안내하고 8~11장에서 예시",
+      "content_ids": [
+        "C01"
+      ],
+      "visual": [
+        "P07"
+      ],
+      "source_ids": [
+        "W22",
+        "STD22"
+      ],
+      "source_locator": "W22 118~119; 3-01 선수 개념",
+      "layout": "조건행",
+      "character": "none",
+      "part": 1,
+      "topic": "01 헤스 법칙",
+      "revision_reference": "17·20"
+    },
+    {
+      "number": 8,
+      "title": "한 번에 가는 길, 나누어 가는 길",
+      "message": "직접 경로의 ΔH는 여러 단계 ΔH의 합과 같다",
+      "activity": "원본 경로 그림에서 처음·중간·나중 상태 가리키기",
+      "content_ids": [
+        "C02"
+      ],
+      "visual": [
+        "P08"
+      ],
+      "source_ids": [
+        "W22",
+        "STD22"
+      ],
+      "source_locator": "W22 118 CaO 경로 도식",
+      "layout": "큰그림",
+      "character": "none",
+      "part": 1,
+      "topic": "01 헤스 법칙",
+      "revision_reference": "11·22"
+    },
+    {
+      "number": 9,
+      "title": "반응식을 더하면",
+      "message": "중간 물질이 소거되면 두 단계의 합이 직접 반응식이 된다",
+      "activity": "Ca(OH)2와 양변의 물 소거 위치 찾기",
+      "content_ids": [
+        "C02"
+      ],
+      "visual": [
+        "P09"
+      ],
+      "source_ids": [
+        "W22",
+        "STD22"
+      ],
+      "source_locator": "W22 118~119 CaO 반응식 ①~③",
+      "layout": "식주석",
+      "character": "none",
+      "part": 1,
+      "topic": "01 헤스 법칙",
+      "revision_reference": "19·21"
+    },
+    {
+      "number": 10,
+      "title": "계수를 바꾸면 ΔH도 바뀐다",
+      "message": "반응식의 모든 계수에 k를 곱하면 ΔH에도 k를 곱한다",
+      "activity": "같은 반응 1회·2회와 절반 비교",
+      "content_ids": [
+        "C03"
+      ],
+      "visual": [
+        "P10"
+      ],
+      "source_ids": [
+        "W22",
+        "STD22"
+      ],
+      "source_locator": "W22 122 Q2; 3-01 선수 개념",
+      "layout": "두식비교",
+      "character": "none",
+      "part": 1,
+      "topic": "02 열화학 반응식의 조작",
+      "revision_reference": "19"
+    },
+    {
+      "number": 11,
+      "title": "반응을 뒤집으면 부호가 바뀐다",
+      "message": "역반응의 ΔH는 절댓값이 같고 부호가 반대다",
+      "activity": "물질 위치와 ΔH 부호를 함께 바꾸기",
+      "content_ids": [
+        "C03"
+      ],
+      "visual": [
+        "P11"
+      ],
+      "source_ids": [
+        "W22",
+        "STD22"
+      ],
+      "source_locator": "W22 119 반응식 차이; 122",
+      "layout": "두식비교",
+      "character": "none",
+      "part": 1,
+      "topic": "02 열화학 반응식의 조작",
+      "revision_reference": "21"
+    },
+    {
+      "number": 12,
+      "title": "헤스 법칙의 세 가지 조작",
+      "message": "반응식의 배수·역반응·합에 ΔH도 같은 조작을 적용한다",
+      "activity": "각 조작을 말로 설명; 이후 풀이의 체크 기준 만들기",
+      "content_ids": [
+        "C03"
+      ],
+      "visual": [
+        "P12"
+      ],
+      "source_ids": [
+        "W22",
+        "STD22"
+      ],
+      "source_locator": "W22 118~119·122",
+      "layout": "소정리표",
+      "character": "none",
+      "part": 1,
+      "topic": "02 열화학 반응식의 조작",
+      "revision_reference": "13·18"
+    },
+    {
+      "number": 13,
+      "title": "Part 2 반응 엔탈피 구하기",
+      "message": "직접 측정하기 어려운 반응의 ΔH를 다른 반응으로 구할 수 있을까?",
+      "activity": "간접 측정의 필요성 예상",
+      "content_ids": [
+        "C04"
+      ],
+      "visual": [
+        "P13"
+      ],
+      "source_ids": [
+        "W22",
+        "STD22"
+      ],
+      "source_locator": "W22 119",
+      "layout": "검정전환",
+      "character": "none",
+      "part": 2,
+      "topic": "—",
+      "revision_reference": "14"
+    },
+    {
+      "number": 14,
+      "title": "CO 생성열을 직접 재기 어려운 까닭",
+      "message": "탄소의 불완전 연소에서는 CO2도 함께 생길 수 있다",
+      "activity": "원하는 반응만 분리해 측정하기 어려운 이유 설명",
+      "content_ids": [
+        "C04"
+      ],
+      "visual": [
+        "P14"
+      ],
+      "source_ids": [
+        "W22",
+        "STD22"
+      ],
+      "source_locator": "W22 119 탄소 연소 본문",
+      "layout": "설명행",
+      "character": "none",
+      "part": 2,
+      "topic": "01 간접 측정",
+      "revision_reference": "16"
+    },
+    {
+      "number": 15,
+      "title": "목표 반응과 주어진 반응",
+      "message": "CO를 만드는 목표식과 알려진 두 연소식을 구별한다",
+      "activity": "목표식의 CO 위치·계수 표시",
+      "content_ids": [
+        "C04"
+      ],
+      "visual": [
+        "P15"
+      ],
+      "source_ids": [
+        "W22",
+        "STD22"
+      ],
+      "source_locator": "W22 119 탄소 반응식 ①~③",
+      "layout": "식목록",
+      "character": "none",
+      "part": 2,
+      "topic": "01 간접 측정",
+      "revision_reference": "17·19"
+    },
+    {
+      "number": 16,
+      "title": "같은 물질을 소거하자",
+      "message": "CO 산화 반응을 뒤집어 더하면 CO2가 소거된다",
+      "activity": "뒤집은 반응식·양변 물질 차례로 공개",
+      "content_ids": [
+        "C04"
+      ],
+      "visual": [
+        "P16"
+      ],
+      "source_ids": [
+        "W22",
+        "STD22"
+      ],
+      "source_locator": "W22 119 탄소 식 조합",
+      "layout": "식주석",
+      "character": "none",
+      "part": 2,
+      "topic": "01 간접 측정",
+      "revision_reference": "21·24"
+    },
+    {
+      "number": 17,
+      "title": "CO 생성 반응의 ΔH",
+      "message": "주어진 값으로 ΔH=-393.5-(-283.0)=-110.5 kJ이다",
+      "activity": "부호·단위와 목표식 1mol 기준 검산",
+      "content_ids": [
+        "C04"
+      ],
+      "visual": [
+        "P17"
+      ],
+      "source_ids": [
+        "W22",
+        "STD22"
+      ],
+      "source_locator": "W22 119",
+      "layout": "계산행",
+      "character": "none",
+      "part": 2,
+      "topic": "01 간접 측정",
+      "revision_reference": "28·38"
+    },
+    {
+      "number": 18,
+      "title": "헤스 법칙 계산의 순서",
+      "message": "목표식 확인→방향·계수 조절→물질 소거→ΔH 계산 순서로 푼다",
+      "activity": "앞 풀이를 네 단계에 대응",
+      "content_ids": [
+        "C05"
+      ],
+      "visual": [
+        "P18"
+      ],
+      "source_ids": [
+        "W22",
+        "STD22"
+      ],
+      "source_locator": "W22 122 비법 특강",
+      "layout": "절차행",
+      "character": "none",
+      "part": 2,
+      "topic": "02 반응식 조합",
+      "revision_reference": "17·38"
+    },
+    {
+      "number": 19,
+      "title": "SO2가 SO3로 바뀔 때",
+      "message": "목표식에 맞게 한 반응을 2배하고 다른 반응과 조합한다",
+      "activity": "W22 Q2 독립 풀이; 정답 숨김",
+      "content_ids": [
+        "C05"
+      ],
+      "visual": [
+        "P19"
+      ],
+      "source_ids": [
+        "W22",
+        "STD22"
+      ],
+      "source_locator": "W22 122 Q2",
+      "layout": "문제",
+      "character": "none",
+      "part": 2,
+      "topic": "02 반응식 조합",
+      "revision_reference": "24·40"
+    },
+    {
+      "number": 20,
+      "title": "반응식과 ΔH를 함께 검산",
+      "message": "2SO2+O2→2SO3의 ΔH는 -197 kJ이다",
+      "activity": "2×(가)의 역반응과 (나) 합; 원자수·상태·부호 확인",
+      "content_ids": [
+        "C05"
+      ],
+      "visual": [
+        "P20"
+      ],
+      "source_ids": [
+        "W22",
+        "STD22"
+      ],
+      "source_locator": "W22 122 Q2",
+      "layout": "계산행",
+      "character": "none",
+      "part": 2,
+      "topic": "02 반응식 조합",
+      "revision_reference": "38·39"
+    },
+    {
+      "number": 21,
+      "title": "그림도 반응식도 같은 관계",
+      "message": "경로 그림의 화살표와 식 조합은 같은 ΔH 관계를 나타낸다",
+      "activity": "CO 예의 그림·식·수치를 연결해 설명",
+      "content_ids": [
+        "C05"
+      ],
+      "visual": [
+        "P21"
+      ],
+      "source_ids": [
+        "W22",
+        "STD22"
+      ],
+      "source_locator": "W22 119",
+      "layout": "소정리",
+      "character": "none",
+      "part": 2,
+      "topic": "02 반응식 조합",
+      "revision_reference": "10·22"
+    },
+    {
+      "number": 22,
+      "title": "Part 3 표준 생성 엔탈피",
+      "message": "물질마다 같은 기준의 생성 엔탈피를 알면 어떤 반응의 열도 구할 수 있을까?",
+      "activity": "공통 기준의 필요성 예상",
+      "content_ids": [
+        "C06"
+      ],
+      "visual": [
+        "P22"
+      ],
+      "source_ids": [
+        "W22",
+        "STD22"
+      ],
+      "source_locator": "W22 121; T 대조 미완료",
+      "layout": "검정전환",
+      "character": "none",
+      "part": 3,
+      "topic": "—",
+      "revision_reference": "25"
+    },
+    {
+      "number": 23,
+      "title": "표준 생성 엔탈피",
+      "message": "기준 원소 물질로부터 물질 1mol이 생성될 때의 반응 엔탈피다",
+      "activity": "물 생성식의 생성물 계수1·상태·기호 읽기",
+      "content_ids": [
+        "C06"
+      ],
+      "visual": [
+        "P23"
+      ],
+      "source_ids": [
+        "W22",
+        "STD22"
+      ],
+      "source_locator": "W22 121 정의·물 생성식",
+      "layout": "정의행",
+      "character": "none",
+      "part": 3,
+      "topic": "01 표준 생성 엔탈피",
+      "revision_reference": "8·15"
+    },
+    {
+      "number": 24,
+      "title": "기준 원소 물질의 값은 0",
+      "message": "가장 안정한 기준 원소 물질의 표준 생성 엔탈피를 0으로 정한다",
+      "activity": "O2(g)·흑연과 원자·다른 동소체를 구별",
+      "content_ids": [
+        "C06"
+      ],
+      "visual": [
+        "P24"
+      ],
+      "source_ids": [
+        "W22",
+        "STD22"
+      ],
+      "source_locator": "W22 121 표·옆 설명",
+      "layout": "조건행",
+      "character": "none",
+      "part": 3,
+      "topic": "01 표준 생성 엔탈피",
+      "revision_reference": "17·18"
+    },
+    {
+      "number": 25,
+      "title": "물과 수증기는 서로 다른 자료다",
+      "message": "물질의 상태가 다르면 표준 생성 엔탈피도 다르다",
+      "activity": "H2O(l)와 H2O(g)의 수치·상태 직접 비교",
+      "content_ids": [
+        "C06"
+      ],
+      "visual": [
+        "P25"
+      ],
+      "source_ids": [
+        "W22",
+        "STD22"
+      ],
+      "source_locator": "W22 121 표; 123 Q4",
+      "layout": "비교그림",
+      "character": "none",
+      "part": 3,
+      "topic": "01 표준 생성 엔탈피",
+      "revision_reference": "11·20"
+    },
+    {
+      "number": 26,
+      "title": "생성물에서 반응물을 빼는 까닭",
+      "message": "원소에서 생성물로 가는 경로와 반응물을 거치는 경로를 비교한다",
+      "activity": "CH4 생성 반응을 역으로 두는 이유 설명",
+      "content_ids": [
+        "C07"
+      ],
+      "visual": [
+        "P26"
+      ],
+      "source_ids": [
+        "W22",
+        "STD22"
+      ],
+      "source_locator": "W22 121 CH4 조합식",
+      "layout": "식주석",
+      "character": "none",
+      "part": 3,
+      "topic": "02 생성 엔탈피로 계산",
+      "revision_reference": "10·21"
+    },
+    {
+      "number": 27,
+      "title": "계수를 곱해 합한다",
+      "message": "ΔrH°=ΣνΔfH°(생성물)-ΣνΔfH°(반응물)이다",
+      "activity": "각 항 아래 계수·물질·상태 대응; 표 수치 단위 구분",
+      "content_ids": [
+        "C07"
+      ],
+      "visual": [
+        "P27"
+      ],
+      "source_ids": [
+        "W22",
+        "STD22"
+      ],
+      "source_locator": "W22 121 관계식",
+      "layout": "큰관계식",
+      "character": "none",
+      "part": 3,
+      "topic": "02 생성 엔탈피로 계산",
+      "revision_reference": "10·28"
+    },
+    {
+      "number": 28,
+      "title": "메테인 연소열 구하기",
+      "message": "제시된 표의 값으로 CH4 연소 ΔH는 -890.3 kJ이다",
+      "activity": "값 읽기→계수 대입→계산; 답 순차 공개",
+      "content_ids": [
+        "C07"
+      ],
+      "visual": [
+        "P28"
+      ],
+      "source_ids": [
+        "W22",
+        "STD22"
+      ],
+      "source_locator": "W22 121 표·CH4 예제",
+      "layout": "계산행",
+      "character": "none",
+      "part": 3,
+      "topic": "02 생성 엔탈피로 계산",
+      "revision_reference": "28·38"
+    },
+    {
+      "number": 29,
+      "title": "물의 상태 변화 엔탈피",
+      "message": "제시된 두 생성 엔탈피 차이로 기화 ΔH=+44.0 kJ를 구한다",
+      "activity": "상태가 다른 물을 소거하면 안 되는 이유 설명",
+      "content_ids": [
+        "C07"
+      ],
+      "visual": [
+        "P29"
+      ],
+      "source_ids": [
+        "W22",
+        "STD22"
+      ],
+      "source_locator": "W22 123 Q4; 121 표",
+      "layout": "문제풀이",
+      "character": "none",
+      "part": 3,
+      "topic": "02 생성 엔탈피로 계산",
+      "revision_reference": "20·24"
+    },
+    {
+      "number": 30,
+      "title": "생성 엔탈피 계산의 확인점",
+      "message": "생성물 1mol 기준·기준 원소·물질 상태·반응 계수를 확인한다",
+      "activity": "반응 엔탈피와 표준 생성 엔탈피의 단위·대상 구별",
+      "content_ids": [
+        "C07"
+      ],
+      "visual": [
+        "P30"
+      ],
+      "source_ids": [
+        "W22",
+        "STD22"
+      ],
+      "source_locator": "W22 121·124 핵심체크",
+      "layout": "소정리표",
+      "character": "none",
+      "part": 3,
+      "topic": "02 생성 엔탈피로 계산",
+      "revision_reference": "13·18"
+    },
+    {
+      "number": 31,
+      "title": "Part 4 실험으로 확인하는 헤스 법칙",
+      "message": "용해한 뒤 중화할 때와 고체를 직접 반응시킬 때의 열은 어떤 관계일까?",
+      "activity": "두 경로 비교 예상",
+      "content_ids": [
+        "C08"
+      ],
+      "visual": [
+        "P31"
+      ],
+      "source_ids": [
+        "W22",
+        "STD22",
+        "G22"
+      ],
+      "source_locator": "G22 보존104~105; W22 120",
+      "layout": "검정전환",
+      "character": "none",
+      "part": 4,
+      "topic": "—",
+      "revision_reference": "32"
+    },
+    {
+      "number": 32,
+      "title": "같은 처음과 끝을 만드는 두 경로",
+      "message": "NaOH 용해+수용액 중화와 고체 NaOH의 직접 반응을 비교한다",
+      "activity": "세 반응식을 읽고 중간 NaOH(aq) 소거",
+      "content_ids": [
+        "C08"
+      ],
+      "visual": [
+        "P32"
+      ],
+      "source_ids": [
+        "W22",
+        "STD22",
+        "G22"
+      ],
+      "source_locator": "G22 보존104~105; W22 120",
+      "layout": "큰그림",
+      "character": "none",
+      "part": 4,
+      "topic": "01 두 실험 경로",
+      "revision_reference": "22·36"
+    },
+    {
+      "number": 33,
+      "title": "실험 조건을 맞추자",
+      "message": "NaOH 양·전체 물질·처음 온도와 열량계 조건을 비교한다",
+      "activity": "실험Ⅰ과Ⅱ의 초기 조건·실험 간 냉각 확인",
+      "content_ids": [
+        "C08"
+      ],
+      "visual": [
+        "P33"
+      ],
+      "source_ids": [
+        "W22",
+        "STD22",
+        "G22"
+      ],
+      "source_locator": "W22 120 과정; G22 보존104~105",
+      "layout": "두패널",
+      "character": "none",
+      "part": 4,
+      "topic": "01 두 실험 경로",
+      "revision_reference": "11·23"
+    },
+    {
+      "number": 34,
+      "title": "열량계에서 읽는 것",
+      "message": "용액이 얻은 열 Q=cmΔt로 반응에서 방출한 열을 추정한다",
+      "activity": "질량에 용질도 포함; 온도 상승과 반응 ΔH 음수 연결",
+      "content_ids": [
+        "C09"
+      ],
+      "visual": [
+        "P34"
+      ],
+      "source_ids": [
+        "W22",
+        "STD22",
+        "G22"
+      ],
+      "source_locator": "W22 120 장치·열량; G22 보존104~105",
+      "layout": "장치수식",
+      "character": "none",
+      "part": 4,
+      "topic": "02 측정값과 반응 엔탈피",
+      "revision_reference": "23·28"
+    },
+    {
+      "number": 35,
+      "title": "교재의 온도 자료 읽기",
+      "message": "각 반응 단계의 질량과 온도 변화를 따로 기록한다",
+      "activity": "208/408/408g, Δt9.5/6.1/11.0°C 확인",
+      "content_ids": [
+        "C09"
+      ],
+      "visual": [
+        "P35"
+      ],
+      "source_ids": [
+        "W22",
+        "STD22",
+        "G22"
+      ],
+      "source_locator": "W22 120 결과·열량 표",
+      "layout": "자료표",
+      "character": "none",
+      "part": 4,
+      "topic": "02 측정값과 반응 엔탈피",
+      "revision_reference": "18·24"
+    },
+    {
+      "number": 36,
+      "title": "한 단계의 반응 엔탈피",
+      "message": "용해 단계는 Q≈8.30kJ, NaOH 0.200mol 기준 ΔH≈-41.50kJ/mol이다",
+      "activity": "단위 변환·부호·몰수 환산 순차 계산",
+      "content_ids": [
+        "C09"
+      ],
+      "visual": [
+        "P36"
+      ],
+      "source_ids": [
+        "W22",
+        "STD22",
+        "G22"
+      ],
+      "source_locator": "W22 120 실험Ⅰ❶",
+      "layout": "계산행",
+      "character": "none",
+      "part": 4,
+      "topic": "02 측정값과 반응 엔탈피",
+      "revision_reference": "28·38"
+    },
+    {
+      "number": 37,
+      "title": "나머지 두 단계와 비교",
+      "message": "교재 반올림값은 중화 -52.25, 직접 반응 -94.25kJ/mol이다",
+      "activity": "학생 계산 후 세 값을 같은 표에 모으기",
+      "content_ids": [
+        "C09"
+      ],
+      "visual": [
+        "P37"
+      ],
+      "source_ids": [
+        "W22",
+        "STD22",
+        "G22"
+      ],
+      "source_locator": "W22 120 해석2",
+      "layout": "계산표",
+      "character": "none",
+      "part": 4,
+      "topic": "02 측정값과 반응 엔탈피",
+      "revision_reference": "18·38"
+    },
+    {
+      "number": 38,
+      "title": "실험값은 얼마나 가까울까?",
+      "message": "두 단계 합 -93.75와 직접값 -94.25kJ/mol은 근사적으로 일치한다",
+      "activity": "차이0.50kJ/mol; 열 손실·측정·희석 조건 검토",
+      "content_ids": [
+        "C09"
+      ],
+      "visual": [
+        "P38"
+      ],
+      "source_ids": [
+        "W22",
+        "STD22",
+        "G22"
+      ],
+      "source_locator": "W22 120 해석3; G22 보존105",
+      "layout": "비교소정리",
+      "character": "none",
+      "part": 4,
+      "topic": "02 측정값과 반응 엔탈피",
+      "revision_reference": "13·24"
+    },
+    {
+      "number": 39,
+      "title": "직접 재지 못한 ΔH를 알게 되는 까닭",
+      "message": "알려진 반응을 조합해 같은 처음·끝을 만들면 미지 ΔH를 구할 수 있다",
+      "activity": "도입 질문에 답하고 높이 비유의 한계 설명",
+      "content_ids": [
+        "C10"
+      ],
+      "visual": [
+        "P39"
+      ],
+      "source_ids": [
+        "W22",
+        "STD22",
+        "G22"
+      ],
+      "source_locator": "W22 118~123; STD22",
+      "layout": "되돌아보기",
+      "character": "I04 말풍선 질문",
+      "part": 4,
+      "topic": "03 헤스 법칙의 활용",
+      "revision_reference": "31·40"
+    },
+    {
+      "number": 40,
+      "title": "경로와 식으로 설명하기",
+      "message": "경로 비교·식 조합·상태 확인을 근거로 헤스 법칙을 적용한다",
+      "activity": "짧은 출구 과제: CO 예 관계식·상태변화 부호·실험 오차 각1문항",
+      "content_ids": [
+        "C10"
+      ],
+      "visual": [
+        "P40"
+      ],
+      "source_ids": [
+        "W22",
+        "STD22",
+        "G22"
+      ],
+      "source_locator": "W22 119·123·120 근거 교사 제작 과제",
+      "layout": "종합확인",
+      "character": "none",
+      "part": 4,
+      "topic": "03 헤스 법칙의 활용",
+      "revision_reference": "24·40"
+    }
+  ]
+}

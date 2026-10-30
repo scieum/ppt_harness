@@ -1,0 +1,31 @@
+{
+  "run_id": "a0a421a98393490f90c34b0ae91de00a",
+  "time_utc": "2026-10-19T14:09:46.892092+00:00",
+  "mode": "production",
+  "rules_version": "1.1.0",
+  "rules_sha256": "ae966e7cd082dc57010b835e46ffde4b8aa12ffae3ae129acf70242a123cbbdf",
+  "unit": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-01_엔탈피와열화학반응식",
+  "results": [
+    {
+      "id": "G01",
+      "status": "passed",
+      "detail": "conditions satisfied"
+    },
+    {
+      "id": "G02",
+      "status": "passed",
+      "detail": "conditions satisfied"
+    },
+    {
+      "id": "G03",
+      "status": "passed",
+      "detail": "conditions satisfied"
+    },
+    {
+      "id": "G07",
+      "status": "passed",
+      "detail": "conditions satisfied"
+    }
+  ],
+  "passed": true
+}

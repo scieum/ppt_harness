@@ -1,0 +1,62 @@
+{
+  "run_id": "f68bc545244948cd936694e5dc0373e6",
+  "time_utc": "2026-10-27T14:49:07.510304+00:00",
+  "mode": "production",
+  "rules_version": "1.1.0",
+  "rules_sha256": "ae966e7cd082dc57010b835e46ffde4b8aa12ffae3ae129acf70242a123cbbdf",
+  "unit": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-02_헤스법칙",
+  "results": [
+    {
+      "id": "G01",
+      "status": "passed",
+      "detail": "conditions satisfied"
+    },
+    {
+      "id": "G02",
+      "status": "passed",
+      "detail": "conditions satisfied"
+    },
+    {
+      "id": "G03",
+      "status": "failed",
+      "detail": "no valid human approval for current plan",
+      "rollback": "plan"
+    },
+    {
+      "id": "G04",
+      "status": "failed",
+      "detail": "no valid human approval for current plan",
+      "rollback": "image"
+    },
+    {
+      "id": "G05",
+      "status": "failed",
+      "detail": "no valid human approval for current plan",
+      "rollback": "production"
+    },
+    {
+      "id": "G06",
+      "status": "failed",
+      "detail": "no valid human approval for current plan",
+      "rollback": "cause"
+    },
+    {
+      "id": "G07",
+      "status": "passed",
+      "detail": "conditions satisfied"
+    },
+    {
+      "id": "G08",
+      "status": "failed",
+      "detail": "no valid human approval for current plan",
+      "rollback": "prototype"
+    },
+    {
+      "id": "G09",
+      "status": "failed",
+      "detail": "no valid human approval for current plan",
+      "rollback": "prototype"
+    }
+  ],
+  "passed": false
+}

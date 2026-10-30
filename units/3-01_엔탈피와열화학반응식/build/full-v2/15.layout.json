@@ -1,0 +1,19 @@
+{"schema":"openai.presentation.layout/v5","unit":"px","slide":{"id":"sl/j2axv7","index":14,"layout":{"id":"ly/rutkret0","name":"Blank"},"backgroundColor":"rgba(255,255,255,1)","position":{"left":0,"top":0,"width":1920,"height":1080}},
+"elements":[
+{"id":"im/5cnat0fu","kind":"image","position":{"left":1778.67,"top":40,"width":108,"height":77.33},"fit":"contain","alt":"sci_eum_logo"},
+{"id":"sh/vihoza5o","kind":"textbox","name":"part_heading","position":{"left":72,"top":78,"width":1500,"height":52},"text":"Part 2 열화학 반응식","style":{"fontSize":38,"typeface":"Pretendard","color":"#909090","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/ax87qp43","kind":"textbox","name":"topic_number","position":{"left":72,"top":137,"width":73,"height":67},"text":"01","style":{"fontSize":48.8,"typeface":"Pretendard","color":"#57962F","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/9wf6xkny","kind":"textbox","name":"topic_heading","position":{"left":157,"top":137,"width":1500,"height":67},"text":"열화학 반응식","style":{"fontSize":48.8,"typeface":"Pretendard","color":"#111111","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/8v6pofmd","kind":"textbox","name":"title","position":{"left":72,"top":285,"width":1776,"height":100},"text":"열화학 반응식의 세 가지 특징","style":{"fontSize":76.4,"typeface":"Pretendard","color":"#111111","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/nuxova5s","kind":"textbox","name":"copyright","position":{"left":1535,"top":1037,"width":342,"height":30},"text":"© 2026. @sci_eum. All rights reserved.","style":{"fontSize":17,"typeface":"Pretendard","color":"#111111","alignment":"right"},"geometry":"rect","lineWidth":0},
+{"id":"sh/mto72547","kind":"shape","name":"table-rounded-background","position":{"left":200,"top":510,"width":1520,"height":370},"geometry":"rect","fillColor":"#252525","lineWidth":0},
+{"id":"tb/8rylg3y1","kind":"table","position":{"left":200,"top":510,"width":1520,"height":370},"text":"특징\t반응 엔탈피의 변화\n계수\t반응식 전체의 계수 × n  →  ΔH × n\n상태\t물질의 상태가 다르면 ΔH도 달라진다\n역반응\t반응 엔탈피의 크기는 같고 부호는 반대","rows":4,"cols":2},
+{"id":"sh/srap0zmh","kind":"shape","name":"table-row-rule-1","position":{"left":200,"top":602.5,"width":1520,"height":1.5},"geometry":"rect","fillColor":"#777777","lineWidth":0},
+{"id":"sh/e1o7q1sf","kind":"shape","name":"table-row-rule-2","position":{"left":200,"top":695,"width":1520,"height":1.5},"geometry":"rect","fillColor":"#777777","lineWidth":0},
+{"id":"sh/f2xoz6t0","kind":"shape","name":"table-row-rule-3","position":{"left":200,"top":787.5,"width":1520,"height":1.5},"geometry":"rect","fillColor":"#777777","lineWidth":0},
+{"id":"sh/036psbal","kind":"shape","name":"table-rounded-corner-0","position":{"left":200,"top":510,"width":24,"height":24},"geometry":"custom","fillColor":"#FFFFFF","lineWidth":0},
+{"id":"sh/14z61gb6","kind":"shape","name":"table-rounded-corner-1","position":{"left":1696,"top":510,"width":24,"height":24},"geometry":"custom","fillColor":"#FFFFFF","lineWidth":0},
+{"id":"sh/qdonmhsj","kind":"shape","name":"table-rounded-corner-2","position":{"left":1696,"top":856,"width":24,"height":24},"geometry":"custom","fillColor":"#FFFFFF","lineWidth":0},
+{"id":"sh/rexovmto","kind":"shape","name":"table-rounded-corner-3","position":{"left":200,"top":856,"width":24,"height":24},"geometry":"custom","fillColor":"#FFFFFF","lineWidth":0},
+{"id":"sh/sz65ora9","kind":"textbox","name":"reverse-condition","position":{"left":170,"top":925,"width":1580,"height":65},"text":"온도·압력이 같고 물질의 상태와 양이 대응하는 정반응과 역반응의 비교","style":{"fontSize":34,"typeface":"Pretendard","color":"#888888","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0}
+]}

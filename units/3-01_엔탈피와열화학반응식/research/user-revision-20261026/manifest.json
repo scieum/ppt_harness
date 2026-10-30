@@ -1,0 +1,39 @@
+{
+  "date": "2026-10-26",
+  "before": {
+    "path": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/output/3-01_엔탈피와열화학반응식_전체39장_수정본.pptx",
+    "sha256": "0f46efaa9225c452b8d32bf2ae49403b7cb0b5cd1b86ca55f6defdb526d509f4",
+    "slides": 39
+  },
+  "after": {
+    "path": "/Users/keemhayeon/Downloads/3-01_엔탈피와열화학반응식_전체39장_수정본.pptx",
+    "sha256": "55c3b53334c4675e6469466fedf6a150abba9ca3053e3920a70795b0eb5910c4",
+    "slides": 40,
+    "all_objects_are_pictures": true,
+    "image_object_count": 548
+  },
+  "page_map": "page-map.json",
+  "added_after_pages": [
+    9,
+    17,
+    21
+  ],
+  "removed_before_pages": [
+    19,
+    29
+  ],
+  "moved": {
+    "before": 38,
+    "after": 13
+  },
+  "screen_size": [
+    1920,
+    1080
+  ],
+  "render_method": "OOXML picture transforms and alpha composition",
+  "visual_review": "all 40 revised slide screens reviewed in contact sheets; 18 key screens enlarged",
+  "font_metadata_recoverable": false,
+  "powerpoint_native_playback": false,
+  "source_files_modified": false,
+  "ocr": "attempt failed; not used as evidence"
+}

@@ -1,0 +1,136 @@
+const planned=JSON.parse((await fs.readFile(path.join(ROOT,'units/3-02_헤스법칙/plan.md'),'utf8')).match(/```harness-plan\n([\s\S]*?)\n```/)[1]);
+const pageMap=new Map([[1,p.slides.items[0]],[2,p.slides.items[1]],[6,p.slides.items[2]],[8,p.slides.items[3]],[17,p.slides.items[4]]]);
+const overflowChecks=[];
+function measured(str,size=48,bold=false){ctx.font=`${bold?'bold ':''}${size}px Pretendard`;return ctx.measureText(str).width;}
+function plainRuns(runs){return runs.map(v=>typeof v==='string'?v:v.run).join('')}
+function eq(s,str,x,y,w=1537,size=48,col=C.black,bold=false,align='left'){return rich(s,chem(str),x,y,w,78,size,col,bold,align,'반응식·수식');}
+function strip(s,str,y=885){box(s,192,y,1537,94,C.dark,'해석·결론',16);eq(s,str,225,y+8,1470,44.5,'#FFFFFF',false,'center');}
+function rows(s,lines,ys=[455,609,763],size=48){for(let i=0;i<lines.length;i++){box(s,192,ys[i],1537,135,C.light,'설명·계산 행 '+(i+1),18);const arr=typeof lines[i]==='string'?chem('· '+lines[i]):[r('· '),...lines[i]];let sz=size;const width=measured(plainRuns(arr),sz);if(width>1400)sz=Math.max(40,Math.min(size,size*1390/width));rich(s,arr,260,ys[i]+26,1400,80,sz,C.black,false,'left','설명·계산 문장 '+(i+1));}}
+function roundTable(s,values,x=192,y=455,w=1537,h=440,widths=null,size=43){
+ const nr=values.length,nc=values[0].length;const t=s.tables.add({rows:nr,columns:nc,left:x,top:y,width:w,height:h,values:values.map(row=>row.map(v=>[chem(v)])),columnWidths:widths??Array(nc).fill(w/nc)});
+ t.borders.assign({fill:'#777777',style:'solid',width:1});
+ for(let a=0;a<nr;a++)for(let b=0;b<nc;b++){const c=t.getCell(a,b);c.fill=a===0||b===0?'#3D3D3D':'#252525';c.text.style={typeface:'Pretendard',fontSize:size,bold:a===0||b===0,color:'#FFFFFF',alignment:'center',verticalAlignment:'middle',wrap:'none',insets:12};}
+ // White corner masks preserve a rounded outer silhouette without rasterizing the table.
+ const rad=20;const coords=[[x,y,0],[x+w-rad,y,90],[x+w-rad,y+h-rad,180],[x,y+h-rad,270]];
+ for(const [xx,yy,rot] of coords)s.shapes.add({geometry:'custom',name:'표 둥근 외곽 마스크',position:{left:xx,top:yy,width:rad,height:rad,rotation:rot},fill:'#FFFFFF',line:{fill:'none',width:0},customPaths:[{width:rad,height:rad,commands:[{moveTo:{x:0,y:0}},{lineTo:{x:rad,y:0}},{cubicBezTo:{x1:9,y1:0,x2:0,y2:9,x:0,y:rad}},{close:{}}]}]});
+ return t;
+}
+async function newpage(n,tt=null){const s=p.slides.add();s.background.fill='#FFFFFF';pageMap.set(n,s);const pl=planned.slides[n-1];const part=pl.part;const name=['','헤스 법칙','반응 엔탈피 구하기','표준 생성 엔탈피','실험으로 확인하는 헤스 법칙'][part];const m=pl.topic.match(/^(\d+) (.*)$/);await header(s,`Part ${part} ${name}`,m?.[1]??'01',m?.[2]??name);if(tt)title(s,tt);return s;}
+function finish(n,s,details='',src='W22 PDF/인쇄118~124'){
+ const pl=planned.slides[n-1];note(s,`전체 검토 시안 ${n}/40. ${pl.title}\n핵심: ${pl.message}\n교사용: ${details}\n출처: ${src}. 천재 교과서·지도서 원본 및 2015 완자 새 대조는 미완료이며 확인된 2022 완자와 보존 지도서 발췌를 기준으로 제작한 초안이다. 기존 계획의 미판정을 통과로 바꾸지 않음.\n레이아웃 참조: 사용자 수정본 실제${pl.revision_reference}쪽; brief.md. 캐릭터 신규 생성 없음.`);}
+async function transition(n,num,tt,question){const s=p.slides.add();pageMap.set(n,s);s.background.fill='#000000';await branding(s);text(s,`Part ${num}`,139,259,1000,112,76.4,'#9FFF68',true);text(s,tt,139,387,1660,145,100,'#FFFFFF',true);text(s,question,143,606,1640,114,44.5,'#FFFFFF',false);finish(n,s,'한 줄 질문으로 이론의 필요성을 연결한다. Part 표기는 첫 글자만 대문자, T셀파 로고 없음.');return s;}
+// Introduction order: cover → motivation → contents → objectives.
+{
+ const s=p.slides.add();s.background.fill='#FFFFFF';pageMap.set(3,s);await branding(s);text(s,'수업 목차',326,264,1268,126,100,C.black,true,'center');
+ const titles=['헤스 법칙','반응 엔탈피\n구하기','표준 생성\n엔탈피','실험으로\n헤스 법칙 확인'];
+ for(let i=0;i<4;i++){
+  const x=181+i*384,y=470;const q=s.shapes.add({geometry:'custom',name:'원본 윤곽 목차 블록',position:{left:x,top:y,width:410,height:350},fill:'#202020',line:{fill:'none',width:0},customPaths:[{width:410,height:350,commands:[{moveTo:{x:20,y:0}},{lineTo:{x:328,y:0}},{cubicBezTo:{x1:339,y1:0,x2:345,y2:5,x:349,y:15}},{lineTo:{x:408,y:168}},{cubicBezTo:{x1:411,y1:173,x2:411,y2:177,x:408,y:183}},{lineTo:{x:349,y:335}},{cubicBezTo:{x1:345,y1:345,x2:339,y2:350,x:328,y:350}},{lineTo:{x:20,y:350}},{cubicBezTo:{x1:6,y1:350,x2:0,y2:340,x:4,y:328}},{lineTo:{x:49,y:182}},{cubicBezTo:{x1:51,y1:177,x2:51,y2:173,x:49,y:168}},{lineTo:{x:4,y:22}},{cubicBezTo:{x1:0,y1:10,x2:6,y2:0,x:20,y:0}},{close:{}}]}]});
+  text(s,`Part ${i+1}`,x+80,y+66,250,60,38,'#9FFF68',true);text(s,titles[i],x+80,y+146,285,142,46,'#FFFFFF',true);
+ }
+ finish(3,s,'사용자 수정본2쪽의 실제 블록 윤곽을 추적해 편집 가능한 도형으로 재현. 블록을 맞붙이지 않고 꺾임 사이 좁은 여백 유지. 네 문구만 넣고 Part0 블록을 추가하지 않음.');
+}
+{
+ const s=p.slides.add();s.background.fill='#FFFFFF';pageMap.set(4,s);await branding(s);text(s,'학습 목표',326,177,1268,126,100,C.black,true,'center');box(s,154,424,1611,451,C.light,'학습 목표 한 상자',30);
+ const goals=['반응 경로와 반응 엔탈피의 관계를 설명한다.','헤스 법칙으로 측정하기 어려운 반응의 ΔH를 구한다.','중화 실험 자료를 해석하여 헤스 법칙을 확인한다.'];
+ for(let i=0;i<3;i++){const y=497+i*120;dot(s,286,y+40,C.black,55);text(s,String(i+1),260,y+8,52,62,38,'#FFFFFF',true,'center');rich(s,chem(goals[i]),337,y,1290,80,48,C.gray,true);}
+ if(assets.guide)await img(s,assets.guide,1670,564,217,460,'등록 원본 안내 인물');finish(4,s,'목표 목록의 가로 위치와 왼쪽 정렬 유지, 세로만 상자 중앙에 정렬. 원본 안내 캐릭터 파일 확보 전 신규 생성 인물을 넣지 않음.','STD22; W22 118~124');
+}
+await transition(5,1,'헤스 법칙','같은 반응이 다른 경로로 일어나면 출입하는 열도 달라질까?');
+{
+ const s=await newpage(7,'같은 반응을 비교하려면');text(s,'반응 경로만 달리하고, 비교 조건은 맞춘다.',150,385,1620,66,36.4,C.gray,true,'center');rows(s,['반응 전후 물질의 종류와 상태를 같게 한다.','반응하는 물질의 양을 같게 한다.','온도와 압력 조건을 같게 한다.']);finish(7,s,'조건 안내 후 반응식의 합·배수·역반응 세 조작을 소개한다. 8~11장에서 예시로 설명한다.','W22 118~119; 3-01 선수 개념');
+}
+{
+ const s=await newpage(9,'두 반응식을 더하면');eq(s,'CaO(s) + H₂O(l) → Ca(OH)₂(aq)',236,444,1450,48);eq(s,'Ca(OH)₂(aq) + 2HCl(aq) → CaCl₂(aq) + 2H₂O(l)',236,562,1450,46);
+ text(s,'중간 물질 Ca(OH)₂와 양변의 물 1 mol을 소거',236,671,1450,64,38,C.green,true);line(s,233,754,1690,754,C.gray,3);eq(s,'CaO(s) + 2HCl(aq) → CaCl₂(aq) + H₂O(l)',236,776,1450,48);strip(s,'ΔH₁ = ΔH₂ + ΔH₃ = −193.5 kJ',906);finish(9,s,'앞 장의 두 단계 반응을 합한다. Ca(OH)2(aq)와 양변의 물1mol이 소거되어 직접 반응식이 남는다. 상태가 다른 물질은 소거하지 않는다.','W22 118~119 CaO 반응식①~③');
+}
+{
+ const s=await newpage(10,'계수와 ΔH는 같은 비율로');rows(s,[[r('S(s) + O₂(g) → SO₂(g)     '),...chem('ΔH = −297 kJ')],[r('2S(s) + 2O₂(g) → 2SO₂(g)     '),...chem('ΔH = −594 kJ')]], [480,650],48);strip(s,'모든 계수에 2를 곱하면, ΔH에도 2를 곱한다.');finish(10,s,'반응식 전체 계수에 같은 비율을 적용한다. ΔH의 부호와 계수 변화량을 구분한다.','W22 122 Q2 (가), 2배 비교는 교사 조작');
+}
+{
+ const s=await newpage(11,'반응을 뒤집으면 부호도 반대');rows(s,[[...chem('CO(g) + ½O₂(g) → CO₂(g)     ΔH = −283.0 kJ')],[...chem('CO₂(g) → CO(g) + ½O₂(g)     ΔH = +283.0 kJ')]], [480,650],48);strip(s,'역반응의 ΔH는 절댓값이 같고 부호는 반대다.');finish(11,s,'반응 방향·물질 위치·ΔH 부호를 한 번에 바꾼다.','W22 119 반응③, 역반응은 교사 조작');
+}
+{
+ const s=await newpage(12,'열화학 반응식의 세 가지 조작');roundTable(s,[['반응식의 조작','반응 엔탈피의 조작'],['모든 계수에 k를 곱한다','ΔH에도 k를 곱한다'],['역반응으로 바꾼다','ΔH의 부호를 바꾼다'],['여러 반응식을 더한다','각 ΔH를 더한다']],192,450,1537,440,[768,769],44);finish(12,s,'개념을 배운 Part1 안에서 바로 소정리한다. 설명한 세 조작을 이후 계산의 점검 기준으로 사용한다.','W22 118~119·122');
+}
+await transition(13,2,'반응 엔탈피 구하기','직접 측정하기 어려운 반응의 열은 어떻게 구할 수 있을까?');
+{
+ const s=await newpage(14,'CO 생성열을 직접 재기 어려운 까닭');rows(s,['탄소가 불완전 연소할 때 CO₂도 함께 생성될 수 있다.','CO만 생성되는 반응의 열을 따로 측정하기 어렵다.','이미 알고 있는 다른 반응의 ΔH를 이용한다.']);finish(14,s,'혼합 생성물이 생길 수 있다는 측정의 어려움과 간접 방법의 필요성을 설명한다. 직접 측정이 원리적으로 영원히 불가능하다는 주장으로 확대하지 않는다.','W22 119 헤스 법칙 이용 본문');
+}
+{
+ const s=await newpage(15,'구하려는 반응부터 확인');text(s,'목표 반응',210,415,1500,60,40,C.green,true);eq(s,'C(s, 흑연) + ½O₂(g) → CO(g)     ΔH₂ = ?',235,478,1450,50,C.green,true);await img(s,path.join(HERE,'eq-carbon-total.png'),263,643,1385,116,'W22 119 주어진 전체 연소식');await img(s,path.join(HERE,'eq-co-oxidation.png'),263,801,1385,112,'W22 119 주어진 CO 산화식');finish(15,s,'원하는 CO가 생성물에 계수1로 있어야 함을 먼저 표시한다. 주어진 식과 목표식을 구분한다.','W22 119 반응①~③');
+}
+{
+ const s=await newpage(16,'CO₂를 소거해 목표 반응을 만든다');eq(s,'C(s, 흑연) + O₂(g) → CO₂(g)',240,443,1450,48);eq(s,'CO₂(g) → CO(g) + ½O₂(g)',240,561,1450,48);text(s,'CO 산화 반응을 뒤집고, 양변의 CO₂를 소거',240,666,1450,63,38,C.green,true);line(s,233,754,1690,754,C.gray,3);eq(s,'C(s, 흑연) + ½O₂(g) → CO(g)',240,776,1450,50,C.green,true);strip(s,'ΔH₂ = ΔH₁ − ΔH₃',906);finish(16,s,'처음부터 식을 단순 빼는 요령만 주지 않고 역반응의 부호와 물질 소거를 함께 보인다. 산소1/2mol이 남는지 검산한다.','W22 119 CO 생성식 조합');
+}
+{
+ const s=await newpage(18,'헤스 법칙 계산의 순서');const steps=[['1','목표식 확인','구하려는 반응의 물질·위치·계수를 확인한다.'],['2','방향·계수 조절','주어진 식과 ΔH를 함께 바꾼다.'],['3','중간 물질 소거','종류·상태·양이 같은 항을 소거한다.'],['4','ΔH 계산·검산','남은 반응식과 부호·단위를 확인한다.']];for(let i=0;i<4;i++){const y=447+i*127;box(s,192,y,1537,112,C.light,'풀이 단계',18);dot(s,270,y+56,'#87939F',52);text(s,steps[i][0],244,y+20,52,70,34,'#FFFFFF',true,'center');text(s,steps[i][1],330,y+20,330,70,42,C.green,true);text(s,steps[i][2],675,y+20,990,70,40,C.black,false);}finish(18,s,'앞 CO 풀이와 네 단계를 연결한다. 3단계에서 상태가 다르면 소거하면 안 된다고 강조한다.','W22 122 비법 특강');
+}
+{
+ const s=await newpage(19,'SO₂가 SO₃로 바뀔 때');text(s,'다음 두 반응을 이용하여 목표 반응의 ΔH를 구하시오.',180,393,1560,65,36.4,C.gray,true,'center');rows(s,[...['S(s) + O₂(g) → SO₂(g)     ΔH₁ = −297 kJ','2S(s) + 3O₂(g) → 2SO₃(g)     ΔH₂ = −791 kJ']],[490,650],48);strip(s,'2SO₂(g) + O₂(g) → 2SO₃(g)     ΔH = ?',875);finish(19,s,'먼저 독립 풀이. 정답은 다음 장에 두고, 목표 SO2 계수2와 SO3 생성물 위치를 확인하게 한다.','W22 122 Q2');
+}
+{
+ const s=await newpage(20,'반응식과 ΔH를 함께 검산');eq(s,'2SO₂(g) → 2S(s) + 2O₂(g)     ΔH = +594 kJ',236,445,1450,46);eq(s,'2S(s) + 3O₂(g) → 2SO₃(g)     ΔH = −791 kJ',236,564,1450,46);line(s,233,675,1690,675,C.gray,3);eq(s,'2SO₂(g) + O₂(g) → 2SO₃(g)',236,710,1450,50,C.green,true);strip(s,'ΔH = −791 − 2 × (−297) = −197 kJ');finish(20,s,'(가)를2배하고 뒤집어 (나)와 더한다. 황원자·산소분자와 ΔH 부호·단위를 검산한다.','W22 122 Q2 해설');
+}
+{
+ const s=await newpage(21,'그림과 반응식은 같은 관계');await img(s,path.join(HERE,'W119-co-graph.png'),240,460,770,460,'W22 119 탄소 경로 그래프');text(s,'전체 경로',1120,477,600,65,42,C.green,true);eq(s,'ΔH₁ = ΔH₂ + ΔH₃',1120,557,660,52);text(s,'알고 싶은 한 단계',1120,691,640,65,42,C.green,true);eq(s,'ΔH₂ = ΔH₁ − ΔH₃',1120,772,660,52);finish(21,s,'그림의 화살표 방향과 반응식의 방향이 대응함을 확인한다. 중간 수준에는 남은 산소1/2mol을 함께 표시한 원본을 쓴다.','W22 119 엔탈피 그래프');
+}
+await transition(22,3,'표준 생성 엔탈피','물질마다 같은 기준의 생성 엔탈피를 알면 무엇을 구할 수 있을까?');
+{
+ const s=await newpage(23,'표준 생성 엔탈피');text(s,'표준 상태의 성분 원소로부터 물질 1 mol이 생성될 때의 반응 엔탈피',180,389,1560,70,38,C.gray,true,'center');rows(s,['H₂(g) + ½O₂(g) → H₂O(l)     ΔH = −285.8 kJ','생성되는 물질 1 mol을 기준으로 나타낸다.','H₂O(l)의 표준 생성 엔탈피는 −285.8 kJ/mol이다.']);finish(23,s,'f는formation, 위첨자°는표준상태라는 기호를 말로 보완한다. 이 자료의 수치는25°C 조건이며 온도를 표준상태 정의 자체와 동일시하지 않는다. 주 교과서 직접 대조 전 잠정 Part이다.','W22 121 정의·물 생성식');
+}
+{
+ const s=await newpage(24,'기준 원소 물질의 값은 0');roundTable(s,[['기준 원소 물질','표준 생성 엔탈피 (kJ/mol)'],['C(s, 흑연)','0'],['H₂(g)','0'],['O₂(g)','0']],192,445,1537,425,[768,769],44);strip(s,'모든 원소의 모든 상태가 0이라는 뜻은 아니다.',904);finish(24,s,'기준 원소 물질의 생성 엔탈피를0으로 정한 것이며, 물질의 엔탈피H가0이라는 의미가 아니다. 고립 원자·다른 동소체로 자동 확대하지 않는다.','W22 121 표·원소 기준 설명');
+}
+{
+ const s=await newpage(25,'물과 수증기는 서로 다른 자료');rows(s,['H₂(g) + ½O₂(g) → H₂O(l)     ΔH = −285.8 kJ','H₂(g) + ½O₂(g) → H₂O(g)     ΔH = −241.8 kJ'],[480,650],48);strip(s,'물질의 상태가 다르면 생성 엔탈피도 다르다.');finish(25,s,'비교하는 물질의 양과 온도조건은같고 생성물상태만다르다. 상태문자만기울이고괄호정자유지. 상태가다른H2O를서로소거하지않는다.','W22 121 상태별 표;123 Q4');
+}
+{
+ const s=await newpage(26,'생성물에서 반응물을 빼는 까닭');eq(s,'C(s, 흑연) + 2H₂(g) → CH₄(g)       ΔH₁',236,446,1450,48);eq(s,'C(s, 흑연) + O₂(g) → CO₂(g)       ΔH₂',236,565,1450,48);eq(s,'H₂(g) + ½O₂(g) → H₂O(l)       ΔH₃',236,684,1450,48);strip(s,'CH₄ 연소 반응 = ② + 2 × ③ − ①');finish(26,s,'원소에서생성물로가는경로와메테인을거치는경로를비교한다. CH4생성식①을뒤집고③을2배하여원소를소거한다. 다음장일반식으로연결한다.','W22 121 CH4 생성식①②③·조합');
+}
+{
+ const s=await newpage(27,'계수를 곱해 더한다');rich(s,chem('ΔH = 생성물의 표준 생성 엔탈피 합'),180,407,1560,98,64,C.green,true,'center');text(s,'− 반응물의 표준 생성 엔탈피 합',180,501,1560,98,64,C.green,true,'center');rows(s,['표의 값에 각 물질의 반응 계수를 곱한다.','생성물의 합에서 반응물의 합을 뺀다.'],[654,815],48);finish(27,s,'일반식의합은그냥각물질값을한번씩더한다는뜻이아니라계수곱을포함한다. 엄밀한표준반응엔탈피기호와단위는주교과서대조후통일한다.','W22 121 관계식');
+}
+{
+ const s=await newpage(28,'메테인 연소열 구하기');eq(s,'CH₄(g) + 2O₂(g) → CO₂(g) + 2H₂O(l)',236,403,1450,48);roundTable(s,[['물질','CH₄(g)','O₂(g)','CO₂(g)','H₂O(l)'],['ΔfH° (kJ/mol)','−74.8','0','−393.5','−285.8']],192,522,1537,190,[409,282,282,282,282],40);box(s,192,756,1537,100,C.light,'대입 계산',16);eq(s,'ΔH = [−393.5 + 2 × (−285.8)] − [−74.8 + 2 × 0]',236,766,1450,44);strip(s,'ΔH = −890.3 kJ',898);finish(28,s,'이장수치세트는완자121의-74.8/-393.5/-285.8을그대로이용한다. 3-01자료의-890.5값과혼용하지않는다. CH4연소1mol기준식이다.','W22 121 표·메테인 예제');
+}
+{
+ const s=await newpage(29,'물의 상태 변화 엔탈피');await img(s,path.join(HERE,'water-levels.png'),255,457,640,410,'W22 123 Q4 원본 상태별 엔탈피 그래프');text(s,'기화 반응',1030,470,700,65,42,C.green,true);eq(s,'H₂O(l) → H₂O(g)',1030,548,700,50);eq(s,'ΔH = −241.8 − (−285.8)',1030,673,740,46);eq(s,'= +44.0 kJ',1030,758,700,56,C.green,true);strip(s,'기화는 열을 흡수하므로 ΔH > 0');finish(29,s,'25°C에서상태차이를나타낸값이다. 끓는점100°C의기화엔탈피와혼용하지않는다. 두반응의물질상태를구분한다.','W22 123 Q4;121 상태별 표');
+}
+{
+ const s=await newpage(30,'생성 엔탈피 계산의 확인점');roundTable(s,[['확인 대상','확인할 내용'],['기준','생성되는 물질 1 mol인가?'],['원소·상태','기준 원소와 물질의 상태가 맞는가?'],['계수·단위','계수를 곱하고 단위를 구분했는가?']],192,450,1537,440,[420,1117],44);finish(30,s,'표의kJ/mol과적힌열화학반응식의kJ를구분한다. 단원뒤로밀지않고Part3안에서정리한다.','W22 121·124 핵심체크');
+}
+await transition(31,4,'실험으로 확인하는 헤스 법칙','용해한 뒤 중화할 때와 고체를 직접 반응시킬 때의 열은 같을까?');
+{
+ const s=await newpage(32,'같은 처음과 끝을 만드는 두 경로');await img(s,path.join(HERE,'experiment-paths.png'),250,450,420,480,'W22 120 처음·중간·나중 경로 그림');text(s,'경로 Ⅰ: 용해 → 중화',820,458,940,65,44,C.green,true);eq(s,'NaOH(s) → NaOH(aq)',820,533,940,48);eq(s,'NaOH(aq) + HCl(aq) → NaCl(aq) + H₂O(l)',820,628,940,38);text(s,'경로 Ⅱ: 고체와 직접 반응',820,752,940,65,44,C.green,true);eq(s,'NaOH(s) + HCl(aq) → NaCl(aq) + H₂O(l)',820,827,940,38);finish(32,s,'처음·나중에있는물질전체를같게한다. 반응식에생략된용매물도경로조건에서비교한다. NaOH(aq)는중간물질로소거된다.','W22 120 실험; G22 보존104~105');
+}
+{
+ const s=await newpage(33,'실험 조건을 맞추자');text(s,'NaOH 8.0 g = 0.200 mol, HCl 1.0 M × 0.200 L = 0.200 mol',175,386,1570,70,38,C.gray,true,'center');
+ await img(s,path.join(HERE,'experiment-photo-a.png'),192,500,975,320,'W22 120 실험Ⅰ 용해와 중화 사진');await img(s,path.join(HERE,'experiment-photo-b.png'),1210,500,485,320,'W22 120 HCl 혼합 사진');
+ box(s,192,839,975,100,C.dark,'용해·냉각·중화 캡션',16);text(s,'용해 후 처음 온도로 식힌 뒤 중화',223,854,913,70,40,'#FFFFFF',true,'center');box(s,1210,839,485,100,C.dark,'조건 확인 캡션',16);text(s,'처음 온도·전체 양 확인',1230,854,445,70,36,'#FFFFFF',true,'center');finish(33,s,'완자예시실험Ⅰ용해뒤25°C로식히고중화한다. 실험Ⅱ에서는물과염산혼합뒤25°C로식힌후고체를넣는다. 원본사진의두패널이모두실험Ⅰ임을구분하고직접반응실험사진으로잘못이름붙이지않는다.','W22 120 과정·실험Ⅰ 사진');
+}
+{
+ const s=await newpage(34,'용액이 얻은 열에서 반응열로');rich(s,chem('Q용액 = c × m × Δt'),200,408,1520,108,76.4,C.green,true,'center');rows(s,['c: 용액의 비열, m: 용액 전체의 질량','Δt = 나중 온도 − 처음 온도'],[575,735],48);strip(s,'온도 상승: Q용액 > 0, 반응의 ΔH < 0',904);finish(34,s,'외부열출입·열량계열용량을무시하는근사에서용액이얻은열과반응에서방출한열의크기를연결한다. 반응mol기준으로환산하기전Q는J또는kJ이다. 용질질량도더한다.','W22 120 Q=cmΔt·열량 계산; G22 보존104~105');
+}
+{
+ const s=await newpage(35,'교재의 온도 자료 읽기');roundTable(s,[['반응 단계','질량 (g)','처음 (°C)','나중 (°C)','Δt (°C)'],['용해','208','25.0','34.5','9.5'],['중화','408','25.0','31.1','6.1'],['직접 반응','408','25.0','36.0','11.0']],192,452,1537,420,[337,300,300,300,300],42);text(s,'모든 용액의 비열 4.2 J/(g·°C), 밀도 1.0 g/mL로 가정',192,913,1537,65,36.4,C.gray,true,'center');finish(35,s,'교재예시데이터이며이번수업에서실측한값으로표현하지않는다. W22와G22예시온도를섞지않는다. 각반응의처음온도를별도로기록한다.','W22 120 결과·열량 표');
+}
+{
+ const s=await newpage(36,'용해 단계의 반응 엔탈피');rows(s,['Q용액 = 4.2 × 208 × 9.5 = 8299.2 J ≈ 8.30 kJ','NaOH의 양 = 8.0 ÷ 40.0 = 0.200 mol','ΔH용해 = −8.30 ÷ 0.200 ≈ −41.50 kJ/mol'],[455,609,763],47);finish(36,s,'계산전의정확한값-41.496kJ/mol을최종반올림하면-41.50이다. 온도상승으로용액이열을얻었고반응ΔH는음수임을구분한다.','W22 120 실험Ⅰ❶');
+}
+{
+ const s=await newpage(37,'나머지 두 단계와 비교');roundTable(s,[['반응 단계','방출한 열 (kJ)','NaOH 기준 (mol)','ΔH (kJ/mol)'],['용해','8.30','0.200','−41.50'],['중화','10.45','0.200','−52.25'],['직접 반응','18.85','0.200','−94.25']],192,452,1537,420,[337,400,400,400],42);text(s,'교재에 제시된 반올림 값을 같은 기준으로 비교한다.',192,909,1537,65,36.4,C.gray,true,'center');finish(37,s,'중화10.45와직접18.85kJ는교재의중간반올림값이다. 연속계산의반올림전결과와혼합하지않고여기서는교재의반올림표를한세트로쓴다.','W22 120 해석2');
+}
+{
+ const s=await newpage(38,'실험값은 얼마나 가까울까?');rows(s,['두 단계 합: −41.50 + (−52.25) = −93.75 kJ/mol','직접 반응: −94.25 kJ/mol','두 결과의 차이: 0.50 kJ/mol'],[455,609,763],47);finish(38,s,'열손실·측정·증발및희석·농도조건의영향을교사발문으로연결한다. 데이터를고쳐정확히일치시키지않는다. 관찰은근사일치이며법칙실패로단정하지않는다.','W22 120 해석3·오차 설명');
+}
+{
+ const s=await newpage(39,'직접 재지 못한 ΔH를 알게 되는 까닭');rows(s,['이미 알고 있는 반응들을 조합한다.','같은 처음 상태와 나중 상태를 만든다.','알려진 ΔH를 더해 미지의 ΔH를 구한다.']);finish(39,s,'도입의높이차비유와연결해경로와변화량을말로구분한다. 걷는거리나신체에너지와반응열을동일시하지않는다. 원래등록캐릭터를확보하지못해캐릭터는배치하지않았다.','W22 118~123; STD22');
+}
+{
+ const s=await newpage(40,'경로와 식으로 설명하기');rows(s,['CO 생성 반응: ΔH₂ = ΔH₁ − ΔH₃인 까닭을 설명하시오.','H₂O(l) → H₂O(g)의 ΔH 부호를 근거와 함께 말하시오.','실험값이 정확히 같지 않을 수 있는 이유를 말하시오.'],[455,609,763],44);finish(40,s,'출구과제예상답:①두연소식을조합하면목표식이남음②양의값,생성엔탈피차이+44.0kJ③열손실·기기/온도측정·희석/농도조건등. 화면에정답을동시에적지않고교사노트에보존한다. 형식적정리문구보다실제개념활동이름으로끝낸다.','W22 119·123·120 근거 교사 제작 확인 과제');
+}
+p.slides.reorder(Array.from({length:40},(_,i)=>pageMap.get(i+1).id));
+for(let i=0;i<40;i++){if(p.slides.items[i].id!==pageMap.get(i+1).id)throw new Error('Slide order mismatch '+(i+1));}
+// Original representative notes are updated to actual lesson page numbers.
+for(const n of [1,2,6,8,17]){const s=pageMap.get(n);s.speakerNotes.text='전체40장 검토 시안 중 '+n+'장.\n'+s.speakerNotes.text;}
+await fs.writeFile(path.join(HERE,'page-map.json'),JSON.stringify(Array.from({length:40},(_,i)=>({number:i+1,title:planned.slides[i].title,id:pageMap.get(i+1).id})),null,2));

@@ -1,0 +1,18 @@
+{"schema":"openai.presentation.layout/v5","unit":"px","slide":{"id":"sl/msb1cq","index":0,"layout":{"id":"ly/zahk3ul4","name":"Blank"},"backgroundColor":"rgba(0,0,0,1)","position":{"left":0,"top":0,"width":1920,"height":1080}},
+"elements":[
+{"id":"im/w3qh0ve9","kind":"image","position":{"left":1778.67,"top":40,"width":108,"height":77.33},"fit":"contain","alt":"사이음 공식 로고"},
+{"id":"sh/6hkrmtsb","kind":"textbox","name":"copyright","position":{"left":1440,"top":1034,"width":440,"height":30},"text":"© 2026. @sci_eum. All rights reserved.","style":{"fontSize":21,"typeface":"Pretendard","color":"#FFFFFF","alignment":"right"},"geometry":"rect","lineWidth":0},
+{"id":"sh/7it8fy9w","kind":"textbox","name":"text","position":{"left":72,"top":76,"width":1530,"height":54},"text":"Part 2 엔트로피 변화","style":{"fontSize":38,"typeface":"Pretendard","color":"#898989","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/g7m9s3ad","kind":"textbox","name":"text","position":{"left":72,"top":134,"width":70,"height":64},"text":"01","style":{"fontSize":48.8,"typeface":"Pretendard","color":"#9FFF68","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/h8vql8ry","kind":"textbox","name":"text","position":{"left":146,"top":134,"width":1550,"height":64},"text":"기체의 혼합","style":{"fontSize":48.8,"typeface":"Pretendard","color":"#FFFFFF","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/ul4rqds7","kind":"textbox","name":"핵심 문장","position":{"left":100,"top":245,"width":1720,"height":112},"text":"입자 수는 그대로, 분포는 달라진다","style":{"fontSize":76.4,"typeface":"Pretendard","color":"#FFFFFF","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/f6d8jy9s","kind":"shape","name":"혼합 원본 그림 배경","position":{"left":262,"top":435,"width":630,"height":575},"geometry":"roundRect","fillColor":"#FFFFFF","lineWidth":0},
+{"id":"im/lcfilgfm","kind":"image","position":{"left":300,"top":457,"width":554,"height":530},"fit":"contain","alt":"혼합 전후 원본 입자 그림"},
+{"id":"sh/xcrq9ore","kind":"textbox","name":"text","position":{"left":1020,"top":473,"width":670,"height":67},"text":"꼭지를 열기 전","style":{"fontSize":47,"typeface":"Pretendard","color":"#FFFFFF","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/t8b65s3i","kind":"textbox","name":"text","position":{"left":1020,"top":557,"width":710,"height":58},"text":"두 기체가 각각의 용기에 있다.","style":{"fontSize":36,"typeface":"Pretendard","color":"#A6A6A6","alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/s7i5cn2x","kind":"shape","name":"line","position":{"left":1020,"top":650,"width":680,"height":1},"geometry":"custom","lineColor":"#494949","lineWidth":2},
+{"id":"sh/r69o32ls","kind":"textbox","name":"text","position":{"left":1020,"top":693,"width":670,"height":67},"text":"꼭지를 연 뒤","style":{"fontSize":47,"typeface":"Pretendard","color":"#FFFFFF","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/6l0naxk7","kind":"textbox","name":"text","position":{"left":1020,"top":777,"width":710,"height":58},"text":"두 기체가 전체 공간에 섞인다.","style":{"fontSize":36,"typeface":"Pretendard","color":"#A6A6A6","alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/1cb69c3u","kind":"shape","name":"그림에서 얻은 결론","position":{"left":1020,"top":895,"width":680,"height":88},"geometry":"roundRect","fillColor":"#253723","lineWidth":0},
+{"id":"sh/gb25g729","kind":"textbox","name":"text","position":{"left":1045,"top":906,"width":630,"height":66},"text":"엔트로피가 증가한다.","style":{"fontSize":41,"typeface":"Pretendard","color":"#9FFF68","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0}
+]}

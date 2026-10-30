@@ -1,0 +1,5 @@
+{
+  "checked": 362,
+  "findings": [],
+  "claim": "font-based horizontal advance estimates only;does not prove glyph or table fit"
+}

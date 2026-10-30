@@ -1,0 +1,82 @@
+[
+  {
+    "id": "pdf01",
+    "role": "primary",
+    "citation": "고_물질과에너지(임희준)_교과서.pdf PDF pp.74–81",
+    "curriculum": "2022 개정",
+    "evidence": {
+      "path": "research/extracts/pdf01-full.txt",
+      "sha256": "5ea47e0211015d1e528eca46524ce8a287ede936d65d70a7ac20533fe0c08267"
+    }
+  },
+  {
+    "id": "pdf03",
+    "role": "secondary",
+    "citation": "고등_화학2_노태희(15개정)_교과서.pdf PDF pp.73–80",
+    "curriculum": "2015 개정",
+    "evidence": {
+      "path": "research/extracts/pdf03-full.txt",
+      "sha256": "1f6d2c1ef55c9a776892a76a38a401ef71a991ba1463990de4a04fdb6c1df532"
+    }
+  },
+  {
+    "id": "pdf09",
+    "role": "comparison",
+    "citation": "[비상교육] 고등_물질과 에너지_교과서.pdf PDF pp.73–81",
+    "curriculum": "2022 개정",
+    "evidence": {
+      "path": "research/extracts/pdf09-full.txt",
+      "sha256": "64f23ef861f687ff50502209cbcc5a7a85ceb9158b46e6be4e3293d53633d79b"
+    }
+  },
+  {
+    "id": "pdf10",
+    "role": "comparison",
+    "citation": "미래엔_물질과에너지_교과서.pdf PDF pp.74–81",
+    "curriculum": "2022 개정",
+    "evidence": {
+      "path": "research/extracts/pdf10-full.txt",
+      "sha256": "28c870b385320f0df28c14ce1ff735556a5dd6cf6eee295e05a07977587b1b31"
+    }
+  },
+  {
+    "id": "pdf12",
+    "role": "comparison",
+    "citation": "통합_(22개정)완자 고등물질과에너지_본문_260415(교사용).pdf PDF pp.108–117",
+    "curriculum": "2022 개정",
+    "evidence": {
+      "path": "research/extracts/pdf12-full.txt",
+      "sha256": "1235c39a0f6b3b4208278a6c1c483e39c867c541b7715f5cc70550d1ab83d48f"
+    }
+  },
+  {
+    "id": "STD22",
+    "role": "standard",
+    "citation": "교육부 고시 제2022-33호 별책9 [12물에03-01]",
+    "curriculum": "2022 개정",
+    "evidence": {
+      "path": "research/standard.txt",
+      "sha256": "18a53a1116f5bce03eaef937236639a82d00eee58df048afe71068ac65a020c2"
+    }
+  },
+  {
+    "id": "GUIDE22",
+    "role": "comparison",
+    "citation": "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/inbox/textbook/chunjae/고_물질과에너지(임희준)_지도서.pdf; related pages selected in guide-review-20261019",
+    "curriculum": "2022 개정",
+    "evidence": {
+      "path": "research/guide-review-20261019/matter-guide-hits.json",
+      "sha256": "592bb750fa2aece4d408a8a25d07d47e87dea2747297d97768454a3c550a0ac1"
+    }
+  },
+  {
+    "id": "GUIDE15",
+    "role": "comparison",
+    "citation": "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/inbox/textbook/chunjae/고등_화학2_노태희(15개정)_지도서.pdf; related pages selected in guide-review-20261019",
+    "curriculum": "2015 개정",
+    "evidence": {
+      "path": "research/guide-review-20261019/chem2-guide-hits.json",
+      "sha256": "64ec593046afbbc8ba4aad6c842eb0de7e63a5d0a8959fa8b50c5158171ce2ec"
+    }
+  }
+]

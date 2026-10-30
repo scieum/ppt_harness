@@ -1,0 +1,13 @@
+{
+  "cause": "이번 턴에 보호 대상 design.md에 신규 레퍼런스 목록을 덧붙임",
+  "other_changes": [
+    {
+      "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/design.md",
+      "baseline": "a827ac4069a032f9ac93a12ef09c2b40de6dcf7266da1cc1c8e0590129b9792d",
+      "current": "ca02151ca83cf1f4bec81ab190aca873124a29d9a129db5bba8f8625af1278dc"
+    }
+  ],
+  "repair": "자신이 덧붙인 정확한 절만 분리. 저장 전 제거 후보 SHA256이 기존 보호 기준과 일치함을 확인. 새목록은 assets/reference-library/20261027/README.md에 보관.",
+  "baseline_unchanged": true,
+  "restored_sha256": "a827ac4069a032f9ac93a12ef09c2b40de6dcf7266da1cc1c8e0590129b9792d"
+}

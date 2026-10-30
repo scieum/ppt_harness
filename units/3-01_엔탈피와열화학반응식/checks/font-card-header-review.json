@@ -1,0 +1,91 @@
+{
+  "version": "font-card-header-v3",
+  "user_requests": [
+    "Pretendard 실제 적용 여부 확인 및 100~900 설치",
+    "사진 아래 주석을 제거하고 첨부 레퍼런스처럼 처리",
+    "상단 PART·소주제 글꼴 축소"
+  ],
+  "desktop_fonts_installed": 9,
+  "webfonts_saved": 9,
+  "renderer_fonts_registered": [
+    {
+      "family": "Pretendard",
+      "weight": 100,
+      "style": "normal",
+      "width": "normal",
+      "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/output/fonts/Pretendard-Thin.otf"
+    },
+    {
+      "family": "Pretendard",
+      "weight": 200,
+      "style": "normal",
+      "width": "normal",
+      "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/output/fonts/Pretendard-ExtraLight.otf"
+    },
+    {
+      "family": "Pretendard",
+      "weight": 300,
+      "style": "normal",
+      "width": "normal",
+      "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/output/fonts/Pretendard-Light.otf"
+    },
+    {
+      "family": "Pretendard",
+      "weight": 400,
+      "style": "normal",
+      "width": "normal",
+      "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/output/fonts/Pretendard-Regular.otf"
+    },
+    {
+      "family": "Pretendard",
+      "weight": 500,
+      "style": "normal",
+      "width": "normal",
+      "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/output/fonts/Pretendard-Medium.otf"
+    },
+    {
+      "family": "Pretendard",
+      "weight": 600,
+      "style": "normal",
+      "width": "normal",
+      "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/output/fonts/Pretendard-SemiBold.otf"
+    },
+    {
+      "family": "Pretendard",
+      "weight": 700,
+      "style": "normal",
+      "width": "normal",
+      "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/output/fonts/Pretendard-Bold.otf"
+    },
+    {
+      "family": "Pretendard",
+      "weight": 800,
+      "style": "normal",
+      "width": "normal",
+      "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/output/fonts/Pretendard-ExtraBold.otf"
+    },
+    {
+      "family": "Pretendard",
+      "weight": 900,
+      "style": "normal",
+      "width": "normal",
+      "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/output/fonts/Pretendard-Black.otf"
+    }
+  ],
+  "all8_slides_rerendered": true,
+  "all8_slides_visually_inspected": true,
+  "pptx_font_scripts": [
+    "latin",
+    "ea",
+    "cs"
+  ],
+  "PPTX_package_and_layout_validation": "passed; zero findings",
+  "photo_style": "dark round frame, rounded photograph without legacy caption, white underlined native title and description",
+  "body_header_pixels": {
+    "part": 30,
+    "topic": 36
+  },
+  "scientific_sources": "original equations and scientific diagram labels retained",
+  "human_confirmation_of_result": "pending; no new confirmation requested during corrections",
+  "originals_protection": true
+}

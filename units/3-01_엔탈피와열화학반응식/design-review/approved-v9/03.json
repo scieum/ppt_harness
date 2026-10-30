@@ -1,0 +1,458 @@
+{
+  "artifact_sha256": "a594fa0b148c2e62743b391cc6d73d75de1194c71f638d783c097dad97d09d19",
+  "render_sha256": "e105b8b7c0d3bee126daaf839c1a1fb4a526779cb9391bac1a26806cf41b772a",
+  "exporter": "artifact-tool layout/v5 normalized actual named objects; grouped roles retain raw member geometry",
+  "canvas": [
+    1920,
+    1080
+  ],
+  "objects": [
+    {
+      "role": "objectives_box",
+      "kind": "image",
+      "bbox": [
+        154.67,
+        424,
+        1610.67,
+        386.6700000000001
+      ],
+      "fill": [
+        "none"
+      ],
+      "font_family": [
+        null
+      ],
+      "font_size": [
+        null
+      ],
+      "font_weight": [
+        400
+      ],
+      "alignment": [
+        null
+      ],
+      "character_asset_id": null,
+      "members": [
+        {
+          "id": "im/ovatsjqd",
+          "kind": "image",
+          "position": {
+            "left": 154.67,
+            "top": 424,
+            "width": 1610.67,
+            "height": 386.67
+          },
+          "fit": "contain",
+          "alt": "objectives_box"
+        }
+      ]
+    },
+    {
+      "role": "guide_character",
+      "kind": "image",
+      "bbox": [
+        1670.67,
+        564,
+        217.32999999999993,
+        460
+      ],
+      "fill": [
+        "none"
+      ],
+      "font_family": [
+        null
+      ],
+      "font_size": [
+        null
+      ],
+      "font_weight": [
+        400
+      ],
+      "alignment": [
+        null
+      ],
+      "character_asset_id": "guide_character",
+      "members": [
+        {
+          "id": "im/nu1cje9s",
+          "kind": "image",
+          "position": {
+            "left": 1670.67,
+            "top": 564,
+            "width": 217.33,
+            "height": 460
+          },
+          "fit": "contain",
+          "alt": "guide_character"
+        }
+      ]
+    },
+    {
+      "role": "sci_eum_logo",
+      "kind": "image",
+      "bbox": [
+        1778.67,
+        40,
+        108.0,
+        77.33
+      ],
+      "fill": [
+        "none"
+      ],
+      "font_family": [
+        null
+      ],
+      "font_size": [
+        null
+      ],
+      "font_weight": [
+        400
+      ],
+      "alignment": [
+        null
+      ],
+      "character_asset_id": null,
+      "members": [
+        {
+          "id": "im/mt8bq987",
+          "kind": "image",
+          "position": {
+            "left": 1778.67,
+            "top": 40,
+            "width": 108,
+            "height": 77.33
+          },
+          "fit": "contain",
+          "alt": "sci_eum_logo"
+        }
+      ]
+    },
+    {
+      "role": "copyright",
+      "kind": "textbox",
+      "bbox": [
+        1535,
+        1035.73,
+        342,
+        30.0
+      ],
+      "fill": [
+        "none"
+      ],
+      "font_family": [
+        "Pretendard"
+      ],
+      "font_size": [
+        17
+      ],
+      "font_weight": [
+        400
+      ],
+      "alignment": [
+        "right"
+      ],
+      "character_asset_id": null,
+      "members": [
+        {
+          "id": "sh/0f25s365",
+          "kind": "textbox",
+          "name": "copyright",
+          "position": {
+            "left": 1535,
+            "top": 1035.73,
+            "width": 342,
+            "height": 30
+          },
+          "text": "© 2026. @sci_eum. All rights reserved.",
+          "style": {
+            "fontSize": 17,
+            "typeface": "Pretendard",
+            "color": "#111111",
+            "alignment": "right"
+          },
+          "geometry": "rect",
+          "lineWidth": 0
+        }
+      ]
+    },
+    {
+      "role": "title",
+      "kind": "textbox",
+      "bbox": [
+        326.7,
+        182.95,
+        1268.0,
+        127.0
+      ],
+      "fill": [
+        "none"
+      ],
+      "font_family": [
+        "Pretendard"
+      ],
+      "font_size": [
+        94
+      ],
+      "font_weight": [
+        700
+      ],
+      "alignment": [
+        "center"
+      ],
+      "character_asset_id": null,
+      "members": [
+        {
+          "id": "sh/lgb6l8nq",
+          "kind": "textbox",
+          "name": "title",
+          "position": {
+            "left": 326.7,
+            "top": 182.95,
+            "width": 1268,
+            "height": 127
+          },
+          "text": "이번 단원의 학습 목표",
+          "style": {
+            "fontSize": 94,
+            "typeface": "Pretendard",
+            "color": "#111111",
+            "bold": true,
+            "alignment": "center"
+          },
+          "geometry": "rect",
+          "lineWidth": 0
+        }
+      ]
+    },
+    {
+      "role": "numbered_list",
+      "kind": "group",
+      "bbox": [
+        258.67,
+        483.11,
+        971.3199999999999,
+        274.06999999999994
+      ],
+      "fill": [
+        "#000000",
+        "none",
+        "none",
+        "#000000",
+        "none",
+        "none",
+        "#000000",
+        "none",
+        "none"
+      ],
+      "font_family": [
+        null,
+        "Pretendard",
+        "Pretendard",
+        null,
+        "Pretendard",
+        "Pretendard",
+        null,
+        "Pretendard",
+        "Pretendard"
+      ],
+      "font_size": [
+        null,
+        43,
+        42,
+        null,
+        43,
+        42,
+        null,
+        43,
+        42
+      ],
+      "font_weight": [
+        400,
+        400,
+        400,
+        400,
+        400,
+        400,
+        400,
+        400,
+        400
+      ],
+      "alignment": [
+        null,
+        "center",
+        "left",
+        null,
+        "center",
+        "left",
+        null,
+        "center",
+        "left"
+      ],
+      "character_asset_id": null,
+      "members": [
+        {
+          "id": "sh/ed0nqdof",
+          "kind": "shape",
+          "name": "number_circle_1",
+          "position": {
+            "left": 258.67,
+            "top": 484.33,
+            "width": 56,
+            "height": 56
+          },
+          "geometry": "roundRect",
+          "fillColor": "#000000",
+          "lineWidth": 0
+        },
+        {
+          "id": "sh/ze94ji5k",
+          "kind": "textbox",
+          "name": "number_1",
+          "position": {
+            "left": 258.67,
+            "top": 483.11,
+            "width": 56,
+            "height": 56
+          },
+          "text": "1",
+          "style": {
+            "fontSize": 43,
+            "typeface": "Pretendard",
+            "color": "#FFFFFF",
+            "alignment": "center"
+          },
+          "geometry": "rect",
+          "lineWidth": 0
+        },
+        {
+          "id": "sh/8j25wn6h",
+          "kind": "textbox",
+          "name": "objective_1",
+          "position": {
+            "left": 337.33,
+            "top": 483.18,
+            "width": 892.66,
+            "height": 64
+          },
+          "text": "엔탈피의 의미를 알고, 열화학 반응식을 표현할 수 있다.",
+          "style": {
+            "fontSize": 42,
+            "typeface": "Pretendard",
+            "color": "#4A4A4A",
+            "alignment": "left"
+          },
+          "geometry": "rect",
+          "lineWidth": 0
+        },
+        {
+          "id": "sh/9kb6psn2",
+          "kind": "shape",
+          "name": "number_circle_2",
+          "position": {
+            "left": 258.67,
+            "top": 589.33,
+            "width": 56,
+            "height": 56
+          },
+          "geometry": "roundRect",
+          "fillColor": "#000000",
+          "lineWidth": 0
+        },
+        {
+          "id": "sh/xojqpw3m",
+          "kind": "textbox",
+          "name": "number_2",
+          "position": {
+            "left": 258.67,
+            "top": 588.11,
+            "width": 56,
+            "height": 56
+          },
+          "text": "2",
+          "style": {
+            "fontSize": 43,
+            "typeface": "Pretendard",
+            "color": "#FFFFFF",
+            "alignment": "center"
+          },
+          "geometry": "rect",
+          "lineWidth": 0
+        },
+        {
+          "id": "sh/cnapgrm1",
+          "kind": "textbox",
+          "name": "objective_2",
+          "position": {
+            "left": 337.33,
+            "top": 588.18,
+            "width": 892.66,
+            "height": 64
+          },
+          "text": "같은 기준으로 연료의 효율성을 비교할 수 있다.",
+          "style": {
+            "fontSize": 42,
+            "typeface": "Pretendard",
+            "color": "#4A4A4A",
+            "alignment": "left"
+          },
+          "geometry": "rect",
+          "lineWidth": 0
+        },
+        {
+          "id": "sh/b2h8nm5g",
+          "kind": "shape",
+          "name": "number_circle_3",
+          "position": {
+            "left": 258.67,
+            "top": 694.33,
+            "width": 56,
+            "height": 56
+          },
+          "geometry": "roundRect",
+          "fillColor": "#000000",
+          "lineWidth": 0
+        },
+        {
+          "id": "sh/a187e14b",
+          "kind": "textbox",
+          "name": "number_3",
+          "position": {
+            "left": 258.67,
+            "top": 693.11,
+            "width": 56,
+            "height": 56
+          },
+          "text": "3",
+          "style": {
+            "fontSize": 43,
+            "typeface": "Pretendard",
+            "color": "#FFFFFF",
+            "alignment": "center"
+          },
+          "geometry": "rect",
+          "lineWidth": 0
+        },
+        {
+          "id": "sh/lsjqtg3y",
+          "kind": "textbox",
+          "name": "objective_3",
+          "position": {
+            "left": 337.33,
+            "top": 693.18,
+            "width": 892.66,
+            "height": 64
+          },
+          "text": "결합 에너지와 반응 엔탈피의 관계를 설명할 수 있다.",
+          "style": {
+            "fontSize": 42,
+            "typeface": "Pretendard",
+            "color": "#4A4A4A",
+            "alignment": "left"
+          },
+          "geometry": "rect",
+          "lineWidth": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{"schema":"openai.presentation.layout/v5","unit":"px","slide":{"id":"sl/ovhrd2","index":26,"layout":{"id":"ly/qhobmt0n","name":"Blank"},"backgroundColor":"rgba(255,255,255,1)","position":{"left":0,"top":0,"width":1920,"height":1080}},
+"elements":[
+{"id":"im/4nip4bel","kind":"image","position":{"left":1778.67,"top":40,"width":108,"height":77.33},"fit":"contain","alt":"sci_eum_logo"},
+{"id":"sh/il8nm1sn","kind":"textbox","name":"part_heading","position":{"left":72,"top":78,"width":1500,"height":52},"text":"PART 3 결합 에너지와 반응 엔탈피","style":{"fontSize":38,"typeface":"Pretendard","color":"#909090","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/jmhov6t8","kind":"textbox","name":"topic_number","position":{"left":72,"top":137,"width":73,"height":67},"text":"05","style":{"fontSize":48.8,"typeface":"Pretendard","color":"#57962F","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/srapsbap","kind":"textbox","name":"topic_heading","position":{"left":157,"top":137,"width":1500,"height":67},"text":"결합의 종류와 수","style":{"fontSize":48.8,"typeface":"Pretendard","color":"#111111","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/tsj61gba","kind":"textbox","name":"title","position":{"left":72,"top":285,"width":1776,"height":100},"text":"끊는 결합과 만드는 결합을 따로 센다","style":{"fontSize":76.4,"typeface":"Pretendard","color":"#111111","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/6p87qlsj","kind":"textbox","name":"explanation","position":{"left":72,"top":398,"width":1776,"height":70},"text":"2H₂(g) + O₂(g) → 2H₂O(g)","style":{"fontSize":36.4,"typeface":"Pretendard","color":"#888888","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/rq1oz6t4","kind":"textbox","name":"page","position":{"left":72,"top":1037,"width":200,"height":30},"text":"27 / 31","style":{"fontSize":20,"typeface":"Pretendard","color":"#999999","alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/gfapwval","kind":"textbox","name":"copyright","position":{"left":1535,"top":1037,"width":342,"height":30},"text":"© 2026. @sci_eum. All rights reserved.","style":{"fontSize":17,"typeface":"Pretendard","color":"#111111","alignment":"right"},"geometry":"rect","lineWidth":0},
+{"id":"tb/8rypc7al","kind":"table","position":{"left":240,"top":510,"width":1440,"height":350},"text":"과정\t결합의 종류\t반응식 기준 결합의 양\n끊기\tH–H\t2 mol\n끊기\tO=O\t1 mol\n만들기\tO–H\t4 mol","rows":4,"cols":3},
+{"id":"sh/p0zapo7a","kind":"shape","name":"takeaway-box","position":{"left":245,"top":885,"width":1430,"height":100},"geometry":"roundRect","fillColor":"#595959","lineWidth":0},
+{"id":"sh/ozqtgj6p","kind":"textbox","name":"takeaway","position":{"left":275,"top":909,"width":1370,"height":58},"text":"물 분자 2개 × 분자당 O–H 결합 2개 = 결합 4개","style":{"fontSize":44.51,"typeface":"Pretendard Medium","color":"#FFFFFF","alignment":"center"},"geometry":"rect","lineWidth":0}
+]}

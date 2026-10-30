@@ -1,0 +1,44 @@
+{
+  "cover": {
+    "source": "design-review/versions/cover-lower-three-v10-20261019",
+    "source_slide": 1,
+    "preserved": "classroom image, green fade, title anchor y=269.3, official original logo layers, author, AI notice",
+    "representation": "image layers plus editable native text; visible baseline adjusted to reference outlines"
+  },
+  "contents": {
+    "source": "V10 02_contents",
+    "source_slide": 2,
+    "preserved": "black original chevron assets, source spacing, three part labels"
+  },
+  "objectives": {
+    "source": "V10 03_objectives",
+    "source_slide": 3,
+    "preserved": "source gray box and guide; original x anchor; vertical-only centered number/text group"
+  },
+  "part": {
+    "source": "V10 04_part",
+    "source_slide": 4,
+    "preserved": "source dimmed classroom, 51 percent source darkening, theory curiosity question"
+  },
+  "figure": {
+    "source": "[물에맛.Zip] 2-05 삼투 현상; existing approved figure-adoption.json",
+    "source_slide": 8,
+    "adoption": "centered original science diagram without decorative character; approved original V3 figure recipe retained as layout basis",
+    "science_source": "T p81 그림Ⅲ-7",
+    "new_slide": 26
+  },
+  "table_formula": {
+    "source": "[물에맛.Zip] 2-05 삼투 현상; existing approved table_formula-adoption.json",
+    "source_slide": 19,
+    "adoption": "full-width light-gray numbered calculation strips; no decorative character",
+    "science_source": "T p80 표Ⅲ-2; p81 식",
+    "new_slide": 28
+  },
+  "comparison": {
+    "source": "[물에맛.Zip] 2-05 삼투 현상; existing approved comparison-adoption.json",
+    "source_slide": 6,
+    "adoption": "two original scientific photographs with individual dark thin borders and shared reading question; aspect ratios preserved",
+    "science_source": "T p78 그림Ⅲ-4",
+    "new_slide": 15
+  }
+}

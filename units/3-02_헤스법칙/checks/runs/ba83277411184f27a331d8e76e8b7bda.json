@@ -1,0 +1,16 @@
+{
+  "run_id": "ba83277411184f27a331d8e76e8b7bda",
+  "time_utc": "2026-10-26T14:14:29.484536+00:00",
+  "mode": "production",
+  "rules_version": "1.1.0",
+  "rules_sha256": "ae966e7cd082dc57010b835e46ffde4b8aa12ffae3ae129acf70242a123cbbdf",
+  "unit": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-02_헤스법칙",
+  "results": [
+    {
+      "id": "G07",
+      "status": "passed",
+      "detail": "conditions satisfied"
+    }
+  ],
+  "passed": true
+}

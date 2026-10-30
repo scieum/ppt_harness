@@ -1,0 +1,51 @@
+{
+  "scope": "검토용 대표5장; 전체제작 아님",
+  "current_ready": [
+    3,
+    4,
+    5
+  ],
+  "waiting": [
+    1,
+    2
+  ],
+  "selected_plan_pages": [
+    1,
+    2,
+    6,
+    8,
+    17
+  ],
+  "open_issues": [
+    {
+      "id": "CHAR-ORIGINAL",
+      "slides": [
+        1,
+        2
+      ],
+      "status": "waiting_for_download",
+      "description": "등록된 원본 캐릭터 다운로드 대기. 신규 생성본·3-01 재생성 인물로 대체하지 않음."
+    }
+  ],
+  "revisions": [
+    {
+      "user_feedback": "H를 반드시 기울임; 한 문장을 의미 없이 세단계로 분리하지 않음",
+      "applied": "H에 Times New Roman 실제 Italic/Bold Italic 등록, 정의를 하나의 넓은 영역으로 합침",
+      "reviewed_slides": [
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "user_feedback": "헤스 법칙을 세 개로 나누되 각각 한 줄",
+      "applied": "정의·가산 관계·유용성의 완결된 3요점을 각각 한 행/한 줄로 구성",
+      "reviewed_slides": [
+        3
+      ]
+    }
+  ],
+  "local_preview_review": "본문3장 실제 렌더 확대 확인; 원본/시안 정보 위계 대조. 사용자 승인 대기.",
+  "font_registration": "build/font-registration.json",
+  "source_equation_crops": "build/reaction-crops.json"
+}

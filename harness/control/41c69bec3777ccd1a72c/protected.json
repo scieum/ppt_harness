@@ -1,0 +1,43 @@
+{
+  "unit": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-02_헤스법칙",
+  "roots": [
+    "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/inbox/textbook/etc/통합_(22개정)완자 고등물질과에너지_본문_260415(교사용).pdf",
+    "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-01_엔탈피와열화학반응식/research/user-revision-20261026/user-edited.pptx",
+    "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-01_엔탈피와열화학반응식/research/guide-review-20261019",
+    "/Users/keemhayeon/Downloads/Codex/scieum_ppt/brief.md",
+    "/Users/keemhayeon/Downloads/Codex/scieum_ppt/design.md"
+  ],
+  "files": {
+    "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/inbox/textbook/etc/통합_(22개정)완자 고등물질과에너지_본문_260415(교사용).pdf": {
+      "kind": "file",
+      "sha256": "78015cd443cf6470ebb1e284e9edf138dbc2981ab52e66f51305174d4646d4dd"
+    },
+    "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-01_엔탈피와열화학반응식/research/user-revision-20261026/user-edited.pptx": {
+      "kind": "file",
+      "sha256": "55c3b53334c4675e6469466fedf6a150abba9ca3053e3920a70795b0eb5910c4"
+    },
+    "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-01_엔탈피와열화학반응식/research/guide-review-20261019": {
+      "kind": "directory"
+    },
+    "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-01_엔탈피와열화학반응식/research/guide-review-20261019/adoption.md": {
+      "kind": "file",
+      "sha256": "dadca81ad781f63428829c8c753cca02c749b2ffcb606e1eecb2f5e62842f658"
+    },
+    "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-01_엔탈피와열화학반응식/research/guide-review-20261019/chem2-guide-hits.json": {
+      "kind": "file",
+      "sha256": "64ec593046afbbc8ba4aad6c842eb0de7e63a5d0a8959fa8b50c5158171ce2ec"
+    },
+    "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-01_엔탈피와열화학반응식/research/guide-review-20261019/matter-guide-hits.json": {
+      "kind": "file",
+      "sha256": "592bb750fa2aece4d408a8a25d07d47e87dea2747297d97768454a3c550a0ac1"
+    },
+    "/Users/keemhayeon/Downloads/Codex/scieum_ppt/brief.md": {
+      "kind": "file",
+      "sha256": "c4b6fd13d8893a9de446dfc71bc2c69f43b0d83c516fe0f61e85150b4bf85fb1"
+    },
+    "/Users/keemhayeon/Downloads/Codex/scieum_ppt/design.md": {
+      "kind": "file",
+      "sha256": "a827ac4069a032f9ac93a12ef09c2b40de6dcf7266da1cc1c8e0590129b9792d"
+    }
+  }
+}

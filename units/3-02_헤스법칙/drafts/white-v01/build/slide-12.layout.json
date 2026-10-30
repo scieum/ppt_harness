@@ -1,0 +1,16 @@
+{"schema":"openai.presentation.layout/v5","unit":"px","slide":{"id":"sl/759rox","index":11,"layout":{"id":"ly/v6l072p8","name":"Blank"},"backgroundColor":"rgba(255,255,255,1)","position":{"left":0,"top":0,"width":1920,"height":1080}},
+"elements":[
+{"id":"sh/cvm9svmt","kind":"shape","name":"레퍼런스 내용 영역","position":{"left":300,"top":680,"width":1320,"height":140},"geometry":"roundRect","fillColor":"#F2F3F1","lineWidth":0},
+{"id":"sh/mlgz29gz","kind":"shape","name":"레퍼런스 내용 영역","position":{"left":300,"top":485,"width":1320,"height":140},"geometry":"roundRect","fillColor":"#F2F3F1","lineWidth":0},
+{"id":"sh/dgny54z2","kind":"textbox","name":"copyright","position":{"left":1440,"top":1038,"width":440,"height":28},"text":"© 2026. @sci_eum. All rights reserved.","style":{"fontSize":17,"typeface":"Pretendard","color":"#202020","alignment":"right"},"geometry":"rect","lineWidth":0},
+{"id":"sh/cfehwzyh","kind":"textbox","name":"text","position":{"left":90,"top":86,"width":1400,"height":44},"text":"Part 1 헤스 법칙","style":{"fontSize":28,"typeface":"Pretendard","color":"#898989","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/3algzah0","kind":"textbox","name":"text","position":{"left":90,"top":134,"width":70,"height":64},"text":"02","style":{"fontSize":44,"typeface":"Pretendard","color":"#28691C","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/2pczq5gf","kind":"textbox","name":"text","position":{"left":158,"top":134,"width":1550,"height":64},"text":"열화학 반응식의 조작","style":{"fontSize":44,"typeface":"Pretendard","color":"#202020","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/pc3y1kz6","kind":"textbox","name":"핵심 문장","position":{"left":180,"top":294,"width":1560,"height":96},"text":"반응을 뒤집으면 부호도 반대","style":{"fontSize":64,"typeface":"Pretendard","color":"#202020","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"im/xwruhs7u","kind":"image","position":{"left":366.05,"top":516.68,"width":1187.9,"height":76.64},"fit":"contain","alt":"반응식 이미지 t86-ch4-formation — assets/equations-v05/provenance.json"},
+{"id":"im/qxwba98z","kind":"image","position":{"left":345,"top":712.15,"width":1230,"height":75.69},"fit":"contain","alt":"반응식 이미지 t87-ch4-decomposition — assets/equations-v05/provenance.json"},
+{"id":"sh/dwva103y","kind":"textbox","name":"text","position":{"left":310,"top":452,"width":1250,"height":40},"text":"정반응 · 발열","style":{"fontSize":28,"typeface":"Pretendard","color":"#28691C","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/q9krql4n","kind":"textbox","name":"text","position":{"left":310,"top":630,"width":1250,"height":48},"text":"역반응 · 흡열","style":{"fontSize":28,"typeface":"Pretendard","color":"#28691C","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/rutszql8","kind":"textbox","name":"text","position":{"left":220,"top":395,"width":1480,"height":64},"text":"역반응의 반응 엔탈피는 절댓값이 같고 부호는 반대다.","style":{"fontSize":30,"typeface":"Pretendard","color":"#686868","alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"im/rut8z6p8","kind":"image","position":{"left":1778.67,"top":40,"width":108,"height":77.33},"fit":"contain","alt":"사이음 흰 배경용 원본 로고"}
+]}

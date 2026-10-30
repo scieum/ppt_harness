@@ -1,0 +1,3300 @@
+{
+  "schema_version": 1,
+  "theme": "black",
+  "deck": {
+    "path": "drafts/full-v01/output/3-02_헤스법칙_전체51장_한줄정리레퍼런스반영_v42.pptx",
+    "sha256": "0e0e130c96102be9173b31b3e44db8d14f518c7ae73ed20a8ee9ec7aa8e579c6"
+  },
+  "open_issues": [],
+  "slides": [
+    {
+      "number": 1,
+      "render": {
+        "path": "drafts/full-v01/output/slide-01.png",
+        "sha256": "12a4496810a72273024d7c75c54efd908a3553514a22045c3ccab2d470adf070"
+      },
+      "inventory_review": {
+        "path": "research/revision-v42/visual-review.md",
+        "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+      },
+      "reviewer": "Codex 2026-10-29",
+      "equations": [],
+      "non_equation_images": [
+        {
+          "picture_id": "10",
+          "reason": "Branding, scene, photo, layout asset, original scientific diagram, or newly generated carbon-cycle scientific diagram reviewed in visual-review.md; labels integral to diagram."
+        },
+        {
+          "picture_id": "7",
+          "reason": "Branding, scene, photo, layout asset, original scientific diagram, or newly generated carbon-cycle scientific diagram reviewed in visual-review.md; labels integral to diagram."
+        },
+        {
+          "picture_id": "8",
+          "reason": "Branding, scene, photo, layout asset, original scientific diagram, or newly generated carbon-cycle scientific diagram reviewed in visual-review.md; labels integral to diagram."
+        }
+      ],
+      "inline_or_science_labels": []
+    },
+    {
+      "number": 2,
+      "render": {
+        "path": "drafts/full-v01/output/slide-02.png",
+        "sha256": "56e5d6dc2dd88e6a00ebfdd47d059e64d9be08e19c976ff4cb4188740212ffda"
+      },
+      "inventory_review": {
+        "path": "research/revision-v42/visual-review.md",
+        "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+      },
+      "reviewer": "Codex 2026-10-29",
+      "equations": [],
+      "non_equation_images": [
+        {
+          "picture_id": "9",
+          "reason": "Branding, scene, photo, layout asset, original scientific diagram, or newly generated carbon-cycle scientific diagram reviewed in visual-review.md; labels integral to diagram."
+        },
+        {
+          "picture_id": "10",
+          "reason": "Branding, scene, photo, layout asset, original scientific diagram, or newly generated carbon-cycle scientific diagram reviewed in visual-review.md; labels integral to diagram."
+        },
+        {
+          "picture_id": "8",
+          "reason": "Branding, scene, photo, layout asset, original scientific diagram, or newly generated carbon-cycle scientific diagram reviewed in visual-review.md; labels integral to diagram."
+        }
+      ],
+      "inline_or_science_labels": []
+    },
+    {
+      "number": 3,
+      "render": {
+        "path": "drafts/full-v01/output/slide-03.png",
+        "sha256": "a18ce6042513dcfcb86c9ebd353a37011e4deafc1ffffca17d97cd8a71f09ac6"
+      },
+      "inventory_review": {
+        "path": "research/revision-v42/visual-review.md",
+        "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+      },
+      "reviewer": "Codex 2026-10-29",
+      "equations": [],
+      "non_equation_images": [
+        {
+          "picture_id": "16",
+          "reason": "Branding, scene, photo, layout asset, original scientific diagram, or newly generated carbon-cycle scientific diagram reviewed in visual-review.md; labels integral to diagram."
+        }
+      ],
+      "inline_or_science_labels": []
+    },
+    {
+      "number": 4,
+      "render": {
+        "path": "drafts/full-v01/output/slide-04.png",
+        "sha256": "5df8fa2bfc09bcec71fd6933867ac6f9ea61cd1b7f01f67332af15ee1e15b6f9"
+      },
+      "inventory_review": {
+        "path": "research/revision-v42/visual-review.md",
+        "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+      },
+      "reviewer": "Codex 2026-10-29",
+      "equations": [],
+      "non_equation_images": [
+        {
+          "picture_id": "15",
+          "reason": "Branding, scene, photo, layout asset, original scientific diagram, or newly generated carbon-cycle scientific diagram reviewed in visual-review.md; labels integral to diagram."
+        },
+        {
+          "picture_id": "14",
+          "reason": "Branding, scene, photo, layout asset, original scientific diagram, or newly generated carbon-cycle scientific diagram reviewed in visual-review.md; labels integral to diagram."
+        }
+      ],
+      "inline_or_science_labels": [
+        {
+          "shape_id": "10",
+          "text": "헤스 법칙으로 측정하기 어려운 반응의 ΔH를 구한다.",
+          "role": "inline-explanation",
+          "reason": "Concept heading, explanatory sentence or notation label; not a standalone reaction/calculation."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "render": {
+        "path": "drafts/full-v01/output/slide-05.png",
+        "sha256": "7d999828b77ca1c7e4fb07420ec30bcf53de7e3a2e0a2f4a32982812d5f6f3df"
+      },
+      "inventory_review": {
+        "path": "research/revision-v42/visual-review.md",
+        "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+      },
+      "reviewer": "Codex 2026-10-29",
+      "equations": [],
+      "non_equation_images": [
+        {
+          "picture_id": "9",
+          "reason": "Branding, scene, photo, layout asset, original scientific diagram, or newly generated carbon-cycle scientific diagram reviewed in visual-review.md; labels integral to diagram."
+        },
+        {
+          "picture_id": "4",
+          "reason": "Branding, scene, photo, layout asset, original scientific diagram, or newly generated carbon-cycle scientific diagram reviewed in visual-review.md; labels integral to diagram."
+        }
+      ],
+      "inline_or_science_labels": []
+    },
+    {
+      "number": 6,
+      "render": {
+        "path": "drafts/full-v01/output/slide-06.png",
+        "sha256": "8474423decb7fa894b67a22d50ce47ae7ab1fec390b8ef71866edf3cfe31ee76"
+      },
+      "inventory_review": {
+        "path": "research/revision-v42/visual-review.md",
+        "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+      },
+      "reviewer": "Codex 2026-10-29",
+      "equations": [],
+      "non_equation_images": [
+        {
+          "picture_id": "8",
+          "reason": "Branding, scene, photo, layout asset, original scientific diagram, or newly generated carbon-cycle scientific diagram reviewed in visual-review.md; labels integral to diagram."
+        },
+        {
+          "picture_id": "13",
+          "reason": "Branding, scene, photo, layout asset, original scientific diagram, or newly generated carbon-cycle scientific diagram reviewed in visual-review.md; labels integral to diagram."
+        }
+      ],
+      "inline_or_science_labels": [
+        {
+          "shape_id": "14",
+          "text": "· 반응 전후 물질의 종류와 상태가 같으면, ΔH는 경로와 무관하다.",
+          "role": "inline-explanation",
+          "reason": "Concept heading, explanatory sentence or notation label; not a standalone reaction/calculation."
+        },
+        {
+          "shape_id": "16",
+          "text": "· 직접 측정하기 어려운 반응의 ΔH도 간접적으로 구할 수 있다.",
+          "role": "inline-explanation",
+          "reason": "Concept heading, explanatory sentence or notation label; not a standalone reaction/calculation."
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "render": {
+        "path": "drafts/full-v01/output/slide-07.png",
+        "sha256": "cb7a05f0e6e8252a287d25fbeaac7657f508f8bd782b917833e38ed92a6bb9d1"
+      },
+      "inventory_review": {
+        "path": "research/revision-v42/visual-review.md",
+        "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+      },
+      "reviewer": "Codex 2026-10-29",
+      "equations": [],
+      "non_equation_images": [
+        {
+          "picture_id": "24",
+          "reason": "Branding, scene, photo, layout asset, original scientific diagram, or newly generated carbon-cycle scientific diagram reviewed in visual-review.md; labels integral to diagram."
+        },
+        {
+          "picture_id": "7",
+          "reason": "Branding, scene, photo, layout asset, original scientific diagram, or newly generated carbon-cycle scientific diagram reviewed in visual-review.md; labels integral to diagram."
+        },
+        {
+          "picture_id": "14",
+          "reason": "Branding, scene, photo, layout asset, original scientific diagram, or newly generated carbon-cycle scientific diagram reviewed in visual-review.md; labels integral to diagram."
+        },
+        {
+          "picture_id": "15",
+          "reason": "Branding, scene, photo, layout asset, original scientific diagram, or newly generated carbon-cycle scientific diagram reviewed in visual-review.md; labels integral to diagram."
+        }
+      ],
+      "inline_or_science_labels": []
+    },
+    {
+      "number": 8,
+      "render": {
+        "path": "drafts/full-v01/output/slide-08.png",
+        "sha256": "b420349d86aefbb4abeedcec2e80cc8cf7341d3db5d09f5b857db2f5b2eff62c"
+      },
+      "inventory_review": {
+        "path": "research/revision-v42/visual-review.md",
+        "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+      },
+      "reviewer": "Codex 2026-10-29",
+      "equations": [
+        {
+          "picture_id": "13",
+          "asset": {
+            "path": "assets/reference-v32/two-step-white.png",
+            "sha256": "56ceb93817e92c70aced35e58a94c7329a35932fb4336d30f7f31a632901a6f7"
+          },
+          "generation_record": {
+            "path": "assets/reference-v32/generation.json",
+            "sha256": "e0418c0da5579de3a49e2fbeb261639818bcc3362805896d304f3a03e38a9b48"
+          },
+          "source_comparison": {
+            "path": "research/revision-v42/source-comparison.md",
+            "sha256": "07427343967714a13ee23c9e1f9fb071077658c55593a6de0881087c41f31673"
+          },
+          "visual_review": {
+            "path": "research/revision-v42/visual-review.md",
+            "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+          },
+          "producer": "image_gen",
+          "style": "textbook-serif",
+          "reviewer": "Codex 2026-10-29",
+          "expected_expression": "ΔH₂+ΔH₃ = −76.9+(−112.4) = −189.3 kJ",
+          "checks": {
+            "coefficients": true,
+            "elements": true,
+            "charges": true,
+            "states": true,
+            "subscripts": true,
+            "direction": true,
+            "enthalpy_sign_values": true,
+            "italic_enthalpy_H": true,
+            "upright_elements_parentheses": true,
+            "italic_states": true,
+            "serif_visual": true
+          },
+          "reference_glyph_height_px": 125
+        },
+        {
+          "picture_id": "14",
+          "asset": {
+            "path": "assets/reference-v32/direct-white.png",
+            "sha256": "0d977ac85e0b81b7c43669f95febb8f3893dcde8e56c68465dfa808ec9fdc21a"
+          },
+          "generation_record": {
+            "path": "assets/reference-v32/generation.json",
+            "sha256": "e0418c0da5579de3a49e2fbeb261639818bcc3362805896d304f3a03e38a9b48"
+          },
+          "source_comparison": {
+            "path": "research/revision-v42/source-comparison.md",
+            "sha256": "07427343967714a13ee23c9e1f9fb071077658c55593a6de0881087c41f31673"
+          },
+          "visual_review": {
+            "path": "research/revision-v42/visual-review.md",
+            "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+          },
+          "producer": "image_gen",
+          "style": "textbook-serif",
+          "reviewer": "Codex 2026-10-29",
+          "expected_expression": "ΔH₁ = −189.3 kJ",
+          "checks": {
+            "coefficients": true,
+            "elements": true,
+            "charges": true,
+            "states": true,
+            "subscripts": true,
+            "direction": true,
+            "enthalpy_sign_values": true,
+            "italic_enthalpy_H": true,
+            "upright_elements_parentheses": true,
+            "italic_states": true,
+            "serif_visual": true
+          },
+          "reference_glyph_height_px": 205
+        }
+      ],
+      "non_equation_images": [
+        {
+          "picture_id": "7",
+          "reason": "Branding, scene, photo, layout asset, original scientific diagram, or newly generated carbon-cycle scientific diagram reviewed in visual-review.md; labels integral to diagram."
+        },
+        {
+          "picture_id": "8",
+          "reason": "Branding, scene, photo, layout asset, original scientific diagram, or newly generated carbon-cycle scientific diagram reviewed in visual-review.md; labels integral to diagram."
+        }
+      ],
+      "inline_or_science_labels": [
+        {
+          "shape_id": "6",
+          "text": "경로가 달라도, ΔH는 같다",
+          "role": "inline-explanation",
+          "reason": "Concept heading, explanatory sentence or notation label; not a standalone reaction/calculation."
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "render": {
+        "path": "drafts/full-v01/output/slide-09.png",
+        "sha256": "71f3490d98a788490ace75c3475f401125784cbe2ed6896f78a5dd4bfa87239f"
+      },
+      "inventory_review": {
+        "path": "research/revision-v42/visual-review.md",
+        "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+      },
+      "reviewer": "Codex 2026-10-29",
+      "equations": [],
+      "non_equation_images": [
+        {
+          "picture_id": "4",
+          "reason": "Branding, scene, photo, layout asset, original scientific diagram, or newly generated carbon-cycle scientific diagram reviewed in visual-review.md; labels integral to diagram."
+        },
+        {
+          "picture_id": "5",
+          "reason": "Branding, scene, photo, layout asset, original scientific diagram, or newly generated carbon-cycle scientific diagram reviewed in visual-review.md; labels integral to diagram."
+        }
+      ],
+      "inline_or_science_labels": []
+    },
+    {
+      "number": 10,
+      "render": {
+        "path": "drafts/full-v01/output/slide-10.png",
+        "sha256": "45481cd11e77ee1e61447436d69c9828dd4f25d330d9dd4ab493bf7c0f3fd827"
+      },
+      "inventory_review": {
+        "path": "research/revision-v42/visual-review.md",
+        "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+      },
+      "reviewer": "Codex 2026-10-29",
+      "equations": [
+        {
+          "picture_id": "7",
+          "asset": {
+            "path": "assets/equations-white-v31/d7642264c084b514.png",
+            "sha256": "f137b6d24f0f169a912421836b0681c207ad18bbe21a93e474c8f31c7942cc85"
+          },
+          "generation_record": {
+            "path": "assets/equations-white-v31/manifest.json",
+            "sha256": "761b172397aa5f60a9532a52093cb352d464d3821744740801738bfc0274bbcf"
+          },
+          "source_comparison": {
+            "path": "research/revision-v42/source-comparison.md",
+            "sha256": "07427343967714a13ee23c9e1f9fb071077658c55593a6de0881087c41f31673"
+          },
+          "visual_review": {
+            "path": "research/revision-v42/visual-review.md",
+            "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+          },
+          "producer": "preserved-source-color-correction",
+          "style": "textbook-serif",
+          "reviewer": "Codex 2026-10-29",
+          "expected_expression": "반응식 이미지 t84-cao-dissolve — assets/equations-v05/provenance.json",
+          "checks": {
+            "coefficients": true,
+            "elements": true,
+            "charges": true,
+            "states": true,
+            "subscripts": true,
+            "direction": true,
+            "enthalpy_sign_values": true,
+            "italic_enthalpy_H": true,
+            "upright_elements_parentheses": true,
+            "italic_states": true,
+            "serif_visual": true
+          },
+          "reference_glyph_height_px": 38.0,
+          "preserved_source": {
+            "path": "assets/equations-white-v31/d7642264c084b514-source.png",
+            "sha256": "d7642264c084b514cf474e4c1ea39ec05a1a1f1a7613ac238a5f5bbe6b847951"
+          },
+          "preservation_record": {
+            "path": "research/revision-v42/source-comparison.md",
+            "sha256": "07427343967714a13ee23c9e1f9fb071077658c55593a6de0881087c41f31673"
+          },
+          "glyphs_unchanged": true
+        },
+        {
+          "picture_id": "8",
+          "asset": {
+            "path": "assets/equations-white-v31/aec63fcc5cbb914e.png",
+            "sha256": "c9bb6de330ac6fc585fb992d5e29c139f79367e10333fb5c8c3edafbb8875a98"
+          },
+          "generation_record": {
+            "path": "assets/equations-white-v31/manifest.json",
+            "sha256": "761b172397aa5f60a9532a52093cb352d464d3821744740801738bfc0274bbcf"
+          },
+          "source_comparison": {
+            "path": "research/revision-v42/source-comparison.md",
+            "sha256": "07427343967714a13ee23c9e1f9fb071077658c55593a6de0881087c41f31673"
+          },
+          "visual_review": {
+            "path": "research/revision-v42/visual-review.md",
+            "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+          },
+          "producer": "preserved-source-color-correction",
+          "style": "textbook-serif",
+          "reviewer": "Codex 2026-10-29",
+          "expected_expression": "반응식 이미지 t84-cao-neutral — assets/equations-v05/provenance.json",
+          "checks": {
+            "coefficients": true,
+            "elements": true,
+            "charges": true,
+            "states": true,
+            "subscripts": true,
+            "direction": true,
+            "enthalpy_sign_values": true,
+            "italic_enthalpy_H": true,
+            "upright_elements_parentheses": true,
+            "italic_states": true,
+            "serif_visual": true
+          },
+          "reference_glyph_height_px": 37.0,
+          "preserved_source": {
+            "path": "assets/equations-white-v31/aec63fcc5cbb914e-source.png",
+            "sha256": "aec63fcc5cbb914e4b6a7deab4a0bb3f0836c265cd3ada3e8f4d9c2d6f12d3c6"
+          },
+          "preservation_record": {
+            "path": "research/revision-v42/source-comparison.md",
+            "sha256": "07427343967714a13ee23c9e1f9fb071077658c55593a6de0881087c41f31673"
+          },
+          "glyphs_unchanged": true
+        },
+        {
+          "picture_id": "10",
+          "asset": {
+            "path": "assets/equations-white-v31/3d12c16eff4c7c11.png",
+            "sha256": "5092e361a73529c8ec4d799434cdab67735bb171ac1ac36dc1a638f3113a2f87"
+          },
+          "generation_record": {
+            "path": "assets/equations-white-v31/manifest.json",
+            "sha256": "761b172397aa5f60a9532a52093cb352d464d3821744740801738bfc0274bbcf"
+          },
+          "source_comparison": {
+            "path": "research/revision-v42/source-comparison.md",
+            "sha256": "07427343967714a13ee23c9e1f9fb071077658c55593a6de0881087c41f31673"
+          },
+          "visual_review": {
+            "path": "research/revision-v42/visual-review.md",
+            "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+          },
+          "producer": "preserved-source-color-correction",
+          "style": "textbook-serif",
+          "reviewer": "Codex 2026-10-29",
+          "expected_expression": "반응식 이미지 t84-cao-direct — assets/equations-v05/provenance.json",
+          "checks": {
+            "coefficients": true,
+            "elements": true,
+            "charges": true,
+            "states": true,
+            "subscripts": true,
+            "direction": true,
+            "enthalpy_sign_values": true,
+            "italic_enthalpy_H": true,
+            "upright_elements_parentheses": true,
+            "italic_states": true,
+            "serif_visual": true
+          },
+          "reference_glyph_height_px": 38.0,
+          "preserved_source": {
+            "path": "assets/equations-white-v31/3d12c16eff4c7c11-source.png",
+            "sha256": "3d12c16eff4c7c11a561d569b6e968a47b399d6f95e833d3ea24f6103f935f9a"
+          },
+          "preservation_record": {
+            "path": "research/revision-v42/source-comparison.md",
+            "sha256": "07427343967714a13ee23c9e1f9fb071077658c55593a6de0881087c41f31673"
+          },
+          "glyphs_unchanged": true
+        },
+        {
+          "picture_id": "12",
+          "asset": {
+            "path": "assets/calculation-v31/slide-9-white.png",
+            "sha256": "f27c6af89cb45c2c53cd1db75333cc7c29cb49d467d669b1f35da71cf1313c8d"
+          },
+          "generation_record": {
+            "path": "assets/calculation-v31/generation.json",
+            "sha256": "dc80bb6214863c6de0eca9db6fe9de53862eb6390d43e435ec384b6d3b4dcfd6"
+          },
+          "source_comparison": {
+            "path": "research/revision-v42/source-comparison.md",
+            "sha256": "07427343967714a13ee23c9e1f9fb071077658c55593a6de0881087c41f31673"
+          },
+          "visual_review": {
+            "path": "research/revision-v42/visual-review.md",
+            "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+          },
+          "producer": "image_gen",
+          "style": "textbook-serif",
+          "reviewer": "Codex 2026-10-29",
+          "expected_expression": "ΔH₁ = ΔH₂ + ΔH₃ = −189.3 kJ",
+          "checks": {
+            "coefficients": true,
+            "elements": true,
+            "charges": true,
+            "states": true,
+            "subscripts": true,
+            "direction": true,
+            "enthalpy_sign_values": true,
+            "italic_enthalpy_H": true,
+            "upright_elements_parentheses": true,
+            "italic_states": true,
+            "serif_visual": true
+          },
+          "reference_glyph_height_px": 112.0
+        }
+      ],
+      "non_equation_images": [
+        {
+          "picture_id": "9",
+          "reason": "Branding, scene, photo, layout asset, original scientific diagram, or newly generated carbon-cycle scientific diagram reviewed in visual-review.md; labels integral to diagram."
+        }
+      ],
+      "inline_or_science_labels": []
+    },
+    {
+      "number": 11,
+      "render": {
+        "path": "drafts/full-v01/output/slide-11.png",
+        "sha256": "e9e2c0187360c17ea128fbe04c4a639fb0f436bb9ccefea94d0f9ec07c162af6"
+      },
+      "inventory_review": {
+        "path": "research/revision-v42/visual-review.md",
+        "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+      },
+      "reviewer": "Codex 2026-10-29",
+      "equations": [
+        {
+          "picture_id": "7",
+          "asset": {
+            "path": "assets/equations-white-v31/8c797d7e60a4d91b.png",
+            "sha256": "d7204d1c0923c7cb824be5191560db8423e895072d458a136c29236a74b4660d"
+          },
+          "generation_record": {
+            "path": "assets/equations-white-v31/manifest.json",
+            "sha256": "761b172397aa5f60a9532a52093cb352d464d3821744740801738bfc0274bbcf"
+          },
+          "source_comparison": {
+            "path": "research/revision-v42/source-comparison.md",
+            "sha256": "07427343967714a13ee23c9e1f9fb071077658c55593a6de0881087c41f31673"
+          },
+          "visual_review": {
+            "path": "research/revision-v42/visual-review.md",
+            "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+          },
+          "producer": "preserved-source-color-correction",
+          "style": "textbook-serif",
+          "reviewer": "Codex 2026-10-29",
+          "expected_expression": "반응식 이미지 t76-water-one — assets/equations-v05/provenance.json",
+          "checks": {
+            "coefficients": true,
+            "elements": true,
+            "charges": true,
+            "states": true,
+            "subscripts": true,
+            "direction": true,
+            "enthalpy_sign_values": true,
+            "italic_enthalpy_H": true,
+            "upright_elements_parentheses": true,
+            "italic_states": true,
+            "serif_visual": true
+          },
+          "reference_glyph_height_px": 31.0,
+          "preserved_source": {
+            "path": "assets/equations-white-v31/8c797d7e60a4d91b-source.png",
+            "sha256": "8c797d7e60a4d91b4c2d173bbadcc7e244a4e48ed6baa1f940f399158cbe3568"
+          },
+          "preservation_record": {
+            "path": "research/revision-v42/source-comparison.md",
+            "sha256": "07427343967714a13ee23c9e1f9fb071077658c55593a6de0881087c41f31673"
+          },
+          "glyphs_unchanged": true
+        },
+        {
+          "picture_id": "8",
+          "asset": {
+            "path": "assets/equations-white-v31/ae270b261617f4b5.png",
+            "sha256": "84fc4ded0b3487418e3c2947b6c60a99a6791c276fc07bc26d3c88ada9980e0d"
+          },
+          "generation_record": {
+            "path": "assets/equations-white-v31/manifest.json",
+            "sha256": "761b172397aa5f60a9532a52093cb352d464d3821744740801738bfc0274bbcf"
+          },
+          "source_comparison": {
+            "path": "research/revision-v42/source-comparison.md",
+            "sha256": "07427343967714a13ee23c9e1f9fb071077658c55593a6de0881087c41f31673"
+          },
+          "visual_review": {
+            "path": "research/revision-v42/visual-review.md",
+            "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+          },
+          "producer": "preserved-source-color-correction",
+          "style": "textbook-serif",
+          "reviewer": "Codex 2026-10-29",
+          "expected_expression": "반응식 이미지 t76-water-two — assets/equations-v05/provenance.json",
+          "checks": {
+            "coefficients": true,
+            "elements": true,
+            "charges": true,
+            "states": true,
+            "subscripts": true,
+            "direction": true,
+            "enthalpy_sign_values": true,
+            "italic_enthalpy_H": true,
+            "upright_elements_parentheses": true,
+            "italic_states": true,
+            "serif_visual": true
+          },
+          "reference_glyph_height_px": 31.0,
+          "preserved_source": {
+            "path": "assets/equations-white-v31/ae270b261617f4b5-source.png",
+            "sha256": "ae270b261617f4b58aba74210fbdf402f4fbbf0c4bfc0be0d8cc95dbccb603ad"
+          },
+          "preservation_record": {
+            "path": "research/revision-v42/source-comparison.md",
+            "sha256": "07427343967714a13ee23c9e1f9fb071077658c55593a6de0881087c41f31673"
+          },
+          "glyphs_unchanged": true
+        }
+      ],
+      "non_equation_images": [
+        {
+          "picture_id": "14",
+          "reason": "Branding, scene, photo, layout asset, original scientific diagram, or newly generated carbon-cycle scientific diagram reviewed in visual-review.md; labels integral to diagram."
+        }
+      ],
+      "inline_or_science_labels": [
+        {
+          "shape_id": "6",
+          "text": "계수와 ΔH는 같은 비율로",
+          "role": "inline-explanation",
+          "reason": "Concept heading, explanatory sentence or notation label; not a standalone reaction/calculation."
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "render": {
+        "path": "drafts/full-v01/output/slide-12.png",
+        "sha256": "0408adc8b62cbbd276bc62344335ca7a5318de128b487625e1e606d1f5bbd1af"
+      },
+      "inventory_review": {
+        "path": "research/revision-v42/visual-review.md",
+        "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+      },
+      "reviewer": "Codex 2026-10-29",
+      "equations": [
+        {
+          "picture_id": "7",
+          "asset": {
+            "path": "assets/equations-white-v31/04e3d8b08fb85fb1.png",
+            "sha256": "3ba9fa06a63fe56b893785089345db58c6c303e50d24110e58d84fc709805712"
+          },
+          "generation_record": {
+            "path": "assets/equations-white-v31/manifest.json",
+            "sha256": "761b172397aa5f60a9532a52093cb352d464d3821744740801738bfc0274bbcf"
+          },
+          "source_comparison": {
+            "path": "research/revision-v42/source-comparison.md",
+            "sha256": "07427343967714a13ee23c9e1f9fb071077658c55593a6de0881087c41f31673"
+          },
+          "visual_review": {
+            "path": "research/revision-v42/visual-review.md",
+            "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+          },
+          "producer": "preserved-source-color-correction",
+          "style": "textbook-serif",
+          "reviewer": "Codex 2026-10-29",
+          "expected_expression": "반응식 이미지 t86-ch4-formation — assets/equations-v05/provenance.json",
+          "checks": {
+            "coefficients": true,
+            "elements": true,
+            "charges": true,
+            "states": true,
+            "subscripts": true,
+            "direction": true,
+            "enthalpy_sign_values": true,
+            "italic_enthalpy_H": true,
+            "upright_elements_parentheses": true,
+            "italic_states": true,
+            "serif_visual": true
+          },
+          "reference_glyph_height_px": 40.0,
+          "preserved_source": {
+            "path": "assets/equations-white-v31/04e3d8b08fb85fb1-source.png",
+            "sha256": "04e3d8b08fb85fb1294c6cc6484ab9f981d1d4338b5af170ad7e2c774553540e"
+          },
+          "preservation_record": {
+            "path": "research/revision-v42/source-comparison.md",
+            "sha256": "07427343967714a13ee23c9e1f9fb071077658c55593a6de0881087c41f31673"
+          },
+          "glyphs_unchanged": true
+        },
+        {
+          "picture_id": "8",
+          "asset": {
+            "path": "assets/equations-white-v31/7f281cf3b892ca5d.png",
+            "sha256": "f863a81cc77e988aa06cef2f2e1da6792b573b52be1b0695b0208b74f312e77d"
+          },
+          "generation_record": {
+            "path": "assets/equations-white-v31/manifest.json",
+            "sha256": "761b172397aa5f60a9532a52093cb352d464d3821744740801738bfc0274bbcf"
+          },
+          "source_comparison": {
+            "path": "research/revision-v42/source-comparison.md",
+            "sha256": "07427343967714a13ee23c9e1f9fb071077658c55593a6de0881087c41f31673"
+          },
+          "visual_review": {
+            "path": "research/revision-v42/visual-review.md",
+            "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+          },
+          "producer": "preserved-source-color-correction",
+          "style": "textbook-serif",
+          "reviewer": "Codex 2026-10-29",
+          "expected_expression": "반응식 이미지 t87-ch4-decomposition — assets/equations-v05/provenance.json",
+          "checks": {
+            "coefficients": true,
+            "elements": true,
+            "charges": true,
+            "states": true,
+            "subscripts": true,
+            "direction": true,
+            "enthalpy_sign_values": true,
+            "italic_enthalpy_H": true,
+            "upright_elements_parentheses": true,
+            "italic_states": true,
+            "serif_visual": true
+          },
+          "reference_glyph_height_px": 40.5,
+          "preserved_source": {
+            "path": "assets/equations-white-v31/7f281cf3b892ca5d-source.png",
+            "sha256": "7f281cf3b892ca5ddccc9f5bfa1d632cae7b1264a6ca191140cf9ce753a57ddb"
+          },
+          "preservation_record": {
+            "path": "research/revision-v42/source-comparison.md",
+            "sha256": "07427343967714a13ee23c9e1f9fb071077658c55593a6de0881087c41f31673"
+          },
+          "glyphs_unchanged": true
+        }
+      ],
+      "non_equation_images": [
+        {
+          "picture_id": "14",
+          "reason": "Branding, scene, photo, layout asset, original scientific diagram, or newly generated carbon-cycle scientific diagram reviewed in visual-review.md; labels integral to diagram."
+        }
+      ],
+      "inline_or_science_labels": []
+    },
+    {
+      "number": 13,
+      "render": {
+        "path": "drafts/full-v01/output/slide-13.png",
+        "sha256": "daf28d3e62032b678bf63f959df36cb6d1ee41cd0be5df868e4992393cc6ed2e"
+      },
+      "inventory_review": {
+        "path": "research/revision-v42/visual-review.md",
+        "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+      },
+      "reviewer": "Codex 2026-10-29",
+      "equations": [],
+      "non_equation_images": [
+        {
+          "picture_id": "28",
+          "reason": "Branding, scene, photo, layout asset, original scientific diagram, or newly generated carbon-cycle scientific diagram reviewed in visual-review.md; labels integral to diagram."
+        }
+      ],
+      "inline_or_science_labels": []
+    },
+    {
+      "number": 14,
+      "render": {
+        "path": "drafts/full-v01/output/slide-14.png",
+        "sha256": "fd41a3e1e72c4202cff6d69ead8f54caad03c0b70d3d97fc525b670cd01f7b31"
+      },
+      "inventory_review": {
+        "path": "research/revision-v42/visual-review.md",
+        "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+      },
+      "reviewer": "Codex 2026-10-29",
+      "equations": [],
+      "non_equation_images": [
+        {
+          "picture_id": "9",
+          "reason": "Branding, scene, photo, layout asset, original scientific diagram, or newly generated carbon-cycle scientific diagram reviewed in visual-review.md; labels integral to diagram."
+        },
+        {
+          "picture_id": "4",
+          "reason": "Branding, scene, photo, layout asset, original scientific diagram, or newly generated carbon-cycle scientific diagram reviewed in visual-review.md; labels integral to diagram."
+        }
+      ],
+      "inline_or_science_labels": []
+    },
+    {
+      "number": 15,
+      "render": {
+        "path": "drafts/full-v01/output/slide-15.png",
+        "sha256": "f61bc75290cfd51cb854281684238a07f993442e6b628b585891e717a0fa52cd"
+      },
+      "inventory_review": {
+        "path": "research/revision-v42/visual-review.md",
+        "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+      },
+      "reviewer": "Codex 2026-10-29",
+      "equations": [],
+      "non_equation_images": [
+        {
+          "picture_id": "20",
+          "reason": "Branding, scene, photo, layout asset, original scientific diagram, or newly generated carbon-cycle scientific diagram reviewed in visual-review.md; labels integral to diagram."
+        },
+        {
+          "picture_id": "21",
+          "reason": "Branding, scene, photo, layout asset, original scientific diagram, or newly generated carbon-cycle scientific diagram reviewed in visual-review.md; labels integral to diagram."
+        },
+        {
+          "picture_id": "7",
+          "reason": "Branding, scene, photo, layout asset, original scientific diagram, or newly generated carbon-cycle scientific diagram reviewed in visual-review.md; labels integral to diagram."
+        }
+      ],
+      "inline_or_science_labels": [
+        {
+          "shape_id": "16",
+          "text": "불완전 연소 중 CO₂도 생성되어CO 생성열만 분리하기 어렵다.",
+          "role": "inline-explanation",
+          "reason": "Concept heading, explanatory sentence or notation label; not a standalone reaction/calculation."
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "render": {
+        "path": "drafts/full-v01/output/slide-16.png",
+        "sha256": "e72d741b63355edc7dad1699c36f27b3558f6b2a4071212254022a02b3b9a146"
+      },
+      "inventory_review": {
+        "path": "research/revision-v42/visual-review.md",
+        "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+      },
+      "reviewer": "Codex 2026-10-29",
+      "equations": [
+        {
+          "picture_id": "8",
+          "asset": {
+            "path": "assets/equations-white-v31/cfe45a2cbd46655a.png",
+            "sha256": "1ed4d6e1fc21748a4c4d73289243e69ac32c2a90baae65a4d9d11e3bf9dc004d"
+          },
+          "generation_record": {
+            "path": "assets/equations-white-v31/manifest.json",
+            "sha256": "761b172397aa5f60a9532a52093cb352d464d3821744740801738bfc0274bbcf"
+          },
+          "source_comparison": {
+            "path": "research/revision-v42/source-comparison.md",
+            "sha256": "07427343967714a13ee23c9e1f9fb071077658c55593a6de0881087c41f31673"
+          },
+          "visual_review": {
+            "path": "research/revision-v42/visual-review.md",
+            "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+          },
+          "producer": "preserved-source-color-correction",
+          "style": "textbook-serif",
+          "reviewer": "Codex 2026-10-29",
+          "expected_expression": "반응식 이미지 t85-co-target — assets/equations-v05/provenance.json",
+          "checks": {
+            "coefficients": true,
+            "elements": true,
+            "charges": true,
+            "states": true,
+            "subscripts": true,
+            "direction": true,
+            "enthalpy_sign_values": true,
+            "italic_enthalpy_H": true,
+            "upright_elements_parentheses": true,
+            "italic_states": true,
+            "serif_visual": true
+          },
+          "reference_glyph_height_px": 36.0,
+          "preserved_source": {
+            "path": "assets/equations-white-v31/cfe45a2cbd46655a-source.png",
+            "sha256": "cfe45a2cbd46655a1121cb3198bf26213e295ec6ebba9484b08ed82639a1af57"
+          },
+          "preservation_record": {
+            "path": "research/revision-v42/source-comparison.md",
+            "sha256": "07427343967714a13ee23c9e1f9fb071077658c55593a6de0881087c41f31673"
+          },
+          "glyphs_unchanged": true
+        },
+        {
+          "picture_id": "9",
+          "asset": {
+            "path": "assets/equations-white-v31/b911614765c23cc5.png",
+            "sha256": "4231cd289aadc5fca9a06a650d8f1d5211dda19f5d7137ddba6e488b519a7031"
+          },
+          "generation_record": {
+            "path": "assets/equations-white-v31/manifest.json",
+            "sha256": "761b172397aa5f60a9532a52093cb352d464d3821744740801738bfc0274bbcf"
+          },
+          "source_comparison": {
+            "path": "research/revision-v42/source-comparison.md",
+            "sha256": "07427343967714a13ee23c9e1f9fb071077658c55593a6de0881087c41f31673"
+          },
+          "visual_review": {
+            "path": "research/revision-v42/visual-review.md",
+            "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+          },
+          "producer": "preserved-source-color-correction",
+          "style": "textbook-serif",
+          "reviewer": "Codex 2026-10-29",
+          "expected_expression": "반응식 이미지 t85-co-total — assets/equations-v05/provenance.json",
+          "checks": {
+            "coefficients": true,
+            "elements": true,
+            "charges": true,
+            "states": true,
+            "subscripts": true,
+            "direction": true,
+            "enthalpy_sign_values": true,
+            "italic_enthalpy_H": true,
+            "upright_elements_parentheses": true,
+            "italic_states": true,
+            "serif_visual": true
+          },
+          "reference_glyph_height_px": 36.0,
+          "preserved_source": {
+            "path": "assets/equations-white-v31/b911614765c23cc5-source.png",
+            "sha256": "b911614765c23cc5a8c3931a6d13dcea9e1096994a05b5086658f680b7114846"
+          },
+          "preservation_record": {
+            "path": "research/revision-v42/source-comparison.md",
+            "sha256": "07427343967714a13ee23c9e1f9fb071077658c55593a6de0881087c41f31673"
+          },
+          "glyphs_unchanged": true
+        },
+        {
+          "picture_id": "10",
+          "asset": {
+            "path": "assets/equations-white-v31/cb25517c2c4220cc.png",
+            "sha256": "dfc6fe98591af0e689dd90535f39ec902ece8a96889e0017a60a8e5c72704249"
+          },
+          "generation_record": {
+            "path": "assets/equations-white-v31/manifest.json",
+            "sha256": "761b172397aa5f60a9532a52093cb352d464d3821744740801738bfc0274bbcf"
+          },
+          "source_comparison": {
+            "path": "research/revision-v42/source-comparison.md",
+            "sha256": "07427343967714a13ee23c9e1f9fb071077658c55593a6de0881087c41f31673"
+          },
+          "visual_review": {
+            "path": "research/revision-v42/visual-review.md",
+            "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+          },
+          "producer": "preserved-source-color-correction",
+          "style": "textbook-serif",
+          "reviewer": "Codex 2026-10-29",
+          "expected_expression": "반응식 이미지 t85-co-oxidize — assets/equations-v05/provenance.json",
+          "checks": {
+            "coefficients": true,
+            "elements": true,
+            "charges": true,
+            "states": true,
+            "subscripts": true,
+            "direction": true,
+            "enthalpy_sign_values": true,
+            "italic_enthalpy_H": true,
+            "upright_elements_parentheses": true,
+            "italic_states": true,
+            "serif_visual": true
+          },
+          "reference_glyph_height_px": 36.0,
+          "preserved_source": {
+            "path": "assets/equations-white-v31/cb25517c2c4220cc-source.png",
+            "sha256": "cb25517c2c4220ccbf672d8a06a4b99bceb258632d089ed2ccb303447ef988b0"
+          },
+          "preservation_record": {
+            "path": "research/revision-v42/source-comparison.md",
+            "sha256": "07427343967714a13ee23c9e1f9fb071077658c55593a6de0881087c41f31673"
+          },
+          "glyphs_unchanged": true
+        }
+      ],
+      "non_equation_images": [
+        {
+          "picture_id": "7",
+          "reason": "Branding, scene, photo, layout asset, original scientific diagram, or newly generated carbon-cycle scientific diagram reviewed in visual-review.md; labels integral to diagram."
+        }
+      ],
+      "inline_or_science_labels": []
+    },
+    {
+      "number": 17,
+      "render": {
+        "path": "drafts/full-v01/output/slide-17.png",
+        "sha256": "6cbe298e06d8ac89979aaed6b03ae61a488b054c0e6e912efcfda09ae330cab8"
+      },
+      "inventory_review": {
+        "path": "research/revision-v42/visual-review.md",
+        "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+      },
+      "reviewer": "Codex 2026-10-29",
+      "equations": [
+        {
+          "picture_id": "7",
+          "asset": {
+            "path": "assets/equations-white-v31/8f227d5b71925de7.png",
+            "sha256": "e3a3f438fdf97f5f3364cbb4d94a5889c45479b4926e69bf4b30baa5c92a02cf"
+          },
+          "generation_record": {
+            "path": "assets/equations-white-v31/manifest.json",
+            "sha256": "761b172397aa5f60a9532a52093cb352d464d3821744740801738bfc0274bbcf"
+          },
+          "source_comparison": {
+            "path": "research/revision-v42/source-comparison.md",
+            "sha256": "07427343967714a13ee23c9e1f9fb071077658c55593a6de0881087c41f31673"
+          },
+          "visual_review": {
+            "path": "research/revision-v42/visual-review.md",
+            "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+          },
+          "producer": "preserved-source-color-correction",
+          "style": "textbook-serif",
+          "reviewer": "Codex 2026-10-29",
+          "expected_expression": "반응식 이미지 t85-co-combine — assets/equations-v05/provenance.json",
+          "checks": {
+            "coefficients": true,
+            "elements": true,
+            "charges": true,
+            "states": true,
+            "subscripts": true,
+            "direction": true,
+            "enthalpy_sign_values": true,
+            "italic_enthalpy_H": true,
+            "upright_elements_parentheses": true,
+            "italic_states": true,
+            "serif_visual": true
+          },
+          "reference_glyph_height_px": 36.0,
+          "preserved_source": {
+            "path": "assets/equations-white-v31/8f227d5b71925de7-source.png",
+            "sha256": "8f227d5b71925de7605a5550b8b5db8fd3337ca362e220c9eaf498069662099a"
+          },
+          "preservation_record": {
+            "path": "research/revision-v42/source-comparison.md",
+            "sha256": "07427343967714a13ee23c9e1f9fb071077658c55593a6de0881087c41f31673"
+          },
+          "glyphs_unchanged": true
+        },
+        {
+          "picture_id": "10",
+          "asset": {
+            "path": "assets/calculation-v31/slide-16-white.png",
+            "sha256": "13a6b74feb7f3d45dcfdcbb36a8e4d00cbd79e6efb06676c748da31015707d3f"
+          },
+          "generation_record": {
+            "path": "assets/calculation-v31/generation.json",
+            "sha256": "dc80bb6214863c6de0eca9db6fe9de53862eb6390d43e435ec384b6d3b4dcfd6"
+          },
+          "source_comparison": {
+            "path": "research/revision-v42/source-comparison.md",
+            "sha256": "07427343967714a13ee23c9e1f9fb071077658c55593a6de0881087c41f31673"
+          },
+          "visual_review": {
+            "path": "research/revision-v42/visual-review.md",
+            "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+          },
+          "producer": "image_gen",
+          "style": "textbook-serif",
+          "reviewer": "Codex 2026-10-29",
+          "expected_expression": "ΔH₃ = ΔH₁ − ΔH₂",
+          "checks": {
+            "coefficients": true,
+            "elements": true,
+            "charges": true,
+            "states": true,
+            "subscripts": true,
+            "direction": true,
+            "enthalpy_sign_values": true,
+            "italic_enthalpy_H": true,
+            "upright_elements_parentheses": true,
+            "italic_states": true,
+            "serif_visual": true
+          },
+          "reference_glyph_height_px": 171.0
+        }
+      ],
+      "non_equation_images": [
+        {
+          "picture_id": "8",
+          "reason": "Branding, scene, photo, layout asset, original scientific diagram, or newly generated carbon-cycle scientific diagram reviewed in visual-review.md; labels integral to diagram."
+        }
+      ],
+      "inline_or_science_labels": [
+        {
+          "shape_id": "6",
+          "text": "CO₂를 소거해 목표 반응을 만든다",
+          "role": "inline-explanation",
+          "reason": "Concept heading, explanatory sentence or notation label; not a standalone reaction/calculation."
+        },
+        {
+          "shape_id": "15",
+          "text": "같은 CO₂는 소거",
+          "role": "inline-explanation",
+          "reason": "Concept heading, explanatory sentence or notation label; not a standalone reaction/calculation."
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "render": {
+        "path": "drafts/full-v01/output/slide-18.png",
+        "sha256": "a8a085f5d03c95f446ab3a76563fb12e5f09bb105ba24b2c129bcaf085335336"
+      },
+      "inventory_review": {
+        "path": "research/revision-v42/visual-review.md",
+        "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+      },
+      "reviewer": "Codex 2026-10-29",
+      "equations": [
+        {
+          "picture_id": "8",
+          "asset": {
+            "path": "assets/equations-white-v31/b911614765c23cc5.png",
+            "sha256": "4231cd289aadc5fca9a06a650d8f1d5211dda19f5d7137ddba6e488b519a7031"
+          },
+          "generation_record": {
+            "path": "assets/equations-white-v31/manifest.json",
+            "sha256": "761b172397aa5f60a9532a52093cb352d464d3821744740801738bfc0274bbcf"
+          },
+          "source_comparison": {
+            "path": "research/revision-v42/source-comparison.md",
+            "sha256": "07427343967714a13ee23c9e1f9fb071077658c55593a6de0881087c41f31673"
+          },
+          "visual_review": {
+            "path": "research/revision-v42/visual-review.md",
+            "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+          },
+          "producer": "preserved-source-color-correction",
+          "style": "textbook-serif",
+          "reviewer": "Codex 2026-10-29",
+          "expected_expression": "반응식 이미지 t85-co-total — assets/equations-v05/provenance.json",
+          "checks": {
+            "coefficients": true,
+            "elements": true,
+            "charges": true,
+            "states": true,
+            "subscripts": true,
+            "direction": true,
+            "enthalpy_sign_values": true,
+            "italic_enthalpy_H": true,
+            "upright_elements_parentheses": true,
+            "italic_states": true,
+            "serif_visual": true
+          },
+          "reference_glyph_height_px": 36.0,
+          "preserved_source": {
+            "path": "assets/equations-white-v31/b911614765c23cc5-source.png",
+            "sha256": "b911614765c23cc5a8c3931a6d13dcea9e1096994a05b5086658f680b7114846"
+          },
+          "preservation_record": {
+            "path": "research/revision-v42/source-comparison.md",
+            "sha256": "07427343967714a13ee23c9e1f9fb071077658c55593a6de0881087c41f31673"
+          },
+          "glyphs_unchanged": true
+        },
+        {
+          "picture_id": "9",
+          "asset": {
+            "path": "assets/equations-white-v31/cb25517c2c4220cc.png",
+            "sha256": "dfc6fe98591af0e689dd90535f39ec902ece8a96889e0017a60a8e5c72704249"
+          },
+          "generation_record": {
+            "path": "assets/equations-white-v31/manifest.json",
+            "sha256": "761b172397aa5f60a9532a52093cb352d464d3821744740801738bfc0274bbcf"
+          },
+          "source_comparison": {
+            "path": "research/revision-v42/source-comparison.md",
+            "sha256": "07427343967714a13ee23c9e1f9fb071077658c55593a6de0881087c41f31673"
+          },
+          "visual_review": {
+            "path": "research/revision-v42/visual-review.md",
+            "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+          },
+          "producer": "preserved-source-color-correction",
+          "style": "textbook-serif",
+          "reviewer": "Codex 2026-10-29",
+          "expected_expression": "반응식 이미지 t85-co-oxidize — assets/equations-v05/provenance.json",
+          "checks": {
+            "coefficients": true,
+            "elements": true,
+            "charges": true,
+            "states": true,
+            "subscripts": true,
+            "direction": true,
+            "enthalpy_sign_values": true,
+            "italic_enthalpy_H": true,
+            "upright_elements_parentheses": true,
+            "italic_states": true,
+            "serif_visual": true
+          },
+          "reference_glyph_height_px": 36.0,
+          "preserved_source": {
+            "path": "assets/equations-white-v31/cb25517c2c4220cc-source.png",
+            "sha256": "cb25517c2c4220ccbf672d8a06a4b99bceb258632d089ed2ccb303447ef988b0"
+          },
+          "preservation_record": {
+            "path": "research/revision-v42/source-comparison.md",
+            "sha256": "07427343967714a13ee23c9e1f9fb071077658c55593a6de0881087c41f31673"
+          },
+          "glyphs_unchanged": true
+        },
+        {
+          "picture_id": "11",
+          "asset": {
+            "path": "assets/calculation-v31/slide-17-white.png",
+            "sha256": "f3ffc3396015cb49e7c59344264f8217d4867e280671fcd58a195d368e906190"
+          },
+          "generation_record": {
+            "path": "assets/calculation-v31/generation.json",
+            "sha256": "dc80bb6214863c6de0eca9db6fe9de53862eb6390d43e435ec384b6d3b4dcfd6"
+          },
+          "source_comparison": {
+            "path": "research/revision-v42/source-comparison.md",
+            "sha256": "07427343967714a13ee23c9e1f9fb071077658c55593a6de0881087c41f31673"
+          },
+          "visual_review": {
+            "path": "research/revision-v42/visual-review.md",
+            "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+          },
+          "producer": "image_gen",
+          "style": "textbook-serif",
+          "reviewer": "Codex 2026-10-29",
+          "expected_expression": "ΔH₃ = ΔH₁ − ΔH₂\n= −393.5 − (−283.0) = −110.5 kJ",
+          "checks": {
+            "coefficients": true,
+            "elements": true,
+            "charges": true,
+            "states": true,
+            "subscripts": true,
+            "direction": true,
+            "enthalpy_sign_values": true,
+            "italic_enthalpy_H": true,
+            "upright_elements_parentheses": true,
+            "italic_states": true,
+            "serif_visual": true
+          },
+          "reference_glyph_height_px": 112.0
+        }
+      ],
+      "non_equation_images": [
+        {
+          "picture_id": "7",
+          "reason": "Branding, scene, photo, layout asset, original scientific diagram, or newly generated carbon-cycle scientific diagram reviewed in visual-review.md; labels integral to diagram."
+        }
+      ],
+      "inline_or_science_labels": []
+    },
+    {
+      "number": 19,
+      "render": {
+        "path": "drafts/full-v01/output/slide-19.png",
+        "sha256": "8075c00f3e4c5fa554f3c05fa90d4a8292d022ab5fe43427f96c7490c0f7ba44"
+      },
+      "inventory_review": {
+        "path": "research/revision-v42/visual-review.md",
+        "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+      },
+      "reviewer": "Codex 2026-10-29",
+      "equations": [
+        {
+          "picture_id": "9",
+          "asset": {
+            "path": "assets/equations-white-v31/14a21b6b05a3483e.png",
+            "sha256": "61effe4c26b09267e37db97fe674e16ea51a8a141e4fda58df008a3fbd435463"
+          },
+          "generation_record": {
+            "path": "assets/equations-white-v31/manifest.json",
+            "sha256": "761b172397aa5f60a9532a52093cb352d464d3821744740801738bfc0274bbcf"
+          },
+          "source_comparison": {
+            "path": "research/revision-v42/source-comparison.md",
+            "sha256": "07427343967714a13ee23c9e1f9fb071077658c55593a6de0881087c41f31673"
+          },
+          "visual_review": {
+            "path": "research/revision-v42/visual-review.md",
+            "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+          },
+          "producer": "preserved-source-color-correction",
+          "style": "textbook-serif",
+          "reviewer": "Codex 2026-10-29",
+          "expected_expression": "2015 완자137쪽 목표 반응식 원본",
+          "checks": {
+            "coefficients": true,
+            "elements": true,
+            "charges": true,
+            "states": true,
+            "subscripts": true,
+            "direction": true,
+            "enthalpy_sign_values": true,
+            "italic_enthalpy_H": true,
+            "upright_elements_parentheses": true,
+            "italic_states": true,
+            "serif_visual": true
+          },
+          "reference_glyph_height_px": 31.0,
+          "preserved_source": {
+            "path": "assets/equations-white-v31/14a21b6b05a3483e-source.png",
+            "sha256": "14a21b6b05a3483e02cd43925188031ec383238c31e0df0720c353cbcccc5bb4"
+          },
+          "preservation_record": {
+            "path": "research/revision-v42/source-comparison.md",
+            "sha256": "07427343967714a13ee23c9e1f9fb071077658c55593a6de0881087c41f31673"
+          },
+          "glyphs_unchanged": true
+        }
+      ],
+      "non_equation_images": [
+        {
+          "picture_id": "14",
+          "reason": "Branding, scene, photo, layout asset, original scientific diagram, or newly generated carbon-cycle scientific diagram reviewed in visual-review.md; labels integral to diagram."
+        },
+        {
+          "picture_id": "13",
+          "reason": "Branding, scene, photo, layout asset, original scientific diagram, or newly generated carbon-cycle scientific diagram reviewed in visual-review.md; labels integral to diagram."
+        }
+      ],
+      "inline_or_science_labels": [
+        {
+          "shape_id": "12",
+          "text": "헤스 법칙으로 두 물질 사이의 ΔH를 구한다.",
+          "role": "inline-explanation",
+          "reason": "Concept heading, explanatory sentence or notation label; not a standalone reaction/calculation."
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "render": {
+        "path": "drafts/full-v01/output/slide-20.png",
+        "sha256": "5757cdc0ea7544613c66991aa7ea536cc251c8b99a462d1c71226e9ae5245b31"
+      },
+      "inventory_review": {
+        "path": "research/revision-v42/visual-review.md",
+        "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+      },
+      "reviewer": "Codex 2026-10-29",
+      "equations": [
+        {
+          "picture_id": "8",
+          "asset": {
+            "path": "assets/equations-white-v31/a5c86c7c2520e0b3.png",
+            "sha256": "51768846d9dcd7e9a2f71b094290174d0c3220453e18b8f6426e3839f143b99b"
+          },
+          "generation_record": {
+            "path": "assets/equations-white-v31/manifest.json",
+            "sha256": "761b172397aa5f60a9532a52093cb352d464d3821744740801738bfc0274bbcf"
+          },
+          "source_comparison": {
+            "path": "research/revision-v42/source-comparison.md",
+            "sha256": "07427343967714a13ee23c9e1f9fb071077658c55593a6de0881087c41f31673"
+          },
+          "visual_review": {
+            "path": "research/revision-v42/visual-review.md",
+            "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+          },
+          "producer": "preserved-source-color-correction",
+          "style": "textbook-serif",
+          "reviewer": "Codex 2026-10-29",
+          "expected_expression": "2022 완자127쪽 흑연 연소 반응식 원본",
+          "checks": {
+            "coefficients": true,
+            "elements": true,
+            "charges": true,
+            "states": true,
+            "subscripts": true,
+            "direction": true,
+            "enthalpy_sign_values": true,
+            "italic_enthalpy_H": true,
+            "upright_elements_parentheses": true,
+            "italic_states": true,
+            "serif_visual": true
+          },
+          "reference_glyph_height_px": 29.0,
+          "preserved_source": {
+            "path": "assets/equations-white-v31/a5c86c7c2520e0b3-source.png",
+            "sha256": "a5c86c7c2520e0b328d1ad79971d5086b4b76f733dc12d3c72e4585337e56815"
+          },
+          "preservation_record": {
+            "path": "research/revision-v42/source-comparison.md",
+            "sha256": "07427343967714a13ee23c9e1f9fb071077658c55593a6de0881087c41f31673"
+          },
+          "glyphs_unchanged": true
+        },
+        {
+          "picture_id": "9",
+          "asset": {
+            "path": "assets/equations-white-v31/9ff2b6e35b48ba20.png",
+            "sha256": "a755a884e11b94ceba9e10c353ddc99611be6f49746e4e9cabb7011b020e3507"
+          },
+          "generation_record": {
+            "path": "assets/equations-white-v31/manifest.json",
+            "sha256": "761b172397aa5f60a9532a52093cb352d464d3821744740801738bfc0274bbcf"
+          },
+          "source_comparison": {
+            "path": "research/revision-v42/source-comparison.md",
+            "sha256": "07427343967714a13ee23c9e1f9fb071077658c55593a6de0881087c41f31673"
+          },
+          "visual_review": {
+            "path": "research/revision-v42/visual-review.md",
+            "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+          },
+          "producer": "preserved-source-color-correction",
+          "style": "textbook-serif",
+          "reviewer": "Codex 2026-10-29",
+          "expected_expression": "2022 완자127쪽 다이아몬드 연소 반응식 원본 — 원본문자 한 줄 재배치",
+          "checks": {
+            "coefficients": true,
+            "elements": true,
+            "charges": true,
+            "states": true,
+            "subscripts": true,
+            "direction": true,
+            "enthalpy_sign_values": true,
+            "italic_enthalpy_H": true,
+            "upright_elements_parentheses": true,
+            "italic_states": true,
+            "serif_visual": true
+          },
+          "reference_glyph_height_px": 29.0,
+          "preserved_source": {
+            "path": "assets/equations-white-v31/9ff2b6e35b48ba20-source.png",
+            "sha256": "9ff2b6e35b48ba208ba2190e903291f9d8d9c941f2938204e5c6d901da5ddcfb"
+          },
+          "preservation_record": {
+            "path": "research/revision-v42/source-comparison.md",
+            "sha256": "07427343967714a13ee23c9e1f9fb071077658c55593a6de0881087c41f31673"
+          },
+          "glyphs_unchanged": true
+        },
+        {
+          "picture_id": "12",
+          "asset": {
+            "path": "assets/calculation-v31/slide-19-white.png",
+            "sha256": "9b7ebcda17882f5dccd839e9a7e38866e12463ffe24c29c340578faf8f595b75"
+          },
+          "generation_record": {
+            "path": "assets/calculation-v31/generation.json",
+            "sha256": "dc80bb6214863c6de0eca9db6fe9de53862eb6390d43e435ec384b6d3b4dcfd6"
+          },
+          "source_comparison": {
+            "path": "research/revision-v42/source-comparison.md",
+            "sha256": "07427343967714a13ee23c9e1f9fb071077658c55593a6de0881087c41f31673"
+          },
+          "visual_review": {
+            "path": "research/revision-v42/visual-review.md",
+            "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+          },
+          "producer": "image_gen",
+          "style": "textbook-serif",
+          "reviewer": "Codex 2026-10-29",
+          "expected_expression": "ΔH = −393.5 − (−395.4) = +1.9 kJ",
+          "checks": {
+            "coefficients": true,
+            "elements": true,
+            "charges": true,
+            "states": true,
+            "subscripts": true,
+            "direction": true,
+            "enthalpy_sign_values": true,
+            "italic_enthalpy_H": true,
+            "upright_elements_parentheses": true,
+            "italic_states": true,
+            "serif_visual": true
+          },
+          "reference_glyph_height_px": 106.0
+        }
+      ],
+      "non_equation_images": [
+        {
+          "picture_id": "7",
+          "reason": "Branding, scene, photo, layout asset, original scientific diagram, or newly generated carbon-cycle scientific diagram reviewed in visual-review.md; labels integral to diagram."
+        }
+      ],
+      "inline_or_science_labels": []
+    },
+    {
+      "number": 21,
+      "render": {
+        "path": "drafts/full-v01/output/slide-21.png",
+        "sha256": "74e15dbed0f18605fd85b0e453a90b1c23dd6f809ee281484598cb88c09c0cf4"
+      },
+      "inventory_review": {
+        "path": "research/revision-v42/visual-review.md",
+        "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+      },
+      "reviewer": "Codex 2026-10-29",
+      "equations": [],
+      "non_equation_images": [
+        {
+          "picture_id": "32",
+          "reason": "Branding, scene, photo, layout asset, original scientific diagram, or newly generated carbon-cycle scientific diagram reviewed in visual-review.md; labels integral to diagram."
+        }
+      ],
+      "inline_or_science_labels": []
+    },
+    {
+      "number": 22,
+      "render": {
+        "path": "drafts/full-v01/output/slide-22.png",
+        "sha256": "b83c0044bb719ff830994670cf0100f2b298045f3d66ba05f81441368ac4b189"
+      },
+      "inventory_review": {
+        "path": "research/revision-v42/visual-review.md",
+        "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+      },
+      "reviewer": "Codex 2026-10-29",
+      "equations": [
+        {
+          "picture_id": "8",
+          "asset": {
+            "path": "assets/equations-white-v31/952b2f95e39bf29f.png",
+            "sha256": "06d4b953be3c1424738d3a3fabb8749bd9fe5bdef68a347300de68107c4290d2"
+          },
+          "generation_record": {
+            "path": "assets/equations-white-v31/manifest.json",
+            "sha256": "761b172397aa5f60a9532a52093cb352d464d3821744740801738bfc0274bbcf"
+          },
+          "source_comparison": {
+            "path": "research/revision-v42/source-comparison.md",
+            "sha256": "07427343967714a13ee23c9e1f9fb071077658c55593a6de0881087c41f31673"
+          },
+          "visual_review": {
+            "path": "research/revision-v42/visual-review.md",
+            "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+          },
+          "producer": "preserved-source-color-correction",
+          "style": "textbook-serif",
+          "reviewer": "Codex 2026-10-29",
+          "expected_expression": "반응식 이미지 w122-sulfur-given — assets/equations-v05/provenance.json",
+          "checks": {
+            "coefficients": true,
+            "elements": true,
+            "charges": true,
+            "states": true,
+            "subscripts": true,
+            "direction": true,
+            "enthalpy_sign_values": true,
+            "italic_enthalpy_H": true,
+            "upright_elements_parentheses": true,
+            "italic_states": true,
+            "serif_visual": true
+          },
+          "reference_glyph_height_px": 36.0,
+          "preserved_source": {
+            "path": "assets/equations-white-v31/952b2f95e39bf29f-source.png",
+            "sha256": "952b2f95e39bf29f7a5681e14b00d6073467f3b5c8061d8f49c4476a8965348f"
+          },
+          "preservation_record": {
+            "path": "research/revision-v42/source-comparison.md",
+            "sha256": "07427343967714a13ee23c9e1f9fb071077658c55593a6de0881087c41f31673"
+          },
+          "glyphs_unchanged": true
+        },
+        {
+          "picture_id": "10",
+          "asset": {
+            "path": "assets/equations-white-v31/4028acbeaad14036.png",
+            "sha256": "9ff3434a824a99d520a397f3ba44ef8189aec7ed7bc57ff00892ec3e99ece6b4"
+          },
+          "generation_record": {
+            "path": "assets/equations-white-v31/manifest.json",
+            "sha256": "761b172397aa5f60a9532a52093cb352d464d3821744740801738bfc0274bbcf"
+          },
+          "source_comparison": {
+            "path": "research/revision-v42/source-comparison.md",
+            "sha256": "07427343967714a13ee23c9e1f9fb071077658c55593a6de0881087c41f31673"
+          },
+          "visual_review": {
+            "path": "research/revision-v42/visual-review.md",
+            "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+          },
+          "producer": "preserved-source-color-correction",
+          "style": "textbook-serif",
+          "reviewer": "Codex 2026-10-29",
+          "expected_expression": "반응식 이미지 w122-sulfur-target — assets/equations-v05/provenance.json",
+          "checks": {
+            "coefficients": true,
+            "elements": true,
+            "charges": true,
+            "states": true,
+            "subscripts": true,
+            "direction": true,
+            "enthalpy_sign_values": true,
+            "italic_enthalpy_H": true,
+            "upright_elements_parentheses": true,
+            "italic_states": true,
+            "serif_visual": true
+          },
+          "reference_glyph_height_px": 36.0,
+          "preserved_source": {
+            "path": "assets/equations-white-v31/4028acbeaad14036-source.png",
+            "sha256": "4028acbeaad140367e7cc359582a5a66d2773863a58a4fc767fa0647f694514b"
+          },
+          "preservation_record": {
+            "path": "research/revision-v42/source-comparison.md",
+            "sha256": "07427343967714a13ee23c9e1f9fb071077658c55593a6de0881087c41f31673"
+          },
+          "glyphs_unchanged": true
+        }
+      ],
+      "non_equation_images": [
+        {
+          "picture_id": "7",
+          "reason": "Branding, scene, photo, layout asset, original scientific diagram, or newly generated carbon-cycle scientific diagram reviewed in visual-review.md; labels integral to diagram."
+        }
+      ],
+      "inline_or_science_labels": [
+        {
+          "shape_id": "6",
+          "text": "SO₂가 SO₃로 바뀔 때",
+          "role": "inline-explanation",
+          "reason": "Concept heading, explanatory sentence or notation label; not a standalone reaction/calculation."
+        }
+      ]
+    },
+    {
+      "number": 23,
+      "render": {
+        "path": "drafts/full-v01/output/slide-23.png",
+        "sha256": "7004edeaa90ed7fd4d7d470c4883d0fc763384e284f77f674f2cc1c0ae4b23b2"
+      },
+      "inventory_review": {
+        "path": "research/revision-v42/visual-review.md",
+        "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+      },
+      "reviewer": "Codex 2026-10-29",
+      "equations": [
+        {
+          "picture_id": "8",
+          "asset": {
+            "path": "assets/equations-white-v31/952b2f95e39bf29f.png",
+            "sha256": "06d4b953be3c1424738d3a3fabb8749bd9fe5bdef68a347300de68107c4290d2"
+          },
+          "generation_record": {
+            "path": "assets/equations-white-v31/manifest.json",
+            "sha256": "761b172397aa5f60a9532a52093cb352d464d3821744740801738bfc0274bbcf"
+          },
+          "source_comparison": {
+            "path": "research/revision-v42/source-comparison.md",
+            "sha256": "07427343967714a13ee23c9e1f9fb071077658c55593a6de0881087c41f31673"
+          },
+          "visual_review": {
+            "path": "research/revision-v42/visual-review.md",
+            "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+          },
+          "producer": "preserved-source-color-correction",
+          "style": "textbook-serif",
+          "reviewer": "Codex 2026-10-29",
+          "expected_expression": "반응식 이미지 w122-sulfur-given — assets/equations-v05/provenance.json",
+          "checks": {
+            "coefficients": true,
+            "elements": true,
+            "charges": true,
+            "states": true,
+            "subscripts": true,
+            "direction": true,
+            "enthalpy_sign_values": true,
+            "italic_enthalpy_H": true,
+            "upright_elements_parentheses": true,
+            "italic_states": true,
+            "serif_visual": true
+          },
+          "reference_glyph_height_px": 36.0,
+          "preserved_source": {
+            "path": "assets/equations-white-v31/952b2f95e39bf29f-source.png",
+            "sha256": "952b2f95e39bf29f7a5681e14b00d6073467f3b5c8061d8f49c4476a8965348f"
+          },
+          "preservation_record": {
+            "path": "research/revision-v42/source-comparison.md",
+            "sha256": "07427343967714a13ee23c9e1f9fb071077658c55593a6de0881087c41f31673"
+          },
+          "glyphs_unchanged": true
+        },
+        {
+          "picture_id": "9",
+          "asset": {
+            "path": "assets/equations-white-v31/4028acbeaad14036.png",
+            "sha256": "9ff3434a824a99d520a397f3ba44ef8189aec7ed7bc57ff00892ec3e99ece6b4"
+          },
+          "generation_record": {
+            "path": "assets/equations-white-v31/manifest.json",
+            "sha256": "761b172397aa5f60a9532a52093cb352d464d3821744740801738bfc0274bbcf"
+          },
+          "source_comparison": {
+            "path": "research/revision-v42/source-comparison.md",
+            "sha256": "07427343967714a13ee23c9e1f9fb071077658c55593a6de0881087c41f31673"
+          },
+          "visual_review": {
+            "path": "research/revision-v42/visual-review.md",
+            "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+          },
+          "producer": "preserved-source-color-correction",
+          "style": "textbook-serif",
+          "reviewer": "Codex 2026-10-29",
+          "expected_expression": "반응식 이미지 w122-sulfur-target — assets/equations-v05/provenance.json",
+          "checks": {
+            "coefficients": true,
+            "elements": true,
+            "charges": true,
+            "states": true,
+            "subscripts": true,
+            "direction": true,
+            "enthalpy_sign_values": true,
+            "italic_enthalpy_H": true,
+            "upright_elements_parentheses": true,
+            "italic_states": true,
+            "serif_visual": true
+          },
+          "reference_glyph_height_px": 36.0,
+          "preserved_source": {
+            "path": "assets/equations-white-v31/4028acbeaad14036-source.png",
+            "sha256": "4028acbeaad140367e7cc359582a5a66d2773863a58a4fc767fa0647f694514b"
+          },
+          "preservation_record": {
+            "path": "research/revision-v42/source-comparison.md",
+            "sha256": "07427343967714a13ee23c9e1f9fb071077658c55593a6de0881087c41f31673"
+          },
+          "glyphs_unchanged": true
+        },
+        {
+          "picture_id": "11",
+          "asset": {
+            "path": "assets/calculation-v31/slide-22-white.png",
+            "sha256": "ecc9cc99bc095a2ff573790ea4b073293fb4abe9db237eb6c7427b378761a265"
+          },
+          "generation_record": {
+            "path": "assets/calculation-v31/generation.json",
+            "sha256": "dc80bb6214863c6de0eca9db6fe9de53862eb6390d43e435ec384b6d3b4dcfd6"
+          },
+          "source_comparison": {
+            "path": "research/revision-v42/source-comparison.md",
+            "sha256": "07427343967714a13ee23c9e1f9fb071077658c55593a6de0881087c41f31673"
+          },
+          "visual_review": {
+            "path": "research/revision-v42/visual-review.md",
+            "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+          },
+          "producer": "image_gen",
+          "style": "textbook-serif",
+          "reviewer": "Codex 2026-10-29",
+          "expected_expression": "ΔH = −791 − 2 × (−297) = −197 kJ",
+          "checks": {
+            "coefficients": true,
+            "elements": true,
+            "charges": true,
+            "states": true,
+            "subscripts": true,
+            "direction": true,
+            "enthalpy_sign_values": true,
+            "italic_enthalpy_H": true,
+            "upright_elements_parentheses": true,
+            "italic_states": true,
+            "serif_visual": true
+          },
+          "reference_glyph_height_px": 97.0
+        }
+      ],
+      "non_equation_images": [
+        {
+          "picture_id": "7",
+          "reason": "Branding, scene, photo, layout asset, original scientific diagram, or newly generated carbon-cycle scientific diagram reviewed in visual-review.md; labels integral to diagram."
+        }
+      ],
+      "inline_or_science_labels": [
+        {
+          "shape_id": "6",
+          "text": "반응식과 ΔH를 함께 검산",
+          "role": "inline-explanation",
+          "reason": "Concept heading, explanatory sentence or notation label; not a standalone reaction/calculation."
+        }
+      ]
+    },
+    {
+      "number": 24,
+      "render": {
+        "path": "drafts/full-v01/output/slide-24.png",
+        "sha256": "2c325f0a8d9a5720a121748b151f91b856ba545b13278694dea90552f736a215"
+      },
+      "inventory_review": {
+        "path": "research/revision-v42/visual-review.md",
+        "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+      },
+      "reviewer": "Codex 2026-10-29",
+      "equations": [
+        {
+          "picture_id": "9",
+          "asset": {
+            "path": "assets/calculation-v31/slide-23-white.png",
+            "sha256": "47a3fc38cbbfa4e0e41c51aa697c6d2c545840a3b976ae3fde7529769ca0e5b1"
+          },
+          "generation_record": {
+            "path": "assets/calculation-v31/generation.json",
+            "sha256": "dc80bb6214863c6de0eca9db6fe9de53862eb6390d43e435ec384b6d3b4dcfd6"
+          },
+          "source_comparison": {
+            "path": "research/revision-v42/source-comparison.md",
+            "sha256": "07427343967714a13ee23c9e1f9fb071077658c55593a6de0881087c41f31673"
+          },
+          "visual_review": {
+            "path": "research/revision-v42/visual-review.md",
+            "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+          },
+          "producer": "image_gen",
+          "style": "textbook-serif",
+          "reviewer": "Codex 2026-10-29",
+          "expected_expression": "ΔH₁ = ΔH₃ + ΔH₂\nΔH₃ = ΔH₁ − ΔH₂",
+          "checks": {
+            "coefficients": true,
+            "elements": true,
+            "charges": true,
+            "states": true,
+            "subscripts": true,
+            "direction": true,
+            "enthalpy_sign_values": true,
+            "italic_enthalpy_H": true,
+            "upright_elements_parentheses": true,
+            "italic_states": true,
+            "serif_visual": true
+          },
+          "reference_glyph_height_px": 156.5
+        }
+      ],
+      "non_equation_images": [
+        {
+          "picture_id": "8",
+          "reason": "Branding, scene, photo, layout asset, original scientific diagram, or newly generated carbon-cycle scientific diagram reviewed in visual-review.md; labels integral to diagram."
+        },
+        {
+          "picture_id": "7",
+          "reason": "Branding, scene, photo, layout asset, original scientific diagram, or newly generated carbon-cycle scientific diagram reviewed in visual-review.md; labels integral to diagram."
+        }
+      ],
+      "inline_or_science_labels": []
+    },
+    {
+      "number": 25,
+      "render": {
+        "path": "drafts/full-v01/output/slide-25.png",
+        "sha256": "8526cb97659f21224b353a35961af8ccf92285ca3de6eb14ed690801c81f7875"
+      },
+      "inventory_review": {
+        "path": "research/revision-v42/visual-review.md",
+        "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+      },
+      "reviewer": "Codex 2026-10-29",
+      "equations": [],
+      "non_equation_images": [
+        {
+          "picture_id": "9",
+          "reason": "Branding, scene, photo, layout asset, original scientific diagram, or newly generated carbon-cycle scientific diagram reviewed in visual-review.md; labels integral to diagram."
+        },
+        {
+          "picture_id": "4",
+          "reason": "Branding, scene, photo, layout asset, original scientific diagram, or newly generated carbon-cycle scientific diagram reviewed in visual-review.md; labels integral to diagram."
+        }
+      ],
+      "inline_or_science_labels": []
+    },
+    {
+      "number": 26,
+      "render": {
+        "path": "drafts/full-v01/output/slide-26.png",
+        "sha256": "aa52f38ffe77ffddb8af74d65834ba5b864b2676e594e365f9336d1e4d449ed1"
+      },
+      "inventory_review": {
+        "path": "research/revision-v42/visual-review.md",
+        "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+      },
+      "reviewer": "Codex 2026-10-29",
+      "equations": [
+        {
+          "picture_id": "8",
+          "asset": {
+            "path": "assets/equations-white-v31/34ae3c8e54c5a559.png",
+            "sha256": "843b3260106cddfaf9bb5424c2417014c9b25356f6b85d7a9321c31e8e6a005f"
+          },
+          "generation_record": {
+            "path": "assets/equations-white-v31/manifest.json",
+            "sha256": "761b172397aa5f60a9532a52093cb352d464d3821744740801738bfc0274bbcf"
+          },
+          "source_comparison": {
+            "path": "research/revision-v42/source-comparison.md",
+            "sha256": "07427343967714a13ee23c9e1f9fb071077658c55593a6de0881087c41f31673"
+          },
+          "visual_review": {
+            "path": "research/revision-v42/visual-review.md",
+            "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+          },
+          "producer": "preserved-source-color-correction",
+          "style": "textbook-serif",
+          "reviewer": "Codex 2026-10-29",
+          "expected_expression": "반응식 이미지 t85-water-liquid — assets/equations-v05/provenance.json",
+          "checks": {
+            "coefficients": true,
+            "elements": true,
+            "charges": true,
+            "states": true,
+            "subscripts": true,
+            "direction": true,
+            "enthalpy_sign_values": true,
+            "italic_enthalpy_H": true,
+            "upright_elements_parentheses": true,
+            "italic_states": true,
+            "serif_visual": true
+          },
+          "reference_glyph_height_px": 35.0,
+          "preserved_source": {
+            "path": "assets/equations-white-v31/34ae3c8e54c5a559-source.png",
+            "sha256": "34ae3c8e54c5a55922c37a3e66dc06dd7b181afc7b915f2042eeb3a258cf6228"
+          },
+          "preservation_record": {
+            "path": "research/revision-v42/source-comparison.md",
+            "sha256": "07427343967714a13ee23c9e1f9fb071077658c55593a6de0881087c41f31673"
+          },
+          "glyphs_unchanged": true
+        }
+      ],
+      "non_equation_images": [
+        {
+          "picture_id": "7",
+          "reason": "Branding, scene, photo, layout asset, original scientific diagram, or newly generated carbon-cycle scientific diagram reviewed in visual-review.md; labels integral to diagram."
+        }
+      ],
+      "inline_or_science_labels": []
+    },
+    {
+      "number": 27,
+      "render": {
+        "path": "drafts/full-v01/output/slide-27.png",
+        "sha256": "5464b2be2fe4507150da8ef101ed7df9183edbe00054e5d516fd5add5e631c82"
+      },
+      "inventory_review": {
+        "path": "research/revision-v42/visual-review.md",
+        "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+      },
+      "reviewer": "Codex 2026-10-29",
+      "equations": [
+        {
+          "picture_id": "7",
+          "asset": {
+            "path": "assets/reference-v32/formation-symbol-white.png",
+            "sha256": "3fc63173045b493f2064e84c616b371bf6f247f05cc47ee2ea82744b3eadc6ce"
+          },
+          "generation_record": {
+            "path": "assets/reference-v32/generation.json",
+            "sha256": "e0418c0da5579de3a49e2fbeb261639818bcc3362805896d304f3a03e38a9b48"
+          },
+          "source_comparison": {
+            "path": "research/revision-v42/source-comparison.md",
+            "sha256": "07427343967714a13ee23c9e1f9fb071077658c55593a6de0881087c41f31673"
+          },
+          "visual_review": {
+            "path": "research/revision-v42/visual-review.md",
+            "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+          },
+          "producer": "image_gen",
+          "style": "textbook-serif",
+          "reviewer": "Codex 2026-10-29",
+          "expected_expression": "ΔH_f°",
+          "checks": {
+            "coefficients": true,
+            "elements": true,
+            "charges": true,
+            "states": true,
+            "subscripts": true,
+            "direction": true,
+            "enthalpy_sign_values": true,
+            "italic_enthalpy_H": true,
+            "upright_elements_parentheses": true,
+            "italic_states": true,
+            "serif_visual": true
+          },
+          "reference_glyph_height_px": 310
+        }
+      ],
+      "non_equation_images": [
+        {
+          "picture_id": "12",
+          "reason": "Branding, scene, photo, layout asset, original scientific diagram, or newly generated carbon-cycle scientific diagram reviewed in visual-review.md; labels integral to diagram."
+        }
+      ],
+      "inline_or_science_labels": []
+    },
+    {
+      "number": 28,
+      "render": {
+        "path": "drafts/full-v01/output/slide-28.png",
+        "sha256": "bfc16d14cd9586c5cb8a79e01f656aa04e3e6c0d5b367dbf14e2554817242b0b"
+      },
+      "inventory_review": {
+        "path": "research/revision-v42/visual-review.md",
+        "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+      },
+      "reviewer": "Codex 2026-10-29",
+      "equations": [],
+      "non_equation_images": [
+        {
+          "picture_id": "14",
+          "reason": "Branding, scene, photo, layout asset, original scientific diagram, or newly generated carbon-cycle scientific diagram reviewed in visual-review.md; labels integral to diagram."
+        }
+      ],
+      "inline_or_science_labels": []
+    },
+    {
+      "number": 29,
+      "render": {
+        "path": "drafts/full-v01/output/slide-29.png",
+        "sha256": "1e48a94a03c29cdf0da17827bbdf021ed448ba4d201d9d0b6eaa5fc6d72d496a"
+      },
+      "inventory_review": {
+        "path": "research/revision-v42/visual-review.md",
+        "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+      },
+      "reviewer": "Codex 2026-10-29",
+      "equations": [],
+      "non_equation_images": [
+        {
+          "picture_id": "14",
+          "reason": "Branding, scene, photo, layout asset, original scientific diagram, or newly generated carbon-cycle scientific diagram reviewed in visual-review.md; labels integral to diagram."
+        }
+      ],
+      "inline_or_science_labels": []
+    },
+    {
+      "number": 30,
+      "render": {
+        "path": "drafts/full-v01/output/slide-30.png",
+        "sha256": "2d45989e9b77c83dade52e3ebb9c2fbc01719364158a659f775904d8d37858b0"
+      },
+      "inventory_review": {
+        "path": "research/revision-v42/visual-review.md",
+        "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+      },
+      "reviewer": "Codex 2026-10-29",
+      "equations": [],
+      "non_equation_images": [
+        {
+          "picture_id": "14",
+          "reason": "Branding, scene, photo, layout asset, original scientific diagram, or newly generated carbon-cycle scientific diagram reviewed in visual-review.md; labels integral to diagram."
+        }
+      ],
+      "inline_or_science_labels": []
+    },
+    {
+      "number": 31,
+      "render": {
+        "path": "drafts/full-v01/output/slide-31.png",
+        "sha256": "9648d93d824bfb2d4dba599c299901d3a58ec4a9316bcea4613f18254d1b6eeb"
+      },
+      "inventory_review": {
+        "path": "research/revision-v42/visual-review.md",
+        "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+      },
+      "reviewer": "Codex 2026-10-29",
+      "equations": [],
+      "non_equation_images": [
+        {
+          "picture_id": "14",
+          "reason": "Branding, scene, photo, layout asset, original scientific diagram, or newly generated carbon-cycle scientific diagram reviewed in visual-review.md; labels integral to diagram."
+        }
+      ],
+      "inline_or_science_labels": []
+    },
+    {
+      "number": 32,
+      "render": {
+        "path": "drafts/full-v01/output/slide-32.png",
+        "sha256": "4d02f738507b78e4490b301643e65e9a66da23cc5413b7ac4b6d694d9269605b"
+      },
+      "inventory_review": {
+        "path": "research/revision-v42/visual-review.md",
+        "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+      },
+      "reviewer": "Codex 2026-10-29",
+      "equations": [],
+      "non_equation_images": [
+        {
+          "picture_id": "7",
+          "reason": "Branding, scene, photo, layout asset, original scientific diagram, or newly generated carbon-cycle scientific diagram reviewed in visual-review.md; labels integral to diagram."
+        },
+        {
+          "picture_id": "17",
+          "reason": "Branding, scene, photo, layout asset, original scientific diagram, or newly generated carbon-cycle scientific diagram reviewed in visual-review.md; labels integral to diagram."
+        },
+        {
+          "picture_id": "18",
+          "reason": "Branding, scene, photo, layout asset, original scientific diagram, or newly generated carbon-cycle scientific diagram reviewed in visual-review.md; labels integral to diagram."
+        }
+      ],
+      "inline_or_science_labels": []
+    },
+    {
+      "number": 33,
+      "render": {
+        "path": "drafts/full-v01/output/slide-33.png",
+        "sha256": "8e6657ec4bd28e6df8e85db1ca6541b7845330f1335bf97c1c1a4c37ef6d1162"
+      },
+      "inventory_review": {
+        "path": "research/revision-v42/visual-review.md",
+        "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+      },
+      "reviewer": "Codex 2026-10-29",
+      "equations": [
+        {
+          "picture_id": "7",
+          "asset": {
+            "path": "assets/equations-white-v31/34ae3c8e54c5a559.png",
+            "sha256": "843b3260106cddfaf9bb5424c2417014c9b25356f6b85d7a9321c31e8e6a005f"
+          },
+          "generation_record": {
+            "path": "assets/equations-white-v31/manifest.json",
+            "sha256": "761b172397aa5f60a9532a52093cb352d464d3821744740801738bfc0274bbcf"
+          },
+          "source_comparison": {
+            "path": "research/revision-v42/source-comparison.md",
+            "sha256": "07427343967714a13ee23c9e1f9fb071077658c55593a6de0881087c41f31673"
+          },
+          "visual_review": {
+            "path": "research/revision-v42/visual-review.md",
+            "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+          },
+          "producer": "preserved-source-color-correction",
+          "style": "textbook-serif",
+          "reviewer": "Codex 2026-10-29",
+          "expected_expression": "반응식 이미지 t85-water-liquid — assets/equations-v05/provenance.json",
+          "checks": {
+            "coefficients": true,
+            "elements": true,
+            "charges": true,
+            "states": true,
+            "subscripts": true,
+            "direction": true,
+            "enthalpy_sign_values": true,
+            "italic_enthalpy_H": true,
+            "upright_elements_parentheses": true,
+            "italic_states": true,
+            "serif_visual": true
+          },
+          "reference_glyph_height_px": 35.0,
+          "preserved_source": {
+            "path": "assets/equations-white-v31/34ae3c8e54c5a559-source.png",
+            "sha256": "34ae3c8e54c5a55922c37a3e66dc06dd7b181afc7b915f2042eeb3a258cf6228"
+          },
+          "preservation_record": {
+            "path": "research/revision-v42/source-comparison.md",
+            "sha256": "07427343967714a13ee23c9e1f9fb071077658c55593a6de0881087c41f31673"
+          },
+          "glyphs_unchanged": true
+        },
+        {
+          "picture_id": "8",
+          "asset": {
+            "path": "assets/equations-white-v31/9866bfb56d14985a.png",
+            "sha256": "0dbae1e4038fe7492c5efd1dd8110e2278f2f83bfb42dcfe441be71e5cc4681d"
+          },
+          "generation_record": {
+            "path": "assets/equations-white-v31/manifest.json",
+            "sha256": "761b172397aa5f60a9532a52093cb352d464d3821744740801738bfc0274bbcf"
+          },
+          "source_comparison": {
+            "path": "research/revision-v42/source-comparison.md",
+            "sha256": "07427343967714a13ee23c9e1f9fb071077658c55593a6de0881087c41f31673"
+          },
+          "visual_review": {
+            "path": "research/revision-v42/visual-review.md",
+            "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+          },
+          "producer": "preserved-source-color-correction",
+          "style": "textbook-serif",
+          "reviewer": "Codex 2026-10-29",
+          "expected_expression": "반응식 이미지 t85-water-gas — assets/equations-v05/provenance.json",
+          "checks": {
+            "coefficients": true,
+            "elements": true,
+            "charges": true,
+            "states": true,
+            "subscripts": true,
+            "direction": true,
+            "enthalpy_sign_values": true,
+            "italic_enthalpy_H": true,
+            "upright_elements_parentheses": true,
+            "italic_states": true,
+            "serif_visual": true
+          },
+          "reference_glyph_height_px": 35.0,
+          "preserved_source": {
+            "path": "assets/equations-white-v31/9866bfb56d14985a-source.png",
+            "sha256": "9866bfb56d14985a83060282bdc8eb6a9d4233b33552f9a022a188ce8439e383"
+          },
+          "preservation_record": {
+            "path": "research/revision-v42/source-comparison.md",
+            "sha256": "07427343967714a13ee23c9e1f9fb071077658c55593a6de0881087c41f31673"
+          },
+          "glyphs_unchanged": true
+        }
+      ],
+      "non_equation_images": [
+        {
+          "picture_id": "9",
+          "reason": "Branding, scene, photo, layout asset, original scientific diagram, or newly generated carbon-cycle scientific diagram reviewed in visual-review.md; labels integral to diagram."
+        }
+      ],
+      "inline_or_science_labels": []
+    },
+    {
+      "number": 34,
+      "render": {
+        "path": "drafts/full-v01/output/slide-34.png",
+        "sha256": "1c32f88cb2dc8de3e91c87a021f690c5f7f640104653e86ae7bc3cf291405d53"
+      },
+      "inventory_review": {
+        "path": "research/revision-v42/visual-review.md",
+        "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+      },
+      "reviewer": "Codex 2026-10-29",
+      "equations": [
+        {
+          "picture_id": "7",
+          "asset": {
+            "path": "assets/equations-white-v31/d22a5c5fb566d49f.png",
+            "sha256": "8e35f3e15d19d165a0cb27f9d416051c2a6968b953d2df450744008fbdfc945d"
+          },
+          "generation_record": {
+            "path": "assets/equations-white-v31/manifest.json",
+            "sha256": "761b172397aa5f60a9532a52093cb352d464d3821744740801738bfc0274bbcf"
+          },
+          "source_comparison": {
+            "path": "research/revision-v42/source-comparison.md",
+            "sha256": "07427343967714a13ee23c9e1f9fb071077658c55593a6de0881087c41f31673"
+          },
+          "visual_review": {
+            "path": "research/revision-v42/visual-review.md",
+            "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+          },
+          "producer": "preserved-source-color-correction",
+          "style": "textbook-serif",
+          "reviewer": "Codex 2026-10-29",
+          "expected_expression": "반응식 이미지 t87-three-processes — assets/equations-v05/provenance.json",
+          "checks": {
+            "coefficients": true,
+            "elements": true,
+            "charges": true,
+            "states": true,
+            "subscripts": true,
+            "direction": true,
+            "enthalpy_sign_values": true,
+            "italic_enthalpy_H": true,
+            "upright_elements_parentheses": true,
+            "italic_states": true,
+            "serif_visual": true
+          },
+          "reference_glyph_height_px": 38.0,
+          "preserved_source": {
+            "path": "assets/equations-white-v31/d22a5c5fb566d49f-source.png",
+            "sha256": "d22a5c5fb566d49ff78d495128d135c3d292c68b2fb39835a2ee5d923f7dd200"
+          },
+          "preservation_record": {
+            "path": "research/revision-v42/source-comparison.md",
+            "sha256": "07427343967714a13ee23c9e1f9fb071077658c55593a6de0881087c41f31673"
+          },
+          "glyphs_unchanged": true
+        }
+      ],
+      "non_equation_images": [
+        {
+          "picture_id": "10",
+          "reason": "Branding, scene, photo, layout asset, original scientific diagram, or newly generated carbon-cycle scientific diagram reviewed in visual-review.md; labels integral to diagram."
+        }
+      ],
+      "inline_or_science_labels": [
+        {
+          "shape_id": "9",
+          "text": "세 과정을 합하면 CH₄의 연소 반응이 된다.",
+          "role": "inline-explanation",
+          "reason": "Concept heading, explanatory sentence or notation label; not a standalone reaction/calculation."
+        }
+      ]
+    },
+    {
+      "number": 35,
+      "render": {
+        "path": "drafts/full-v01/output/slide-35.png",
+        "sha256": "2c4d41cff82015c205f7baa9b6d37b4d8deb4599cb033bdc72fdee41148a3a2e"
+      },
+      "inventory_review": {
+        "path": "research/revision-v42/visual-review.md",
+        "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+      },
+      "reviewer": "Codex 2026-10-29",
+      "equations": [
+        {
+          "picture_id": "14",
+          "asset": {
+            "path": "assets/calculation-v31/slide-34-white.png",
+            "sha256": "e6be51f27f15261a3cf9d2a6f5bca05cf263416d551e9d400e8544b42111770d"
+          },
+          "generation_record": {
+            "path": "assets/calculation-v31/generation.json",
+            "sha256": "dc80bb6214863c6de0eca9db6fe9de53862eb6390d43e435ec384b6d3b4dcfd6"
+          },
+          "source_comparison": {
+            "path": "research/revision-v42/source-comparison.md",
+            "sha256": "07427343967714a13ee23c9e1f9fb071077658c55593a6de0881087c41f31673"
+          },
+          "visual_review": {
+            "path": "research/revision-v42/visual-review.md",
+            "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+          },
+          "producer": "image_gen",
+          "style": "textbook-serif",
+          "reviewer": "Codex 2026-10-29",
+          "expected_expression": "ΔH = 생성물의 표준 생성 엔탈피 합\n− 반응물의 표준 생성 엔탈피 합",
+          "checks": {
+            "coefficients": true,
+            "elements": true,
+            "charges": true,
+            "states": true,
+            "subscripts": true,
+            "direction": true,
+            "enthalpy_sign_values": true,
+            "italic_enthalpy_H": true,
+            "upright_elements_parentheses": true,
+            "italic_states": true,
+            "serif_visual": true
+          },
+          "reference_glyph_height_px": 78.0
+        }
+      ],
+      "non_equation_images": [
+        {
+          "picture_id": "7",
+          "reason": "Branding, scene, photo, layout asset, original scientific diagram, or newly generated carbon-cycle scientific diagram reviewed in visual-review.md; labels integral to diagram."
+        }
+      ],
+      "inline_or_science_labels": []
+    },
+    {
+      "number": 36,
+      "render": {
+        "path": "drafts/full-v01/output/slide-36.png",
+        "sha256": "136ca6dc6a1532f8ec771b0567144396d0fade229b207c47b1e5af682d62d568"
+      },
+      "inventory_review": {
+        "path": "research/revision-v42/visual-review.md",
+        "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+      },
+      "reviewer": "Codex 2026-10-29",
+      "equations": [
+        {
+          "picture_id": "14",
+          "asset": {
+            "path": "assets/calculation-v31/slide-35-white.png",
+            "sha256": "6213ae73366f142b331778b16a0c0d187519d4184bf7a2abc24c3e10795c5b94"
+          },
+          "generation_record": {
+            "path": "assets/calculation-v31/generation.json",
+            "sha256": "dc80bb6214863c6de0eca9db6fe9de53862eb6390d43e435ec384b6d3b4dcfd6"
+          },
+          "source_comparison": {
+            "path": "research/revision-v42/source-comparison.md",
+            "sha256": "07427343967714a13ee23c9e1f9fb071077658c55593a6de0881087c41f31673"
+          },
+          "visual_review": {
+            "path": "research/revision-v42/visual-review.md",
+            "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+          },
+          "producer": "image_gen",
+          "style": "textbook-serif",
+          "reviewer": "Codex 2026-10-29",
+          "expected_expression": "ΔH = Σ(생성물의 계수 × 표준 생성 엔탈피)\n− Σ(반응물의 계수 × 표준 생성 엔탈피)",
+          "checks": {
+            "coefficients": true,
+            "elements": true,
+            "charges": true,
+            "states": true,
+            "subscripts": true,
+            "direction": true,
+            "enthalpy_sign_values": true,
+            "italic_enthalpy_H": true,
+            "upright_elements_parentheses": true,
+            "italic_states": true,
+            "serif_visual": true
+          },
+          "reference_glyph_height_px": 72.0
+        }
+      ],
+      "non_equation_images": [
+        {
+          "picture_id": "7",
+          "reason": "Branding, scene, photo, layout asset, original scientific diagram, or newly generated carbon-cycle scientific diagram reviewed in visual-review.md; labels integral to diagram."
+        }
+      ],
+      "inline_or_science_labels": [
+        {
+          "shape_id": "22",
+          "text": "Σ는 각 물질에 대해 계산한 값을 모두 더한다는 뜻이다.",
+          "role": "inline-explanation",
+          "reason": "Concept heading, explanatory sentence or notation label; not a standalone reaction/calculation."
+        }
+      ]
+    },
+    {
+      "number": 37,
+      "render": {
+        "path": "drafts/full-v01/output/slide-37.png",
+        "sha256": "2683efcdeaab7a97496312fcb968e705660ef424d5651c366a453591b98fa2ee"
+      },
+      "inventory_review": {
+        "path": "research/revision-v42/visual-review.md",
+        "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+      },
+      "reviewer": "Codex 2026-10-29",
+      "equations": [
+        {
+          "picture_id": "7",
+          "asset": {
+            "path": "assets/equations-white-v31/be220023f56df20a.png",
+            "sha256": "c34876648d1d25441380373abdb3a6f59bd91ca09a8e4ea7f18d8d72ab3cca29"
+          },
+          "generation_record": {
+            "path": "assets/equations-white-v31/manifest.json",
+            "sha256": "761b172397aa5f60a9532a52093cb352d464d3821744740801738bfc0274bbcf"
+          },
+          "source_comparison": {
+            "path": "research/revision-v42/source-comparison.md",
+            "sha256": "07427343967714a13ee23c9e1f9fb071077658c55593a6de0881087c41f31673"
+          },
+          "visual_review": {
+            "path": "research/revision-v42/visual-review.md",
+            "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+          },
+          "producer": "preserved-source-color-correction",
+          "style": "textbook-serif",
+          "reviewer": "Codex 2026-10-29",
+          "expected_expression": "반응식 이미지 t86-ch4-combustion — assets/equations-v05/provenance.json",
+          "checks": {
+            "coefficients": true,
+            "elements": true,
+            "charges": true,
+            "states": true,
+            "subscripts": true,
+            "direction": true,
+            "enthalpy_sign_values": true,
+            "italic_enthalpy_H": true,
+            "upright_elements_parentheses": true,
+            "italic_states": true,
+            "serif_visual": true
+          },
+          "reference_glyph_height_px": 38.0,
+          "preserved_source": {
+            "path": "assets/equations-white-v31/be220023f56df20a-source.png",
+            "sha256": "be220023f56df20a3f70e7bda54d8e1d826fc1479e7aed988da373b8bb484b09"
+          },
+          "preservation_record": {
+            "path": "research/revision-v42/source-comparison.md",
+            "sha256": "07427343967714a13ee23c9e1f9fb071077658c55593a6de0881087c41f31673"
+          },
+          "glyphs_unchanged": true
+        },
+        {
+          "picture_id": "13",
+          "asset": {
+            "path": "assets/calculation-v31/slide-36-white.png",
+            "sha256": "8591d3e4fddb34bd2dab080d239bfd58d6940ce3e95e708fda1d055479c0e76a"
+          },
+          "generation_record": {
+            "path": "assets/calculation-v31/generation.json",
+            "sha256": "dc80bb6214863c6de0eca9db6fe9de53862eb6390d43e435ec384b6d3b4dcfd6"
+          },
+          "source_comparison": {
+            "path": "research/revision-v42/source-comparison.md",
+            "sha256": "07427343967714a13ee23c9e1f9fb071077658c55593a6de0881087c41f31673"
+          },
+          "visual_review": {
+            "path": "research/revision-v42/visual-review.md",
+            "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+          },
+          "producer": "image_gen",
+          "style": "textbook-serif",
+          "reviewer": "Codex 2026-10-29",
+          "expected_expression": "ΔH = [−393.5 + 2 × (−285.8)] − [−74.8 + 2 × 0]\n= −890.3 kJ",
+          "checks": {
+            "coefficients": true,
+            "elements": true,
+            "charges": true,
+            "states": true,
+            "subscripts": true,
+            "direction": true,
+            "enthalpy_sign_values": true,
+            "italic_enthalpy_H": true,
+            "upright_elements_parentheses": true,
+            "italic_states": true,
+            "serif_visual": true
+          },
+          "reference_glyph_height_px": 83.0
+        }
+      ],
+      "non_equation_images": [
+        {
+          "picture_id": "14",
+          "reason": "Branding, scene, photo, layout asset, original scientific diagram, or newly generated carbon-cycle scientific diagram reviewed in visual-review.md; labels integral to diagram."
+        }
+      ],
+      "inline_or_science_labels": []
+    },
+    {
+      "number": 38,
+      "render": {
+        "path": "drafts/full-v01/output/slide-38.png",
+        "sha256": "3023c39f48351b49090e20055c12846a0b811c880935bd160427c4bf461c10ac"
+      },
+      "inventory_review": {
+        "path": "research/revision-v42/visual-review.md",
+        "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+      },
+      "reviewer": "Codex 2026-10-29",
+      "equations": [
+        {
+          "picture_id": "8",
+          "asset": {
+            "path": "assets/equations-white-v31/dabb8fbddb97f538.png",
+            "sha256": "e6c8e4133b5cb5c7abc15676d09d576772d81c1af19bca584675767f59275c44"
+          },
+          "generation_record": {
+            "path": "assets/equations-white-v31/manifest.json",
+            "sha256": "761b172397aa5f60a9532a52093cb352d464d3821744740801738bfc0274bbcf"
+          },
+          "source_comparison": {
+            "path": "research/revision-v42/source-comparison.md",
+            "sha256": "07427343967714a13ee23c9e1f9fb071077658c55593a6de0881087c41f31673"
+          },
+          "visual_review": {
+            "path": "research/revision-v42/visual-review.md",
+            "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+          },
+          "producer": "image_gen",
+          "style": "textbook-serif",
+          "reviewer": "Codex 2026-10-29",
+          "expected_expression": "새로 생성한 세 생성 반응 수식 이미지",
+          "checks": {
+            "coefficients": true,
+            "elements": true,
+            "charges": true,
+            "states": true,
+            "subscripts": true,
+            "direction": true,
+            "enthalpy_sign_values": true,
+            "italic_enthalpy_H": true,
+            "upright_elements_parentheses": true,
+            "italic_states": true,
+            "serif_visual": true
+          },
+          "reference_glyph_height_px": 72.0
+        }
+      ],
+      "non_equation_images": [
+        {
+          "picture_id": "9",
+          "reason": "Branding, scene, photo, layout asset, original scientific diagram, or newly generated carbon-cycle scientific diagram reviewed in visual-review.md; labels integral to diagram."
+        }
+      ],
+      "inline_or_science_labels": []
+    },
+    {
+      "number": 39,
+      "render": {
+        "path": "drafts/full-v01/output/slide-39.png",
+        "sha256": "09d94cf49841e6c9556c19bd4372215c63106fad8b6eb80f3abe899b77495af4"
+      },
+      "inventory_review": {
+        "path": "research/revision-v42/visual-review.md",
+        "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+      },
+      "reviewer": "Codex 2026-10-29",
+      "equations": [
+        {
+          "picture_id": "7",
+          "asset": {
+            "path": "assets/equations-white-v31/42c1085b475285a9.png",
+            "sha256": "ecd5567643f1d64b31c604615c0a8c9a2e678d6ed1a02d9c08b995c2a86c4495"
+          },
+          "generation_record": {
+            "path": "assets/equations-white-v31/manifest.json",
+            "sha256": "761b172397aa5f60a9532a52093cb352d464d3821744740801738bfc0274bbcf"
+          },
+          "source_comparison": {
+            "path": "research/revision-v42/source-comparison.md",
+            "sha256": "07427343967714a13ee23c9e1f9fb071077658c55593a6de0881087c41f31673"
+          },
+          "visual_review": {
+            "path": "research/revision-v42/visual-review.md",
+            "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+          },
+          "producer": "image_gen",
+          "style": "textbook-serif",
+          "reviewer": "Codex 2026-10-29",
+          "expected_expression": "새로 생성한 생성 엔탈피 계산과 반응 합산 수식 이미지",
+          "checks": {
+            "coefficients": true,
+            "elements": true,
+            "charges": true,
+            "states": true,
+            "subscripts": true,
+            "direction": true,
+            "enthalpy_sign_values": true,
+            "italic_enthalpy_H": true,
+            "upright_elements_parentheses": true,
+            "italic_states": true,
+            "serif_visual": true
+          },
+          "reference_glyph_height_px": 70.0
+        }
+      ],
+      "non_equation_images": [
+        {
+          "picture_id": "16",
+          "reason": "Branding, scene, photo, layout asset, original scientific diagram, or newly generated carbon-cycle scientific diagram reviewed in visual-review.md; labels integral to diagram."
+        }
+      ],
+      "inline_or_science_labels": []
+    },
+    {
+      "number": 40,
+      "render": {
+        "path": "drafts/full-v01/output/slide-40.png",
+        "sha256": "b394cefc7bb68be5ed27090d4b7631612dfb5044dc93ed8dfc47ba5677ff2dd3"
+      },
+      "inventory_review": {
+        "path": "research/revision-v42/visual-review.md",
+        "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+      },
+      "reviewer": "Codex 2026-10-29",
+      "equations": [
+        {
+          "picture_id": "9",
+          "asset": {
+            "path": "assets/equations-white-v31/067a8bebd875ce7a.png",
+            "sha256": "746a8ad3ea9458b50964e84a2003d20a3ce1dddc49f1aa866018acc219fc00ce"
+          },
+          "generation_record": {
+            "path": "assets/equations-white-v31/manifest.json",
+            "sha256": "761b172397aa5f60a9532a52093cb352d464d3821744740801738bfc0274bbcf"
+          },
+          "source_comparison": {
+            "path": "research/revision-v42/source-comparison.md",
+            "sha256": "07427343967714a13ee23c9e1f9fb071077658c55593a6de0881087c41f31673"
+          },
+          "visual_review": {
+            "path": "research/revision-v42/visual-review.md",
+            "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+          },
+          "producer": "preserved-source-color-correction",
+          "style": "textbook-serif",
+          "reviewer": "Codex 2026-10-29",
+          "expected_expression": "반응식 이미지 t85-water-vaporize — assets/equations-v05/provenance.json",
+          "checks": {
+            "coefficients": true,
+            "elements": true,
+            "charges": true,
+            "states": true,
+            "subscripts": true,
+            "direction": true,
+            "enthalpy_sign_values": true,
+            "italic_enthalpy_H": true,
+            "upright_elements_parentheses": true,
+            "italic_states": true,
+            "serif_visual": true
+          },
+          "reference_glyph_height_px": 36.0,
+          "preserved_source": {
+            "path": "assets/equations-white-v31/067a8bebd875ce7a-source.png",
+            "sha256": "067a8bebd875ce7a5dc23e243f81d734ab46a649e23e607961585a28f5a49141"
+          },
+          "preservation_record": {
+            "path": "research/revision-v42/source-comparison.md",
+            "sha256": "07427343967714a13ee23c9e1f9fb071077658c55593a6de0881087c41f31673"
+          },
+          "glyphs_unchanged": true
+        },
+        {
+          "picture_id": "14",
+          "asset": {
+            "path": "assets/calculation-v31/slide-39-white.png",
+            "sha256": "a09bbd216cb0d203575e891bf45942b3884fa6dc7dfc03c9f9e9756b6f1b3259"
+          },
+          "generation_record": {
+            "path": "assets/calculation-v31/generation.json",
+            "sha256": "dc80bb6214863c6de0eca9db6fe9de53862eb6390d43e435ec384b6d3b4dcfd6"
+          },
+          "source_comparison": {
+            "path": "research/revision-v42/source-comparison.md",
+            "sha256": "07427343967714a13ee23c9e1f9fb071077658c55593a6de0881087c41f31673"
+          },
+          "visual_review": {
+            "path": "research/revision-v42/visual-review.md",
+            "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+          },
+          "producer": "image_gen",
+          "style": "textbook-serif",
+          "reviewer": "Codex 2026-10-29",
+          "expected_expression": "ΔH = −241.8 − (−285.8)\n= +44.0 kJ",
+          "checks": {
+            "coefficients": true,
+            "elements": true,
+            "charges": true,
+            "states": true,
+            "subscripts": true,
+            "direction": true,
+            "enthalpy_sign_values": true,
+            "italic_enthalpy_H": true,
+            "upright_elements_parentheses": true,
+            "italic_states": true,
+            "serif_visual": true
+          },
+          "reference_glyph_height_px": 137.0
+        }
+      ],
+      "non_equation_images": [
+        {
+          "picture_id": "7",
+          "reason": "Branding, scene, photo, layout asset, original scientific diagram, or newly generated carbon-cycle scientific diagram reviewed in visual-review.md; labels integral to diagram."
+        }
+      ],
+      "inline_or_science_labels": []
+    },
+    {
+      "number": 41,
+      "render": {
+        "path": "drafts/full-v01/output/slide-41.png",
+        "sha256": "3ce9ad2bf1c7b1ebfd65b12c564fc5828cf4551e276e56365229cb0921c86dbd"
+      },
+      "inventory_review": {
+        "path": "research/revision-v42/visual-review.md",
+        "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+      },
+      "reviewer": "Codex 2026-10-29",
+      "equations": [],
+      "non_equation_images": [
+        {
+          "picture_id": "20",
+          "reason": "Branding, scene, photo, layout asset, original scientific diagram, or newly generated carbon-cycle scientific diagram reviewed in visual-review.md; labels integral to diagram."
+        }
+      ],
+      "inline_or_science_labels": []
+    },
+    {
+      "number": 42,
+      "render": {
+        "path": "drafts/full-v01/output/slide-42.png",
+        "sha256": "9fe2f35942a4d946034f5b557fca045d4df7819e276179f4604237d6da980edc"
+      },
+      "inventory_review": {
+        "path": "research/revision-v42/visual-review.md",
+        "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+      },
+      "reviewer": "Codex 2026-10-29",
+      "equations": [],
+      "non_equation_images": [
+        {
+          "picture_id": "9",
+          "reason": "Branding, scene, photo, layout asset, original scientific diagram, or newly generated carbon-cycle scientific diagram reviewed in visual-review.md; labels integral to diagram."
+        },
+        {
+          "picture_id": "4",
+          "reason": "Branding, scene, photo, layout asset, original scientific diagram, or newly generated carbon-cycle scientific diagram reviewed in visual-review.md; labels integral to diagram."
+        }
+      ],
+      "inline_or_science_labels": []
+    },
+    {
+      "number": 43,
+      "render": {
+        "path": "drafts/full-v01/output/slide-43.png",
+        "sha256": "40b6f9fbc4e2edc616af515c9378823f2460bc509c173aa32d553d1d68063e3f"
+      },
+      "inventory_review": {
+        "path": "research/revision-v42/visual-review.md",
+        "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+      },
+      "reviewer": "Codex 2026-10-29",
+      "equations": [
+        {
+          "picture_id": "9",
+          "asset": {
+            "path": "assets/equations-white-v31/09e9b36b9a573d45.png",
+            "sha256": "48c1a15e9542b84dc2e8f00d0597faa66a8de37982c1fd950e19c2d8fd872ffe"
+          },
+          "generation_record": {
+            "path": "assets/equations-white-v31/manifest.json",
+            "sha256": "761b172397aa5f60a9532a52093cb352d464d3821744740801738bfc0274bbcf"
+          },
+          "source_comparison": {
+            "path": "research/revision-v42/source-comparison.md",
+            "sha256": "07427343967714a13ee23c9e1f9fb071077658c55593a6de0881087c41f31673"
+          },
+          "visual_review": {
+            "path": "research/revision-v42/visual-review.md",
+            "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+          },
+          "producer": "preserved-source-color-correction",
+          "style": "textbook-serif",
+          "reviewer": "Codex 2026-10-29",
+          "expected_expression": "반응식 이미지 w120-naoh-dissolve — assets/equations-v05/provenance.json",
+          "checks": {
+            "coefficients": true,
+            "elements": true,
+            "charges": true,
+            "states": true,
+            "subscripts": true,
+            "direction": true,
+            "enthalpy_sign_values": true,
+            "italic_enthalpy_H": true,
+            "upright_elements_parentheses": true,
+            "italic_states": true,
+            "serif_visual": true
+          },
+          "reference_glyph_height_px": 31.0,
+          "preserved_source": {
+            "path": "assets/equations-white-v31/09e9b36b9a573d45-source.png",
+            "sha256": "09e9b36b9a573d451c379a4233a314f7e041419294293362e56073118eee2777"
+          },
+          "preservation_record": {
+            "path": "research/revision-v42/source-comparison.md",
+            "sha256": "07427343967714a13ee23c9e1f9fb071077658c55593a6de0881087c41f31673"
+          },
+          "glyphs_unchanged": true
+        },
+        {
+          "picture_id": "10",
+          "asset": {
+            "path": "assets/equations-white-v31/a944c4f067f8803f.png",
+            "sha256": "779d71733992a5a5fb9d765a8f0c1311901c53ae3758fab43498c47b6a626bc9"
+          },
+          "generation_record": {
+            "path": "assets/equations-white-v31/manifest.json",
+            "sha256": "761b172397aa5f60a9532a52093cb352d464d3821744740801738bfc0274bbcf"
+          },
+          "source_comparison": {
+            "path": "research/revision-v42/source-comparison.md",
+            "sha256": "07427343967714a13ee23c9e1f9fb071077658c55593a6de0881087c41f31673"
+          },
+          "visual_review": {
+            "path": "research/revision-v42/visual-review.md",
+            "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+          },
+          "producer": "preserved-source-color-correction",
+          "style": "textbook-serif",
+          "reviewer": "Codex 2026-10-29",
+          "expected_expression": "반응식 이미지 w120-naoh-neutral — assets/equations-v05/provenance.json",
+          "checks": {
+            "coefficients": true,
+            "elements": true,
+            "charges": true,
+            "states": true,
+            "subscripts": true,
+            "direction": true,
+            "enthalpy_sign_values": true,
+            "italic_enthalpy_H": true,
+            "upright_elements_parentheses": true,
+            "italic_states": true,
+            "serif_visual": true
+          },
+          "reference_glyph_height_px": 30.0,
+          "preserved_source": {
+            "path": "assets/equations-white-v31/a944c4f067f8803f-source.png",
+            "sha256": "a944c4f067f8803f7c37d7e274d63004322dcbd878865482ab89086d666d63be"
+          },
+          "preservation_record": {
+            "path": "research/revision-v42/source-comparison.md",
+            "sha256": "07427343967714a13ee23c9e1f9fb071077658c55593a6de0881087c41f31673"
+          },
+          "glyphs_unchanged": true
+        },
+        {
+          "picture_id": "12",
+          "asset": {
+            "path": "assets/equations-white-v31/f748d95d30f99fe8.png",
+            "sha256": "467ff06cd8c2fc1bb42b864522772957bb95b034facf676f4654a78c6e4c2d71"
+          },
+          "generation_record": {
+            "path": "assets/equations-white-v31/manifest.json",
+            "sha256": "761b172397aa5f60a9532a52093cb352d464d3821744740801738bfc0274bbcf"
+          },
+          "source_comparison": {
+            "path": "research/revision-v42/source-comparison.md",
+            "sha256": "07427343967714a13ee23c9e1f9fb071077658c55593a6de0881087c41f31673"
+          },
+          "visual_review": {
+            "path": "research/revision-v42/visual-review.md",
+            "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+          },
+          "producer": "preserved-source-color-correction",
+          "style": "textbook-serif",
+          "reviewer": "Codex 2026-10-29",
+          "expected_expression": "반응식 이미지 w120-naoh-direct — assets/equations-v05/provenance.json",
+          "checks": {
+            "coefficients": true,
+            "elements": true,
+            "charges": true,
+            "states": true,
+            "subscripts": true,
+            "direction": true,
+            "enthalpy_sign_values": true,
+            "italic_enthalpy_H": true,
+            "upright_elements_parentheses": true,
+            "italic_states": true,
+            "serif_visual": true
+          },
+          "reference_glyph_height_px": 30.5,
+          "preserved_source": {
+            "path": "assets/equations-white-v31/f748d95d30f99fe8-source.png",
+            "sha256": "f748d95d30f99fe8982084929ff88315492a1feb1c50e28084f45c60e3829290"
+          },
+          "preservation_record": {
+            "path": "research/revision-v42/source-comparison.md",
+            "sha256": "07427343967714a13ee23c9e1f9fb071077658c55593a6de0881087c41f31673"
+          },
+          "glyphs_unchanged": true
+        }
+      ],
+      "non_equation_images": [
+        {
+          "picture_id": "7",
+          "reason": "Branding, scene, photo, layout asset, original scientific diagram, or newly generated carbon-cycle scientific diagram reviewed in visual-review.md; labels integral to diagram."
+        }
+      ],
+      "inline_or_science_labels": []
+    },
+    {
+      "number": 44,
+      "render": {
+        "path": "drafts/full-v01/output/slide-44.png",
+        "sha256": "7346b1d18f8bcda2eca4c90c60b9f8a63ee3e8271bda908877c7ba4e43036fc8"
+      },
+      "inventory_review": {
+        "path": "research/revision-v42/visual-review.md",
+        "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+      },
+      "reviewer": "Codex 2026-10-29",
+      "equations": [
+        {
+          "picture_id": "14",
+          "asset": {
+            "path": "assets/calculation-v31/slide-43-white.png",
+            "sha256": "8b1e6f1f632c463bc006a9b1bc0a8f4fd14837c8ad5dfa182d4ee2f8bdd24e4a"
+          },
+          "generation_record": {
+            "path": "assets/calculation-v31/generation.json",
+            "sha256": "dc80bb6214863c6de0eca9db6fe9de53862eb6390d43e435ec384b6d3b4dcfd6"
+          },
+          "source_comparison": {
+            "path": "research/revision-v42/source-comparison.md",
+            "sha256": "07427343967714a13ee23c9e1f9fb071077658c55593a6de0881087c41f31673"
+          },
+          "visual_review": {
+            "path": "research/revision-v42/visual-review.md",
+            "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+          },
+          "producer": "image_gen",
+          "style": "textbook-serif",
+          "reviewer": "Codex 2026-10-29",
+          "expected_expression": "NaOH: 8.0 g ÷ 40.0 g/mol = 0.200 mol\nHCl: 1.0 mol/L × 0.200 L = 0.200 mol",
+          "checks": {
+            "coefficients": true,
+            "elements": true,
+            "charges": true,
+            "states": true,
+            "subscripts": true,
+            "direction": true,
+            "enthalpy_sign_values": true,
+            "italic_enthalpy_H": true,
+            "upright_elements_parentheses": true,
+            "italic_states": true,
+            "serif_visual": true
+          },
+          "reference_glyph_height_px": 95.0
+        }
+      ],
+      "non_equation_images": [
+        {
+          "picture_id": "7",
+          "reason": "Branding, scene, photo, layout asset, original scientific diagram, or newly generated carbon-cycle scientific diagram reviewed in visual-review.md; labels integral to diagram."
+        }
+      ],
+      "inline_or_science_labels": []
+    },
+    {
+      "number": 45,
+      "render": {
+        "path": "drafts/full-v01/output/slide-45.png",
+        "sha256": "6ab53f52344079a2402ac54f59ddcdd65d5a4ce955974fc898b9c1a90eb22686"
+      },
+      "inventory_review": {
+        "path": "research/revision-v42/visual-review.md",
+        "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+      },
+      "reviewer": "Codex 2026-10-29",
+      "equations": [
+        {
+          "picture_id": "27",
+          "asset": {
+            "path": "assets/calculation-v31/slide-44-white.png",
+            "sha256": "45ee9753e87a4ca6388f4472e01cf2d918ee0ce610e6e59a2aa2fc526b447725"
+          },
+          "generation_record": {
+            "path": "assets/calculation-v31/generation.json",
+            "sha256": "dc80bb6214863c6de0eca9db6fe9de53862eb6390d43e435ec384b6d3b4dcfd6"
+          },
+          "source_comparison": {
+            "path": "research/revision-v42/source-comparison.md",
+            "sha256": "07427343967714a13ee23c9e1f9fb071077658c55593a6de0881087c41f31673"
+          },
+          "visual_review": {
+            "path": "research/revision-v42/visual-review.md",
+            "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+          },
+          "producer": "image_gen",
+          "style": "textbook-serif",
+          "reviewer": "Codex 2026-10-29",
+          "expected_expression": "Q용액 = c × m × Δt",
+          "checks": {
+            "coefficients": true,
+            "elements": true,
+            "charges": true,
+            "states": true,
+            "subscripts": true,
+            "direction": true,
+            "enthalpy_sign_values": true,
+            "italic_enthalpy_H": true,
+            "upright_elements_parentheses": true,
+            "italic_states": true,
+            "serif_visual": true
+          },
+          "reference_glyph_height_px": 129.0
+        }
+      ],
+      "non_equation_images": [
+        {
+          "picture_id": "7",
+          "reason": "Branding, scene, photo, layout asset, original scientific diagram, or newly generated carbon-cycle scientific diagram reviewed in visual-review.md; labels integral to diagram."
+        }
+      ],
+      "inline_or_science_labels": [
+        {
+          "shape_id": "37",
+          "text": "Δt",
+          "role": "inline-explanation",
+          "reason": "Concept heading, explanatory sentence or notation label; not a standalone reaction/calculation."
+        }
+      ]
+    },
+    {
+      "number": 46,
+      "render": {
+        "path": "drafts/full-v01/output/slide-46.png",
+        "sha256": "51820be255b7746fb70c59e11b1265d72301b6b5305dbb5ee2ed87e8b060c757"
+      },
+      "inventory_review": {
+        "path": "research/revision-v42/visual-review.md",
+        "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+      },
+      "reviewer": "Codex 2026-10-29",
+      "equations": [],
+      "non_equation_images": [
+        {
+          "picture_id": "13",
+          "reason": "Branding, scene, photo, layout asset, original scientific diagram, or newly generated carbon-cycle scientific diagram reviewed in visual-review.md; labels integral to diagram."
+        }
+      ],
+      "inline_or_science_labels": []
+    },
+    {
+      "number": 47,
+      "render": {
+        "path": "drafts/full-v01/output/slide-47.png",
+        "sha256": "8b6571567a5f65e0c865e529eff08a28bc7c8b390cf9802aa1c40f67e6bc30e1"
+      },
+      "inventory_review": {
+        "path": "research/revision-v42/visual-review.md",
+        "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+      },
+      "reviewer": "Codex 2026-10-29",
+      "equations": [
+        {
+          "picture_id": "9",
+          "asset": {
+            "path": "assets/calculation-v31/slide-46-white.png",
+            "sha256": "c793703c7e5efea39f5019f70aedb4e52f68dff5a543d004c2f1f91d854cc3a6"
+          },
+          "generation_record": {
+            "path": "assets/calculation-v31/generation.json",
+            "sha256": "dc80bb6214863c6de0eca9db6fe9de53862eb6390d43e435ec384b6d3b4dcfd6"
+          },
+          "source_comparison": {
+            "path": "research/revision-v42/source-comparison.md",
+            "sha256": "07427343967714a13ee23c9e1f9fb071077658c55593a6de0881087c41f31673"
+          },
+          "visual_review": {
+            "path": "research/revision-v42/visual-review.md",
+            "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+          },
+          "producer": "image_gen",
+          "style": "textbook-serif",
+          "reviewer": "Codex 2026-10-29",
+          "expected_expression": "Q용액 = 4.2 × 208 × 9.5 = 8299.2 J ≈ 8.30 kJ\nn(NaOH) = 8.0 ÷ 40.0 = 0.200 mol\nΔH용해 = −8.30 ÷ 0.200 ≈ −41.50 kJ/mol",
+          "checks": {
+            "coefficients": true,
+            "elements": true,
+            "charges": true,
+            "states": true,
+            "subscripts": true,
+            "direction": true,
+            "enthalpy_sign_values": true,
+            "italic_enthalpy_H": true,
+            "upright_elements_parentheses": true,
+            "italic_states": true,
+            "serif_visual": true
+          },
+          "reference_glyph_height_px": 83.0
+        }
+      ],
+      "non_equation_images": [
+        {
+          "picture_id": "7",
+          "reason": "Branding, scene, photo, layout asset, original scientific diagram, or newly generated carbon-cycle scientific diagram reviewed in visual-review.md; labels integral to diagram."
+        }
+      ],
+      "inline_or_science_labels": []
+    },
+    {
+      "number": 48,
+      "render": {
+        "path": "drafts/full-v01/output/slide-48.png",
+        "sha256": "f55ea4bdf9a5bf2a725fb722f9d995bf7cae43873969c9b89df76c37c2dcc187"
+      },
+      "inventory_review": {
+        "path": "research/revision-v42/visual-review.md",
+        "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+      },
+      "reviewer": "Codex 2026-10-29",
+      "equations": [],
+      "non_equation_images": [
+        {
+          "picture_id": "13",
+          "reason": "Branding, scene, photo, layout asset, original scientific diagram, or newly generated carbon-cycle scientific diagram reviewed in visual-review.md; labels integral to diagram."
+        }
+      ],
+      "inline_or_science_labels": []
+    },
+    {
+      "number": 49,
+      "render": {
+        "path": "drafts/full-v01/output/slide-49.png",
+        "sha256": "51b44ece57540be61c8faab063bdfeaec6b8684a7a7bbdc3a9bb1441583729a4"
+      },
+      "inventory_review": {
+        "path": "research/revision-v42/visual-review.md",
+        "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+      },
+      "reviewer": "Codex 2026-10-29",
+      "equations": [
+        {
+          "picture_id": "8",
+          "asset": {
+            "path": "assets/calculation-v31/slide-48-white.png",
+            "sha256": "8c26d5f3f54fb6a503b330fca96b1a1d8615b96ab5447ce0d2edaa296e98b5cd"
+          },
+          "generation_record": {
+            "path": "assets/calculation-v31/generation.json",
+            "sha256": "dc80bb6214863c6de0eca9db6fe9de53862eb6390d43e435ec384b6d3b4dcfd6"
+          },
+          "source_comparison": {
+            "path": "research/revision-v42/source-comparison.md",
+            "sha256": "07427343967714a13ee23c9e1f9fb071077658c55593a6de0881087c41f31673"
+          },
+          "visual_review": {
+            "path": "research/revision-v42/visual-review.md",
+            "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+          },
+          "producer": "image_gen",
+          "style": "textbook-serif",
+          "reviewer": "Codex 2026-10-29",
+          "expected_expression": "−41.50 + (−52.25) = −93.75 kJ/mol\n−94.25 kJ/mol\n차이: 0.50 kJ/mol",
+          "checks": {
+            "coefficients": true,
+            "elements": true,
+            "charges": true,
+            "states": true,
+            "subscripts": true,
+            "direction": true,
+            "enthalpy_sign_values": true,
+            "italic_enthalpy_H": true,
+            "upright_elements_parentheses": true,
+            "italic_states": true,
+            "serif_visual": true
+          },
+          "reference_glyph_height_px": 99.0
+        }
+      ],
+      "non_equation_images": [
+        {
+          "picture_id": "14",
+          "reason": "Branding, scene, photo, layout asset, original scientific diagram, or newly generated carbon-cycle scientific diagram reviewed in visual-review.md; labels integral to diagram."
+        }
+      ],
+      "inline_or_science_labels": []
+    },
+    {
+      "number": 50,
+      "render": {
+        "path": "drafts/full-v01/output/slide-50.png",
+        "sha256": "e66423e19ca62a532f1f5d83210f694bce7d0543e5d81ea49256fc1cec94d2ac"
+      },
+      "inventory_review": {
+        "path": "research/revision-v42/visual-review.md",
+        "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+      },
+      "reviewer": "Codex 2026-10-29",
+      "equations": [],
+      "non_equation_images": [
+        {
+          "picture_id": "15",
+          "reason": "Branding, scene, photo, layout asset, original scientific diagram, or newly generated carbon-cycle scientific diagram reviewed in visual-review.md; labels integral to diagram."
+        },
+        {
+          "picture_id": "7",
+          "reason": "Branding, scene, photo, layout asset, original scientific diagram, or newly generated carbon-cycle scientific diagram reviewed in visual-review.md; labels integral to diagram."
+        },
+        {
+          "picture_id": "14",
+          "reason": "Branding, scene, photo, layout asset, original scientific diagram, or newly generated carbon-cycle scientific diagram reviewed in visual-review.md; labels integral to diagram."
+        },
+        {
+          "picture_id": "24",
+          "reason": "Branding, scene, photo, layout asset, original scientific diagram, or newly generated carbon-cycle scientific diagram reviewed in visual-review.md; labels integral to diagram."
+        }
+      ],
+      "inline_or_science_labels": [
+        {
+          "shape_id": "6",
+          "text": "직접 재지 못한 ΔH를 알게 되는 까닭",
+          "role": "inline-explanation",
+          "reason": "Concept heading, explanatory sentence or notation label; not a standalone reaction/calculation."
+        },
+        {
+          "shape_id": "13",
+          "text": "알려진 ΔH를 더해 구한다.",
+          "role": "inline-explanation",
+          "reason": "Concept heading, explanatory sentence or notation label; not a standalone reaction/calculation."
+        }
+      ]
+    },
+    {
+      "number": 51,
+      "render": {
+        "path": "drafts/full-v01/output/slide-51.png",
+        "sha256": "3585c36c00d7bb106479815e0c44fae421bdea215402f6cb1a172dc7bb913c2a"
+      },
+      "inventory_review": {
+        "path": "research/revision-v42/visual-review.md",
+        "sha256": "9b2b3fe164a785db762008422861828e0a4311cdd7a63ef350f72dc981fc9658"
+      },
+      "reviewer": "Codex 2026-10-29",
+      "equations": [],
+      "non_equation_images": [
+        {
+          "picture_id": "17",
+          "reason": "Branding, scene, photo, layout asset, original scientific diagram, or newly generated carbon-cycle scientific diagram reviewed in visual-review.md; labels integral to diagram."
+        }
+      ],
+      "inline_or_science_labels": []
+    }
+  ]
+}

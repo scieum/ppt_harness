@@ -1,0 +1,146 @@
+[
+  {
+    "id": "C01",
+    "claim": "헤스 법칙의 의미와 동일한 시작·끝 조건",
+    "scope": "범위 내",
+    "standard": "12물에03-02",
+    "standard_source_id": "STD22",
+    "rationale": "2022 완자와 보존된 지도서 근거로 목표 연결. 주 교과서 재대조 필요.",
+    "source_ids": [
+      "W22",
+      "STD22"
+    ]
+  },
+  {
+    "id": "C02",
+    "claim": "경로 그림·반응식 합과 엔탈피 합의 대응",
+    "scope": "범위 내",
+    "standard": "12물에03-02",
+    "standard_source_id": "STD22",
+    "rationale": "2022 완자와 보존된 지도서 근거로 목표 연결. 주 교과서 재대조 필요.",
+    "source_ids": [
+      "W22",
+      "STD22"
+    ]
+  },
+  {
+    "id": "C03",
+    "claim": "배수·역반응·합의 조작",
+    "scope": "범위 내",
+    "standard": "12물에03-02",
+    "standard_source_id": "STD22",
+    "rationale": "2022 완자와 보존된 지도서 근거로 목표 연결. 주 교과서 재대조 필요.",
+    "source_ids": [
+      "W22",
+      "STD22"
+    ]
+  },
+  {
+    "id": "C04",
+    "claim": "CO 생성 반응의 간접 측정",
+    "scope": "범위 내",
+    "standard": "12물에03-02",
+    "standard_source_id": "STD22",
+    "rationale": "2022 완자와 보존된 지도서 근거로 목표 연결. 주 교과서 재대조 필요.",
+    "source_ids": [
+      "W22",
+      "STD22"
+    ]
+  },
+  {
+    "id": "C05",
+    "claim": "반응식 조합 절차와 적용",
+    "scope": "범위 내",
+    "standard": "12물에03-02",
+    "standard_source_id": "STD22",
+    "rationale": "2022 완자와 보존된 지도서 근거로 목표 연결. 주 교과서 재대조 필요.",
+    "source_ids": [
+      "W22",
+      "STD22"
+    ]
+  },
+  {
+    "id": "C06",
+    "claim": "표준 생성 엔탈피의 정의와 기준",
+    "scope": "미판정",
+    "standard": "12물에03-02",
+    "standard_source_id": "STD22",
+    "rationale": "완자121의 천재 수록 표시는 확인했으나 주 교과서·공식 원문 직접 대조 전 확정하지 않음.",
+    "source_ids": [
+      "W22",
+      "STD22"
+    ]
+  },
+  {
+    "id": "C07",
+    "claim": "표준 생성 엔탈피로 반응 엔탈피 계산",
+    "scope": "미판정",
+    "standard": "12물에03-02",
+    "standard_source_id": "STD22",
+    "rationale": "완자121의 천재 수록 표시는 확인했으나 주 교과서·공식 원문 직접 대조 전 확정하지 않음.",
+    "source_ids": [
+      "W22",
+      "STD22"
+    ]
+  },
+  {
+    "id": "C08",
+    "claim": "NaOH 용해·중화와 직접 반응 실험 설계",
+    "scope": "범위 내",
+    "standard": "12물에03-02",
+    "standard_source_id": "STD22",
+    "rationale": "2022 완자와 보존된 지도서 근거로 목표 연결. 주 교과서 재대조 필요.",
+    "source_ids": [
+      "W22",
+      "STD22"
+    ]
+  },
+  {
+    "id": "C09",
+    "claim": "열량·몰수·실험 오차 자료 해석",
+    "scope": "범위 내",
+    "standard": "12물에03-02",
+    "standard_source_id": "STD22",
+    "rationale": "2022 완자와 보존된 지도서 근거로 목표 연결. 주 교과서 재대조 필요.",
+    "source_ids": [
+      "W22",
+      "STD22"
+    ]
+  },
+  {
+    "id": "C10",
+    "claim": "헤스 법칙의 유용성 설명",
+    "scope": "범위 내",
+    "standard": "12물에03-02",
+    "standard_source_id": "STD22",
+    "rationale": "2022 완자와 보존된 지도서 근거로 목표 연결. 주 교과서 재대조 필요.",
+    "source_ids": [
+      "W22",
+      "STD22"
+    ]
+  },
+  {
+    "id": "X01",
+    "claim": "H=U+pV·열역학적 일 유도·깁스 자유 에너지",
+    "scope": "제외",
+    "standard": "12물에03-02",
+    "standard_source_id": "STD22",
+    "rationale": "수업 목표에 불필요하거나 이 소단원의 기본 설명 범위를 넘음.",
+    "source_ids": [
+      "W22",
+      "STD22"
+    ]
+  },
+  {
+    "id": "X02",
+    "claim": "과도한 다단계 입시 문항·일반적 안정성 순위 주장",
+    "scope": "제외",
+    "standard": "12물에03-02",
+    "standard_source_id": "STD22",
+    "rationale": "수업 목표에 불필요하거나 이 소단원의 기본 설명 범위를 넘음.",
+    "source_ids": [
+      "W22",
+      "STD22"
+    ]
+  }
+]

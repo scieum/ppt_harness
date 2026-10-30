@@ -1,0 +1,14 @@
+{
+  "passed": true,
+  "version": "cover-lower-three-v10-20261019",
+  "changed_slides": [
+    1
+  ],
+  "plan_hash": "dbef2a9319edc41d834541d64ac6b9b3329539557cd015b69f57a6a48d7d74f8",
+  "cover_title_delta_y": 24,
+  "cover_title_y": 269.3,
+  "all_other_nodes_unchanged": true,
+  "local_visual_review": "cover render inspected; measured text fits",
+  "remote_visual_review": "unverified: Figma read tools plan-limited",
+  "user_approval_of_result": false
+}

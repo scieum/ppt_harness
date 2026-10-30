@@ -1,0 +1,13 @@
+{"schema":"openai.presentation.layout/v5","unit":"px","slide":{"id":"sl/z3by7c","index":12,"layout":{"id":"ly/rutkret0","name":"Blank"},"backgroundColor":"rgba(255,255,255,1)","position":{"left":0,"top":0,"width":1920,"height":1080}},
+"elements":[
+{"id":"im/bax4rqdc","kind":"image","position":{"left":1778.67,"top":40,"width":108,"height":77.33},"fit":"contain","alt":"sci_eum_logo"},
+{"id":"sh/d0f6pcza","kind":"textbox","name":"part_heading","position":{"left":72,"top":78,"width":1500,"height":52},"text":"Part 2 열화학 반응식","style":{"fontSize":38,"typeface":"Pretendard","color":"#909090","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/cz65g7ip","kind":"textbox","name":"topic_number","position":{"left":72,"top":137,"width":73,"height":67},"text":"01","style":{"fontSize":48.8,"typeface":"Pretendard","color":"#57962F","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/3ad4j2h8","kind":"textbox","name":"topic_heading","position":{"left":157,"top":137,"width":1500,"height":67},"text":"열화학 반응식","style":{"fontSize":48.8,"typeface":"Pretendard","color":"#111111","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/i94nax0n","kind":"textbox","name":"title","position":{"left":72,"top":285,"width":1776,"height":100},"text":"열화학 반응식이란?","style":{"fontSize":76.4,"typeface":"Pretendard","color":"#111111","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/pwvmlczy","kind":"textbox","name":"copyright","position":{"left":1535,"top":1037,"width":342,"height":30},"text":"© 2026. @sci_eum. All rights reserved.","style":{"fontSize":17,"typeface":"Pretendard","color":"#111111","alignment":"right"},"geometry":"rect","lineWidth":0},
+{"id":"sh/4bm5c7it","kind":"shape","name":"definition-box","position":{"left":230,"top":500,"width":1460,"height":230},"geometry":"roundRect","fillColor":"#F2F2F2","lineWidth":0},
+{"id":"sh/v6d4fihw","kind":"textbox","name":"definition-line-1","position":{"left":270,"top":545,"width":1380,"height":75},"text":"화학 반응식에 반응 엔탈피를","style":{"fontSize":54,"typeface":"Pretendard","color":"#111111","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/u5kn6x0b","kind":"textbox","name":"definition-line-2","position":{"left":270,"top":635,"width":1380,"height":75},"text":"함께 나타낸 것을 열화학 반응식이라고 한다","style":{"fontSize":54,"typeface":"Pretendard","color":"#111111","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"im/b25wjyxs","kind":"image","position":{"left":190,"top":810,"width":1540,"height":85},"fit":"contain","alt":"textbook-eq-cao"}
+]}

@@ -1,0 +1,7 @@
+{
+  "file_key": "lb4rUG6jqjQOx6VIizMNEs",
+  "status": "blocked",
+  "operation": "read existing Figma document before upload",
+  "tool_response": "You've reached the Figma MCP tool call limit on the Starter plan.",
+  "full31_uploaded": false
+}

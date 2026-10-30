@@ -1,0 +1,4228 @@
+[
+  {
+    "title": "[물에맛.Zip] 2-01. 물의 구조",
+    "spans": [
+      {
+        "text": "Part 3 물과 다른 물질의 끓는점 비교",
+        "size": "41.7512px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(137, 137, 137)"
+      },
+      {
+        "text": "01 ",
+        "size": "48.7866px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(186, 129, 255)"
+      },
+      {
+        "text": "여러 물질의 끓는점 ",
+        "size": "48.7866px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "©︎ 2026. @sci_eum. All rights reserved.",
+        "size": "19.72px",
+        "font": "\"miri-f08pfrlnolom81x8\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "'물의 끓는점과 다른 물질의 끓는점 비교'",
+        "size": "70.4954px",
+        "font": "\"miri-fe66s70dv8vhmnow\",var(--fallback-font-keys)",
+        "color": "rgb(186, 129, 255)"
+      },
+      {
+        "text": "→ ",
+        "size": "70.4954px",
+        "font": "\"miri-fe66s70dv8vhmnow\",var(--fallback-font-keys)",
+        "color": "rgb(15, 16, 11)"
+      },
+      {
+        "text": "수소 결합",
+        "size": "70.4954px",
+        "font": "\"miri-fe66s70dv8vhmnow\",var(--fallback-font-keys)",
+        "color": "rgb(15, 16, 11)"
+      },
+      {
+        "text": "으로 인하여 끓는점이 높은 편",
+        "size": "70.4954px",
+        "font": "\"miri-fe66s70dv8vhmnow\",var(--fallback-font-keys)",
+        "color": "rgb(15, 16, 11)"
+      },
+      {
+        "text": "따라서 분자 사이에 작용하는 힘이 매우 크므로 끓는점이 가장 높다.",
+        "size": "47.0446px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "2",
+        "size": "44.1333px",
+        "font": "\"miri-fe66s70dv8vhmnow\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "물은 다른 물질보다 분자량이 작은 편이지만 분자들 사이에 ",
+        "size": "47.0446px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "수소 결합",
+        "size": "47.0446px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "을 한다.",
+        "size": "47.0446px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "1",
+        "size": "44.1296px",
+        "font": "\"miri-fe66s70dv8vhmnow\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "메테인",
+        "size": "47.0446px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "과 ",
+        "size": "47.0446px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "질소",
+        "size": "47.0446px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "는 무극성 분자이므로 분자 간 상호 작용이 약하다.",
+        "size": "47.0446px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "아세톤",
+        "size": "47.0446px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "은 극성 분자이고 분자량이 큰 편이라 끓는점이 두 번째로 높다.",
+        "size": "47.0446px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "3",
+        "size": "44.1333px",
+        "font": "\"miri-fe66s70dv8vhmnow\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      }
+    ],
+    "page": 1,
+    "key": "650595c0"
+  },
+  {
+    "title": "[물에맛.Zip] 2-01. 물의 구조",
+    "spans": [],
+    "page": 2,
+    "key": "650595c0"
+  },
+  {
+    "title": "[물에맛.Zip] 2-01. 물의 구조",
+    "spans": [
+      {
+        "text": "Part 0 Intro",
+        "size": "41.7512px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(137, 137, 137)"
+      },
+      {
+        "text": "01 ",
+        "size": "48.7866px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(186, 129, 255)"
+      },
+      {
+        "text": "눈의 육각형 결정 구조",
+        "size": "48.7866px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "©︎ 2026. @sci_eum. All rights reserved.",
+        "size": "19.72px",
+        "font": "\"miri-f08pfrlnolom81x8\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "눈 결정은 왜 육각형 모양일까?",
+        "size": "77.5706px",
+        "font": "\"miri-fe66s70dv8vhmnow\",var(--fallback-font-keys)",
+        "color": "rgb(15, 16, 11)"
+      },
+      {
+        "text": "눈은 물이 얼어 만들어지지만, 아무렇게나 배열되지 않고 일정한 구조를 이룬다.\n그 까닭을 물 분자의 구조와 결합에서 찾아보자.",
+        "size": "36.4001px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(137, 137, 137)"
+      }
+    ],
+    "page": 3,
+    "key": "650595c0"
+  },
+  {
+    "title": "[물에맛.Zip] 2-01. 물의 구조",
+    "spans": [],
+    "page": 4,
+    "key": "650595c0"
+  },
+  {
+    "title": "[물에맛.Zip] 2-01. 물의 구조",
+    "spans": [
+      {
+        "text": "물 분자의 구조와 극성",
+        "size": "110.662px",
+        "font": "\"miri-fe66s70dv8vhmnow\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "PART 1",
+        "size": "68.9362px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(186, 129, 255)"
+      },
+      {
+        "text": "물 분자의 모양과 극성은 어떤 관계가 있을까?",
+        "size": "41.7512px",
+        "font": "\"miri-fo0esrbvuhd9z6d9\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "©︎ 2026. @sci_eum. All rights reserved.",
+        "size": "19.72px",
+        "font": "\"miri-f08pfrlnolom81x8\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      }
+    ],
+    "page": 5,
+    "key": "650595c0"
+  },
+  {
+    "title": "[물에맛.Zip] 2-01. 물의 구조",
+    "spans": [
+      {
+        "text": "물 분자의 구조와 극성",
+        "size": "110.662px",
+        "font": "\"miri-fe66s70dv8vhmnow\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "PART 1",
+        "size": "68.9362px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(186, 129, 255)"
+      },
+      {
+        "text": "물 분자의 모양과 극성은 어떤 관계가 있을까?",
+        "size": "41.7512px",
+        "font": "\"miri-fo0esrbvuhd9z6d9\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "©︎ 2026. @sci_eum. All rights reserved.",
+        "size": "19.72px",
+        "font": "\"miri-f08pfrlnolom81x8\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      }
+    ],
+    "page": 6,
+    "key": "650595c0"
+  },
+  {
+    "title": "[물에맛.Zip] 2-01. 물의 구조",
+    "spans": [],
+    "page": 7,
+    "key": "650595c0"
+  },
+  {
+    "title": "[물에맛.Zip] 2-01. 물의 구조",
+    "spans": [],
+    "page": 8,
+    "key": "650595c0"
+  },
+  {
+    "title": "[물에맛.Zip] 2-01. 물의 구조",
+    "spans": [],
+    "page": 9,
+    "key": "650595c0"
+  },
+  {
+    "title": "[물에맛.Zip] 2-01. 물의 구조",
+    "spans": [],
+    "page": 10,
+    "key": "650595c0"
+  },
+  {
+    "title": "[물에맛.Zip] 2-01. 물의 구조",
+    "spans": [
+      {
+        "text": "물 분자 사이의 수소 결합",
+        "size": "110.662px",
+        "font": "\"miri-fe66s70dv8vhmnow\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "PART 2",
+        "size": "68.9362px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(186, 129, 255)"
+      },
+      {
+        "text": "극성 분자 사이에는 어떤 분자 간 상호 작용이 작용할까?",
+        "size": "41.7512px",
+        "font": "\"miri-fo0esrbvuhd9z6d9\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "©︎ 2026. @sci_eum. All rights reserved.",
+        "size": "19.72px",
+        "font": "\"miri-f08pfrlnolom81x8\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      }
+    ],
+    "page": 11,
+    "key": "650595c0"
+  },
+  {
+    "title": "[물에맛.Zip] 2-01. 물의 구조",
+    "spans": [
+      {
+        "text": "물 분자 사이의 수소 결합",
+        "size": "110.662px",
+        "font": "\"miri-fe66s70dv8vhmnow\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "PART 2",
+        "size": "68.9362px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(186, 129, 255)"
+      },
+      {
+        "text": "극성 분자 사이에는 어떤 분자 간 상호 작용이 작용할까?",
+        "size": "41.7512px",
+        "font": "\"miri-fo0esrbvuhd9z6d9\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "©︎ 2026. @sci_eum. All rights reserved.",
+        "size": "19.72px",
+        "font": "\"miri-f08pfrlnolom81x8\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      }
+    ],
+    "page": 12,
+    "key": "650595c0"
+  },
+  {
+    "title": "[물에맛.Zip] 2-01. 물의 구조",
+    "spans": [
+      {
+        "text": "©︎ 2026. @sci_eum. All rights reserved.",
+        "size": "19.72px",
+        "font": "\"miri-f08pfrlnolom81x8\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "Part 2 물 분자 사이의 수소 결합",
+        "size": "41.7512px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(137, 137, 137)"
+      },
+      {
+        "text": "01 ",
+        "size": "48.7866px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(186, 129, 255)"
+      },
+      {
+        "text": "수소 결합",
+        "size": "48.7866px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "물 분자 사이의",
+        "size": "88.2035px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "수소 결합",
+        "size": "88.2035px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "물은 전기음성도가 작은 수소(H) 원자와 ",
+        "size": "43.1162px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "전기음성도가 큰 산소(O) 원자가 결합하고 있다.",
+        "size": "43.1162px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "1",
+        "size": "44.1296px",
+        "font": "\"miri-fe66s70dv8vhmnow\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "2",
+        "size": "44.1333px",
+        "font": "\"miri-fe66s70dv8vhmnow\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "물 분자의 전기 음성도가 큰 산소 원자와 ",
+        "size": "43.1162px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "다른 물 분자의 수소 원자 사이에",
+        "size": "43.1162px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "수소 결합",
+        "size": "43.1162px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "을 한다.",
+        "size": "43.1162px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      }
+    ],
+    "page": 13,
+    "key": "650595c0"
+  },
+  {
+    "title": "[물에맛.Zip] 2-01. 물의 구조",
+    "spans": [],
+    "page": 14,
+    "key": "650595c0"
+  },
+  {
+    "title": "[물에맛.Zip] 2-01. 물의 구조",
+    "spans": [],
+    "page": 15,
+    "key": "650595c0"
+  },
+  {
+    "title": "[물에맛.Zip] 2-01. 물의 구조",
+    "spans": [
+      {
+        "text": "물과 다른 물질의 끓는점 비교",
+        "size": "110.662px",
+        "font": "\"miri-fe66s70dv8vhmnow\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "PART 3",
+        "size": "68.9362px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(186, 129, 255)"
+      },
+      {
+        "text": "쌍극자가 없는 무극성 분자에는 어떤 분자 간 상호 작용이 작용할까?",
+        "size": "41.7512px",
+        "font": "\"miri-fo0esrbvuhd9z6d9\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "©︎ 2026. @sci_eum. All rights reserved.",
+        "size": "19.72px",
+        "font": "\"miri-f08pfrlnolom81x8\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      }
+    ],
+    "page": 16,
+    "key": "650595c0"
+  },
+  {
+    "title": "[물에맛.Zip] 2-01. 물의 구조",
+    "spans": [],
+    "page": 17,
+    "key": "650595c0"
+  },
+  {
+    "title": "[물에맛.Zip] 2-02. 물의 여러 가지 성질",
+    "spans": [
+      {
+        "text": "©︎ 2026. @sci_eum. All rights reserved.",
+        "size": "19.72px",
+        "font": "\"miri-f08pfrlnolom81x8\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "Part 4 물의 모세관 현상",
+        "size": "41.7512px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(137, 137, 137)"
+      },
+      {
+        "text": "03 ",
+        "size": "48.7866px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(186, 129, 255)"
+      },
+      {
+        "text": "물의 모세관 현상과 관련된 현상",
+        "size": "48.7866px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "종이·수건의 물 흡수",
+        "size": "45.4657px",
+        "font": "\"miri-fe66s70dv8vhmnow\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "식물의 물 이동",
+        "size": "45.4657px",
+        "font": "\"miri-fe66s70dv8vhmnow\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "모세관 현상과 관련된 현상",
+        "size": "76.4464px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(186, 129, 255)"
+      },
+      {
+        "text": "종이의 흡수나 식물의 물 이동에서 나타난다.",
+        "size": "36.4001px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(137, 137, 137)"
+      }
+    ],
+    "page": 1,
+    "key": "2d61dd67"
+  },
+  {
+    "title": "[물에맛.Zip] 2-02. 물의 여러 가지 성질",
+    "spans": [],
+    "page": 2,
+    "key": "2d61dd67"
+  },
+  {
+    "title": "[물에맛.Zip] 2-02. 물의 여러 가지 성질",
+    "spans": [
+      {
+        "text": "Part 0 Intro",
+        "size": "41.7512px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(137, 137, 137)"
+      },
+      {
+        "text": "01 ",
+        "size": "48.7866px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(186, 129, 255)"
+      },
+      {
+        "text": "얼리면 부풀어 오르는 요구르트",
+        "size": "48.7866px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "©︎ 2026. @sci_eum. All rights reserved.",
+        "size": "19.72px",
+        "font": "\"miri-f08pfrlnolom81x8\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "요구르트병을 얼리면 병이 볼록하게 부풀어 오른다.",
+        "size": "77.5706px",
+        "font": "\"miri-fe66s70dv8vhmnow\",var(--fallback-font-keys)",
+        "color": "rgb(15, 16, 11)"
+      },
+      {
+        "text": "대부분의 물질은 얼면 부피가 줄어들지만, 물은 오히려 부피가 커진다.\n그 까닭을 물 분자의 구조와 분자 사이의 결합에서 찾아보자.",
+        "size": "36.4001px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(137, 137, 137)"
+      }
+    ],
+    "page": 3,
+    "key": "2d61dd67"
+  },
+  {
+    "title": "[물에맛.Zip] 2-02. 물의 여러 가지 성질",
+    "spans": [],
+    "page": 4,
+    "key": "2d61dd67"
+  },
+  {
+    "title": "[물에맛.Zip] 2-02. 물의 여러 가지 성질",
+    "spans": [],
+    "page": 5,
+    "key": "2d61dd67"
+  },
+  {
+    "title": "[물에맛.Zip] 2-02. 물의 여러 가지 성질",
+    "spans": [
+      {
+        "text": "물의 밀도",
+        "size": "110.662px",
+        "font": "\"miri-fe66s70dv8vhmnow\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "PART 1",
+        "size": "68.9362px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(186, 129, 255)"
+      },
+      {
+        "text": "다른 액체와 달리, 물은 왜 얼면 부피가 증가할까?",
+        "size": "41.7512px",
+        "font": "\"miri-fo0esrbvuhd9z6d9\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "©︎ 2026. @sci_eum. All rights reserved.",
+        "size": "19.72px",
+        "font": "\"miri-f08pfrlnolom81x8\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      }
+    ],
+    "page": 6,
+    "key": "2d61dd67"
+  },
+  {
+    "title": "[물에맛.Zip] 2-02. 물의 여러 가지 성질",
+    "spans": [
+      {
+        "text": "©︎ 2026. @sci_eum. All rights reserved.",
+        "size": "19.72px",
+        "font": "\"miri-f08pfrlnolom81x8\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "물이 얼 때, 분자 배열의 변화 살펴보기",
+        "size": "76.4464px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "수소 결합으로 물 분자들이 육각형 배열을 이루면서 분자 사이에 공간이 생김",
+        "size": "36.4001px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(137, 137, 137)"
+      },
+      {
+        "text": "Part 1 물의 밀도",
+        "size": "41.7512px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(137, 137, 137)"
+      },
+      {
+        "text": "01 ",
+        "size": "48.7866px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(186, 129, 255)"
+      },
+      {
+        "text": "물과 얼음에서 분자의 배열",
+        "size": "48.7866px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "얼음은 물보다 수소 결합 수가 많다.",
+        "size": "41.0037px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      }
+    ],
+    "page": 7,
+    "key": "2d61dd67"
+  },
+  {
+    "title": "[물에맛.Zip] 2-02. 물의 여러 가지 성질",
+    "spans": [
+      {
+        "text": "©︎ 2026. @sci_eum. All rights reserved.",
+        "size": "19.72px",
+        "font": "\"miri-f08pfrlnolom81x8\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "물이 얼 때, 분자 배열의 변화 살펴보기",
+        "size": "76.4464px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "수소 결합으로 물 분자들이 육각형 배열을 이루면서 분자 사이에 공간이 생김",
+        "size": "36.4001px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(137, 137, 137)"
+      },
+      {
+        "text": "Part 1 물의 밀도",
+        "size": "41.7512px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(137, 137, 137)"
+      },
+      {
+        "text": "01 ",
+        "size": "48.7866px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(186, 129, 255)"
+      },
+      {
+        "text": "물과 얼음에서 분자의 배열",
+        "size": "48.7866px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "얼음은 물보다 수소 결합 수가 많다.",
+        "size": "41.0037px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      }
+    ],
+    "page": 8,
+    "key": "2d61dd67"
+  },
+  {
+    "title": "[물에맛.Zip] 2-02. 물의 여러 가지 성질",
+    "spans": [],
+    "page": 9,
+    "key": "2d61dd67"
+  },
+  {
+    "title": "[물에맛.Zip] 2-02. 물의 여러 가지 성질",
+    "spans": [],
+    "page": 10,
+    "key": "2d61dd67"
+  },
+  {
+    "title": "[물에맛.Zip] 2-02. 물의 여러 가지 성질",
+    "spans": [
+      {
+        "text": "©︎ 2026. @sci_eum. All rights reserved.",
+        "size": "19.72px",
+        "font": "\"miri-f08pfrlnolom81x8\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "Part 1 물의 밀도",
+        "size": "41.7512px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(137, 137, 137)"
+      },
+      {
+        "text": "02 ",
+        "size": "48.7866px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(186, 129, 255)"
+      },
+      {
+        "text": "온도에 따른 물의 부피와 밀도 변화",
+        "size": "48.7866px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "영하 ~ 0℃",
+        "size": "41.9089px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": ": 얼음을 가열하면 분자 운동이",
+        "size": "41.9089px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "활발해지므로 분자 사이의 거리가 멀어져 부피 증가",
+        "size": "41.9089px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "1",
+        "size": "44.1296px",
+        "font": "\"miri-fe66s70dv8vhmnow\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "2",
+        "size": "44.1333px",
+        "font": "\"miri-fe66s70dv8vhmnow\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "0℃",
+        "size": "41.9089px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": " : ",
+        "size": "41.9089px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "융해가 일어나는 과정에서 수소 결합으로",
+        "size": "41.9089px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "이루어진 육각형 구조가 허물어지면서 부피 급격히 감소",
+        "size": "41.9089px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "3",
+        "size": "44.1333px",
+        "font": "\"miri-fe66s70dv8vhmnow\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "0℃ ~ 4℃",
+        "size": "41.9089px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": " : ",
+        "size": "41.9089px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "남아 있던 육각형 구조가 허물어지면서 ",
+        "size": "41.9089px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "빈 공간이 채워지는 효과가 분자 간 거리가 멀어지는 효과",
+        "size": "41.9089px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "보다 크므로 부피가 감소",
+        "size": "41.9089px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "-4℃의 얼음을 가열할 때 부피와 밀도 변화",
+        "size": "76.4464px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(186, 129, 255)"
+      }
+    ],
+    "page": 11,
+    "key": "2d61dd67"
+  },
+  {
+    "title": "[물에맛.Zip] 2-02. 물의 여러 가지 성질",
+    "spans": [],
+    "page": 12,
+    "key": "2d61dd67"
+  },
+  {
+    "title": "[물에맛.Zip] 2-02. 물의 여러 가지 성질",
+    "spans": [],
+    "page": 13,
+    "key": "2d61dd67"
+  },
+  {
+    "title": "[물에맛.Zip] 2-02. 물의 여러 가지 성질",
+    "spans": [
+      {
+        "text": "물의 비열",
+        "size": "110.662px",
+        "font": "\"miri-fe66s70dv8vhmnow\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "PART 2",
+        "size": "68.9362px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(186, 129, 255)"
+      },
+      {
+        "text": "물 분자 사이의 수소 결합은 물의 비열에 어떤 영향을 줄까?",
+        "size": "41.7512px",
+        "font": "\"miri-fo0esrbvuhd9z6d9\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "©︎ 2026. @sci_eum. All rights reserved.",
+        "size": "19.72px",
+        "font": "\"miri-f08pfrlnolom81x8\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      }
+    ],
+    "page": 14,
+    "key": "2d61dd67"
+  },
+  {
+    "title": "[물에맛.Zip] 2-02. 물의 여러 가지 성질",
+    "spans": [
+      {
+        "text": "©︎ 2026. @sci_eum. All rights reserved.",
+        "size": "19.72px",
+        "font": "\"miri-f08pfrlnolom81x8\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "Part 2 물의 비열",
+        "size": "41.7512px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(137, 137, 137)"
+      },
+      {
+        "text": "01 ",
+        "size": "48.7866px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(186, 129, 255)"
+      },
+      {
+        "text": "비열이란?",
+        "size": "48.7866px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "· 비열(",
+        "size": "45.0667px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "c",
+        "size": "45.0667px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": ") : 물질 1 g의 온도를 1℃ 높이는 데 필요한 열량",
+        "size": "45.0667px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "· 열용량(",
+        "size": "45.0667px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "C",
+        "size": "45.0667px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": ") : 물질 전체의 온도를 1℃ 높이는 데 필요한 열량, ",
+        "size": "45.0667px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "열용량 = 비열 × 질량",
+        "size": "45.0667px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "비열 vs 열용량",
+        "size": "76.4464px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(186, 129, 255)"
+      },
+      {
+        "text": "비열은 물질 자체의 성질이고, 열용량은 물질의 양까지 고려한 성질이다.",
+        "size": "36.4001px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(137, 137, 137)"
+      },
+      {
+        "text": "· 열용량은 비열이 클수록, 물질의 질량이 클수록 크다.",
+        "size": "45.0667px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      }
+    ],
+    "page": 15,
+    "key": "2d61dd67"
+  },
+  {
+    "title": "[물에맛.Zip] 2-02. 물의 여러 가지 성질",
+    "spans": [
+      {
+        "text": "©︎ 2026. @sci_eum. All rights reserved.",
+        "size": "19.72px",
+        "font": "\"miri-f08pfrlnolom81x8\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "Part 2 물의 비열",
+        "size": "41.7512px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(137, 137, 137)"
+      },
+      {
+        "text": "01 ",
+        "size": "48.7866px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(186, 129, 255)"
+      },
+      {
+        "text": "비열이란?",
+        "size": "48.7866px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "· 비열(",
+        "size": "45.0667px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "c",
+        "size": "45.0667px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": ") : 물질 1 g의 온도를 1℃ 높이는 데 필요한 열량",
+        "size": "45.0667px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "· 열용량(",
+        "size": "45.0667px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "C",
+        "size": "45.0667px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": ") : 물질 전체의 온도를 1℃ 높이는 데 필요한 열량, ",
+        "size": "45.0667px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "열용량 = 비열 × 질량",
+        "size": "45.0667px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "비열 vs 열용량",
+        "size": "76.4464px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(186, 129, 255)"
+      },
+      {
+        "text": "비열은 물질 자체의 성질이고, 열용량은 물질의 양까지 고려한 성질이다.",
+        "size": "36.4001px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(137, 137, 137)"
+      },
+      {
+        "text": "· 열용량은 비열이 클수록, 물질의 질량이 클수록 크다.",
+        "size": "45.0667px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      }
+    ],
+    "page": 16,
+    "key": "2d61dd67"
+  },
+  {
+    "title": "[물에맛.Zip] 2-02. 물의 여러 가지 성질",
+    "spans": [],
+    "page": 17,
+    "key": "2d61dd67"
+  },
+  {
+    "title": "[물에맛.Zip] 2-02. 물의 여러 가지 성질",
+    "spans": [],
+    "page": 18,
+    "key": "2d61dd67"
+  },
+  {
+    "title": "[물에맛.Zip] 2-02. 물의 여러 가지 성질",
+    "spans": [
+      {
+        "text": "©︎ 2026. @sci_eum. All rights reserved.",
+        "size": "19.72px",
+        "font": "\"miri-f08pfrlnolom81x8\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "Part 2 물의 비열",
+        "size": "41.7512px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(137, 137, 137)"
+      },
+      {
+        "text": "03 ",
+        "size": "48.7866px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(186, 129, 255)"
+      },
+      {
+        "text": "물의 비열과 관련된 현상",
+        "size": "48.7866px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "바닷물의 큰 열용량 덕분에 해안 지방의 일교차가 내륙 지방보다 작다.",
+        "size": "47.0446px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "2",
+        "size": "44.1333px",
+        "font": "\"miri-fe66s70dv8vhmnow\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "물은 인체에서 차지하는 질량이 매우 크므로 체온 유지에 도움을 준다.",
+        "size": "47.0446px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "1",
+        "size": "44.1296px",
+        "font": "\"miri-fe66s70dv8vhmnow\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": " 해안가에서 낮에는 해풍, 밤에는 육풍이 분다",
+        "size": "47.0446px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "→ 바닷물은 육지보다 비열이 크므로 육지는 빨리 데워지고 식는다. ",
+        "size": "47.0446px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "3",
+        "size": "44.1333px",
+        "font": "\"miri-fe66s70dv8vhmnow\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "물의 비열과 관련된 현상",
+        "size": "76.4464px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(186, 129, 255)"
+      },
+      {
+        "text": "물의 수소 결합으로 인하여 다른 물질에 비해 비열이 높은 편이다.",
+        "size": "36.4001px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(137, 137, 137)"
+      }
+    ],
+    "page": 19,
+    "key": "2d61dd67"
+  },
+  {
+    "title": "[물에맛.Zip] 2-02. 물의 여러 가지 성질",
+    "spans": [
+      {
+        "text": "물의 표면 장력",
+        "size": "110.662px",
+        "font": "\"miri-fe66s70dv8vhmnow\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "PART 3",
+        "size": "68.9362px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(186, 129, 255)"
+      },
+      {
+        "text": "물방울이 둥근 모양을 이루는 까닭은 무엇일까?",
+        "size": "41.7512px",
+        "font": "\"miri-fo0esrbvuhd9z6d9\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "©︎ 2026. @sci_eum. All rights reserved.",
+        "size": "19.72px",
+        "font": "\"miri-f08pfrlnolom81x8\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      }
+    ],
+    "page": 20,
+    "key": "2d61dd67"
+  },
+  {
+    "title": "[물에맛.Zip] 2-02. 물의 여러 가지 성질",
+    "spans": [
+      {
+        "text": "물의 표면 장력",
+        "size": "110.662px",
+        "font": "\"miri-fe66s70dv8vhmnow\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "PART 3",
+        "size": "68.9362px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(186, 129, 255)"
+      },
+      {
+        "text": "물방울이 둥근 모양을 이루는 까닭은 무엇일까?",
+        "size": "41.7512px",
+        "font": "\"miri-fo0esrbvuhd9z6d9\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "©︎ 2026. @sci_eum. All rights reserved.",
+        "size": "19.72px",
+        "font": "\"miri-f08pfrlnolom81x8\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      }
+    ],
+    "page": 21,
+    "key": "2d61dd67"
+  },
+  {
+    "title": "[물에맛.Zip] 2-02. 물의 여러 가지 성질",
+    "spans": [],
+    "page": 22,
+    "key": "2d61dd67"
+  },
+  {
+    "title": "[물에맛.Zip] 2-02. 물의 여러 가지 성질",
+    "spans": [],
+    "page": 23,
+    "key": "2d61dd67"
+  },
+  {
+    "title": "[물에맛.Zip] 2-02. 물의 여러 가지 성질",
+    "spans": [
+      {
+        "text": "©︎ 2026. @sci_eum. All rights reserved.",
+        "size": "19.72px",
+        "font": "\"miri-f08pfrlnolom81x8\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "액체가 표면적을 최소화하려는 힘, ",
+        "size": "68.9731px",
+        "font": "\"miri-fe66s70dv8vhmnow\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "액체의 표면적을 단위 면적만큼 늘리는 데 필요한 에너지",
+        "size": "68.9731px",
+        "font": "\"miri-fe66s70dv8vhmnow\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "표면 장력(表面張力, Surface Tension)",
+        "size": "90.6753px",
+        "font": "\"miri-fe66s70dv8vhmnow\",var(--fallback-font-keys)",
+        "color": "rgb(186, 129, 255)"
+      },
+      {
+        "text": "분자 사이의 인력이 강할수록 표면 장력이 커지고, 물은 수소 결합으로 표면 장력이 크다.",
+        "size": "41.0037px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "Part 3 물의 표면 장력",
+        "size": "41.7512px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(137, 137, 137)"
+      },
+      {
+        "text": "02 ",
+        "size": "48.7866px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(186, 129, 255)"
+      },
+      {
+        "text": "표면 장력",
+        "size": "48.7866px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      }
+    ],
+    "page": 24,
+    "key": "2d61dd67"
+  },
+  {
+    "title": "[물에맛.Zip] 2-02. 물의 여러 가지 성질",
+    "spans": [
+      {
+        "text": "©︎ 2026. @sci_eum. All rights reserved.",
+        "size": "19.72px",
+        "font": "\"miri-f08pfrlnolom81x8\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "Part 3 물의 표면 장력",
+        "size": "41.7512px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(137, 137, 137)"
+      },
+      {
+        "text": "02 ",
+        "size": "48.7866px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(186, 129, 255)"
+      },
+      {
+        "text": "표면 장력",
+        "size": "48.7866px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "온도에 따른 표면 장력 변화",
+        "size": "76.4464px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(186, 129, 255)"
+      },
+      {
+        "text": "온도가 증가하면 수소 결합의 수가 감소하여 물의 표면 장력이 작아진다.",
+        "size": "36.4001px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(137, 137, 137)"
+      },
+      {
+        "text": "수소 결합의 수",
+        "size": "32.0391px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(38, 35, 48)"
+      },
+      {
+        "text": ": ",
+        "size": "32.0391px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(38, 35, 48)"
+      },
+      {
+        "text": "25℃ 물 > 50℃ 물",
+        "size": "32.0391px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(38, 35, 48)"
+      },
+      {
+        "text": "온도가 높을수록 물 분자 사이에 작용하는 표면 장력이 작아져 물방울이 넓게 퍼진다.",
+        "size": "41.0037px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      }
+    ],
+    "page": 25,
+    "key": "2d61dd67"
+  },
+  {
+    "title": "[물에맛.Zip] 2-02. 물의 여러 가지 성질",
+    "spans": [
+      {
+        "text": "©︎ 2026. @sci_eum. All rights reserved.",
+        "size": "19.72px",
+        "font": "\"miri-f08pfrlnolom81x8\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "Part 3 물의 표면 장력",
+        "size": "41.7512px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(137, 137, 137)"
+      },
+      {
+        "text": "02 ",
+        "size": "48.7866px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(186, 129, 255)"
+      },
+      {
+        "text": "표면 장력",
+        "size": "48.7866px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "온도에 따른 표면 장력 변화",
+        "size": "76.4464px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(186, 129, 255)"
+      },
+      {
+        "text": "온도가 증가하면 수소 결합의 수가 감소하여 물의 표면 장력이 작아진다.",
+        "size": "36.4001px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(137, 137, 137)"
+      },
+      {
+        "text": "수소 결합의 수",
+        "size": "32.0391px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(38, 35, 48)"
+      },
+      {
+        "text": ": ",
+        "size": "32.0391px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(38, 35, 48)"
+      },
+      {
+        "text": "25℃ 물 > 50℃ 물",
+        "size": "32.0391px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(38, 35, 48)"
+      },
+      {
+        "text": "온도가 높을수록 물 분자 사이에 작용하는 표면 장력이 작아져 물방울이 넓게 퍼진다.",
+        "size": "41.0037px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      }
+    ],
+    "page": 26,
+    "key": "2d61dd67"
+  },
+  {
+    "title": "[물에맛.Zip] 2-02. 물의 여러 가지 성질",
+    "spans": [],
+    "page": 27,
+    "key": "2d61dd67"
+  },
+  {
+    "title": "[물에맛.Zip] 2-02. 물의 여러 가지 성질",
+    "spans": [],
+    "page": 28,
+    "key": "2d61dd67"
+  },
+  {
+    "title": "[물에맛.Zip] 2-02. 물의 여러 가지 성질",
+    "spans": [
+      {
+        "text": "Part 4 물의 모세관 현상",
+        "size": "41.7512px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(137, 137, 137)"
+      },
+      {
+        "text": "01 ",
+        "size": "48.7866px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(186, 129, 255)"
+      },
+      {
+        "text": "모세관 현상",
+        "size": "48.7866px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "물에 가는 유리관을 넣으면 물이 위로 올라간다.",
+        "size": "76.4464px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "액체가 가는 유리관이나 미세한 틈 속에서 이동하는 현상을 '모세관 현상'이라고 한다.",
+        "size": "36.4001px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(137, 137, 137)"
+      },
+      {
+        "text": "©︎ 2026. @sci_eum. All rights reserved.",
+        "size": "19.72px",
+        "font": "\"miri-f08pfrlnolom81x8\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      }
+    ],
+    "page": 29,
+    "key": "2d61dd67"
+  },
+  {
+    "title": "[물에맛.Zip] 2-02. 물의 여러 가지 성질",
+    "spans": [],
+    "page": 30,
+    "key": "2d61dd67"
+  },
+  {
+    "title": "[물에맛.Zip] 2-02. 물의 여러 가지 성질",
+    "spans": [],
+    "page": 31,
+    "key": "2d61dd67"
+  },
+  {
+    "title": "[물에맛.Zip] 2-02. 물의 여러 가지 성질",
+    "spans": [],
+    "page": 32,
+    "key": "2d61dd67"
+  },
+  {
+    "title": "[물에맛.Zip] 2-02. 물의 여러 가지 성질",
+    "spans": [],
+    "page": 33,
+    "key": "2d61dd67"
+  },
+  {
+    "title": "[물에맛.Zip] 2-02. 물의 여러 가지 성질",
+    "spans": [
+      {
+        "text": "Part 4 물의 모세관 현상",
+        "size": "41.7512px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(137, 137, 137)"
+      },
+      {
+        "text": "©︎ 2026. @sci_eum. All rights reserved.",
+        "size": "19.72px",
+        "font": "\"miri-f08pfrlnolom81x8\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "02 ",
+        "size": "48.7866px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(186, 129, 255)"
+      },
+      {
+        "text": "물의 모세관 현상",
+        "size": "48.7866px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "모세관의 굵기와",
+        "size": "88.2035px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "물이 올라가는 높이",
+        "size": "88.2035px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "모세관의 굵기가 가늘수록 물에 작용하는 중력에",
+        "size": "43.1162px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": " 비해 상대적으로 ",
+        "size": "43.1162px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "부착력의 영향이 커진다",
+        "size": "43.1162px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": ".",
+        "size": "43.1162px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "1",
+        "size": "44.1296px",
+        "font": "\"miri-fe66s70dv8vhmnow\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "2",
+        "size": "44.1333px",
+        "font": "\"miri-fe66s70dv8vhmnow\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "모세관이 가늘수록 표면 장력에 의한 상승 효과가",
+        "size": "43.1162px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": " 상대적으로 커져 물이 더 높이 올라간다.",
+        "size": "43.1162px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      }
+    ],
+    "page": 34,
+    "key": "2d61dd67"
+  },
+  {
+    "title": "[물에맛.Zip] 2-03. 증기 압력 내림",
+    "spans": [],
+    "page": 1,
+    "key": "610fa82f"
+  },
+  {
+    "title": "[물에맛.Zip] 2-03. 증기 압력 내림",
+    "spans": [
+      {
+        "text": "Ⅱ. 용액의 성질\n",
+        "size": "117.434px",
+        "font": "\"miri-f5odfyf3uf4cjyxf\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "03. 증기 압력 내림\n",
+        "size": "117.434px",
+        "font": "\"miri-f5odfyf3uf4cjyxf\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "사이음 저",
+        "size": "44.0767px",
+        "font": "\"miri-fo0esrbvuhd9z6d9\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "©︎ 2026. @sci_eum. All rights reserved.",
+        "size": "19.72px",
+        "font": "\"miri-f08pfrlnolom81x8\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "본 수업 자료에 사용된 일부 이미지는 생성형 AI 기술을 활용하여 제작되었습니다.\n",
+        "size": "19.72px",
+        "font": "\"miri-f08pfrlnolom81x8\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      }
+    ],
+    "page": 2,
+    "key": "610fa82f"
+  },
+  {
+    "title": "[물에맛.Zip] 2-03. 증기 압력 내림",
+    "spans": [
+      {
+        "text": "Part 0 Intro",
+        "size": "41.7512px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(137, 137, 137)"
+      },
+      {
+        "text": "01 ",
+        "size": "48.7866px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(186, 129, 255)"
+      },
+      {
+        "text": "같은 물인데, 왜 마르는 속도가 다를까?",
+        "size": "48.7866px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "©︎ 2026. @sci_eum. All rights reserved.",
+        "size": "19.72px",
+        "font": "\"miri-f08pfrlnolom81x8\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "누가 더 잘 마를까?",
+        "size": "77.5706px",
+        "font": "\"miri-fe66s70dv8vhmnow\",var(--fallback-font-keys)",
+        "color": "rgb(15, 16, 11)"
+      },
+      {
+        "text": "바닷물과 강물에 젖은 수영복 중 어느 쪽이 더 빨리 마를까?\n용질이 녹아 있는 물은 순수한 물과 증발하는 정도가 다르다.",
+        "size": "36.4001px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(137, 137, 137)"
+      }
+    ],
+    "page": 3,
+    "key": "610fa82f"
+  },
+  {
+    "title": "[물에맛.Zip] 2-03. 증기 압력 내림",
+    "spans": [],
+    "page": 4,
+    "key": "610fa82f"
+  },
+  {
+    "title": "[물에맛.Zip] 2-03. 증기 압력 내림",
+    "spans": [
+      {
+        "text": "증기 압력 내림",
+        "size": "110.662px",
+        "font": "\"miri-fe66s70dv8vhmnow\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "PART 1",
+        "size": "68.9362px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(186, 129, 255)"
+      },
+      {
+        "text": "용액의 조성과 증기 압력 사이에는 어떤 관계가 있을까?",
+        "size": "41.7512px",
+        "font": "\"miri-fo0esrbvuhd9z6d9\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "©︎ 2026. @sci_eum. All rights reserved.",
+        "size": "19.72px",
+        "font": "\"miri-f08pfrlnolom81x8\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      }
+    ],
+    "page": 5,
+    "key": "610fa82f"
+  },
+  {
+    "title": "[물에맛.Zip] 2-03. 증기 압력 내림",
+    "spans": [
+      {
+        "text": "증기 압력 내림",
+        "size": "110.662px",
+        "font": "\"miri-fe66s70dv8vhmnow\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "PART 1",
+        "size": "68.9362px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(186, 129, 255)"
+      },
+      {
+        "text": "용액의 조성과 증기 압력 사이에는 어떤 관계가 있을까?",
+        "size": "41.7512px",
+        "font": "\"miri-fo0esrbvuhd9z6d9\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "©︎ 2026. @sci_eum. All rights reserved.",
+        "size": "19.72px",
+        "font": "\"miri-f08pfrlnolom81x8\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      }
+    ],
+    "page": 6,
+    "key": "610fa82f"
+  },
+  {
+    "title": "[물에맛.Zip] 2-03. 증기 압력 내림",
+    "spans": [
+      {
+        "text": "©︎ 2026. @sci_eum. All rights reserved.",
+        "size": "19.72px",
+        "font": "\"miri-f08pfrlnolom81x8\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "Part 1 증기 압력 내림",
+        "size": "41.7512px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(137, 137, 137)"
+      },
+      {
+        "text": "01 ",
+        "size": "48.7866px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(186, 129, 255)"
+      },
+      {
+        "text": "증기 압력",
+        "size": "48.7866px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "증기가 나타내는 압력, ",
+        "size": "76.4464px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "증기 압력",
+        "size": "76.4464px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(186, 129, 255)"
+      },
+      {
+        "text": "동적 평형 상태에서 증기가 나타내는 압력을 증기 압력 또는 증기압이라고 한다.",
+        "size": "36.4001px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(137, 137, 137)"
+      }
+    ],
+    "page": 7,
+    "key": "610fa82f"
+  },
+  {
+    "title": "[물에맛.Zip] 2-03. 증기 압력 내림",
+    "spans": [],
+    "page": 8,
+    "key": "610fa82f"
+  },
+  {
+    "title": "[물에맛.Zip] 2-03. 증기 압력 내림",
+    "spans": [
+      {
+        "text": "©︎ 2026. @sci_eum. All rights reserved.",
+        "size": "19.72px",
+        "font": "\"miri-f08pfrlnolom81x8\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "Part 1 증기 압력 내림",
+        "size": "41.7512px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(137, 137, 137)"
+      },
+      {
+        "text": "02 ",
+        "size": "48.7866px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(186, 129, 255)"
+      },
+      {
+        "text": "증기 압력 내림",
+        "size": "48.7866px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "용액의 표면에 있는 용매의 입자 수는 순수한 용매보다 적어 증기 압력이 용매보다 작아진다.",
+        "size": "36.4001px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(137, 137, 137)"
+      },
+      {
+        "text": "용매와 용액에서 일어나는 증발",
+        "size": "76.4464px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(186, 129, 255)"
+      },
+      {
+        "text": "· ",
+        "size": "45.0667px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "용질 입자가 용액 표면의 일부를 차지하므로 증발할 수 있는 용매 입자 수가 감소한다.",
+        "size": "45.0667px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "· 용질 입자와 용매 입자 사이에 인력이 작용하므로 용매 입자의 증발이 방해 받는다.",
+        "size": "45.0667px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "· ",
+        "size": "45.0667px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "증발량이 많을수록 증기 압력이 커지므로, ",
+        "size": "45.0667px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "순수한 용매가 용액보다 증기 압력이 크다",
+        "size": "45.0667px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": ".",
+        "size": "45.0667px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      }
+    ],
+    "page": 9,
+    "key": "610fa82f"
+  },
+  {
+    "title": "[물에맛.Zip] 2-03. 증기 압력 내림",
+    "spans": [
+      {
+        "text": "©︎ 2026. @sci_eum. All rights reserved.",
+        "size": "19.72px",
+        "font": "\"miri-f08pfrlnolom81x8\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "Part 1 증기 압력 내림",
+        "size": "41.7512px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(137, 137, 137)"
+      },
+      {
+        "text": "02 ",
+        "size": "48.7866px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(186, 129, 255)"
+      },
+      {
+        "text": "증기 압력 내림",
+        "size": "48.7866px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "용액의 표면에 있는 용매의 입자 수는 순수한 용매보다 적어 증기 압력이 용매보다 작아진다.",
+        "size": "36.4001px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(137, 137, 137)"
+      },
+      {
+        "text": "용매와 용액에서 일어나는 증발",
+        "size": "76.4464px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(186, 129, 255)"
+      },
+      {
+        "text": "· ",
+        "size": "45.0667px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "용질 입자가 용액 표면의 일부를 차지하므로 증발할 수 있는 용매 입자 수가 감소한다.",
+        "size": "45.0667px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "· 용질 입자와 용매 입자 사이에 인력이 작용하므로 용매 입자의 증발이 방해 받는다.",
+        "size": "45.0667px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "· ",
+        "size": "45.0667px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "증발량이 많을수록 증기 압력이 커지므로, ",
+        "size": "45.0667px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "순수한 용매가 용액보다 증기 압력이 크다",
+        "size": "45.0667px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": ".",
+        "size": "45.0667px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      }
+    ],
+    "page": 10,
+    "key": "610fa82f"
+  },
+  {
+    "title": "[물에맛.Zip] 2-03. 증기 압력 내림",
+    "spans": [
+      {
+        "text": "©︎ 2026. @sci_eum. All rights reserved.",
+        "size": "19.72px",
+        "font": "\"miri-f08pfrlnolom81x8\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "Part 1 증기 압력 내림",
+        "size": "41.7512px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(137, 137, 137)"
+      },
+      {
+        "text": "02 ",
+        "size": "48.7866px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(186, 129, 255)"
+      },
+      {
+        "text": "증기 압력 내림",
+        "size": "48.7866px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "증기 압력 내림",
+        "size": "88.2035px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "같은 온도에서 용액은 순수한 용매에 비해 ",
+        "size": "43.1162px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "증발하기 어려워, ",
+        "size": "43.1162px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "증기 압력이 낮아진다.",
+        "size": "43.1162px",
+        "font": "\"miri-fe66s70dv8vhmnow\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "1",
+        "size": "44.1296px",
+        "font": "\"miri-fe66s70dv8vhmnow\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "2",
+        "size": "44.1333px",
+        "font": "\"miri-fe66s70dv8vhmnow\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "증기 압력 내림(△",
+        "size": "43.1162px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "P",
+        "size": "43.1162px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": ")",
+        "size": "43.1162px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": " : 일정한 온도에서 비휘발성 ",
+        "size": "43.1162px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "용질이 녹아 있는 용액의 증기 압력이 순수한 용매의",
+        "size": "43.1162px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": " 증기 압력보다 낮아지는 현상",
+        "size": "43.1162px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      }
+    ],
+    "page": 11,
+    "key": "610fa82f"
+  },
+  {
+    "title": "[물에맛.Zip] 2-03. 증기 압력 내림",
+    "spans": [],
+    "page": 12,
+    "key": "610fa82f"
+  },
+  {
+    "title": "[물에맛.Zip] 2-03. 증기 압력 내림",
+    "spans": [],
+    "page": 13,
+    "key": "610fa82f"
+  },
+  {
+    "title": "[물에맛.Zip] 2-03. 증기 압력 내림",
+    "spans": [
+      {
+        "text": "©︎ 2026. @sci_eum. All rights reserved.",
+        "size": "19.72px",
+        "font": "\"miri-f08pfrlnolom81x8\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "Part 2 용액의 농도에 따른 증기 압력 비교",
+        "size": "41.7512px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(137, 137, 137)"
+      },
+      {
+        "text": "높이 차(",
+        "size": "47.0446px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "h",
+        "size": "47.0446px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": ")",
+        "size": "47.0446px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": " : 설탕물의 농도가 진해질수록 높이 차(",
+        "size": "47.0446px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "h",
+        "size": "47.0446px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": ")가 증가한다",
+        "size": "47.0446px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "2",
+        "size": "44.1333px",
+        "font": "\"miri-fe66s70dv8vhmnow\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "증기 압력 내림(△",
+        "size": "47.0446px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "P",
+        "size": "47.0446px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": ")",
+        "size": "47.0446px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": " : 설탕물의 농도가 진해질수록 증기 압력 내림은 커진다.",
+        "size": "47.0446px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "1",
+        "size": "44.1296px",
+        "font": "\"miri-fe66s70dv8vhmnow\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "설탕물의 농도와 증기 압력 내림",
+        "size": "76.4464px",
+        "font": "\"miri-fe66s70dv8vhmnow\",var(--fallback-font-keys)",
+        "color": "rgb(186, 129, 255)"
+      },
+      {
+        "text": "설탕물의 농도가 진해질수록 증기 압력이 낮아져, 증기 압력 내림은 커진다.",
+        "size": "36.4001px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(137, 137, 137)"
+      },
+      {
+        "text": "01 ",
+        "size": "48.7866px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(186, 129, 255)"
+      },
+      {
+        "text": "수용액의 농도와 증기 압력",
+        "size": "48.7866px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      }
+    ],
+    "page": 14,
+    "key": "610fa82f"
+  },
+  {
+    "title": "[물에맛.Zip] 2-03. 증기 압력 내림",
+    "spans": [
+      {
+        "text": "©︎ 2026. @sci_eum. All rights reserved.",
+        "size": "19.72px",
+        "font": "\"miri-f08pfrlnolom81x8\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "Part 2 용액의 농도에 따른 증기 압력 비교",
+        "size": "41.7512px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(137, 137, 137)"
+      },
+      {
+        "text": "01 ",
+        "size": "48.7866px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(186, 129, 255)"
+      },
+      {
+        "text": "수용액의 농도와 증기 압력",
+        "size": "48.7866px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "증기 압력 내림을 이용한 용액의 농도 비교",
+        "size": "76.4464px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(186, 129, 255)"
+      },
+      {
+        "text": "설탕물의 농도 차이가 클수록 증기 압력의 차이가 증가하므로 높이 차(",
+        "size": "44.5404px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "h",
+        "size": "44.5404px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": ")가 커진다.\n",
+        "size": "44.5404px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      }
+    ],
+    "page": 15,
+    "key": "610fa82f"
+  },
+  {
+    "title": "[물에맛.Zip] 2-03. 증기 압력 내림",
+    "spans": [],
+    "page": 16,
+    "key": "610fa82f"
+  },
+  {
+    "title": "[물에맛.Zip] 2-03. 증기 압력 내림",
+    "spans": [
+      {
+        "text": "©︎ 2026. @sci_eum. All rights reserved.",
+        "size": "19.72px",
+        "font": "\"miri-f08pfrlnolom81x8\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "Part 3 라울 법칙",
+        "size": "41.7512px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(137, 137, 137)"
+      },
+      {
+        "text": "02 ",
+        "size": "48.7866px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(186, 129, 255)"
+      },
+      {
+        "text": "라울 법칙(Raoult’s Law)",
+        "size": "48.7866px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "라울 법칙",
+        "size": "76.4464px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(186, 129, 255)"
+      },
+      {
+        "text": "묽은 용액의 증기 압력은 용매의 증기 압력과 용매의 몰분율을 곱한 값과 같다.",
+        "size": "36.4001px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(137, 137, 137)"
+      },
+      {
+        "text": "2",
+        "size": "44.1333px",
+        "font": "\"miri-fe66s70dv8vhmnow\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "1",
+        "size": "44.1296px",
+        "font": "\"miri-fe66s70dv8vhmnow\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "일정량의 용매에 녹아 있는 용질의 양(mol)이 클수록 ",
+        "size": "45.0667px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(30, 30, 30)"
+      },
+      {
+        "text": "용매의 증기 압력은 낮아진다",
+        "size": "45.0667px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(30, 30, 30)"
+      },
+      {
+        "text": ".",
+        "size": "45.0667px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(30, 30, 30)"
+      },
+      {
+        "text": "비휘발성, 비전해질 용질이 녹아 있는 묽은 용액의 증기 압력은 용매의 몰분율과",
+        "size": "45.0667px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "순수한 용매의 증기 압력의 곱과 같다. 이를 ",
+        "size": "45.0667px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "라울 법칙",
+        "size": "45.0667px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "이라고 한다.",
+        "size": "45.0667px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "2",
+        "size": "44.1296px",
+        "font": "\"miri-fe66s70dv8vhmnow\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "3",
+        "size": "44.1296px",
+        "font": "\"miri-fe66s70dv8vhmnow\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "용액의 농도가 묽은수록 라울 법칙을 잘 만족한다.",
+        "size": "45.0667px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(30, 30, 30)"
+      }
+    ],
+    "page": 17,
+    "key": "610fa82f"
+  },
+  {
+    "title": "[물에맛.Zip] 2-03. 증기 압력 내림",
+    "spans": [
+      {
+        "text": "©︎ 2026. @sci_eum. All rights reserved.",
+        "size": "19.72px",
+        "font": "\"miri-f08pfrlnolom81x8\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "Part 3 라울 법칙",
+        "size": "41.7512px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(137, 137, 137)"
+      },
+      {
+        "text": "02 ",
+        "size": "48.7866px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(186, 129, 255)"
+      },
+      {
+        "text": "라울 법칙(Raoult’s Law)",
+        "size": "48.7866px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "라울 법칙",
+        "size": "76.4464px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(186, 129, 255)"
+      },
+      {
+        "text": "묽은 용액의 증기 압력은 용매의 증기 압력과 용매의 몰분율을 곱한 값과 같다.",
+        "size": "36.4001px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(137, 137, 137)"
+      },
+      {
+        "text": "2",
+        "size": "44.1333px",
+        "font": "\"miri-fe66s70dv8vhmnow\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "1",
+        "size": "44.1296px",
+        "font": "\"miri-fe66s70dv8vhmnow\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "일정량의 용매에 녹아 있는 용질의 양(mol)이 클수록 ",
+        "size": "45.0667px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(30, 30, 30)"
+      },
+      {
+        "text": "용매의 증기 압력은 낮아진다",
+        "size": "45.0667px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(30, 30, 30)"
+      },
+      {
+        "text": ".",
+        "size": "45.0667px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(30, 30, 30)"
+      },
+      {
+        "text": "비휘발성, 비전해질 용질이 녹아 있는 묽은 용액의 증기 압력은 용매의 몰분율과",
+        "size": "45.0667px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "순수한 용매의 증기 압력의 곱과 같다. 이를 ",
+        "size": "45.0667px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "라울 법칙",
+        "size": "45.0667px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "이라고 한다.",
+        "size": "45.0667px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "2",
+        "size": "44.1296px",
+        "font": "\"miri-fe66s70dv8vhmnow\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "3",
+        "size": "44.1296px",
+        "font": "\"miri-fe66s70dv8vhmnow\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "용액의 농도가 묽은수록 라울 법칙을 잘 만족한다.",
+        "size": "45.0667px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(30, 30, 30)"
+      }
+    ],
+    "page": 18,
+    "key": "610fa82f"
+  },
+  {
+    "title": "[물에맛.Zip] 2-03. 증기 압력 내림",
+    "spans": [
+      {
+        "text": "©︎ 2026. @sci_eum. All rights reserved.",
+        "size": "19.72px",
+        "font": "\"miri-f08pfrlnolom81x8\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "Part 3 라울 법칙",
+        "size": "41.7512px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(137, 137, 137)"
+      },
+      {
+        "text": "02 ",
+        "size": "48.7866px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(186, 129, 255)"
+      },
+      {
+        "text": "라울 법칙(Raoult’s Law)",
+        "size": "48.7866px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "용액의 증기 압력 내림(△",
+        "size": "70.4954px",
+        "font": "\"miri-fe66s70dv8vhmnow\",var(--fallback-font-keys)",
+        "color": "rgb(186, 129, 255)"
+      },
+      {
+        "text": "P",
+        "size": "70.4954px",
+        "font": "\"miri-fe66s70dv8vhmnow\",var(--fallback-font-keys)",
+        "color": "rgb(186, 129, 255)"
+      },
+      {
+        "text": ")",
+        "size": "70.4954px",
+        "font": "\"miri-fe66s70dv8vhmnow\",var(--fallback-font-keys)",
+        "color": "rgb(186, 129, 255)"
+      },
+      {
+        "text": "→ ",
+        "size": "70.4954px",
+        "font": "\"miri-fe66s70dv8vhmnow\",var(--fallback-font-keys)",
+        "color": "rgb(15, 16, 11)"
+      },
+      {
+        "text": "X",
+        "size": "70.4954px",
+        "font": "\"miri-fe66s70dv8vhmnow\",var(--fallback-font-keys)",
+        "color": "rgb(15, 16, 11)"
+      },
+      {
+        "text": "용매",
+        "size": "42.2972px",
+        "font": "\"miri-fe66s70dv8vhmnow\",var(--fallback-font-keys)",
+        "color": "rgb(15, 16, 11)"
+      },
+      {
+        "text": " + ",
+        "size": "70.4954px",
+        "font": "\"miri-fe66s70dv8vhmnow\",var(--fallback-font-keys)",
+        "color": "rgb(15, 16, 11)"
+      },
+      {
+        "text": "X",
+        "size": "70.4954px",
+        "font": "\"miri-fe66s70dv8vhmnow\",var(--fallback-font-keys)",
+        "color": "rgb(15, 16, 11)"
+      },
+      {
+        "text": "용질",
+        "size": "42.2972px",
+        "font": "\"miri-fe66s70dv8vhmnow\",var(--fallback-font-keys)",
+        "color": "rgb(15, 16, 11)"
+      },
+      {
+        "text": " = 1을 이용하여 구할 수 있다.",
+        "size": "70.4954px",
+        "font": "\"miri-fe66s70dv8vhmnow\",var(--fallback-font-keys)",
+        "color": "rgb(15, 16, 11)"
+      },
+      {
+        "text": "용액의 농도가 클수록 용질의 몰분율이 크므로 증기 압력 내림도 크다.",
+        "size": "41.0037px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      }
+    ],
+    "page": 19,
+    "key": "610fa82f"
+  },
+  {
+    "title": "[물에맛.Zip] 2-03. 증기 압력 내림",
+    "spans": [],
+    "page": 20,
+    "key": "610fa82f"
+  },
+  {
+    "title": "[물에맛.Zip] 2-03. 증기 압력 내림",
+    "spans": [
+      {
+        "text": "©︎ 2026. @sci_eum. All rights reserved.",
+        "size": "19.72px",
+        "font": "\"miri-f08pfrlnolom81x8\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "Part 3 라울 법칙",
+        "size": "41.7512px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(137, 137, 137)"
+      },
+      {
+        "text": "03 ",
+        "size": "48.7866px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(186, 129, 255)"
+      },
+      {
+        "text": "이상 용액",
+        "size": "48.7866px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "이상 용액과 비이상 용액",
+        "size": "76.4464px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "이상 용액 : 용매-용질, 용매-용매, 용질-용질의 상호 작용이 모두 같은 가상적인 용액\n",
+        "size": "36.4001px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(137, 137, 137)"
+      },
+      {
+        "text": "이상 용액",
+        "size": "41.9089px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": " : 모든 농도에서 라울 법칙을 정확하게 따르는",
+        "size": "41.9089px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "가상적인 용액으로, 용액의 농도가 낮을수록 이상 용액과",
+        "size": "41.9089px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "가깝게 행동하므로 묽은 용액에서 대부분 적용된다.",
+        "size": "41.9089px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "1",
+        "size": "44.1296px",
+        "font": "\"miri-fe66s70dv8vhmnow\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "2",
+        "size": "44.1333px",
+        "font": "\"miri-fe66s70dv8vhmnow\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "비이상 용액 ",
+        "size": "41.9089px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": ": ",
+        "size": "41.9089px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "이상 용액이 아닌 용액, 주로 휘발성 용질이",
+        "size": "41.9089px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": " 녹아 있는 경우에 정의된다.",
+        "size": "41.9089px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      }
+    ],
+    "page": 21,
+    "key": "610fa82f"
+  },
+  {
+    "title": "[물에맛.Zip] 2-03. 증기 압력 내림",
+    "spans": [
+      {
+        "text": "©︎ 2026. @sci_eum. All rights reserved.",
+        "size": "19.72px",
+        "font": "\"miri-f08pfrlnolom81x8\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "Part 3 라울 법칙",
+        "size": "41.7512px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(137, 137, 137)"
+      },
+      {
+        "text": "03 ",
+        "size": "48.7866px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(186, 129, 255)"
+      },
+      {
+        "text": "이상 용액",
+        "size": "48.7866px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "이상 용액과 비이상 용액",
+        "size": "76.4464px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "이상 용액 : 용매-용질, 용매-용매, 용질-용질의 상호 작용이 모두 같은 가상적인 용액\n",
+        "size": "36.4001px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(137, 137, 137)"
+      },
+      {
+        "text": "이상 용액",
+        "size": "41.9089px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": " : 모든 농도에서 라울 법칙을 정확하게 따르는",
+        "size": "41.9089px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "가상적인 용액으로, 용액의 농도가 낮을수록 이상 용액과",
+        "size": "41.9089px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "가깝게 행동하므로 묽은 용액에서 대부분 적용된다.",
+        "size": "41.9089px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "1",
+        "size": "44.1296px",
+        "font": "\"miri-fe66s70dv8vhmnow\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "2",
+        "size": "44.1333px",
+        "font": "\"miri-fe66s70dv8vhmnow\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "비이상 용액 ",
+        "size": "41.9089px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": ": ",
+        "size": "41.9089px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "이상 용액이 아닌 용액, 주로 휘발성 용질이",
+        "size": "41.9089px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": " 녹아 있는 경우에 정의된다.",
+        "size": "41.9089px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      }
+    ],
+    "page": 22,
+    "key": "610fa82f"
+  },
+  {
+    "title": "[물에맛.Zip] 2-05. 삼투 현상",
+    "spans": [
+      {
+        "text": "©︎ 2026. @sci_eum. All rights reserved.",
+        "size": "19.72px",
+        "font": "\"miri-f08pfrlnolom81x8\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "Part 3 묽은 용액의 총괄성",
+        "size": "41.7512px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(137, 137, 137)"
+      },
+      {
+        "text": "02 ",
+        "size": "48.7866px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(186, 129, 255)"
+      },
+      {
+        "text": "묽은 용액의 총괄성",
+        "size": "48.7866px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "성질",
+        "size": "36.4px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "증기 압력 내림",
+        "size": "36.4px",
+        "font": "\"miri-fe66s70dv8vhmnow\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "끓는점 오름",
+        "size": "36.4px",
+        "font": "\"miri-fe66s70dv8vhmnow\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "어는점 내림",
+        "size": "36.4px",
+        "font": "\"miri-fe66s70dv8vhmnow\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "삼투압",
+        "size": "36.4px",
+        "font": "\"miri-fe66s70dv8vhmnow\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "△",
+        "size": "36.4px",
+        "font": "\"miri-fd9spew91ifdfz4a\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "P",
+        "size": "36.4px",
+        "font": "\"miri-fd9spew91ifdfz4a\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": " = ",
+        "size": "36.4px",
+        "font": "\"miri-fd9spew91ifdfz4a\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "P",
+        "size": "36.4px",
+        "font": "\"miri-fd9spew91ifdfz4a\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "용매",
+        "size": "21.84px",
+        "font": "\"miri-fd9spew91ifdfz4a\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": " × ",
+        "size": "36.4px",
+        "font": "\"miri-fd9spew91ifdfz4a\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "X",
+        "size": "36.4px",
+        "font": "\"miri-fd9spew91ifdfz4a\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "용질",
+        "size": "21.84px",
+        "font": "\"miri-fd9spew91ifdfz4a\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "식",
+        "size": "37.7463px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "△",
+        "size": "36.4px",
+        "font": "\"miri-fd9spew91ifdfz4a\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "T",
+        "size": "36.4px",
+        "font": "\"miri-fd9spew91ifdfz4a\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "b",
+        "size": "21.84px",
+        "font": "\"miri-fd9spew91ifdfz4a\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": " = ",
+        "size": "36.4px",
+        "font": "\"miri-fd9spew91ifdfz4a\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "K",
+        "size": "36.4px",
+        "font": "\"miri-fd9spew91ifdfz4a\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "b",
+        "size": "21.84px",
+        "font": "\"miri-fd9spew91ifdfz4a\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": " × ",
+        "size": "36.4px",
+        "font": "\"miri-fd9spew91ifdfz4a\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "m",
+        "size": "36.4px",
+        "font": "\"miri-fd9spew91ifdfz4a\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "△",
+        "size": "36.4px",
+        "font": "\"miri-fd9spew91ifdfz4a\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "T",
+        "size": "36.4px",
+        "font": "\"miri-fd9spew91ifdfz4a\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "f",
+        "size": "21.84px",
+        "font": "\"miri-fd9spew91ifdfz4a\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": " = ",
+        "size": "36.4px",
+        "font": "\"miri-fd9spew91ifdfz4a\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "K",
+        "size": "36.4px",
+        "font": "\"miri-fd9spew91ifdfz4a\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "f",
+        "size": "21.84px",
+        "font": "\"miri-fd9spew91ifdfz4a\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": " × ",
+        "size": "36.4px",
+        "font": "\"miri-fd9spew91ifdfz4a\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "m",
+        "size": "36.4px",
+        "font": "\"miri-fd9spew91ifdfz4a\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "π = ",
+        "size": "36.4px",
+        "font": "\"miri-fd9spew91ifdfz4a\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "CRT",
+        "size": "36.4px",
+        "font": "\"miri-fd9spew91ifdfz4a\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "용질의 ",
+        "size": "36.4px",
+        "font": "\"miri-fd9spew91ifdfz4a\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "몰분율",
+        "size": "36.4px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "에 비례",
+        "size": "36.4px",
+        "font": "\"miri-fd9spew91ifdfz4a\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "관계",
+        "size": "37.7463px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "용액의 ",
+        "size": "36.4px",
+        "font": "\"miri-fd9spew91ifdfz4a\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "몰랄 농도",
+        "size": "36.4px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "에 비례",
+        "size": "36.4px",
+        "font": "\"miri-fd9spew91ifdfz4a\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "용액의 ",
+        "size": "36.4px",
+        "font": "\"miri-fd9spew91ifdfz4a\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "몰랄 농도",
+        "size": "36.4px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "에 비례",
+        "size": "36.4px",
+        "font": "\"miri-fd9spew91ifdfz4a\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "용액의 ",
+        "size": "36.4px",
+        "font": "\"miri-fd9spew91ifdfz4a\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "몰농도",
+        "size": "36.4px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "와 ",
+        "size": "36.4px",
+        "font": "\"miri-fd9spew91ifdfz4a\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "절대 온도",
+        "size": "36.4px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "에 비례",
+        "size": "36.4px",
+        "font": "\"miri-fd9spew91ifdfz4a\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "묽은 용액의 총괄성",
+        "size": "76.4464px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      }
+    ],
+    "page": 1,
+    "key": "1f503825"
+  },
+  {
+    "title": "[물에맛.Zip] 2-05. 삼투 현상",
+    "spans": [
+      {
+        "text": "Ⅱ. 용액의 성질\n",
+        "size": "117.434px",
+        "font": "\"miri-f5odfyf3uf4cjyxf\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "05. 삼투 현상\n",
+        "size": "117.434px",
+        "font": "\"miri-f5odfyf3uf4cjyxf\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "사이음 저",
+        "size": "44.0767px",
+        "font": "\"miri-fo0esrbvuhd9z6d9\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "©︎ 2026. @sci_eum. All rights reserved.",
+        "size": "19.72px",
+        "font": "\"miri-f08pfrlnolom81x8\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "본 수업 자료에 사용된 일부 이미지는 생성형 AI 기술을 활용하여 제작되었습니다.\n",
+        "size": "19.72px",
+        "font": "\"miri-f08pfrlnolom81x8\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      }
+    ],
+    "page": 2,
+    "key": "1f503825"
+  },
+  {
+    "title": "[물에맛.Zip] 2-05. 삼투 현상",
+    "spans": [
+      {
+        "text": "Part 0 Intro",
+        "size": "41.7512px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(137, 137, 137)"
+      },
+      {
+        "text": "01 ",
+        "size": "48.7866px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(186, 129, 255)"
+      },
+      {
+        "text": "소금에 절인 배추",
+        "size": "48.7866px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "©︎ 2026. @sci_eum. All rights reserved.",
+        "size": "19.72px",
+        "font": "\"miri-f08pfrlnolom81x8\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "배추를 소금에 절이면 수분이 빠져나온다.",
+        "size": "77.5706px",
+        "font": "\"miri-fe66s70dv8vhmnow\",var(--fallback-font-keys)",
+        "color": "rgb(15, 16, 11)"
+      },
+      {
+        "text": "배추 바깥쪽의 소금 농도가 높아지면 삼투에 의해 ",
+        "size": "36.4001px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(137, 137, 137)"
+      },
+      {
+        "text": "배추 속 물이 밖으로 이동하여 배추가 쭈그러든다.",
+        "size": "36.4001px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(137, 137, 137)"
+      }
+    ],
+    "page": 3,
+    "key": "1f503825"
+  },
+  {
+    "title": "[물에맛.Zip] 2-05. 삼투 현상",
+    "spans": [],
+    "page": 4,
+    "key": "1f503825"
+  },
+  {
+    "title": "[물에맛.Zip] 2-05. 삼투 현상",
+    "spans": [
+      {
+        "text": "삼투 현상",
+        "size": "110.662px",
+        "font": "\"miri-fe66s70dv8vhmnow\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "PART 1",
+        "size": "68.9362px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(186, 129, 255)"
+      },
+      {
+        "text": "농도가 다른 두 용액 사이에서 물은 어디로 이동할까?",
+        "size": "41.7512px",
+        "font": "\"miri-fo0esrbvuhd9z6d9\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "©︎ 2026. @sci_eum. All rights reserved.",
+        "size": "19.72px",
+        "font": "\"miri-f08pfrlnolom81x8\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      }
+    ],
+    "page": 5,
+    "key": "1f503825"
+  },
+  {
+    "title": "[물에맛.Zip] 2-05. 삼투 현상",
+    "spans": [
+      {
+        "text": "삼투 현상",
+        "size": "110.662px",
+        "font": "\"miri-fe66s70dv8vhmnow\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "PART 1",
+        "size": "68.9362px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(186, 129, 255)"
+      },
+      {
+        "text": "농도가 다른 두 용액 사이에서 물은 어디로 이동할까?",
+        "size": "41.7512px",
+        "font": "\"miri-fo0esrbvuhd9z6d9\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "©︎ 2026. @sci_eum. All rights reserved.",
+        "size": "19.72px",
+        "font": "\"miri-f08pfrlnolom81x8\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      }
+    ],
+    "page": 6,
+    "key": "1f503825"
+  },
+  {
+    "title": "[물에맛.Zip] 2-05. 삼투 현상",
+    "spans": [
+      {
+        "text": "©︎ 2026. @sci_eum. All rights reserved.",
+        "size": "19.72px",
+        "font": "\"miri-f08pfrlnolom81x8\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "Part 1 삼투 현상",
+        "size": "41.7512px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(137, 137, 137)"
+      },
+      {
+        "text": "01 ",
+        "size": "48.7866px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(186, 129, 255)"
+      },
+      {
+        "text": "반투막",
+        "size": "48.7866px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "셀로판지",
+        "size": "45.4657px",
+        "font": "\"miri-fe66s70dv8vhmnow\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "1",
+        "size": "44.1296px",
+        "font": "\"miri-fe66s70dv8vhmnow\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "달걀 속껍질",
+        "size": "45.4657px",
+        "font": "\"miri-fe66s70dv8vhmnow\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "2",
+        "size": "44.1296px",
+        "font": "\"miri-fe66s70dv8vhmnow\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "세포막",
+        "size": "45.4657px",
+        "font": "\"miri-fe66s70dv8vhmnow\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "3",
+        "size": "44.1296px",
+        "font": "\"miri-fe66s70dv8vhmnow\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "눈에 보이지 않지만 매우 작은 구멍이 존재",
+        "size": "76.4464px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "크기가 큰 입자는 통과하지 못하고, 작은 입자만 통과할 수 있는 얇은 막을 반투막이라고 한다.",
+        "size": "36.4001px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(137, 137, 137)"
+      }
+    ],
+    "page": 7,
+    "key": "1f503825"
+  },
+  {
+    "title": "[물에맛.Zip] 2-05. 삼투 현상",
+    "spans": [
+      {
+        "text": "©︎ 2026. @sci_eum. All rights reserved.",
+        "size": "19.72px",
+        "font": "\"miri-f08pfrlnolom81x8\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "Part 1 삼투 현상",
+        "size": "41.7512px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(137, 137, 137)"
+      },
+      {
+        "text": "01 ",
+        "size": "48.7866px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(186, 129, 255)"
+      },
+      {
+        "text": "반투막",
+        "size": "48.7866px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "반투막을 통과할 수 있는 입자",
+        "size": "76.4464px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "물과 같이 크기가 작은 입자는 통과하지만 큰 용질 입자는 통과할 수 없다.",
+        "size": "36.4001px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(137, 137, 137)"
+      },
+      {
+        "text": "크기가 작은",
+        "size": "32.0391px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(38, 35, 48)"
+      },
+      {
+        "text": "용매(물) 입자",
+        "size": "32.0391px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(38, 35, 48)"
+      },
+      {
+        "text": "가 통과",
+        "size": "32.0391px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(38, 35, 48)"
+      }
+    ],
+    "page": 8,
+    "key": "1f503825"
+  },
+  {
+    "title": "[물에맛.Zip] 2-05. 삼투 현상",
+    "spans": [],
+    "page": 9,
+    "key": "1f503825"
+  },
+  {
+    "title": "[물에맛.Zip] 2-05. 삼투 현상",
+    "spans": [
+      {
+        "text": "©︎ 2026. @sci_eum. All rights reserved.",
+        "size": "19.72px",
+        "font": "\"miri-f08pfrlnolom81x8\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "Part 1 삼투 현상",
+        "size": "41.7512px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(137, 137, 137)"
+      },
+      {
+        "text": "02 ",
+        "size": "48.7866px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(186, 129, 255)"
+      },
+      {
+        "text": "삼투 현상",
+        "size": "48.7866px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "깔때기관 속 액면의 높이 변화",
+        "size": "76.4464px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(186, 129, 255)"
+      },
+      {
+        "text": "농도가 낮은 순수한 용매 쪽에서 농도가 높은 설탕물 쪽으로 용매가 이동 → 깔때기관 속 수면이 높아짐.",
+        "size": "36.4001px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(137, 137, 137)"
+      },
+      {
+        "text": "용매가 용액 쪽으로 이동하여 깔대기관 속 액면이 높아지고, 용액의 농도는 감소한다.",
+        "size": "41.0037px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      }
+    ],
+    "page": 10,
+    "key": "1f503825"
+  },
+  {
+    "title": "[물에맛.Zip] 2-05. 삼투 현상",
+    "spans": [],
+    "page": 11,
+    "key": "1f503825"
+  },
+  {
+    "title": "[물에맛.Zip] 2-05. 삼투 현상",
+    "spans": [
+      {
+        "text": "©︎ 2026. @sci_eum. All rights reserved.",
+        "size": "19.72px",
+        "font": "\"miri-f08pfrlnolom81x8\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "03 ",
+        "size": "48.7866px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(186, 129, 255)"
+      },
+      {
+        "text": "삼투 현상으로 인한 액면의 높이 변화",
+        "size": "48.7866px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "반투막에 의해 분리된 U자관의 변화",
+        "size": "76.4464px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "물에서 설탕 수용액 쪽으로 물 분자가 이동하면서 설탕 수용액의 액면이 높아진다.",
+        "size": "36.4001px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(137, 137, 137)"
+      },
+      {
+        "text": "Part 1 삼투 현상",
+        "size": "41.7512px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(137, 137, 137)"
+      }
+    ],
+    "page": 12,
+    "key": "1f503825"
+  },
+  {
+    "title": "[물에맛.Zip] 2-05. 삼투 현상",
+    "spans": [
+      {
+        "text": "©︎ 2026. @sci_eum. All rights reserved.",
+        "size": "19.72px",
+        "font": "\"miri-f08pfrlnolom81x8\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "03 ",
+        "size": "48.7866px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(186, 129, 255)"
+      },
+      {
+        "text": "삼투 현상으로 인한 액면의 높이 변화",
+        "size": "48.7866px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "Part 1 삼투 현상",
+        "size": "41.7512px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(137, 137, 137)"
+      },
+      {
+        "text": "반투막을 사이에 둔 물 분자의 이동",
+        "size": "76.4464px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(186, 129, 255)"
+      }
+    ],
+    "page": 13,
+    "key": "1f503825"
+  },
+  {
+    "title": "[물에맛.Zip] 2-05. 삼투 현상",
+    "spans": [],
+    "page": 14,
+    "key": "1f503825"
+  },
+  {
+    "title": "[물에맛.Zip] 2-05. 삼투 현상",
+    "spans": [],
+    "page": 15,
+    "key": "1f503825"
+  },
+  {
+    "title": "[물에맛.Zip] 2-05. 삼투 현상",
+    "spans": [
+      {
+        "text": "©︎ 2026. @sci_eum. All rights reserved.",
+        "size": "19.72px",
+        "font": "\"miri-f08pfrlnolom81x8\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "Part 2 삼투압",
+        "size": "41.7512px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(137, 137, 137)"
+      },
+      {
+        "text": "01 ",
+        "size": "48.7866px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(186, 129, 255)"
+      },
+      {
+        "text": "삼투압(π)",
+        "size": "48.7866px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "· ",
+        "size": "45.0667px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "삼투압",
+        "size": "45.0667px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": " : 삼투 현상을 막기 위해 용액 쪽에 가해야 하는 최소한의 압력을 의미한다.",
+        "size": "45.0667px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "양쪽의 액면을 같게 하기 위해 압력을 가함.",
+        "size": "76.4464px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      }
+    ],
+    "page": 16,
+    "key": "1f503825"
+  },
+  {
+    "title": "[물에맛.Zip] 2-05. 삼투 현상",
+    "spans": [
+      {
+        "text": "©︎ 2026. @sci_eum. All rights reserved.",
+        "size": "19.72px",
+        "font": "\"miri-f08pfrlnolom81x8\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "Part 2 삼투압",
+        "size": "41.7512px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(137, 137, 137)"
+      },
+      {
+        "text": "01 ",
+        "size": "48.7866px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(186, 129, 255)"
+      },
+      {
+        "text": "삼투압(π)",
+        "size": "48.7866px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "· ",
+        "size": "45.0667px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "삼투압",
+        "size": "45.0667px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": " : 삼투 현상을 막기 위해 용액 쪽에 가해야 하는 최소한의 압력을 의미한다.",
+        "size": "45.0667px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "양쪽의 액면을 같게 하기 위해 압력을 가함.",
+        "size": "76.4464px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      }
+    ],
+    "page": 17,
+    "key": "1f503825"
+  },
+  {
+    "title": "[물에맛.Zip] 2-05. 삼투 현상",
+    "spans": [
+      {
+        "text": "©︎ 2026. @sci_eum. All rights reserved.",
+        "size": "19.72px",
+        "font": "\"miri-f08pfrlnolom81x8\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "Part 2 삼투압",
+        "size": "41.7512px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(137, 137, 137)"
+      },
+      {
+        "text": "01 ",
+        "size": "48.7866px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(186, 129, 255)"
+      },
+      {
+        "text": "삼투압(π)",
+        "size": "48.7866px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "물에서 용액 쪽으로 입자 이동",
+        "size": "35.2288px",
+        "font": "\"miri-fe66s70dv8vhmnow\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "삼투압",
+        "size": "68.3198px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(186, 129, 255)"
+      },
+      {
+        "text": "은 양쪽 액면의 높이를 같게 하기 위해",
+        "size": "68.3198px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "용액에 가해야 하는 압력을 의미한다.",
+        "size": "68.3198px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "설탕 수용액의 액면이 높아짐",
+        "size": "33.376px",
+        "font": "\"miri-fe66s70dv8vhmnow\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "삼투압을 가하여 높이 동일",
+        "size": "35.2288px",
+        "font": "\"miri-fe66s70dv8vhmnow\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      }
+    ],
+    "page": 18,
+    "key": "1f503825"
+  },
+  {
+    "title": "[물에맛.Zip] 2-05. 삼투 현상",
+    "spans": [],
+    "page": 19,
+    "key": "1f503825"
+  },
+  {
+    "title": "[물에맛.Zip] 2-05. 삼투 현상",
+    "spans": [],
+    "page": 20,
+    "key": "1f503825"
+  },
+  {
+    "title": "[물에맛.Zip] 2-05. 삼투 현상",
+    "spans": [],
+    "page": 21,
+    "key": "1f503825"
+  },
+  {
+    "title": "[물에맛.Zip] 2-05. 삼투 현상",
+    "spans": [
+      {
+        "text": "©︎ 2026. @sci_eum. All rights reserved.",
+        "size": "19.72px",
+        "font": "\"miri-f08pfrlnolom81x8\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "판트호프 법칙과 이상 기체 방정식",
+        "size": "76.4464px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "묽은 용액에서는 용질 입자 사이의 상호작용을 거의 무시할 수 있어, ",
+        "size": "36.4001px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(137, 137, 137)"
+      },
+      {
+        "text": "삼투압은 이상 기체의 압력과 같은 형태로 나타난다.",
+        "size": "36.4001px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(137, 137, 137)"
+      },
+      {
+        "text": "Part 2 삼투압",
+        "size": "41.7512px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(137, 137, 137)"
+      },
+      {
+        "text": "02 ",
+        "size": "48.7866px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(186, 129, 255)"
+      },
+      {
+        "text": "판트호프 법칙",
+        "size": "48.7866px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "· 따라서 멀리 떨어져 독립적으로 움직이는 이상 기체 입자와 비슷하게 취급할 수 있다.",
+        "size": "45.0667px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "· 묽은 용액에서는 용질 입자들이 서로 멀리 떨어져 있어 영향을 거의 받지 않는다.",
+        "size": "45.0667px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      }
+    ],
+    "page": 22,
+    "key": "1f503825"
+  },
+  {
+    "title": "[물에맛.Zip] 2-05. 삼투 현상",
+    "spans": [
+      {
+        "text": "©︎ 2026. @sci_eum. All rights reserved.",
+        "size": "19.72px",
+        "font": "\"miri-f08pfrlnolom81x8\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "Part 2 삼투압",
+        "size": "41.7512px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(137, 137, 137)"
+      },
+      {
+        "text": "03 ",
+        "size": "48.7866px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(186, 129, 255)"
+      },
+      {
+        "text": "판트호프 법칙과 용질의 분자량",
+        "size": "48.7866px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "판트호프 법칙을 이용하여",
+        "size": "70.4954px",
+        "font": "\"miri-fe66s70dv8vhmnow\",var(--fallback-font-keys)",
+        "color": "rgb(186, 129, 255)"
+      },
+      {
+        "text": "→ 수용액에 녹아 있는 용질의 분자량을 구할 수 있다.",
+        "size": "70.4954px",
+        "font": "\"miri-fe66s70dv8vhmnow\",var(--fallback-font-keys)",
+        "color": "rgb(15, 16, 11)"
+      },
+      {
+        "text": "주로 생체 분자나 고분자 화합물의 분자량을 구하는 데 이용된다",
+        "size": "41.0037px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      }
+    ],
+    "page": 23,
+    "key": "1f503825"
+  },
+  {
+    "title": "[물에맛.Zip] 2-05. 삼투 현상",
+    "spans": [],
+    "page": 24,
+    "key": "1f503825"
+  },
+  {
+    "title": "[물에맛.Zip] 2-05. 삼투 현상",
+    "spans": [],
+    "page": 25,
+    "key": "1f503825"
+  },
+  {
+    "title": "[물에맛.Zip] 2-05. 삼투 현상",
+    "spans": [
+      {
+        "text": "©︎ 2026. @sci_eum. All rights reserved.",
+        "size": "19.72px",
+        "font": "\"miri-f08pfrlnolom81x8\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "Part 3 묽은 용액의 총괄성",
+        "size": "41.7512px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(137, 137, 137)"
+      },
+      {
+        "text": "02 ",
+        "size": "48.7866px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(186, 129, 255)"
+      },
+      {
+        "text": "묽은 용액의 총괄성",
+        "size": "48.7866px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "성질",
+        "size": "36.4px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "증기 압력 내림",
+        "size": "36.4px",
+        "font": "\"miri-fe66s70dv8vhmnow\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "끓는점 오름",
+        "size": "36.4px",
+        "font": "\"miri-fe66s70dv8vhmnow\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "어는점 내림",
+        "size": "36.4px",
+        "font": "\"miri-fe66s70dv8vhmnow\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "삼투압",
+        "size": "36.4px",
+        "font": "\"miri-fe66s70dv8vhmnow\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "△",
+        "size": "36.4px",
+        "font": "\"miri-fd9spew91ifdfz4a\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "P",
+        "size": "36.4px",
+        "font": "\"miri-fd9spew91ifdfz4a\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": " = ",
+        "size": "36.4px",
+        "font": "\"miri-fd9spew91ifdfz4a\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "P",
+        "size": "36.4px",
+        "font": "\"miri-fd9spew91ifdfz4a\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "용매",
+        "size": "21.84px",
+        "font": "\"miri-fd9spew91ifdfz4a\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": " × ",
+        "size": "36.4px",
+        "font": "\"miri-fd9spew91ifdfz4a\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "X",
+        "size": "36.4px",
+        "font": "\"miri-fd9spew91ifdfz4a\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "용질",
+        "size": "21.84px",
+        "font": "\"miri-fd9spew91ifdfz4a\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "식",
+        "size": "37.7463px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "△",
+        "size": "36.4px",
+        "font": "\"miri-fd9spew91ifdfz4a\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "T",
+        "size": "36.4px",
+        "font": "\"miri-fd9spew91ifdfz4a\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "b",
+        "size": "21.84px",
+        "font": "\"miri-fd9spew91ifdfz4a\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": " = ",
+        "size": "36.4px",
+        "font": "\"miri-fd9spew91ifdfz4a\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "K",
+        "size": "36.4px",
+        "font": "\"miri-fd9spew91ifdfz4a\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "b",
+        "size": "21.84px",
+        "font": "\"miri-fd9spew91ifdfz4a\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": " × ",
+        "size": "36.4px",
+        "font": "\"miri-fd9spew91ifdfz4a\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "m",
+        "size": "36.4px",
+        "font": "\"miri-fd9spew91ifdfz4a\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "△",
+        "size": "36.4px",
+        "font": "\"miri-fd9spew91ifdfz4a\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "T",
+        "size": "36.4px",
+        "font": "\"miri-fd9spew91ifdfz4a\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "f",
+        "size": "21.84px",
+        "font": "\"miri-fd9spew91ifdfz4a\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": " = ",
+        "size": "36.4px",
+        "font": "\"miri-fd9spew91ifdfz4a\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "K",
+        "size": "36.4px",
+        "font": "\"miri-fd9spew91ifdfz4a\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "f",
+        "size": "21.84px",
+        "font": "\"miri-fd9spew91ifdfz4a\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": " × ",
+        "size": "36.4px",
+        "font": "\"miri-fd9spew91ifdfz4a\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "m",
+        "size": "36.4px",
+        "font": "\"miri-fd9spew91ifdfz4a\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "π = ",
+        "size": "36.4px",
+        "font": "\"miri-fd9spew91ifdfz4a\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "CRT",
+        "size": "36.4px",
+        "font": "\"miri-fd9spew91ifdfz4a\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "용질의 ",
+        "size": "36.4px",
+        "font": "\"miri-fd9spew91ifdfz4a\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "몰분율",
+        "size": "36.4px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "에 비례",
+        "size": "36.4px",
+        "font": "\"miri-fd9spew91ifdfz4a\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "관계",
+        "size": "37.7463px",
+        "font": "\"miri-ffi23l1xz5xc6rax\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "용액의 ",
+        "size": "36.4px",
+        "font": "\"miri-fd9spew91ifdfz4a\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "몰랄 농도",
+        "size": "36.4px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "에 비례",
+        "size": "36.4px",
+        "font": "\"miri-fd9spew91ifdfz4a\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "용액의 ",
+        "size": "36.4px",
+        "font": "\"miri-fd9spew91ifdfz4a\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "몰랄 농도",
+        "size": "36.4px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "에 비례",
+        "size": "36.4px",
+        "font": "\"miri-fd9spew91ifdfz4a\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "용액의 ",
+        "size": "36.4px",
+        "font": "\"miri-fd9spew91ifdfz4a\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "몰농도",
+        "size": "36.4px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "와 ",
+        "size": "36.4px",
+        "font": "\"miri-fd9spew91ifdfz4a\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "절대 온도",
+        "size": "36.4px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "에 비례",
+        "size": "36.4px",
+        "font": "\"miri-fd9spew91ifdfz4a\",var(--fallback-font-keys)",
+        "color": "rgb(255, 255, 255)"
+      },
+      {
+        "text": "묽은 용액의 총괄성",
+        "size": "76.4464px",
+        "font": "\"miri-fjurebdb5vk3fnnk\",var(--fallback-font-keys)",
+        "color": "rgb(0, 0, 0)"
+      }
+    ],
+    "page": 26,
+    "key": "1f503825"
+  }
+]

@@ -1,0 +1,7 @@
+import fs from 'node:fs/promises';
+import {finalizePresentation} from '/Users/keemhayeon/.codex/plugins/cache/openai-primary-runtime/presentations/26.1017.11052/skills/presentations/container_tools/artifact_tool_utils.mjs';
+const workspaceDir='/Users/keemhayeon/Downloads/Codex/scieum_ppt';
+const unit=workspaceDir+'/units/3-01_엔탈피와열화학반응식';
+const skill='/Users/keemhayeon/.codex/plugins/cache/openai-primary-runtime/presentations/26.1017.11052/skills/presentations';
+await fs.mkdir(workspaceDir+'/output',{recursive:true});
+console.log(await finalizePresentation({workspaceDir,candidatePath:unit+'/build/full-v2/candidate-final.pptx',finalPath:workspaceDir+'/output/3-01_엔탈피와열화학반응식_전체39장_수정본.pptx',pythonExecutable:'/Users/keemhayeon/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3',integrityValidatorPath:skill+'/container_tools/inspect_presentation_package_integrity.py',layoutValidatorPath:skill+'/container_tools/inspect_presentation_layout_geometry.py',layoutArgs:['--expected-slide-size-emu','18288000,10287000','--validate-heading-fit','--require-native-table-slide','15','--require-native-table-slide','29','--require-native-table-slide','35','--require-native-table-slide','38'],explicitTotalSlideCount:39,requiredNativeTableOwnerSlides:[15,29,35,38],fontPolicy:{basis:'user_request',families:['Pretendard','Pretendard Medium']},verifyArtifactToolImport:true,receiptPath:unit+'/checks/full39-v2-validation.json'}));

@@ -1,0 +1,156 @@
+{
+  "number": 1,
+  "kind": "cover",
+  "title": "엔탈피와 열화학 반응식",
+  "nodes": [
+    {
+      "type": "image",
+      "role": "classroom_scene",
+      "bbox": [
+        0,
+        0,
+        1920,
+        1080
+      ],
+      "asset_sha256": "1f5b28a310b3c0412441897ed724e1d1dd35ced7483ad63b9008b48585d724df",
+      "source": "/private/tmp/scieum-unit3-five/assets/classroom-handwarmers-uniform.png"
+    },
+    {
+      "type": "gradient",
+      "role": "reference_green_fade",
+      "bbox": [
+        0,
+        0,
+        1920,
+        1080
+      ],
+      "color": "#0C7D08",
+      "stops": [
+        [
+          0,
+          1
+        ],
+        [
+          0.22,
+          1
+        ],
+        [
+          0.58,
+          0
+        ],
+        [
+          1,
+          0
+        ]
+      ]
+    },
+    {
+      "type": "image",
+      "role": "sci_eum_logo",
+      "bbox": [
+        1778.6666666666667,
+        40.0,
+        108.0,
+        77.33333333333333
+      ],
+      "asset_sha256": "9d044366936fcad9204ba43766e76b0b6408fb314be39dc252ce631a611fe9db",
+      "source": {
+        "kind": "contents",
+        "role": "sci_eum_logo"
+      }
+    },
+    {
+      "type": "text",
+      "role": "copyright",
+      "text": "© 2026. @sci_eum. All rights reserved.",
+      "bbox": [
+        1535,
+        1037,
+        342,
+        30
+      ],
+      "font": "Pretendard",
+      "fontSize": 17,
+      "weight": "Medium",
+      "color": "#111111",
+      "align": "right",
+      "lineHeight": 21.25
+    },
+    {
+      "type": "image",
+      "role": "author",
+      "bbox": [
+        138.66666666666666,
+        546.6666666666667,
+        152.0,
+        64.0
+      ],
+      "asset_sha256": "68a5892b1f46c496235ad02394f3eda262ff908f49af911da2190f0240934f78",
+      "source": {
+        "kind": "cover",
+        "role": "author"
+      }
+    },
+    {
+      "type": "image",
+      "role": "tsherpa_logo",
+      "bbox": [
+        1601.3333333333335,
+        42.666666666666664,
+        154.66666666666669,
+        66.66666666666666
+      ],
+      "asset_sha256": "6bcec9b3796baa93f0d93eb209898fb67319a54a8e27815f1f5c1fb68cc5a034",
+      "source": {
+        "kind": "cover",
+        "role": "tsherpa_logo"
+      }
+    },
+    {
+      "type": "text",
+      "role": "title",
+      "text": "Ⅲ. 화학 변화의 자발성\n01. 엔탈피와 열화학 반응식",
+      "bbox": [
+        138.7,
+        269.3,
+        1465.3,
+        308
+      ],
+      "font": "Pretendard",
+      "fontSize": 90,
+      "weight": "Bold",
+      "color": "#FFFFFF",
+      "align": "left",
+      "lineHeight": 105
+    },
+    {
+      "type": "text",
+      "role": "ai_notice",
+      "text": "본 수업 자료에 사용된 일부 이미지는 생성형 AI 기술을 활용하여 제작되었습니다.",
+      "bbox": [
+        37.3,
+        1036,
+        1130,
+        30
+      ],
+      "font": "Pretendard",
+      "fontSize": 17,
+      "weight": "Regular",
+      "color": "#FFFFFF",
+      "align": "left",
+      "lineHeight": 21.25
+    }
+  ],
+  "notes": "천재교육 물질과 에너지 p.74. 네 캐릭터와 손난로 장면은 설명용 생성 삽화. 단원명과 오늘의 주제를 소개한다.",
+  "source_recipe": {
+    "template": "latest user cover image + approved cover title left / scene right; exact measured T-sherpa bbox retained",
+    "user_overrides": [
+      "white background",
+      "lime #9FFF68",
+      "classroom handwarmers",
+      "official uniforms",
+      "no goggles"
+    ]
+  },
+  "artifact_sha256": "c8b41d037c5979e90707b97910d4e004f329ffe0c00782d7829cbf8c4ecfbc7d"
+}

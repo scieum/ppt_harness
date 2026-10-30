@@ -1,0 +1,764 @@
+{
+  "unit": "3-03_엔트로피",
+  "version": "v01",
+  "plan_hash": "a8fc314709a1a92b27cdae13f8ee8a0b5ad258b660ac4a8e5eeed9d4fb36ba8f",
+  "reference_hash": "637184c31a447d10cc1331522dd0b74f92ed90c7527454848c38a626fb539b18",
+  "slides": [
+    {
+      "id": "sample-cover",
+      "type": "cover",
+      "slide": 1,
+      "plan_slide": 1,
+      "reference_id": "R-cover",
+      "artifact": {
+        "path": "drafts/representatives/v01/output/3-03_엔트로피_대표10장_v01.pptx",
+        "sha256": "a9e961cead38d9b4a5215da60bf916c8854060580c651c210c44b87c2aeb060f"
+      },
+      "render": {
+        "path": "drafts/representatives/v01/preview/slide-01-plan01.png",
+        "sha256": "8db2c2a98bab805d02f6405425c27532cf5c6386936568e6227ee0d88fbd8106"
+      },
+      "layout": {
+        "path": "design-review/candidate-cover.layout.json",
+        "sha256": "bc15df5c85c82e3dbbf4f6ee3ed8294457829d08131204d94a5be06e05e1a28d"
+      },
+      "comparison": {
+        "path": "design-review/comparisons/cover.html",
+        "sha256": "1def3bb41bdb1277cd66135d2eb566c86a552c83218c136bad799e7f768c2c1b"
+      },
+      "reviewer": "Codex",
+      "reason": "검토 가능한 실제 시안. 이미지형 원본과 네이티브 설명·표의 객체 수·종류·정확 좌표 차이를 숨기지 않음.",
+      "criteria": {
+        "title_hierarchy": {
+          "status": "passed",
+          "reason": "원본 과학 자료·캐릭터·여백·윤곽을 실제 렌더로 검토. 장식 캐릭터 불필요한 본문은 사유 있는 해당 없음.",
+          "reviewer": "Codex visual review 2026-10-28",
+          "evidence": {
+            "path": "design-review/comparisons/cover.html",
+            "sha256": "1def3bb41bdb1277cd66135d2eb566c86a552c83218c136bad799e7f768c2c1b"
+          }
+        },
+        "visual_scale": {
+          "status": "passed",
+          "reason": "원본 과학 자료·캐릭터·여백·윤곽을 실제 렌더로 검토. 장식 캐릭터 불필요한 본문은 사유 있는 해당 없음.",
+          "reviewer": "Codex visual review 2026-10-28",
+          "evidence": {
+            "path": "design-review/comparisons/cover.html",
+            "sha256": "1def3bb41bdb1277cd66135d2eb566c86a552c83218c136bad799e7f768c2c1b"
+          }
+        },
+        "spacing": {
+          "status": "unverified",
+          "reason": "원본 화면과 시안 화면 실제 대조. 정확한 좌표·타이포그래피 잠금의 완전 일치는 아직 미확인.",
+          "reviewer": "Codex visual review 2026-10-28",
+          "evidence": {
+            "path": "design-review/comparisons/cover.html",
+            "sha256": "1def3bb41bdb1277cd66135d2eb566c86a552c83218c136bad799e7f768c2c1b"
+          }
+        },
+        "image_background": {
+          "status": "passed",
+          "reason": "원본 과학 자료·캐릭터·여백·윤곽을 실제 렌더로 검토. 장식 캐릭터 불필요한 본문은 사유 있는 해당 없음.",
+          "reviewer": "Codex visual review 2026-10-28",
+          "evidence": {
+            "path": "design-review/comparisons/cover.html",
+            "sha256": "1def3bb41bdb1277cd66135d2eb566c86a552c83218c136bad799e7f768c2c1b"
+          }
+        },
+        "borders": {
+          "status": "passed",
+          "reason": "원본 과학 자료·캐릭터·여백·윤곽을 실제 렌더로 검토. 장식 캐릭터 불필요한 본문은 사유 있는 해당 없음.",
+          "reviewer": "Codex visual review 2026-10-28",
+          "evidence": {
+            "path": "design-review/comparisons/cover.html",
+            "sha256": "1def3bb41bdb1277cd66135d2eb566c86a552c83218c136bad799e7f768c2c1b"
+          }
+        },
+        "layout_fidelity": {
+          "status": "unverified",
+          "reason": "원본 화면과 시안 화면 실제 대조. 정확한 좌표·타이포그래피 잠금의 완전 일치는 아직 미확인.",
+          "reviewer": "Codex visual review 2026-10-28",
+          "evidence": {
+            "path": "design-review/comparisons/cover.html",
+            "sha256": "1def3bb41bdb1277cd66135d2eb566c86a552c83218c136bad799e7f768c2c1b"
+          }
+        },
+        "typography": {
+          "status": "unverified",
+          "reason": "원본 화면과 시안 화면 실제 대조. 정확한 좌표·타이포그래피 잠금의 완전 일치는 아직 미확인.",
+          "reviewer": "Codex visual review 2026-10-28",
+          "evidence": {
+            "path": "design-review/comparisons/cover.html",
+            "sha256": "1def3bb41bdb1277cd66135d2eb566c86a552c83218c136bad799e7f768c2c1b"
+          }
+        },
+        "character_identity": {
+          "status": "passed",
+          "reason": "원본 과학 자료·캐릭터·여백·윤곽을 실제 렌더로 검토. 장식 캐릭터 불필요한 본문은 사유 있는 해당 없음.",
+          "reviewer": "Codex visual review 2026-10-28",
+          "evidence": {
+            "path": "design-review/comparisons/cover.html",
+            "sha256": "1def3bb41bdb1277cd66135d2eb566c86a552c83218c136bad799e7f768c2c1b"
+          }
+        },
+        "branding": {
+          "status": "unverified",
+          "reason": "원본 화면과 시안 화면 실제 대조. 정확한 좌표·타이포그래피 잠금의 완전 일치는 아직 미확인.",
+          "reviewer": "Codex visual review 2026-10-28",
+          "evidence": {
+            "path": "design-review/comparisons/cover.html",
+            "sha256": "1def3bb41bdb1277cd66135d2eb566c86a552c83218c136bad799e7f768c2c1b"
+          }
+        }
+      }
+    },
+    {
+      "id": "sample-part",
+      "type": "part",
+      "slide": 5,
+      "plan_slide": 5,
+      "reference_id": "R-part",
+      "artifact": {
+        "path": "drafts/representatives/v01/output/3-03_엔트로피_대표10장_v01.pptx",
+        "sha256": "a9e961cead38d9b4a5215da60bf916c8854060580c651c210c44b87c2aeb060f"
+      },
+      "render": {
+        "path": "drafts/representatives/v01/preview/slide-05-plan05.png",
+        "sha256": "b1d68fc77d7ae2406d709998f22ad61b0c2fceed5a5934cfba8fc8040b456691"
+      },
+      "layout": {
+        "path": "design-review/candidate-part.layout.json",
+        "sha256": "be428ab74972ca5efe9f0e036f784c4015092f1b8be29e55025ccba9ebb30601"
+      },
+      "comparison": {
+        "path": "design-review/comparisons/part.html",
+        "sha256": "adf4ed9c63f3eb188a424d4cbf97614f1d30dafb20ef92fb8468847fe8077b1c"
+      },
+      "reviewer": "Codex",
+      "reason": "검토 가능한 실제 시안. 이미지형 원본과 네이티브 설명·표의 객체 수·종류·정확 좌표 차이를 숨기지 않음.",
+      "criteria": {
+        "title_hierarchy": {
+          "status": "passed",
+          "reason": "원본 과학 자료·캐릭터·여백·윤곽을 실제 렌더로 검토. 장식 캐릭터 불필요한 본문은 사유 있는 해당 없음.",
+          "reviewer": "Codex visual review 2026-10-28",
+          "evidence": {
+            "path": "design-review/comparisons/part.html",
+            "sha256": "adf4ed9c63f3eb188a424d4cbf97614f1d30dafb20ef92fb8468847fe8077b1c"
+          }
+        },
+        "visual_scale": {
+          "status": "passed",
+          "reason": "원본 과학 자료·캐릭터·여백·윤곽을 실제 렌더로 검토. 장식 캐릭터 불필요한 본문은 사유 있는 해당 없음.",
+          "reviewer": "Codex visual review 2026-10-28",
+          "evidence": {
+            "path": "design-review/comparisons/part.html",
+            "sha256": "adf4ed9c63f3eb188a424d4cbf97614f1d30dafb20ef92fb8468847fe8077b1c"
+          }
+        },
+        "spacing": {
+          "status": "unverified",
+          "reason": "원본 화면과 시안 화면 실제 대조. 정확한 좌표·타이포그래피 잠금의 완전 일치는 아직 미확인.",
+          "reviewer": "Codex visual review 2026-10-28",
+          "evidence": {
+            "path": "design-review/comparisons/part.html",
+            "sha256": "adf4ed9c63f3eb188a424d4cbf97614f1d30dafb20ef92fb8468847fe8077b1c"
+          }
+        },
+        "image_background": {
+          "status": "passed",
+          "reason": "원본 과학 자료·캐릭터·여백·윤곽을 실제 렌더로 검토. 장식 캐릭터 불필요한 본문은 사유 있는 해당 없음.",
+          "reviewer": "Codex visual review 2026-10-28",
+          "evidence": {
+            "path": "design-review/comparisons/part.html",
+            "sha256": "adf4ed9c63f3eb188a424d4cbf97614f1d30dafb20ef92fb8468847fe8077b1c"
+          }
+        },
+        "borders": {
+          "status": "passed",
+          "reason": "원본 과학 자료·캐릭터·여백·윤곽을 실제 렌더로 검토. 장식 캐릭터 불필요한 본문은 사유 있는 해당 없음.",
+          "reviewer": "Codex visual review 2026-10-28",
+          "evidence": {
+            "path": "design-review/comparisons/part.html",
+            "sha256": "adf4ed9c63f3eb188a424d4cbf97614f1d30dafb20ef92fb8468847fe8077b1c"
+          }
+        },
+        "layout_fidelity": {
+          "status": "unverified",
+          "reason": "원본 화면과 시안 화면 실제 대조. 정확한 좌표·타이포그래피 잠금의 완전 일치는 아직 미확인.",
+          "reviewer": "Codex visual review 2026-10-28",
+          "evidence": {
+            "path": "design-review/comparisons/part.html",
+            "sha256": "adf4ed9c63f3eb188a424d4cbf97614f1d30dafb20ef92fb8468847fe8077b1c"
+          }
+        },
+        "typography": {
+          "status": "unverified",
+          "reason": "원본 화면과 시안 화면 실제 대조. 정확한 좌표·타이포그래피 잠금의 완전 일치는 아직 미확인.",
+          "reviewer": "Codex visual review 2026-10-28",
+          "evidence": {
+            "path": "design-review/comparisons/part.html",
+            "sha256": "adf4ed9c63f3eb188a424d4cbf97614f1d30dafb20ef92fb8468847fe8077b1c"
+          }
+        },
+        "character_identity": {
+          "status": "passed",
+          "reason": "원본 과학 자료·캐릭터·여백·윤곽을 실제 렌더로 검토. 장식 캐릭터 불필요한 본문은 사유 있는 해당 없음.",
+          "reviewer": "Codex visual review 2026-10-28",
+          "evidence": {
+            "path": "design-review/comparisons/part.html",
+            "sha256": "adf4ed9c63f3eb188a424d4cbf97614f1d30dafb20ef92fb8468847fe8077b1c"
+          }
+        },
+        "branding": {
+          "status": "unverified",
+          "reason": "원본 화면과 시안 화면 실제 대조. 정확한 좌표·타이포그래피 잠금의 완전 일치는 아직 미확인.",
+          "reviewer": "Codex visual review 2026-10-28",
+          "evidence": {
+            "path": "design-review/comparisons/part.html",
+            "sha256": "adf4ed9c63f3eb188a424d4cbf97614f1d30dafb20ef92fb8468847fe8077b1c"
+          }
+        }
+      }
+    },
+    {
+      "id": "sample-objectives",
+      "type": "objectives",
+      "slide": 4,
+      "plan_slide": 4,
+      "reference_id": "R-objectives",
+      "artifact": {
+        "path": "drafts/representatives/v01/output/3-03_엔트로피_대표10장_v01.pptx",
+        "sha256": "a9e961cead38d9b4a5215da60bf916c8854060580c651c210c44b87c2aeb060f"
+      },
+      "render": {
+        "path": "drafts/representatives/v01/preview/slide-04-plan04.png",
+        "sha256": "3f9d6c5d6384295cea4beb1faf330bbfaf651851104af440adc1529585bffbe9"
+      },
+      "layout": {
+        "path": "design-review/candidate-objectives.layout.json",
+        "sha256": "a2e397d30192daccb004628260795324b779786e41790e4878e991a749cb7ab4"
+      },
+      "comparison": {
+        "path": "design-review/comparisons/objectives.html",
+        "sha256": "3b3fe8e42bffd81c5f3185a57bb6a33c04b955922218852e8db621825f663552"
+      },
+      "reviewer": "Codex",
+      "reason": "검토 가능한 실제 시안. 이미지형 원본과 네이티브 설명·표의 객체 수·종류·정확 좌표 차이를 숨기지 않음.",
+      "criteria": {
+        "title_hierarchy": {
+          "status": "passed",
+          "reason": "원본 과학 자료·캐릭터·여백·윤곽을 실제 렌더로 검토. 장식 캐릭터 불필요한 본문은 사유 있는 해당 없음.",
+          "reviewer": "Codex visual review 2026-10-28",
+          "evidence": {
+            "path": "design-review/comparisons/objectives.html",
+            "sha256": "3b3fe8e42bffd81c5f3185a57bb6a33c04b955922218852e8db621825f663552"
+          }
+        },
+        "visual_scale": {
+          "status": "passed",
+          "reason": "원본 과학 자료·캐릭터·여백·윤곽을 실제 렌더로 검토. 장식 캐릭터 불필요한 본문은 사유 있는 해당 없음.",
+          "reviewer": "Codex visual review 2026-10-28",
+          "evidence": {
+            "path": "design-review/comparisons/objectives.html",
+            "sha256": "3b3fe8e42bffd81c5f3185a57bb6a33c04b955922218852e8db621825f663552"
+          }
+        },
+        "spacing": {
+          "status": "unverified",
+          "reason": "원본 화면과 시안 화면 실제 대조. 정확한 좌표·타이포그래피 잠금의 완전 일치는 아직 미확인.",
+          "reviewer": "Codex visual review 2026-10-28",
+          "evidence": {
+            "path": "design-review/comparisons/objectives.html",
+            "sha256": "3b3fe8e42bffd81c5f3185a57bb6a33c04b955922218852e8db621825f663552"
+          }
+        },
+        "image_background": {
+          "status": "passed",
+          "reason": "원본 과학 자료·캐릭터·여백·윤곽을 실제 렌더로 검토. 장식 캐릭터 불필요한 본문은 사유 있는 해당 없음.",
+          "reviewer": "Codex visual review 2026-10-28",
+          "evidence": {
+            "path": "design-review/comparisons/objectives.html",
+            "sha256": "3b3fe8e42bffd81c5f3185a57bb6a33c04b955922218852e8db621825f663552"
+          }
+        },
+        "borders": {
+          "status": "passed",
+          "reason": "원본 과학 자료·캐릭터·여백·윤곽을 실제 렌더로 검토. 장식 캐릭터 불필요한 본문은 사유 있는 해당 없음.",
+          "reviewer": "Codex visual review 2026-10-28",
+          "evidence": {
+            "path": "design-review/comparisons/objectives.html",
+            "sha256": "3b3fe8e42bffd81c5f3185a57bb6a33c04b955922218852e8db621825f663552"
+          }
+        },
+        "layout_fidelity": {
+          "status": "unverified",
+          "reason": "원본 화면과 시안 화면 실제 대조. 정확한 좌표·타이포그래피 잠금의 완전 일치는 아직 미확인.",
+          "reviewer": "Codex visual review 2026-10-28",
+          "evidence": {
+            "path": "design-review/comparisons/objectives.html",
+            "sha256": "3b3fe8e42bffd81c5f3185a57bb6a33c04b955922218852e8db621825f663552"
+          }
+        },
+        "typography": {
+          "status": "unverified",
+          "reason": "원본 화면과 시안 화면 실제 대조. 정확한 좌표·타이포그래피 잠금의 완전 일치는 아직 미확인.",
+          "reviewer": "Codex visual review 2026-10-28",
+          "evidence": {
+            "path": "design-review/comparisons/objectives.html",
+            "sha256": "3b3fe8e42bffd81c5f3185a57bb6a33c04b955922218852e8db621825f663552"
+          }
+        },
+        "character_identity": {
+          "status": "passed",
+          "reason": "원본 과학 자료·캐릭터·여백·윤곽을 실제 렌더로 검토. 장식 캐릭터 불필요한 본문은 사유 있는 해당 없음.",
+          "reviewer": "Codex visual review 2026-10-28",
+          "evidence": {
+            "path": "design-review/comparisons/objectives.html",
+            "sha256": "3b3fe8e42bffd81c5f3185a57bb6a33c04b955922218852e8db621825f663552"
+          }
+        },
+        "branding": {
+          "status": "unverified",
+          "reason": "원본 화면과 시안 화면 실제 대조. 정확한 좌표·타이포그래피 잠금의 완전 일치는 아직 미확인.",
+          "reviewer": "Codex visual review 2026-10-28",
+          "evidence": {
+            "path": "design-review/comparisons/objectives.html",
+            "sha256": "3b3fe8e42bffd81c5f3185a57bb6a33c04b955922218852e8db621825f663552"
+          }
+        }
+      }
+    },
+    {
+      "id": "sample-contents",
+      "type": "contents",
+      "slide": 3,
+      "plan_slide": 3,
+      "reference_id": "R-contents",
+      "artifact": {
+        "path": "drafts/representatives/v01/output/3-03_엔트로피_대표10장_v01.pptx",
+        "sha256": "a9e961cead38d9b4a5215da60bf916c8854060580c651c210c44b87c2aeb060f"
+      },
+      "render": {
+        "path": "drafts/representatives/v01/preview/slide-03-plan03.png",
+        "sha256": "f5c2bbbbeacf3b28814eb2b580d85f6ef62bf7584d43cce75c320227ffa28b42"
+      },
+      "layout": {
+        "path": "design-review/candidate-contents.layout.json",
+        "sha256": "a6a64e0d42a047a5971dd32424e936cfbd6eb33af0cad3b673b58d52f8a412f5"
+      },
+      "comparison": {
+        "path": "design-review/comparisons/contents.html",
+        "sha256": "d7f7c91ba92d3401991d29a7148be97bfb8d285dcf8cba6626a90427360a54b5"
+      },
+      "reviewer": "Codex",
+      "reason": "검토 가능한 실제 시안. 이미지형 원본과 네이티브 설명·표의 객체 수·종류·정확 좌표 차이를 숨기지 않음.",
+      "criteria": {
+        "title_hierarchy": {
+          "status": "passed",
+          "reason": "원본 과학 자료·캐릭터·여백·윤곽을 실제 렌더로 검토. 장식 캐릭터 불필요한 본문은 사유 있는 해당 없음.",
+          "reviewer": "Codex visual review 2026-10-28",
+          "evidence": {
+            "path": "design-review/comparisons/contents.html",
+            "sha256": "d7f7c91ba92d3401991d29a7148be97bfb8d285dcf8cba6626a90427360a54b5"
+          }
+        },
+        "visual_scale": {
+          "status": "passed",
+          "reason": "원본 과학 자료·캐릭터·여백·윤곽을 실제 렌더로 검토. 장식 캐릭터 불필요한 본문은 사유 있는 해당 없음.",
+          "reviewer": "Codex visual review 2026-10-28",
+          "evidence": {
+            "path": "design-review/comparisons/contents.html",
+            "sha256": "d7f7c91ba92d3401991d29a7148be97bfb8d285dcf8cba6626a90427360a54b5"
+          }
+        },
+        "spacing": {
+          "status": "unverified",
+          "reason": "원본 화면과 시안 화면 실제 대조. 정확한 좌표·타이포그래피 잠금의 완전 일치는 아직 미확인.",
+          "reviewer": "Codex visual review 2026-10-28",
+          "evidence": {
+            "path": "design-review/comparisons/contents.html",
+            "sha256": "d7f7c91ba92d3401991d29a7148be97bfb8d285dcf8cba6626a90427360a54b5"
+          }
+        },
+        "image_background": {
+          "status": "passed",
+          "reason": "원본 과학 자료·캐릭터·여백·윤곽을 실제 렌더로 검토. 장식 캐릭터 불필요한 본문은 사유 있는 해당 없음.",
+          "reviewer": "Codex visual review 2026-10-28",
+          "evidence": {
+            "path": "design-review/comparisons/contents.html",
+            "sha256": "d7f7c91ba92d3401991d29a7148be97bfb8d285dcf8cba6626a90427360a54b5"
+          }
+        },
+        "borders": {
+          "status": "passed",
+          "reason": "원본 과학 자료·캐릭터·여백·윤곽을 실제 렌더로 검토. 장식 캐릭터 불필요한 본문은 사유 있는 해당 없음.",
+          "reviewer": "Codex visual review 2026-10-28",
+          "evidence": {
+            "path": "design-review/comparisons/contents.html",
+            "sha256": "d7f7c91ba92d3401991d29a7148be97bfb8d285dcf8cba6626a90427360a54b5"
+          }
+        },
+        "layout_fidelity": {
+          "status": "unverified",
+          "reason": "원본 화면과 시안 화면 실제 대조. 정확한 좌표·타이포그래피 잠금의 완전 일치는 아직 미확인.",
+          "reviewer": "Codex visual review 2026-10-28",
+          "evidence": {
+            "path": "design-review/comparisons/contents.html",
+            "sha256": "d7f7c91ba92d3401991d29a7148be97bfb8d285dcf8cba6626a90427360a54b5"
+          }
+        },
+        "typography": {
+          "status": "unverified",
+          "reason": "원본 화면과 시안 화면 실제 대조. 정확한 좌표·타이포그래피 잠금의 완전 일치는 아직 미확인.",
+          "reviewer": "Codex visual review 2026-10-28",
+          "evidence": {
+            "path": "design-review/comparisons/contents.html",
+            "sha256": "d7f7c91ba92d3401991d29a7148be97bfb8d285dcf8cba6626a90427360a54b5"
+          }
+        },
+        "character_identity": {
+          "status": "passed",
+          "reason": "원본 과학 자료·캐릭터·여백·윤곽을 실제 렌더로 검토. 장식 캐릭터 불필요한 본문은 사유 있는 해당 없음.",
+          "reviewer": "Codex visual review 2026-10-28",
+          "evidence": {
+            "path": "design-review/comparisons/contents.html",
+            "sha256": "d7f7c91ba92d3401991d29a7148be97bfb8d285dcf8cba6626a90427360a54b5"
+          }
+        },
+        "branding": {
+          "status": "unverified",
+          "reason": "원본 화면과 시안 화면 실제 대조. 정확한 좌표·타이포그래피 잠금의 완전 일치는 아직 미확인.",
+          "reviewer": "Codex visual review 2026-10-28",
+          "evidence": {
+            "path": "design-review/comparisons/contents.html",
+            "sha256": "d7f7c91ba92d3401991d29a7148be97bfb8d285dcf8cba6626a90427360a54b5"
+          }
+        }
+      }
+    },
+    {
+      "id": "sample-figure",
+      "type": "figure",
+      "slide": 8,
+      "plan_slide": 10,
+      "reference_id": "R-figure",
+      "artifact": {
+        "path": "drafts/representatives/v01/output/3-03_엔트로피_대표10장_v01.pptx",
+        "sha256": "a9e961cead38d9b4a5215da60bf916c8854060580c651c210c44b87c2aeb060f"
+      },
+      "render": {
+        "path": "drafts/representatives/v01/preview/slide-08-plan10.png",
+        "sha256": "157677a7166bcbf93ac0a227bece285d986b48db3e910275177d6eed53905a19"
+      },
+      "layout": {
+        "path": "design-review/candidate-figure.layout.json",
+        "sha256": "efd2677b25932237b0fdbad8b5057d1ce5cf790c871f236e660f5b018b2e721a"
+      },
+      "comparison": {
+        "path": "design-review/comparisons/figure.html",
+        "sha256": "e5e82a8cd55f0f7b8db390a45d8b39ab94811d80d05e3b1e134833292fd1daea"
+      },
+      "reviewer": "Codex",
+      "reason": "검토 가능한 실제 시안. 이미지형 원본과 네이티브 설명·표의 객체 수·종류·정확 좌표 차이를 숨기지 않음.",
+      "criteria": {
+        "title_hierarchy": {
+          "status": "passed",
+          "reason": "원본 과학 자료·캐릭터·여백·윤곽을 실제 렌더로 검토. 장식 캐릭터 불필요한 본문은 사유 있는 해당 없음.",
+          "reviewer": "Codex visual review 2026-10-28",
+          "evidence": {
+            "path": "design-review/comparisons/figure.html",
+            "sha256": "e5e82a8cd55f0f7b8db390a45d8b39ab94811d80d05e3b1e134833292fd1daea"
+          }
+        },
+        "visual_scale": {
+          "status": "passed",
+          "reason": "원본 과학 자료·캐릭터·여백·윤곽을 실제 렌더로 검토. 장식 캐릭터 불필요한 본문은 사유 있는 해당 없음.",
+          "reviewer": "Codex visual review 2026-10-28",
+          "evidence": {
+            "path": "design-review/comparisons/figure.html",
+            "sha256": "e5e82a8cd55f0f7b8db390a45d8b39ab94811d80d05e3b1e134833292fd1daea"
+          }
+        },
+        "spacing": {
+          "status": "unverified",
+          "reason": "원본 화면과 시안 화면 실제 대조. 정확한 좌표·타이포그래피 잠금의 완전 일치는 아직 미확인.",
+          "reviewer": "Codex visual review 2026-10-28",
+          "evidence": {
+            "path": "design-review/comparisons/figure.html",
+            "sha256": "e5e82a8cd55f0f7b8db390a45d8b39ab94811d80d05e3b1e134833292fd1daea"
+          }
+        },
+        "image_background": {
+          "status": "passed",
+          "reason": "원본 과학 자료·캐릭터·여백·윤곽을 실제 렌더로 검토. 장식 캐릭터 불필요한 본문은 사유 있는 해당 없음.",
+          "reviewer": "Codex visual review 2026-10-28",
+          "evidence": {
+            "path": "design-review/comparisons/figure.html",
+            "sha256": "e5e82a8cd55f0f7b8db390a45d8b39ab94811d80d05e3b1e134833292fd1daea"
+          }
+        },
+        "borders": {
+          "status": "passed",
+          "reason": "원본 과학 자료·캐릭터·여백·윤곽을 실제 렌더로 검토. 장식 캐릭터 불필요한 본문은 사유 있는 해당 없음.",
+          "reviewer": "Codex visual review 2026-10-28",
+          "evidence": {
+            "path": "design-review/comparisons/figure.html",
+            "sha256": "e5e82a8cd55f0f7b8db390a45d8b39ab94811d80d05e3b1e134833292fd1daea"
+          }
+        },
+        "layout_fidelity": {
+          "status": "unverified",
+          "reason": "원본 화면과 시안 화면 실제 대조. 정확한 좌표·타이포그래피 잠금의 완전 일치는 아직 미확인.",
+          "reviewer": "Codex visual review 2026-10-28",
+          "evidence": {
+            "path": "design-review/comparisons/figure.html",
+            "sha256": "e5e82a8cd55f0f7b8db390a45d8b39ab94811d80d05e3b1e134833292fd1daea"
+          }
+        },
+        "typography": {
+          "status": "unverified",
+          "reason": "원본 화면과 시안 화면 실제 대조. 정확한 좌표·타이포그래피 잠금의 완전 일치는 아직 미확인.",
+          "reviewer": "Codex visual review 2026-10-28",
+          "evidence": {
+            "path": "design-review/comparisons/figure.html",
+            "sha256": "e5e82a8cd55f0f7b8db390a45d8b39ab94811d80d05e3b1e134833292fd1daea"
+          }
+        },
+        "character_identity": {
+          "status": "passed",
+          "reason": "원본 과학 자료·캐릭터·여백·윤곽을 실제 렌더로 검토. 장식 캐릭터 불필요한 본문은 사유 있는 해당 없음.",
+          "reviewer": "Codex visual review 2026-10-28",
+          "evidence": {
+            "path": "design-review/comparisons/figure.html",
+            "sha256": "e5e82a8cd55f0f7b8db390a45d8b39ab94811d80d05e3b1e134833292fd1daea"
+          }
+        },
+        "branding": {
+          "status": "unverified",
+          "reason": "원본 화면과 시안 화면 실제 대조. 정확한 좌표·타이포그래피 잠금의 완전 일치는 아직 미확인.",
+          "reviewer": "Codex visual review 2026-10-28",
+          "evidence": {
+            "path": "design-review/comparisons/figure.html",
+            "sha256": "e5e82a8cd55f0f7b8db390a45d8b39ab94811d80d05e3b1e134833292fd1daea"
+          }
+        }
+      }
+    },
+    {
+      "id": "sample-table_formula",
+      "type": "table_formula",
+      "slide": 9,
+      "plan_slide": 33,
+      "reference_id": "R-table_formula",
+      "artifact": {
+        "path": "drafts/representatives/v01/output/3-03_엔트로피_대표10장_v01.pptx",
+        "sha256": "a9e961cead38d9b4a5215da60bf916c8854060580c651c210c44b87c2aeb060f"
+      },
+      "render": {
+        "path": "drafts/representatives/v01/preview/slide-09-plan33.png",
+        "sha256": "af2b9702751d9f32ad9ed068b5a1688e77c41574d229d0637e9744cf5eaa757e"
+      },
+      "layout": {
+        "path": "design-review/candidate-table_formula.layout.json",
+        "sha256": "fdcd3e0e9f3ca04a7d8a2e05d2d88cb34008a2d48c024a9762e5441a83ef022d"
+      },
+      "comparison": {
+        "path": "design-review/comparisons/table_formula.html",
+        "sha256": "3e261c8111e8a1d9f926fae725aa6767c05050a076b13c1e5ab8b69f4d4a4d4c"
+      },
+      "reviewer": "Codex",
+      "reason": "검토 가능한 실제 시안. 이미지형 원본과 네이티브 설명·표의 객체 수·종류·정확 좌표 차이를 숨기지 않음.",
+      "criteria": {
+        "title_hierarchy": {
+          "status": "passed",
+          "reason": "원본 과학 자료·캐릭터·여백·윤곽을 실제 렌더로 검토. 장식 캐릭터 불필요한 본문은 사유 있는 해당 없음.",
+          "reviewer": "Codex visual review 2026-10-28",
+          "evidence": {
+            "path": "design-review/comparisons/table_formula.html",
+            "sha256": "3e261c8111e8a1d9f926fae725aa6767c05050a076b13c1e5ab8b69f4d4a4d4c"
+          }
+        },
+        "visual_scale": {
+          "status": "passed",
+          "reason": "원본 과학 자료·캐릭터·여백·윤곽을 실제 렌더로 검토. 장식 캐릭터 불필요한 본문은 사유 있는 해당 없음.",
+          "reviewer": "Codex visual review 2026-10-28",
+          "evidence": {
+            "path": "design-review/comparisons/table_formula.html",
+            "sha256": "3e261c8111e8a1d9f926fae725aa6767c05050a076b13c1e5ab8b69f4d4a4d4c"
+          }
+        },
+        "spacing": {
+          "status": "unverified",
+          "reason": "원본 화면과 시안 화면 실제 대조. 정확한 좌표·타이포그래피 잠금의 완전 일치는 아직 미확인.",
+          "reviewer": "Codex visual review 2026-10-28",
+          "evidence": {
+            "path": "design-review/comparisons/table_formula.html",
+            "sha256": "3e261c8111e8a1d9f926fae725aa6767c05050a076b13c1e5ab8b69f4d4a4d4c"
+          }
+        },
+        "image_background": {
+          "status": "passed",
+          "reason": "원본 과학 자료·캐릭터·여백·윤곽을 실제 렌더로 검토. 장식 캐릭터 불필요한 본문은 사유 있는 해당 없음.",
+          "reviewer": "Codex visual review 2026-10-28",
+          "evidence": {
+            "path": "design-review/comparisons/table_formula.html",
+            "sha256": "3e261c8111e8a1d9f926fae725aa6767c05050a076b13c1e5ab8b69f4d4a4d4c"
+          }
+        },
+        "borders": {
+          "status": "passed",
+          "reason": "원본 과학 자료·캐릭터·여백·윤곽을 실제 렌더로 검토. 장식 캐릭터 불필요한 본문은 사유 있는 해당 없음.",
+          "reviewer": "Codex visual review 2026-10-28",
+          "evidence": {
+            "path": "design-review/comparisons/table_formula.html",
+            "sha256": "3e261c8111e8a1d9f926fae725aa6767c05050a076b13c1e5ab8b69f4d4a4d4c"
+          }
+        },
+        "layout_fidelity": {
+          "status": "unverified",
+          "reason": "원본 화면과 시안 화면 실제 대조. 정확한 좌표·타이포그래피 잠금의 완전 일치는 아직 미확인.",
+          "reviewer": "Codex visual review 2026-10-28",
+          "evidence": {
+            "path": "design-review/comparisons/table_formula.html",
+            "sha256": "3e261c8111e8a1d9f926fae725aa6767c05050a076b13c1e5ab8b69f4d4a4d4c"
+          }
+        },
+        "typography": {
+          "status": "unverified",
+          "reason": "원본 화면과 시안 화면 실제 대조. 정확한 좌표·타이포그래피 잠금의 완전 일치는 아직 미확인.",
+          "reviewer": "Codex visual review 2026-10-28",
+          "evidence": {
+            "path": "design-review/comparisons/table_formula.html",
+            "sha256": "3e261c8111e8a1d9f926fae725aa6767c05050a076b13c1e5ab8b69f4d4a4d4c"
+          }
+        },
+        "character_identity": {
+          "status": "passed",
+          "reason": "원본 과학 자료·캐릭터·여백·윤곽을 실제 렌더로 검토. 장식 캐릭터 불필요한 본문은 사유 있는 해당 없음.",
+          "reviewer": "Codex visual review 2026-10-28",
+          "evidence": {
+            "path": "design-review/comparisons/table_formula.html",
+            "sha256": "3e261c8111e8a1d9f926fae725aa6767c05050a076b13c1e5ab8b69f4d4a4d4c"
+          }
+        },
+        "branding": {
+          "status": "unverified",
+          "reason": "원본 화면과 시안 화면 실제 대조. 정확한 좌표·타이포그래피 잠금의 완전 일치는 아직 미확인.",
+          "reviewer": "Codex visual review 2026-10-28",
+          "evidence": {
+            "path": "design-review/comparisons/table_formula.html",
+            "sha256": "3e261c8111e8a1d9f926fae725aa6767c05050a076b13c1e5ab8b69f4d4a4d4c"
+          }
+        }
+      }
+    },
+    {
+      "id": "sample-comparison",
+      "type": "comparison",
+      "slide": 10,
+      "plan_slide": 36,
+      "reference_id": "R-comparison",
+      "artifact": {
+        "path": "drafts/representatives/v01/output/3-03_엔트로피_대표10장_v01.pptx",
+        "sha256": "a9e961cead38d9b4a5215da60bf916c8854060580c651c210c44b87c2aeb060f"
+      },
+      "render": {
+        "path": "drafts/representatives/v01/preview/slide-10-plan36.png",
+        "sha256": "027a4b2dbe555254105957b6231e480d02e1dfffb89296762f433e14a91f90eb"
+      },
+      "layout": {
+        "path": "design-review/candidate-comparison.layout.json",
+        "sha256": "7ddcc22ad23aace77fc3d497f8003604b2b0e19af658ccfbbd03a77f8afcaf90"
+      },
+      "comparison": {
+        "path": "design-review/comparisons/comparison.html",
+        "sha256": "b6e23aaf110cdd9a54ce1b122b68dd2f06940512c50e92705a2f23a87869be58"
+      },
+      "reviewer": "Codex",
+      "reason": "검토 가능한 실제 시안. 이미지형 원본과 네이티브 설명·표의 객체 수·종류·정확 좌표 차이를 숨기지 않음.",
+      "criteria": {
+        "title_hierarchy": {
+          "status": "passed",
+          "reason": "원본 과학 자료·캐릭터·여백·윤곽을 실제 렌더로 검토. 장식 캐릭터 불필요한 본문은 사유 있는 해당 없음.",
+          "reviewer": "Codex visual review 2026-10-28",
+          "evidence": {
+            "path": "design-review/comparisons/comparison.html",
+            "sha256": "b6e23aaf110cdd9a54ce1b122b68dd2f06940512c50e92705a2f23a87869be58"
+          }
+        },
+        "visual_scale": {
+          "status": "passed",
+          "reason": "원본 과학 자료·캐릭터·여백·윤곽을 실제 렌더로 검토. 장식 캐릭터 불필요한 본문은 사유 있는 해당 없음.",
+          "reviewer": "Codex visual review 2026-10-28",
+          "evidence": {
+            "path": "design-review/comparisons/comparison.html",
+            "sha256": "b6e23aaf110cdd9a54ce1b122b68dd2f06940512c50e92705a2f23a87869be58"
+          }
+        },
+        "spacing": {
+          "status": "unverified",
+          "reason": "원본 화면과 시안 화면 실제 대조. 정확한 좌표·타이포그래피 잠금의 완전 일치는 아직 미확인.",
+          "reviewer": "Codex visual review 2026-10-28",
+          "evidence": {
+            "path": "design-review/comparisons/comparison.html",
+            "sha256": "b6e23aaf110cdd9a54ce1b122b68dd2f06940512c50e92705a2f23a87869be58"
+          }
+        },
+        "image_background": {
+          "status": "passed",
+          "reason": "원본 과학 자료·캐릭터·여백·윤곽을 실제 렌더로 검토. 장식 캐릭터 불필요한 본문은 사유 있는 해당 없음.",
+          "reviewer": "Codex visual review 2026-10-28",
+          "evidence": {
+            "path": "design-review/comparisons/comparison.html",
+            "sha256": "b6e23aaf110cdd9a54ce1b122b68dd2f06940512c50e92705a2f23a87869be58"
+          }
+        },
+        "borders": {
+          "status": "passed",
+          "reason": "원본 과학 자료·캐릭터·여백·윤곽을 실제 렌더로 검토. 장식 캐릭터 불필요한 본문은 사유 있는 해당 없음.",
+          "reviewer": "Codex visual review 2026-10-28",
+          "evidence": {
+            "path": "design-review/comparisons/comparison.html",
+            "sha256": "b6e23aaf110cdd9a54ce1b122b68dd2f06940512c50e92705a2f23a87869be58"
+          }
+        },
+        "layout_fidelity": {
+          "status": "unverified",
+          "reason": "원본 화면과 시안 화면 실제 대조. 정확한 좌표·타이포그래피 잠금의 완전 일치는 아직 미확인.",
+          "reviewer": "Codex visual review 2026-10-28",
+          "evidence": {
+            "path": "design-review/comparisons/comparison.html",
+            "sha256": "b6e23aaf110cdd9a54ce1b122b68dd2f06940512c50e92705a2f23a87869be58"
+          }
+        },
+        "typography": {
+          "status": "unverified",
+          "reason": "원본 화면과 시안 화면 실제 대조. 정확한 좌표·타이포그래피 잠금의 완전 일치는 아직 미확인.",
+          "reviewer": "Codex visual review 2026-10-28",
+          "evidence": {
+            "path": "design-review/comparisons/comparison.html",
+            "sha256": "b6e23aaf110cdd9a54ce1b122b68dd2f06940512c50e92705a2f23a87869be58"
+          }
+        },
+        "character_identity": {
+          "status": "passed",
+          "reason": "원본 과학 자료·캐릭터·여백·윤곽을 실제 렌더로 검토. 장식 캐릭터 불필요한 본문은 사유 있는 해당 없음.",
+          "reviewer": "Codex visual review 2026-10-28",
+          "evidence": {
+            "path": "design-review/comparisons/comparison.html",
+            "sha256": "b6e23aaf110cdd9a54ce1b122b68dd2f06940512c50e92705a2f23a87869be58"
+          }
+        },
+        "branding": {
+          "status": "unverified",
+          "reason": "원본 화면과 시안 화면 실제 대조. 정확한 좌표·타이포그래피 잠금의 완전 일치는 아직 미확인.",
+          "reviewer": "Codex visual review 2026-10-28",
+          "evidence": {
+            "path": "design-review/comparisons/comparison.html",
+            "sha256": "b6e23aaf110cdd9a54ce1b122b68dd2f06940512c50e92705a2f23a87869be58"
+          }
+        }
+      }
+    }
+  ]
+}

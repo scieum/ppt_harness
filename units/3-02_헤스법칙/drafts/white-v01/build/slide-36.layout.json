@@ -1,0 +1,21 @@
+{"schema":"openai.presentation.layout/v5","unit":"px","slide":{"id":"sl/q4c01g","index":35,"layout":{"id":"ly/v6l072p8","name":"Blank"},"backgroundColor":"rgba(255,255,255,1)","position":{"left":0,"top":0,"width":1920,"height":1080}},
+"elements":[
+{"id":"sh/kj25ofax","kind":"shape","name":"v34 내용 영역","position":{"left":210,"top":490,"width":1500,"height":230},"geometry":"roundRect","fillColor":"#F2F3F1","lineWidth":0},
+{"id":"sh/jydobutc","kind":"textbox","name":"copyright","position":{"left":1440,"top":1038,"width":440,"height":28},"text":"© 2026. @sci_eum. All rights reserved.","style":{"fontSize":17,"typeface":"Pretendard","color":"#202020","alignment":"right"},"geometry":"rect","lineWidth":0},
+{"id":"sh/yx47ipcr","kind":"textbox","name":"text","position":{"left":90,"top":86,"width":1400,"height":44},"text":"Part 3 표준 생성 엔탈피","style":{"fontSize":28,"typeface":"Pretendard","color":"#898989","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/t4f6h4be","kind":"textbox","name":"text","position":{"left":90,"top":134,"width":70,"height":64},"text":"02","style":{"fontSize":44,"typeface":"Pretendard","color":"#28691C","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/s36pozut","kind":"textbox","name":"text","position":{"left":158,"top":134,"width":1550,"height":64},"text":"생성 엔탈피로 계산","style":{"fontSize":44,"typeface":"Pretendard","color":"#202020","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/72xofut8","kind":"textbox","name":"핵심 문장","position":{"left":180,"top":294,"width":1560,"height":96},"text":"각 물질의 값에 반응 계수를 곱한다","style":{"fontSize":64,"typeface":"Pretendard","color":"#202020","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"im/ts3md43u","kind":"image","position":{"left":542.03,"top":515,"width":835.94,"height":175},"fit":"contain","alt":"교과서 수식체 생성 계산 패널 35"},
+{"id":"sh/jit4fu9c","kind":"textbox","name":"text","position":{"left":220,"top":400,"width":1480,"height":60},"text":"표준 생성 엔탈피는 물질 1 mol을 기준으로 한 값이다.","style":{"fontSize":32,"typeface":"Pretendard","color":"#686868","alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/l4bmhkri","kind":"shape","position":{"left":270,"top":750,"width":50,"height":50},"geometry":"ellipse","fillColor":"#397D23","lineWidth":0},
+{"id":"sh/65knqps3","kind":"textbox","name":"text","position":{"left":270,"top":750,"width":50,"height":50},"text":"1","style":{"fontSize":30,"typeface":"Pretendard","color":"#172510","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/76t4ju9o","kind":"textbox","name":"text","position":{"left":350,"top":750,"width":1300,"height":50},"text":"반응 계수로 생성되거나 반응하는 물질의 양을 반영한다.","style":{"fontSize":32,"typeface":"Pretendard","color":"#202020","alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/3ad47upg","kind":"shape","position":{"left":270,"top":828,"width":50,"height":50},"geometry":"ellipse","fillColor":"#397D23","lineWidth":0},
+{"id":"sh/i943epov","kind":"textbox","name":"text","position":{"left":270,"top":828,"width":50,"height":50},"text":"2","style":{"fontSize":30,"typeface":"Pretendard","color":"#172510","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/5cvm947m","kind":"textbox","name":"text","position":{"left":350,"top":828,"width":1300,"height":50},"text":"Σ는 각 물질에 대해 계산한 값을 모두 더한다는 뜻이다.","style":{"fontSize":32,"typeface":"Pretendard","color":"#202020","alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/4bmlgz61","kind":"shape","position":{"left":270,"top":906,"width":50,"height":50},"geometry":"ellipse","fillColor":"#397D23","lineWidth":0},
+{"id":"sh/v6tk3upk","kind":"textbox","name":"text","position":{"left":270,"top":906,"width":50,"height":50},"text":"3","style":{"fontSize":30,"typeface":"Pretendard","color":"#172510","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/ulk3apoz","kind":"textbox","name":"text","position":{"left":350,"top":906,"width":1300,"height":50},"text":"기준 원소 물질은 표준 생성 엔탈피가 0이다.","style":{"fontSize":32,"typeface":"Pretendard","color":"#28691C","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"im/2147mdsn","kind":"image","position":{"left":1778.67,"top":40,"width":108,"height":77.33},"fit":"contain","alt":"사이음 흰 배경용 원본 로고"}
+]}

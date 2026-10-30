@@ -1,0 +1,37 @@
+[
+  {
+    "family": "Pretendard",
+    "weight": 400,
+    "style": "normal",
+    "width": "normal",
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/output/fonts/Pretendard-Regular.otf"
+  },
+  {
+    "family": "Pretendard",
+    "weight": 500,
+    "style": "normal",
+    "width": "normal",
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/output/fonts/Pretendard-Medium.otf"
+  },
+  {
+    "family": "Pretendard",
+    "weight": 700,
+    "style": "normal",
+    "width": "normal",
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/output/fonts/Pretendard-Bold.otf"
+  },
+  {
+    "family": "Pretendard",
+    "weight": 400,
+    "style": "italic",
+    "width": "normal",
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-03_엔트로피/drafts/representatives/v02/build/Pretendard-H-regular-Oblique.ttf"
+  },
+  {
+    "family": "Pretendard",
+    "weight": 700,
+    "style": "italic",
+    "width": "normal",
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-03_엔트로피/drafts/representatives/v02/build/Pretendard-H-bold-Oblique.ttf"
+  }
+]

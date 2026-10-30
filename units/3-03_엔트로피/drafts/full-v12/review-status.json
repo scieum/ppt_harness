@@ -1,0 +1,27 @@
+{
+  "version": "v12",
+  "slides": 26,
+  "scope": "천재90~91",
+  "user_design_approved": false,
+  "status": "검토 전달본",
+  "changed": [
+    2,
+    8,
+    9,
+    12,
+    14,
+    16,
+    17,
+    19,
+    25,
+    26
+  ],
+  "preserved": [
+    20,
+    21
+  ],
+  "pptx": "output/3-03_엔트로피_전체26장_v12.pptx",
+  "sha256": "48764e8711178c91fb3d0a758ea08a720cd64088b869b4b2e8d57627e512aad4",
+  "visual_review": "변경10장 개별1920×1080렌더 확인, 나머지16장 미리보기 v11동일",
+  "validation": "validation-v12.json; PowerPoint 앱 재생 미검수"
+}

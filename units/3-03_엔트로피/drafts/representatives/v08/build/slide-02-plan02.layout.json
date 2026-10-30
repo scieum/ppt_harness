@@ -1,0 +1,16 @@
+{"schema":"openai.presentation.layout/v5","unit":"px","slide":{"id":"sl/p6li2l","index":1,"layout":{"id":"ly/el8r25g7","name":"Blank"},"backgroundColor":"rgba(0,0,0,1)","position":{"left":0,"top":0,"width":1920,"height":1080}},
+"elements":[
+{"id":"im/ipor2dkj","kind":"image","position":{"left":0,"top":0,"width":1920,"height":1080},"fit":"contain","alt":"분리된 초록 분위기 배경"},
+{"id":"im/5szadsju","kind":"image","position":{"left":1778.67,"top":40,"width":108,"height":77.33},"fit":"contain","alt":"사이음 공식 로고"},
+{"id":"sh/p43mxkfu","kind":"textbox","name":"copyright","position":{"left":1440,"top":1034,"width":440,"height":30},"text":"© 2026. @sci_eum. All rights reserved.","style":{"fontSize":21,"typeface":"Pretendard","color":"#FFFFFF","alignment":"right"},"geometry":"rect","lineWidth":0},
+{"id":"sh/q5wnqpgz","kind":"textbox","name":"text","position":{"left":72,"top":76,"width":1530,"height":54},"text":"Part 0 동기 유발","style":{"fontSize":38,"typeface":"Pretendard","color":"#898989","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/b65ozuxk","kind":"textbox","name":"text","position":{"left":72,"top":134,"width":70,"height":64},"text":"01","style":{"fontSize":48.8,"typeface":"Pretendard","color":"#9FFF68","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/c7e5szy5","kind":"textbox","name":"text","position":{"left":146,"top":134,"width":1550,"height":64},"text":"방향제와 확산","style":{"fontSize":48.8,"typeface":"Pretendard","color":"#FFFFFF","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/d8n614fq","kind":"textbox","name":"핵심 문장","position":{"left":100,"top":266,"width":1720,"height":112},"text":"작은 방향제의 향기가 방 안을 채운다","style":{"fontSize":76.4,"typeface":"Pretendard","color":"#FFFFFF","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/y9wnu9gb","kind":"textbox","name":"text","position":{"left":200,"top":390,"width":1520,"height":65},"text":"방향제에서 나온 입자는 어디로 갔을까?","style":{"fontSize":40,"typeface":"Pretendard","color":"#A6A6A6","alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"im/mx4rutkb","kind":"image","position":{"left":310,"top":495,"width":750,"height":565},"fit":"contain","alt":"등록 비율을 보존한 방향제 관찰 학생"},
+{"id":"sh/bm18rylw","kind":"shape","name":"학생 말풍선","position":{"left":1015,"top":574,"width":660,"height":218},"geometry":"roundRect","fillColor":"#FFFFFF","lineWidth":0},
+{"id":"sh/alsrytkb","kind":"shape","name":"학생으로 향하는 말풍선 꼬리","position":{"left":952,"top":698,"width":70,"height":65},"geometry":"custom","fillColor":"#FFFFFF","lineWidth":0},
+{"id":"sh/xojat83m","kind":"textbox","name":"text","position":{"left":1053,"top":603,"width":580,"height":68},"text":"퍼진 입자들이 다시","style":{"fontSize":47,"typeface":"Pretendard","color":"#202020","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/cna9032h","kind":"textbox","name":"text","position":{"left":1053,"top":680,"width":580,"height":68},"text":"한곳에 모일 수 있을까?","style":{"fontSize":47,"typeface":"Pretendard","color":"#245419","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0}
+]}

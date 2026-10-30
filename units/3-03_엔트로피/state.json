@@ -1,0 +1,13 @@
+{
+  "stages": {
+    "research": {
+      "status": "running"
+    },
+    "image": {
+      "status": "running"
+    },
+    "prototype": {
+      "status": "running"
+    }
+  }
+}

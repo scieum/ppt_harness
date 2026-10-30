@@ -1,0 +1,92 @@
+[
+  {
+    "id": "W15",
+    "role": "comparison",
+    "citation": "완자 고등화학Ⅱ(15개정)_본문(교사용)(보안).pdf; 상세 쪽 research/comparison.md",
+    "curriculum": "2015 개정 화학Ⅱ",
+    "evidence": {
+      "path": "research/W15-extract.txt",
+      "sha256": "df616cf2d51c37ce4af060e2e1d00a092868dc6b752062f491d36f604af239c4"
+    }
+  },
+  {
+    "id": "W22",
+    "role": "comparison",
+    "citation": "통합_(22개정)완자 고등물질과에너지_본문_260415(교사용).pdf; 상세 쪽 research/comparison.md",
+    "curriculum": "2022 개정 물질과 에너지",
+    "evidence": {
+      "path": "research/W22-extract.txt",
+      "sha256": "1c7d6ba41c6258c23c59e09d08733aa01271cb4067f5fc97106a0e61093224fa"
+    }
+  },
+  {
+    "id": "V",
+    "role": "comparison",
+    "citation": "[비상교육] 고등_물질과 에너지_교과서.pdf; 상세 쪽 research/comparison.md",
+    "curriculum": "2022 개정 물질과 에너지",
+    "evidence": {
+      "path": "research/V-extract.txt",
+      "sha256": "3a2362b4cc8e8543e0b8bb6b8be842584fff631a275f77c550e9f71e79833184"
+    }
+  },
+  {
+    "id": "M",
+    "role": "comparison",
+    "citation": "미래엔_물질과에너지_교과서.pdf; 상세 쪽 research/comparison.md",
+    "curriculum": "2022 개정 물질과 에너지",
+    "evidence": {
+      "path": "research/M-extract.txt",
+      "sha256": "ab2690dfcb019ee68107c532510237a6622587f96120b0d7a326363f71f5ed2d"
+    }
+  },
+  {
+    "id": "G22",
+    "role": "comparison",
+    "citation": "고_물질과에너지(임희준)_지도서.pdf; 상세 쪽 research/comparison.md",
+    "curriculum": "2022 개정 물질과 에너지",
+    "evidence": {
+      "path": "research/G22-extract.txt",
+      "sha256": "8fd6c241c81d65c919b296a72a1e57ba081ac0cd9b2b19233f8df1a0bfb2c6a7"
+    }
+  },
+  {
+    "id": "G15",
+    "role": "secondary",
+    "citation": "고등_화학2_노태희(15개정)_지도서.pdf; 상세 쪽 research/comparison.md",
+    "curriculum": "2015 개정 화학Ⅱ",
+    "evidence": {
+      "path": "research/G15-extract.txt",
+      "sha256": "be6157b2943827c592259ca65ba23bd442735ed4c796275e4edf78b23d92793f"
+    }
+  },
+  {
+    "id": "T",
+    "role": "primary",
+    "citation": "고_물질과에너지(임희준)_교과서.pdf; 상세 쪽 research/comparison.md",
+    "curriculum": "2022 개정 물질과 에너지",
+    "evidence": {
+      "path": "research/T-extract.txt",
+      "sha256": "b14b1fc2a8470c9ed7afa7df57bac7743b89217eef276f937112467eefcdfd86"
+    }
+  },
+  {
+    "id": "C15",
+    "role": "secondary",
+    "citation": "고등_화학2_노태희(15개정)_교과서.pdf; 상세 쪽 research/comparison.md",
+    "curriculum": "2015 개정 화학Ⅱ",
+    "evidence": {
+      "path": "research/C15-extract.txt",
+      "sha256": "a1a248e30a9c541ea389128685a7b5637f0f8f4aea8709bfcde0e174bd9a8575"
+    }
+  },
+  {
+    "id": "STD22",
+    "role": "standard",
+    "citation": "천재 물질과 에너지 지도서 PDF/인쇄18~19 [12물에03-03] 및 해설",
+    "curriculum": "2022 개정 물질과 에너지",
+    "evidence": {
+      "path": "research/G22-extract.txt",
+      "sha256": "8fd6c241c81d65c919b296a72a1e57ba081ac0cd9b2b19233f8df1a0bfb2c6a7"
+    }
+  }
+]

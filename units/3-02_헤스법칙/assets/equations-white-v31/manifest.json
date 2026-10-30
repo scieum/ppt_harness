@@ -1,0 +1,496 @@
+{
+  "반응식 이미지 t76-water-one — assets/equations-v05/provenance.json": {
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-02_헤스법칙/assets/equations-white-v31/8c797d7e60a4d91b.png",
+    "source_sha256": "8c797d7e60a4d91b4c2d173bbadcc7e244a4e48ed6baa1f940f399158cbe3568",
+    "sha256": "d7204d1c0923c7cb824be5191560db8423e895072d458a136c29236a74b4660d",
+    "size": [
+      1062,
+      101
+    ],
+    "operation": "white RGB; alpha from original dark-ink luminance multiplied by existing alpha; no glyph rendering",
+    "origin": "preserved-source",
+    "glyph": 31.0,
+    "ink": [
+      7,
+      16,
+      1051,
+      89
+    ],
+    "components": 30
+  },
+  "반응식 이미지 t76-water-two — assets/equations-v05/provenance.json": {
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-02_헤스법칙/assets/equations-white-v31/ae270b261617f4b5.png",
+    "source_sha256": "ae270b261617f4b58aba74210fbdf402f4fbbf0c4bfc0be0d8cc95dbccb603ad",
+    "sha256": "84fc4ded0b3487418e3c2947b6c60a99a6791c276fc07bc26d3c88ada9980e0d",
+    "size": [
+      1062,
+      101
+    ],
+    "operation": "white RGB; alpha from original dark-ink luminance multiplied by existing alpha; no glyph rendering",
+    "origin": "preserved-source",
+    "glyph": 31.0,
+    "ink": [
+      12,
+      31,
+      1058,
+      76
+    ],
+    "components": 30
+  },
+  "반응식 이미지 t86-ch4-formation — assets/equations-v05/provenance.json": {
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-02_헤스법칙/assets/equations-white-v31/04e3d8b08fb85fb1.png",
+    "source_sha256": "04e3d8b08fb85fb1294c6cc6484ab9f981d1d4338b5af170ad7e2c774553540e",
+    "sha256": "3ba9fa06a63fe56b893785089345db58c6c303e50d24110e58d84fc709805712",
+    "size": [
+      1426,
+      92
+    ],
+    "operation": "white RGB; alpha from original dark-ink luminance multiplied by existing alpha; no glyph rendering",
+    "origin": "preserved-source",
+    "glyph": 40.0,
+    "ink": [
+      12,
+      18,
+      1410,
+      75
+    ],
+    "components": 34
+  },
+  "반응식 이미지 t87-ch4-decomposition — assets/equations-v05/provenance.json": {
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-02_헤스법칙/assets/equations-white-v31/7f281cf3b892ca5d.png",
+    "source_sha256": "7f281cf3b892ca5ddccc9f5bfa1d632cae7b1264a6ca191140cf9ce753a57ddb",
+    "sha256": "f863a81cc77e988aa06cef2f2e1da6792b573b52be1b0695b0208b74f312e77d",
+    "size": [
+      1495,
+      92
+    ],
+    "operation": "white RGB; alpha from original dark-ink luminance multiplied by existing alpha; no glyph rendering",
+    "origin": "preserved-source",
+    "glyph": 40.5,
+    "ink": [
+      12,
+      18,
+      1489,
+      72
+    ],
+    "components": 41
+  },
+  "반응식 이미지 t85-co-target — assets/equations-v05/provenance.json": {
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-02_헤스법칙/assets/equations-white-v31/cfe45a2cbd46655a.png",
+    "source_sha256": "cfe45a2cbd46655a1121cb3198bf26213e295ec6ebba9484b08ed82639a1af57",
+    "sha256": "1ed4d6e1fc21748a4c4d73289243e69ac32c2a90baae65a4d9d11e3bf9dc004d",
+    "size": [
+      1110,
+      113
+    ],
+    "operation": "white RGB; alpha from original dark-ink luminance multiplied by existing alpha; no glyph rendering",
+    "origin": "preserved-source",
+    "glyph": 36.0,
+    "ink": [
+      10,
+      6,
+      1059,
+      103
+    ],
+    "components": 25
+  },
+  "반응식 이미지 t85-co-total — assets/equations-v05/provenance.json": {
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-02_헤스법칙/assets/equations-white-v31/b911614765c23cc5.png",
+    "source_sha256": "b911614765c23cc5a8c3931a6d13dcea9e1096994a05b5086658f680b7114846",
+    "sha256": "4231cd289aadc5fca9a06a650d8f1d5211dda19f5d7137ddba6e488b519a7031",
+    "size": [
+      1265,
+      77
+    ],
+    "operation": "white RGB; alpha from original dark-ink luminance multiplied by existing alpha; no glyph rendering",
+    "origin": "preserved-source",
+    "glyph": 36.0,
+    "ink": [
+      10,
+      17,
+      1250,
+      65
+    ],
+    "components": 29
+  },
+  "반응식 이미지 t85-co-oxidize — assets/equations-v05/provenance.json": {
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-02_헤스법칙/assets/equations-white-v31/cb25517c2c4220cc.png",
+    "source_sha256": "cb25517c2c4220ccbf672d8a06a4b99bceb258632d089ed2ccb303447ef988b0",
+    "sha256": "dfc6fe98591af0e689dd90535f39ec902ece8a96889e0017a60a8e5c72704249",
+    "size": [
+      1265,
+      113
+    ],
+    "operation": "white RGB; alpha from original dark-ink luminance multiplied by existing alpha; no glyph rendering",
+    "origin": "preserved-source",
+    "glyph": 36.0,
+    "ink": [
+      10,
+      3,
+      1250,
+      100
+    ],
+    "components": 26
+  },
+  "반응식 이미지 t85-co-combine — assets/equations-v05/provenance.json": {
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-02_헤스법칙/assets/equations-white-v31/8f227d5b71925de7.png",
+    "source_sha256": "8f227d5b71925de7605a5550b8b5db8fd3337ca362e220c9eaf498069662099a",
+    "sha256": "e3a3f438fdf97f5f3364cbb4d94a5889c45479b4926e69bf4b30baa5c92a02cf",
+    "size": [
+      787,
+      313
+    ],
+    "operation": "white RGB; alpha from original dark-ink luminance multiplied by existing alpha; no glyph rendering",
+    "origin": "preserved-source",
+    "glyph": 36.0,
+    "ink": [
+      18,
+      16,
+      787,
+      309
+    ],
+    "components": 59
+  },
+  "2015 완자137쪽 목표 반응식 원본": {
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-02_헤스법칙/assets/equations-white-v31/14a21b6b05a3483e.png",
+    "source_sha256": "14a21b6b05a3483e02cd43925188031ec383238c31e0df0720c353cbcccc5bb4",
+    "sha256": "61effe4c26b09267e37db97fe674e16ea51a8a141e4fda58df008a3fbd435463",
+    "size": [
+      445,
+      62
+    ],
+    "operation": "white RGB; alpha from original dark-ink luminance multiplied by existing alpha; no glyph rendering",
+    "origin": "preserved-source",
+    "glyph": 31.0,
+    "ink": [
+      1,
+      16,
+      445,
+      48
+    ],
+    "components": 22
+  },
+  "2022 완자127쪽 흑연 연소 반응식 원본": {
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-02_헤스법칙/assets/equations-white-v31/a5c86c7c2520e0b3.png",
+    "source_sha256": "a5c86c7c2520e0b328d1ad79971d5086b4b76f733dc12d3c72e4585337e56815",
+    "sha256": "51768846d9dcd7e9a2f71b094290174d0c3220453e18b8f6426e3839f143b99b",
+    "size": [
+      788,
+      60
+    ],
+    "operation": "white RGB; alpha from original dark-ink luminance multiplied by existing alpha; no glyph rendering",
+    "origin": "preserved-source",
+    "glyph": 29.0,
+    "ink": [
+      4,
+      13,
+      773,
+      50
+    ],
+    "components": 29
+  },
+  "2022 완자127쪽 다이아몬드 연소 반응식 원본 — 원본문자 한 줄 재배치": {
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-02_헤스법칙/assets/equations-white-v31/9ff2b6e35b48ba20.png",
+    "source_sha256": "9ff2b6e35b48ba208ba2190e903291f9d8d9c941f2938204e5c6d901da5ddcfb",
+    "sha256": "a755a884e11b94ceba9e10c353ddc99611be6f49746e4e9cabb7011b020e3507",
+    "size": [
+      960,
+      60
+    ],
+    "operation": "white RGB; alpha from original dark-ink luminance multiplied by existing alpha; no glyph rendering",
+    "origin": "preserved-source",
+    "glyph": 29.0,
+    "ink": [
+      7,
+      11,
+      946,
+      48
+    ],
+    "components": 35
+  },
+  "반응식 이미지 w122-sulfur-given — assets/equations-v05/provenance.json": {
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-02_헤스법칙/assets/equations-white-v31/952b2f95e39bf29f.png",
+    "source_sha256": "952b2f95e39bf29f7a5681e14b00d6073467f3b5c8061d8f49c4476a8965348f",
+    "sha256": "06d4b953be3c1424738d3a3fabb8749bd9fe5bdef68a347300de68107c4290d2",
+    "size": [
+      984,
+      167
+    ],
+    "operation": "white RGB; alpha from original dark-ink luminance multiplied by existing alpha; no glyph rendering",
+    "origin": "preserved-source",
+    "glyph": 36.0,
+    "ink": [
+      13,
+      23,
+      971,
+      147
+    ],
+    "components": 54
+  },
+  "반응식 이미지 w122-sulfur-target — assets/equations-v05/provenance.json": {
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-02_헤스법칙/assets/equations-white-v31/4028acbeaad14036.png",
+    "source_sha256": "4028acbeaad140367e7cc359582a5a66d2773863a58a4fc767fa0647f694514b",
+    "sha256": "9ff3434a824a99d520a397f3ba44ef8189aec7ed7bc57ff00892ec3e99ece6b4",
+    "size": [
+      859,
+      113
+    ],
+    "operation": "white RGB; alpha from original dark-ink luminance multiplied by existing alpha; no glyph rendering",
+    "origin": "preserved-source",
+    "glyph": 36.0,
+    "ink": [
+      35,
+      32,
+      851,
+      79
+    ],
+    "components": 25
+  },
+  "반응식 이미지 t85-water-liquid — assets/equations-v05/provenance.json": {
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-02_헤스법칙/assets/equations-white-v31/34ae3c8e54c5a559.png",
+    "source_sha256": "34ae3c8e54c5a55922c37a3e66dc06dd7b181afc7b915f2042eeb3a258cf6228",
+    "sha256": "843b3260106cddfaf9bb5424c2417014c9b25356f6b85d7a9321c31e8e6a005f",
+    "size": [
+      1127,
+      120
+    ],
+    "operation": "white RGB; alpha from original dark-ink luminance multiplied by existing alpha; no glyph rendering",
+    "origin": "preserved-source",
+    "glyph": 35.0,
+    "ink": [
+      12,
+      10,
+      1110,
+      107
+    ],
+    "components": 27
+  },
+  "반응식 이미지 t85-water-gas — assets/equations-v05/provenance.json": {
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-02_헤스법칙/assets/equations-white-v31/9866bfb56d14985a.png",
+    "source_sha256": "9866bfb56d14985a83060282bdc8eb6a9d4233b33552f9a022a188ce8439e383",
+    "sha256": "0dbae1e4038fe7492c5efd1dd8110e2278f2f83bfb42dcfe441be71e5cc4681d",
+    "size": [
+      1127,
+      120
+    ],
+    "operation": "white RGB; alpha from original dark-ink luminance multiplied by existing alpha; no glyph rendering",
+    "origin": "preserved-source",
+    "glyph": 35.0,
+    "ink": [
+      12,
+      7,
+      1110,
+      104
+    ],
+    "components": 26
+  },
+  "반응식 이미지 t87-three-processes — assets/equations-v05/provenance.json": {
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-02_헤스법칙/assets/equations-white-v31/d22a5c5fb566d49f.png",
+    "source_sha256": "d22a5c5fb566d49ff78d495128d135c3d292c68b2fb39835a2ee5d923f7dd200",
+    "sha256": "8e35f3e15d19d165a0cb27f9d416051c2a6968b953d2df450744008fbdfc945d",
+    "size": [
+      1732,
+      530
+    ],
+    "operation": "white RGB; alpha from original dark-ink luminance multiplied by existing alpha; no glyph rendering",
+    "origin": "preserved-source",
+    "glyph": 38.0,
+    "ink": [
+      9,
+      22,
+      1715,
+      525
+    ],
+    "components": 160
+  },
+  "반응식 이미지 t86-ch4-combustion — assets/equations-v05/provenance.json": {
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-02_헤스법칙/assets/equations-white-v31/be220023f56df20a.png",
+    "source_sha256": "be220023f56df20a3f70e7bda54d8e1d826fc1479e7aed988da373b8bb484b09",
+    "sha256": "c34876648d1d25441380373abdb3a6f59bd91ca09a8e4ea7f18d8d72ab3cca29",
+    "size": [
+      1250,
+      106
+    ],
+    "operation": "white RGB; alpha from original dark-ink luminance multiplied by existing alpha; no glyph rendering",
+    "origin": "preserved-source",
+    "glyph": 38.0,
+    "ink": [
+      13,
+      26,
+      1234,
+      78
+    ],
+    "components": 28
+  },
+  "새로 생성한 세 생성 반응 수식 이미지": {
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-02_헤스법칙/assets/equations-white-v31/dabb8fbddb97f538.png",
+    "source_sha256": "dabb8fbddb97f53890bbd848c7f0653ed69e8d489bb35e267fbb7a643917d609",
+    "sha256": "e6c8e4133b5cb5c7abc15676d09d576772d81c1af19bca584675767f59275c44",
+    "size": [
+      2141,
+      734
+    ],
+    "operation": "white RGB; alpha from original dark-ink luminance multiplied by existing alpha; no glyph rendering",
+    "origin": "generated",
+    "glyph": 72.0,
+    "ink": [
+      53,
+      120,
+      2094,
+      663
+    ],
+    "components": 96
+  },
+  "새로 생성한 생성 엔탈피 계산과 반응 합산 수식 이미지": {
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-02_헤스법칙/assets/equations-white-v31/42c1085b475285a9.png",
+    "source_sha256": "42c1085b475285a9dc8feb4f3cde52e791171c7cbe814f2d53e6946b9d8d9187",
+    "sha256": "ecd5567643f1d64b31c604615c0a8c9a2e678d6ed1a02d9c08b995c2a86c4495",
+    "size": [
+      1983,
+      793
+    ],
+    "operation": "white RGB; alpha from original dark-ink luminance multiplied by existing alpha; no glyph rendering",
+    "origin": "generated",
+    "glyph": 70.0,
+    "ink": [
+      87,
+      58,
+      1894,
+      751
+    ],
+    "components": 95
+  },
+  "반응식 이미지 t85-water-vaporize — assets/equations-v05/provenance.json": {
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-02_헤스법칙/assets/equations-white-v31/067a8bebd875ce7a.png",
+    "source_sha256": "067a8bebd875ce7a5dc23e243f81d734ab46a649e23e607961585a28f5a49141",
+    "sha256": "746a8ad3ea9458b50964e84a2003d20a3ce1dddc49f1aa866018acc219fc00ce",
+    "size": [
+      942,
+      80
+    ],
+    "operation": "white RGB; alpha from original dark-ink luminance multiplied by existing alpha; no glyph rendering",
+    "origin": "preserved-source",
+    "glyph": 36.0,
+    "ink": [
+      12,
+      17,
+      920,
+      65
+    ],
+    "components": 16
+  },
+  "반응식 이미지 w120-naoh-dissolve — assets/equations-v05/provenance.json": {
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-02_헤스법칙/assets/equations-white-v31/09e9b36b9a573d45.png",
+    "source_sha256": "09e9b36b9a573d451c379a4233a314f7e041419294293362e56073118eee2777",
+    "sha256": "48c1a15e9542b84dc2e8f00d0597faa66a8de37982c1fd950e19c2d8fd872ffe",
+    "size": [
+      612,
+      59
+    ],
+    "operation": "white RGB; alpha from original dark-ink luminance multiplied by existing alpha; no glyph rendering",
+    "origin": "preserved-source",
+    "glyph": 31.0,
+    "ink": [
+      6,
+      9,
+      449,
+      48
+    ],
+    "components": 16
+  },
+  "반응식 이미지 w120-naoh-neutral — assets/equations-v05/provenance.json": {
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-02_헤스법칙/assets/equations-white-v31/a944c4f067f8803f.png",
+    "source_sha256": "a944c4f067f8803f7c37d7e274d63004322dcbd878865482ab89086d666d63be",
+    "sha256": "779d71733992a5a5fb9d765a8f0c1311901c53ae3758fab43498c47b6a626bc9",
+    "size": [
+      896,
+      54
+    ],
+    "operation": "white RGB; alpha from original dark-ink luminance multiplied by existing alpha; no glyph rendering",
+    "origin": "preserved-source",
+    "glyph": 30.0,
+    "ink": [
+      6,
+      8,
+      820,
+      47
+    ],
+    "components": 34
+  },
+  "반응식 이미지 w120-naoh-direct — assets/equations-v05/provenance.json": {
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-02_헤스법칙/assets/equations-white-v31/f748d95d30f99fe8.png",
+    "source_sha256": "f748d95d30f99fe8982084929ff88315492a1feb1c50e28084f45c60e3829290",
+    "sha256": "467ff06cd8c2fc1bb42b864522772957bb95b034facf676f4654a78c6e4c2d71",
+    "size": [
+      896,
+      54
+    ],
+    "operation": "white RGB; alpha from original dark-ink luminance multiplied by existing alpha; no glyph rendering",
+    "origin": "preserved-source",
+    "glyph": 30.5,
+    "ink": [
+      6,
+      11,
+      794,
+      50
+    ],
+    "components": 32
+  },
+  "반응식 이미지 t84-cao-dissolve — assets/equations-v05/provenance.json": {
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-02_헤스법칙/assets/equations-white-v31/d7642264c084b514.png",
+    "source_sha256": "d7642264c084b514cf474e4c1ea39ec05a1a1f1a7613ac238a5f5bbe6b847951",
+    "sha256": "f137b6d24f0f169a912421836b0681c207ad18bbe21a93e474c8f31c7942cc85",
+    "size": [
+      1530,
+      90
+    ],
+    "operation": "white RGB; alpha from original dark-ink luminance multiplied by existing alpha; no glyph rendering",
+    "origin": "preserved-source",
+    "glyph": 38.0,
+    "ink": [
+      12,
+      20,
+      1512,
+      70
+    ],
+    "components": 33
+  },
+  "반응식 이미지 t84-cao-neutral — assets/equations-v05/provenance.json": {
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-02_헤스법칙/assets/equations-white-v31/aec63fcc5cbb914e.png",
+    "source_sha256": "aec63fcc5cbb914e4b6a7deab4a0bb3f0836c265cd3ada3e8f4d9c2d6f12d3c6",
+    "sha256": "c9bb6de330ac6fc585fb992d5e29c139f79367e10333fb5c8c3edafbb8875a98",
+    "size": [
+      1665,
+      90
+    ],
+    "operation": "white RGB; alpha from original dark-ink luminance multiplied by existing alpha; no glyph rendering",
+    "origin": "preserved-source",
+    "glyph": 37.0,
+    "ink": [
+      12,
+      20,
+      1647,
+      70
+    ],
+    "components": 49
+  },
+  "반응식 이미지 t84-cao-direct — assets/equations-v05/provenance.json": {
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-02_헤스법칙/assets/equations-white-v31/3d12c16eff4c7c11.png",
+    "source_sha256": "3d12c16eff4c7c11a561d569b6e968a47b399d6f95e833d3ea24f6103f935f9a",
+    "sha256": "5092e361a73529c8ec4d799434cdab67735bb171ac1ac36dc1a638f3113a2f87",
+    "size": [
+      1530,
+      90
+    ],
+    "operation": "white RGB; alpha from original dark-ink luminance multiplied by existing alpha; no glyph rendering",
+    "origin": "preserved-source",
+    "glyph": 38.0,
+    "ink": [
+      12,
+      24,
+      1512,
+      74
+    ],
+    "components": 44
+  }
+}

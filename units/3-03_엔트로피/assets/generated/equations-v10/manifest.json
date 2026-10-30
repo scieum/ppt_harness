@@ -1,0 +1,58 @@
+[
+  {
+    "id": "delta",
+    "size": [
+      815,
+      129
+    ],
+    "source": "source-black.png",
+    "source_y": [
+      50,
+      270
+    ],
+    "method": "generated black ink converted to white alpha; no glyph redrawing",
+    "source_textbook_page": 91
+  },
+  {
+    "id": "ammonia",
+    "size": [
+      1179,
+      122
+    ],
+    "source": "source-black.png",
+    "source_y": [
+      290,
+      490
+    ],
+    "method": "generated black ink converted to white alpha; no glyph redrawing",
+    "source_textbook_page": 91
+  },
+  {
+    "id": "condense",
+    "size": [
+      769,
+      121
+    ],
+    "source": "source-black.png",
+    "source_y": [
+      530,
+      720
+    ],
+    "method": "generated black ink converted to white alpha; no glyph redrawing",
+    "source_textbook_page": 91
+  },
+  {
+    "id": "no",
+    "size": [
+      1197,
+      120
+    ],
+    "source": "source-black.png",
+    "source_y": [
+      770,
+      950
+    ],
+    "method": "generated black ink converted to white alpha; no glyph redrawing",
+    "source_textbook_page": 91
+  }
+]

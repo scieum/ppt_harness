@@ -1,0 +1,11 @@
+{"schema":"openai.presentation.layout/v5","unit":"px","slide":{"id":"sl/7qi8ki","index":3,"layout":{"id":"ly/3upgn6do","name":"Blank"},"backgroundColor":"rgba(255,255,255,1)","position":{"left":0,"top":0,"width":1920,"height":1080}},
+"elements":[
+{"id":"im/kfqxoni5","kind":"image","position":{"left":1778.67,"top":40,"width":108,"height":77.33},"fit":"contain","alt":"sci_eum_logo"},
+{"id":"sh/ehcr6hg7","kind":"textbox","name":"copyright","position":{"left":1535,"top":1035.73,"width":342,"height":30},"text":"© 2026. @sci_eum. All rights reserved.","style":{"fontSize":17,"typeface":"Pretendard","color":"#111111","alignment":"right"},"geometry":"rect","lineWidth":0},
+{"id":"sh/zilszmhs","kind":"textbox","name":"part_heading","position":{"left":72,"top":75.15,"width":1500,"height":52},"text":"Part 0 동기 유발","style":{"fontSize":38,"typeface":"Pretendard","color":"#909090","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/cfu947ih","kind":"textbox","name":"topic_number","position":{"left":72,"top":133.34,"width":73,"height":67},"text":"01","style":{"fontSize":48.8,"typeface":"Pretendard","color":"#57962F","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/dg3axcz2","kind":"textbox","name":"topic_heading","position":{"left":157,"top":133.34,"width":1500,"height":67},"text":"손난로와 열","style":{"fontSize":48.8,"typeface":"Pretendard","color":"#111111","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/qdcr2x0b","kind":"textbox","name":"title","position":{"left":192,"top":289.15,"width":1536,"height":115},"text":"흔들기만 했는데도 따뜻해지는 손난로!?","style":{"fontSize":78,"typeface":"Pretendard","color":"#111111","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/relsv2hw","kind":"textbox","name":"observation_explanation","position":{"left":72,"top":422.27,"width":1776,"height":65},"text":"포장을 뜯고 흔든 손난로가 따뜻해진다. 손난로 안에서는 어떤 변화가 일어날까?","style":{"fontSize":36.4,"typeface":"Pretendard","color":"#888888","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"im/h8jepszy","kind":"image","position":{"left":600,"top":495,"width":720,"height":542.5},"fit":"contain","alt":"body_cutout"}
+]}

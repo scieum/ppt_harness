@@ -1,0 +1,978 @@
+{
+  "keycolor": "#9FFF68",
+  "font": "Pretendard v1.3.9 official",
+  "slides": [
+    {
+      "number": 1,
+      "kind": "cover",
+      "title": "엔탈피와 열화학 반응식",
+      "nodes": [
+        {
+          "type": "image",
+          "role": "classroom_scene",
+          "bbox": [
+            0,
+            0,
+            1920,
+            1080
+          ],
+          "asset_sha256": "1f5b28a310b3c0412441897ed724e1d1dd35ced7483ad63b9008b48585d724df",
+          "source": "/private/tmp/scieum-unit3-five/assets/classroom-handwarmers-uniform.png",
+          "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-01_엔탈피와열화학반응식/assets/v10-cover-classroom_scene.png"
+        },
+        {
+          "type": "gradient",
+          "role": "reference_green_fade",
+          "bbox": [
+            0,
+            0,
+            1920,
+            1080
+          ],
+          "color": "#0C7D08",
+          "stops": [
+            [
+              0,
+              1
+            ],
+            [
+              0.22,
+              1
+            ],
+            [
+              0.58,
+              0
+            ],
+            [
+              1,
+              0
+            ]
+          ]
+        },
+        {
+          "type": "image",
+          "role": "sci_eum_logo",
+          "bbox": [
+            1778.6666666666667,
+            40.0,
+            108.0,
+            77.33333333333333
+          ],
+          "asset_sha256": "9d044366936fcad9204ba43766e76b0b6408fb314be39dc252ce631a611fe9db",
+          "source": {
+            "kind": "contents",
+            "role": "sci_eum_logo"
+          },
+          "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-01_엔탈피와열화학반응식/assets/v10-cover-sci_eum_logo.png"
+        },
+        {
+          "type": "text",
+          "role": "copyright",
+          "text": "© 2026. @sci_eum. All rights reserved.",
+          "bbox": [
+            1535,
+            1037,
+            342,
+            30
+          ],
+          "font": "Pretendard",
+          "fontSize": 17,
+          "weight": "Medium",
+          "color": "#111111",
+          "align": "right",
+          "lineHeight": 21.25
+        },
+        {
+          "type": "image",
+          "role": "author",
+          "bbox": [
+            138.66666666666666,
+            546.6666666666667,
+            152.0,
+            64.0
+          ],
+          "asset_sha256": "68a5892b1f46c496235ad02394f3eda262ff908f49af911da2190f0240934f78",
+          "source": {
+            "kind": "cover",
+            "role": "author"
+          },
+          "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-01_엔탈피와열화학반응식/assets/v10-cover-author.png"
+        },
+        {
+          "type": "image",
+          "role": "tsherpa_logo",
+          "bbox": [
+            1601.3333333333335,
+            42.666666666666664,
+            154.66666666666669,
+            66.66666666666666
+          ],
+          "asset_sha256": "6bcec9b3796baa93f0d93eb209898fb67319a54a8e27815f1f5c1fb68cc5a034",
+          "source": {
+            "kind": "cover",
+            "role": "tsherpa_logo"
+          },
+          "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-01_엔탈피와열화학반응식/assets/v10-cover-tsherpa_logo.png"
+        },
+        {
+          "type": "text",
+          "role": "title",
+          "text": "Ⅲ. 화학 변화의 자발성\n01. 엔탈피와 열화학 반응식",
+          "bbox": [
+            138.7,
+            269.3,
+            1465.3,
+            308
+          ],
+          "font": "Pretendard",
+          "fontSize": 90,
+          "weight": "Bold",
+          "color": "#FFFFFF",
+          "align": "left",
+          "lineHeight": 105
+        },
+        {
+          "type": "text",
+          "role": "ai_notice",
+          "text": "본 수업 자료에 사용된 일부 이미지는 생성형 AI 기술을 활용하여 제작되었습니다.",
+          "bbox": [
+            37.3,
+            1036,
+            1130,
+            30
+          ],
+          "font": "Pretendard",
+          "fontSize": 17,
+          "weight": "Regular",
+          "color": "#FFFFFF",
+          "align": "left",
+          "lineHeight": 21.25
+        }
+      ],
+      "notes": "천재교육 물질과 에너지 p.74. 네 캐릭터와 손난로 장면은 설명용 생성 삽화. 단원명과 오늘의 주제를 소개한다.",
+      "source_recipe": {
+        "template": "latest user cover image + approved cover title left / scene right; exact measured T-sherpa bbox retained",
+        "user_overrides": [
+          "white background",
+          "lime #9FFF68",
+          "classroom handwarmers",
+          "official uniforms",
+          "no goggles"
+        ]
+      },
+      "artifact_sha256": "c8b41d037c5979e90707b97910d4e004f329ffe0c00782d7829cbf8c4ecfbc7d"
+    },
+    {
+      "number": 2,
+      "kind": "contents",
+      "title": "수업 목차",
+      "nodes": [
+        {
+          "type": "image",
+          "role": "part_blocks",
+          "bbox": [
+            208.0,
+            441.33333333333337,
+            1366.6666666666667,
+            398.6666666666667
+          ],
+          "asset_sha256": "39490b4089c03157073799d5d01905af16c8f9e7984538bc9475d9501c71d603",
+          "source": {
+            "kind": "contents",
+            "role": "part_blocks"
+          },
+          "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-01_엔탈피와열화학반응식/assets/v10-contents-part_blocks.png"
+        },
+        {
+          "type": "image",
+          "role": "original_object_04",
+          "bbox": [
+            453.3333333333333,
+            504.0,
+            254.66666666666666,
+            208.0
+          ],
+          "asset_sha256": "c955955e47ac00fd3e8ff3b09b2c06ac19664368dd549214891d62878fcb0fb0",
+          "source": {
+            "kind": "contents",
+            "role": "original_object_04"
+          },
+          "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-01_엔탈피와열화학반응식/assets/v10-contents-original_object_04.png"
+        },
+        {
+          "type": "image",
+          "role": "original_object_05",
+          "bbox": [
+            840.0,
+            504.0,
+            254.66666666666666,
+            208.0
+          ],
+          "asset_sha256": "c955955e47ac00fd3e8ff3b09b2c06ac19664368dd549214891d62878fcb0fb0",
+          "source": {
+            "kind": "contents",
+            "role": "original_object_05"
+          },
+          "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-01_엔탈피와열화학반응식/assets/v10-contents-original_object_05.png"
+        },
+        {
+          "type": "image",
+          "role": "original_object_06",
+          "bbox": [
+            1228.0,
+            502.6666666666667,
+            254.66666666666666,
+            226.66666666666666
+          ],
+          "asset_sha256": "97440485af8e17a61974e1d842aa68f1f5b6d579a4dc9a1fd25143057a299e73",
+          "source": {
+            "kind": "contents",
+            "role": "original_object_06"
+          },
+          "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-01_엔탈피와열화학반응식/assets/v10-contents-original_object_06.png"
+        },
+        {
+          "type": "image",
+          "role": "original_object_13",
+          "bbox": [
+            1557.3333333333333,
+            441.33333333333337,
+            37.333333333333336,
+            166.66666666666666
+          ],
+          "asset_sha256": "0624af2ed83c17683f097c7fa2f71838faac28b326266c40974b20f003305d05",
+          "source": {
+            "kind": "contents",
+            "role": "original_object_13"
+          },
+          "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-01_엔탈피와열화학반응식/assets/v10-contents-original_object_13.png"
+        },
+        {
+          "type": "image",
+          "role": "original_object_14",
+          "bbox": [
+            1537.3333333333335,
+            454.6666666666667,
+            42.66666666666667,
+            94.66666666666667
+          ],
+          "asset_sha256": "f640fa72736a7598956bb7184ca0d9267aae13fb54013ebff9be87e43fdabfbc",
+          "source": {
+            "kind": "contents",
+            "role": "original_object_14"
+          },
+          "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-01_엔탈피와열화학반응식/assets/v10-contents-original_object_14.png"
+        },
+        {
+          "type": "image",
+          "role": "original_object_15",
+          "bbox": [
+            1537.3333333333335,
+            745.3333333333333,
+            42.66666666666667,
+            94.66666666666667
+          ],
+          "asset_sha256": "f640fa72736a7598956bb7184ca0d9267aae13fb54013ebff9be87e43fdabfbc",
+          "source": {
+            "kind": "contents",
+            "role": "original_object_15"
+          },
+          "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-01_엔탈피와열화학반응식/assets/v10-contents-original_object_15.png"
+        },
+        {
+          "type": "image",
+          "role": "original_object_16",
+          "bbox": [
+            1552.0,
+            700.0,
+            42.66666666666667,
+            94.66666666666667
+          ],
+          "asset_sha256": "f640fa72736a7598956bb7184ca0d9267aae13fb54013ebff9be87e43fdabfbc",
+          "source": {
+            "kind": "contents",
+            "role": "original_object_16"
+          },
+          "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-01_엔탈피와열화학반응식/assets/v10-contents-original_object_16.png"
+        },
+        {
+          "type": "image",
+          "role": "sci_eum_logo",
+          "bbox": [
+            1778.6666666666667,
+            40.0,
+            108.0,
+            77.33333333333333
+          ],
+          "asset_sha256": "9d044366936fcad9204ba43766e76b0b6408fb314be39dc252ce631a611fe9db",
+          "source": {
+            "kind": "contents",
+            "role": "sci_eum_logo"
+          },
+          "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-01_엔탈피와열화학반응식/assets/v10-contents-sci_eum_logo.png"
+        },
+        {
+          "type": "text",
+          "role": "copyright",
+          "text": "© 2026. @sci_eum. All rights reserved.",
+          "bbox": [
+            1535,
+            1037,
+            342,
+            30
+          ],
+          "font": "Pretendard",
+          "fontSize": 17,
+          "weight": "Medium",
+          "color": "#111111",
+          "align": "right",
+          "lineHeight": 21.25
+        },
+        {
+          "type": "text",
+          "role": "title",
+          "text": "이번 단원의 목차",
+          "bbox": [
+            326.7,
+            277,
+            1268,
+            127
+          ],
+          "font": "Pretendard",
+          "fontSize": 94,
+          "weight": "Bold",
+          "color": "#111111",
+          "align": "center",
+          "lineHeight": 117.5
+        },
+        {
+          "type": "text",
+          "role": "part_1",
+          "text": "Part 1",
+          "bbox": [
+            473.3,
+            543,
+            280,
+            44
+          ],
+          "font": "Pretendard",
+          "fontSize": 36,
+          "weight": "Bold",
+          "color": "#9FFF68",
+          "align": "left",
+          "lineHeight": 45.0
+        },
+        {
+          "type": "text",
+          "role": "part_title_1",
+          "text": "엔탈피와\n열화학 반응식",
+          "bbox": [
+            484.0,
+            598,
+            295,
+            110
+          ],
+          "font": "Pretendard",
+          "fontSize": 38,
+          "weight": "Regular",
+          "color": "#FFFFFF",
+          "align": "left",
+          "lineHeight": 49
+        },
+        {
+          "type": "text",
+          "role": "part_2",
+          "text": "Part 2",
+          "bbox": [
+            857.3,
+            543,
+            280,
+            44
+          ],
+          "font": "Pretendard",
+          "fontSize": 36,
+          "weight": "Bold",
+          "color": "#9FFF68",
+          "align": "left",
+          "lineHeight": 45.0
+        },
+        {
+          "type": "text",
+          "role": "part_title_2",
+          "text": "연료의\n효율성",
+          "bbox": [
+            868.0,
+            598,
+            295,
+            110
+          ],
+          "font": "Pretendard",
+          "fontSize": 38,
+          "weight": "Regular",
+          "color": "#FFFFFF",
+          "align": "left",
+          "lineHeight": 49
+        },
+        {
+          "type": "text",
+          "role": "part_3",
+          "text": "Part 3",
+          "bbox": [
+            1242.7,
+            543,
+            280,
+            44
+          ],
+          "font": "Pretendard",
+          "fontSize": 36,
+          "weight": "Bold",
+          "color": "#9FFF68",
+          "align": "left",
+          "lineHeight": 45.0
+        },
+        {
+          "type": "text",
+          "role": "part_title_3",
+          "text": "결합 에너지와\n반응 엔탈피",
+          "bbox": [
+            1253.4,
+            598,
+            295,
+            110
+          ],
+          "font": "Pretendard",
+          "fontSize": 38,
+          "weight": "Regular",
+          "color": "#FFFFFF",
+          "align": "left",
+          "lineHeight": 49
+        }
+      ],
+      "notes": "천재교육 물질과 에너지 pp.74–81. Part 1 엔탈피와 열화학 반응식, Part 2 연료의 효율성, Part 3 결합 에너지와 반응 엔탈피 순서로 전개한다.",
+      "source_recipe": {
+        "template": "approved Huddling original chevron geometry copied as original separated assets; only course labels/keycolor substituted"
+      },
+      "artifact_sha256": "a48bd0ca20f71b1320462b881bf38c8700cbb529bf75097357b25fb813ea0939"
+    },
+    {
+      "number": 3,
+      "kind": "objectives",
+      "title": "수업 목표",
+      "nodes": [
+        {
+          "type": "image",
+          "role": "objectives_box",
+          "bbox": [
+            154.66666666666669,
+            424.0,
+            1610.6666666666667,
+            386.66666666666663
+          ],
+          "asset_sha256": "973bf9505960fa8a068c386b62203263280d4bf739cfd66b7a990da5f952348c",
+          "source": {
+            "kind": "objectives",
+            "role": "objectives_box"
+          },
+          "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-01_엔탈피와열화학반응식/assets/v10-objectives-objectives_box.png"
+        },
+        {
+          "type": "image",
+          "role": "guide_character",
+          "bbox": [
+            1670.6666666666667,
+            564.0,
+            217.33333333333334,
+            460.0
+          ],
+          "asset_sha256": "9ee77dfd2a1eb3506422852cdbeca335e29aa65c5cd17a5663c37cc522e164d0",
+          "source": {
+            "kind": "objectives",
+            "role": "guide_character"
+          },
+          "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-01_엔탈피와열화학반응식/assets/v10-objectives-guide_character.png"
+        },
+        {
+          "type": "image",
+          "role": "sci_eum_logo",
+          "bbox": [
+            1778.6666666666667,
+            40.0,
+            108.0,
+            77.33333333333333
+          ],
+          "asset_sha256": "9d044366936fcad9204ba43766e76b0b6408fb314be39dc252ce631a611fe9db",
+          "source": {
+            "kind": "contents",
+            "role": "sci_eum_logo"
+          },
+          "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-01_엔탈피와열화학반응식/assets/v10-objectives-sci_eum_logo.png"
+        },
+        {
+          "type": "text",
+          "role": "copyright",
+          "text": "© 2026. @sci_eum. All rights reserved.",
+          "bbox": [
+            1535,
+            1037,
+            342,
+            30
+          ],
+          "font": "Pretendard",
+          "fontSize": 17,
+          "weight": "Medium",
+          "color": "#111111",
+          "align": "right",
+          "lineHeight": 21.25
+        },
+        {
+          "type": "text",
+          "role": "title",
+          "text": "이번 단원의 학습 목표",
+          "bbox": [
+            326.7,
+            190,
+            1268,
+            127
+          ],
+          "font": "Pretendard",
+          "fontSize": 94,
+          "weight": "Bold",
+          "color": "#111111",
+          "align": "center",
+          "lineHeight": 117.5
+        },
+        {
+          "type": "rect",
+          "role": "number_circle_1",
+          "bbox": [
+            258.6666666666667,
+            484.33333333333337,
+            56,
+            56
+          ],
+          "fill": "#000000",
+          "radius": 28
+        },
+        {
+          "type": "text",
+          "role": "number_1",
+          "text": "1",
+          "bbox": [
+            258.6666666666667,
+            486.33333333333337,
+            56,
+            56
+          ],
+          "font": "Pretendard",
+          "fontSize": 43,
+          "weight": "Medium",
+          "color": "#FFFFFF",
+          "align": "center",
+          "lineHeight": 53.75
+        },
+        {
+          "type": "text",
+          "role": "objective_1",
+          "text": "엔탈피의 의미를 알고, 열화학 반응식을 표현할 수 있다.",
+          "bbox": [
+            337.33333333333337,
+            486.33333333333337,
+            1320,
+            64
+          ],
+          "font": "Pretendard",
+          "fontSize": 42,
+          "weight": "Medium",
+          "color": "#4A4A4A",
+          "align": "left",
+          "lineHeight": 52.5
+        },
+        {
+          "type": "rect",
+          "role": "number_circle_2",
+          "bbox": [
+            258.6666666666667,
+            589.3333333333334,
+            56,
+            56
+          ],
+          "fill": "#000000",
+          "radius": 28
+        },
+        {
+          "type": "text",
+          "role": "number_2",
+          "text": "2",
+          "bbox": [
+            258.6666666666667,
+            591.3333333333334,
+            56,
+            56
+          ],
+          "font": "Pretendard",
+          "fontSize": 43,
+          "weight": "Medium",
+          "color": "#FFFFFF",
+          "align": "center",
+          "lineHeight": 53.75
+        },
+        {
+          "type": "text",
+          "role": "objective_2",
+          "text": "단위 질량당 방출열로 연료의 효율성을 비교할 수 있다.",
+          "bbox": [
+            337.33333333333337,
+            591.3333333333334,
+            1320,
+            64
+          ],
+          "font": "Pretendard",
+          "fontSize": 42,
+          "weight": "Medium",
+          "color": "#4A4A4A",
+          "align": "left",
+          "lineHeight": 52.5
+        },
+        {
+          "type": "rect",
+          "role": "number_circle_3",
+          "bbox": [
+            258.6666666666667,
+            694.3333333333334,
+            56,
+            56
+          ],
+          "fill": "#000000",
+          "radius": 28
+        },
+        {
+          "type": "text",
+          "role": "number_3",
+          "text": "3",
+          "bbox": [
+            258.6666666666667,
+            696.3333333333334,
+            56,
+            56
+          ],
+          "font": "Pretendard",
+          "fontSize": 43,
+          "weight": "Medium",
+          "color": "#FFFFFF",
+          "align": "center",
+          "lineHeight": 53.75
+        },
+        {
+          "type": "text",
+          "role": "objective_3",
+          "text": "결합 에너지와 반응 엔탈피의 관계를 설명할 수 있다.",
+          "bbox": [
+            337.33333333333337,
+            696.3333333333334,
+            892.6640625,
+            64
+          ],
+          "font": "Pretendard",
+          "fontSize": 42,
+          "weight": "Medium",
+          "color": "#4A4A4A",
+          "align": "left",
+          "lineHeight": 52.5
+        }
+      ],
+      "notes": "천재교육 물질과 에너지 p.74의 세 학습 목표. 지도서 PDF pp.106–110과 대조. 안내 인물은 원본 목표 장표의 기존 자산으로 유지.",
+      "source_recipe": {
+        "template": "approved original objectives title/gray box/guide exact positions; 3 objectives replace source 2 items within same original box; no extra box"
+      },
+      "artifact_sha256": "4e3079237f306c59eaf6009db00f44737e553a34e7f6ba1f6ff102af3a5a2904"
+    },
+    {
+      "number": 4,
+      "kind": "part",
+      "title": "Part 1 엔탈피와 열화학 반응식",
+      "nodes": [
+        {
+          "type": "image",
+          "role": "dimmed_classroom_scene",
+          "bbox": [
+            0,
+            0,
+            1920,
+            1080
+          ],
+          "asset_sha256": "e6d934a5fe80dd067cbcd70d88de6bccfa7a667799cbacb7b5c692b743958ad7",
+          "source": "/private/tmp/scieum-unit3-five/assets/classroom-part-dimmed.png",
+          "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-01_엔탈피와열화학반응식/assets/v10-part-dimmed_classroom_scene.png"
+        },
+        {
+          "type": "gradient",
+          "role": "reference_green_fade",
+          "bbox": [
+            0,
+            0,
+            1920,
+            1080
+          ],
+          "color": "#063D04",
+          "stops": [
+            [
+              0,
+              1
+            ],
+            [
+              0.22,
+              1
+            ],
+            [
+              0.58,
+              0
+            ],
+            [
+              1,
+              0
+            ]
+          ]
+        },
+        {
+          "type": "image",
+          "role": "sci_eum_logo",
+          "bbox": [
+            1776.0,
+            34.66666666666667,
+            113.33333333333333,
+            70.66666666666667
+          ],
+          "asset_sha256": "fc398dfbb173e3b6db1208124678df140c5bf7a8b80f8972a6b6bfef807b7c04",
+          "source": {
+            "kind": "part",
+            "role": "sci_eum_logo"
+          },
+          "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-01_엔탈피와열화학반응식/assets/v10-part-sci_eum_logo.png"
+        },
+        {
+          "type": "text",
+          "role": "copyright",
+          "text": "© 2026. @sci_eum. All rights reserved.",
+          "bbox": [
+            1535,
+            1037,
+            342,
+            30
+          ],
+          "font": "Pretendard",
+          "fontSize": 17,
+          "weight": "Medium",
+          "color": "#FFFFFF",
+          "align": "right",
+          "lineHeight": 21.25
+        },
+        {
+          "type": "text",
+          "role": "part_label",
+          "text": "Part 1",
+          "bbox": [
+            118.7,
+            322,
+            330,
+            99
+          ],
+          "font": "Pretendard",
+          "fontSize": 68,
+          "weight": "Bold",
+          "color": "#9FFF68",
+          "align": "left",
+          "lineHeight": 85.0
+        },
+        {
+          "type": "text",
+          "role": "title",
+          "text": "엔탈피와 열화학 반응식",
+          "bbox": [
+            118.7,
+            427,
+            1400,
+            157.3
+          ],
+          "font": "Pretendard",
+          "fontSize": 94,
+          "weight": "Bold",
+          "color": "#FFFFFF",
+          "align": "left",
+          "lineHeight": 117.5
+        },
+        {
+          "type": "text",
+          "role": "theory_curiosity",
+          "text": "같은 반응도 물질의 양이나 상태가 달라지면 출입하는 열이 달라질까?",
+          "bbox": [
+            118.7,
+            580,
+            1400,
+            62
+          ],
+          "font": "Pretendard",
+          "fontSize": 38,
+          "weight": "Regular",
+          "color": "#FFFFFF",
+          "align": "left",
+          "lineHeight": 47.5
+        }
+      ],
+      "notes": "천재교육 물질과 에너지 p.74. 물질의 양과 상태에 따른 반응 엔탈피 차이를 궁금증 유발 한 줄로 제시한다. 근거: 천재교육 물질과 에너지 p.76의 상태 및 반응 계수 유의점. 개념·수식의 나열은 피한다. 배경에는 원본 Part와 같은 51% 검정 덮개를 적용하며 제목과 로고는 불투명하게 유지.",
+      "source_recipe": {
+        "template": "approved Part label/title left anchors; theoretical definition replaces question by latest user instruction; 51% source overlay encoded into image bytes to avoid Figma import opacity loss",
+        "source_opacity": 0.51
+      },
+      "artifact_sha256": "6055eac98a9d808fbce08ab212a14f80d152d4240231b95a648b39752e9bd585"
+    },
+    {
+      "number": 5,
+      "kind": "hook",
+      "title": "손난로는 왜 따뜻해질까?",
+      "nodes": [
+        {
+          "type": "image",
+          "role": "sci_eum_logo",
+          "bbox": [
+            1778.6666666666667,
+            40.0,
+            108.0,
+            77.33333333333333
+          ],
+          "asset_sha256": "9d044366936fcad9204ba43766e76b0b6408fb314be39dc252ce631a611fe9db",
+          "source": {
+            "kind": "contents",
+            "role": "sci_eum_logo"
+          },
+          "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-01_엔탈피와열화학반응식/assets/v10-hook-sci_eum_logo.png"
+        },
+        {
+          "type": "text",
+          "role": "copyright",
+          "text": "© 2026. @sci_eum. All rights reserved.",
+          "bbox": [
+            1535,
+            1037,
+            342,
+            30
+          ],
+          "font": "Pretendard",
+          "fontSize": 17,
+          "weight": "Medium",
+          "color": "#111111",
+          "align": "right",
+          "lineHeight": 21.25
+        },
+        {
+          "type": "text",
+          "role": "part_heading",
+          "text": "Part 0 동기 유발",
+          "bbox": [
+            72,
+            78,
+            1200,
+            64
+          ],
+          "font": "Pretendard",
+          "fontSize": 43,
+          "weight": "Bold",
+          "color": "#909090",
+          "align": "left",
+          "lineHeight": 53.75
+        },
+        {
+          "type": "text",
+          "role": "topic_number",
+          "text": "01",
+          "bbox": [
+            72,
+            144,
+            90,
+            66
+          ],
+          "font": "Pretendard",
+          "fontSize": 50,
+          "weight": "Bold",
+          "color": "#57962F",
+          "align": "left",
+          "lineHeight": 62.5
+        },
+        {
+          "type": "text",
+          "role": "topic_heading",
+          "text": "손난로와 열",
+          "bbox": [
+            162,
+            144,
+            600,
+            66
+          ],
+          "font": "Pretendard",
+          "fontSize": 50,
+          "weight": "Bold",
+          "color": "#111111",
+          "align": "left",
+          "lineHeight": 62.5
+        },
+        {
+          "type": "text",
+          "role": "title",
+          "text": "흔들기만 했는데도 따뜻해지는 손난로!?",
+          "bbox": [
+            192,
+            295,
+            1536,
+            115
+          ],
+          "font": "Pretendard",
+          "fontSize": 78,
+          "weight": "Bold",
+          "color": "#111111",
+          "align": "center",
+          "lineHeight": 97.5
+        },
+        {
+          "type": "text",
+          "role": "observation_explanation",
+          "text": "포장을 뜯고 흔든 손난로가 따뜻해진다. 손난로 안에서는 어떤 변화가 일어날까?",
+          "bbox": [
+            200,
+            425,
+            1520,
+            64
+          ],
+          "font": "Pretendard",
+          "fontSize": 32,
+          "weight": "Medium",
+          "color": "#888888",
+          "align": "center",
+          "lineHeight": 40.0
+        },
+        {
+          "type": "image",
+          "role": "body_cutout",
+          "bbox": [
+            600,
+            495,
+            720,
+            542.5
+          ],
+          "asset_sha256": "da02e7d0d961e20ec65ca9d2bb9af58f7363dbbb0166102c6bea8361490d9fe1",
+          "source": "/Users/keemhayeon/.codex/generated_images/01a15411-6e4e-7c01-83bf-4a8858ec1ca0/exec-bf897882-2f4a-4776-88ed-00d3b5b23b24.png",
+          "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-01_엔탈피와열화학반응식/assets/v10-hook-body_cutout.png"
+        }
+      ],
+      "notes": "주 근거: 천재교육 물질과 에너지 p.74 손난로 도입. 비교: 화학Ⅱ 교과서 PDF p.73(인쇄 p.75). 지도서의 발열/흡열 비교 지도 및 문항(물질과 에너지 PDF pp.106–108, 181; 화학Ⅱ PDF p.114)을 고려해 관찰과 예상만 묻는다. 철 산화 및 발열 반응 정답은 이 화면에서 제시하지 않고 본문에서 설명한다.",
+      "source_recipe": {
+        "template": "approved central question hook; user corrected body style: ONE registered-style transparent cutout; no classroom background or reused cover scene",
+        "science_evidence": [
+          "물질과 에너지 p.74",
+          "화학Ⅱ PDF p.73 / 인쇄 p.75",
+          "물질과 에너지 지도서 PDF pp.106–108,181",
+          "화학Ⅱ 지도서 PDF p.114"
+        ]
+      },
+      "artifact_sha256": "8edc3fc06aca20787c95a9659a8b910f0cddb0c263f8fd4e0d6dc0613256c104"
+    }
+  ]
+}

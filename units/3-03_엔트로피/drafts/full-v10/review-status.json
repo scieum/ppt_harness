@@ -1,0 +1,16 @@
+{
+  "version": "full-v10",
+  "date": "2026-10-30",
+  "slide_count": 18,
+  "scope": "천재 PDF·인쇄90~91",
+  "parts": 3,
+  "user_design_approved": false,
+  "pptx": "output/3-03_엔트로피_전체18장_v10.pptx",
+  "preview": "preview.html",
+  "script": "대본.md",
+  "technical_receipt": "build/validation-v10.json",
+  "preservation": "build/preservation-check.json",
+  "render_method": "build/render-single.mjs 한 장만 구성해 독립 렌더; 목차는 공식 로고를 마지막에 배치",
+  "final_sha256": "f8bce0ec9d789135517dcea84972aaddf027acdc1916f3c2c324ea7ea6f3d02a",
+  "subsequent_user_feedback": "글씨체·위치·초록색 불일치, 내용 부족. 2페이지 남녀학생2인 교체 요청"
+}

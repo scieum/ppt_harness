@@ -1,0 +1,19 @@
+{
+  "native_enthalpy_H_checked": 20,
+  "native_state_runs_checked": 20,
+  "chemical_parentheses_upright": true,
+  "answer_reveals": {
+    "21": [
+      "answer-1",
+      "answer-2"
+    ],
+    "29": [
+      "answer-1",
+      "answer-2"
+    ],
+    "39": [
+      "answer-1"
+    ]
+  },
+  "animation_validation": "OOXML structure checked; native PowerPoint playback not tested"
+}

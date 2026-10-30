@@ -1,0 +1,17 @@
+{"schema":"openai.presentation.layout/v5","unit":"px","slide":{"id":"sl/jxgj0d","index":1,"layout":{"id":"ly/id4fy5wj","name":"Blank"},"backgroundColor":"rgba(255,255,255,1)","position":{"left":0,"top":0,"width":1920,"height":1080}},
+"elements":[
+{"id":"im/it0jm9gn","kind":"image","position":{"left":1778.67,"top":40,"width":108,"height":77.33},"fit":"contain","alt":"사이음 공식 로고"},
+{"id":"sh/kfa10fa5","kind":"textbox","name":"copyright","position":{"left":1440,"top":1034,"width":440,"height":30},"text":"© 2026. @sci_eum. All rights reserved.","style":{"fontSize":21,"typeface":"Pretendard","color":"#000000","alignment":"right"},"geometry":"rect","lineWidth":0},
+{"id":"sh/lg32tkrq","kind":"textbox","name":"text","position":{"left":72,"top":76,"width":1530,"height":54},"text":"Part 0 동기 유발","style":{"fontSize":38,"typeface":"Pretendard","color":"#898989","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/a9sju5s3","kind":"textbox","name":"text","position":{"left":72,"top":134,"width":70,"height":64},"text":"01","style":{"fontSize":48.8,"typeface":"Pretendard","color":"#57962F","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/ba1kna9o","kind":"textbox","name":"text","position":{"left":146,"top":134,"width":1550,"height":64},"text":"방향제와 확산","style":{"fontSize":48.8,"typeface":"Pretendard","color":"#000000","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/cba1wfa9","kind":"textbox","name":"핵심 문장","position":{"left":100,"top":270,"width":1720,"height":112},"text":"향기는 왜 방 안에 퍼질까?","style":{"fontSize":76.4,"typeface":"Pretendard","color":"#000000","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/xcj2pkre","kind":"textbox","name":"관찰 질문","position":{"left":150,"top":390,"width":1620,"height":70},"text":"옷장에 넣어 둔 고체 방향제는 시간이 지나면 어떻게 될까?","style":{"fontSize":36.4,"typeface":"Pretendard","color":"#898989","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"im/72p0nuh0","kind":"image","position":{"left":220,"top":493,"width":228,"height":484},"fit":"contain","alt":"등록 원본 안내 인물"},
+{"id":"sh/v6lkze9s","kind":"shape","name":"말풍선","position":{"left":515,"top":515,"width":1130,"height":435},"geometry":"roundRect","fillColor":"#F5F5F5","lineWidth":0},
+{"id":"sh/nmxsr25c","kind":"shape","name":"말풍선 꼬리","position":{"left":447,"top":652,"width":80,"height":70},"geometry":"custom","fillColor":"#F5F5F5","lineWidth":0},
+{"id":"im/lsnmxsfu","kind":"image","position":{"left":566,"top":557,"width":338,"height":338},"fit":"contain","alt":"교과서90 방향제 사진 원본"},
+{"id":"sh/9ozatcni","kind":"textbox","name":"text","position":{"left":965,"top":623,"width":620,"height":64},"text":"퍼져 나간 방향제 입자가","style":{"fontSize":44,"typeface":"Pretendard","color":"#000000","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/8n69k76x","kind":"textbox","name":"text","position":{"left":965,"top":690,"width":620,"height":64},"text":"저절로 다시 한곳에","style":{"fontSize":44,"typeface":"Pretendard","color":"#000000","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/vahsvm58","kind":"textbox","name":"text","position":{"left":965,"top":757,"width":620,"height":64},"text":"모일 수 있을까?","style":{"fontSize":44,"typeface":"Pretendard","color":"#57962F","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0}
+]}

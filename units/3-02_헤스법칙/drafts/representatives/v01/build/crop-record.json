@@ -1,0 +1,44 @@
+[
+  {
+    "id": "W118-paths",
+    "source": "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/inbox/textbook/etc/통합_(22개정)완자 고등물질과에너지_본문_260415(교사용).pdf",
+    "pdf_page": 118,
+    "printed_page": 118,
+    "reference_render_scale": 1.2,
+    "crop_bbox": [
+      209,
+      281,
+      419,
+      410
+    ],
+    "render_scale": 4
+  },
+  {
+    "id": "W118-cao",
+    "source": "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/inbox/textbook/etc/통합_(22개정)완자 고등물질과에너지_본문_260415(교사용).pdf",
+    "pdf_page": 118,
+    "printed_page": 118,
+    "reference_render_scale": 1.2,
+    "crop_bbox": [
+      235,
+      608,
+      611,
+      821
+    ],
+    "render_scale": 4
+  },
+  {
+    "id": "W119-co-graph",
+    "source": "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/inbox/textbook/etc/통합_(22개정)완자 고등물질과에너지_본문_260415(교사용).pdf",
+    "pdf_page": 119,
+    "printed_page": 119,
+    "reference_render_scale": 1.2,
+    "crop_bbox": [
+      235,
+      388,
+      468,
+      513
+    ],
+    "render_scale": 4
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "scientist_clausius",
+    "name_ko": "루돌프 클라우지우스",
+    "role": "엔트로피 개념 도입",
+    "file": "assets/scientists/clausius-v02.png",
+    "sha256": "1bdaff0667c96dff752326469a2d04a95743f7cc9db8d6711212c87dd535eef7",
+    "kind": "generated",
+    "status": "v02_user_requested_outfit_pose_prop_variation",
+    "reference_role": "Existing scientist a/b images are style references only. Distinct new historical figure; not a replacement of originals.",
+    "generation_tool": "image_gen",
+    "generation_source": "/Users/keemhayeon/.codex/generated_images/01a17e01-6b16-76b2-bb9f-c7849c800cd5/exec-61e6f00a-7918-4128-9648-fccbe05e60df.png",
+    "size": [
+      1145,
+      1374
+    ],
+    "transparency": [
+      0,
+      255
+    ],
+    "visual_review": "v01 인물 외형 유지; 복장·자세·소품 구분; 전신·손·투명 배경 시각 확인",
+    "outfit_pose_prop": "남색 코트·모래색 조끼·회색 바지 / 의자에 앉음 / 회중시계"
+  },
+  {
+    "id": "scientist_boltzmann",
+    "name_ko": "루트비히 볼츠만",
+    "role": "엔트로피의 통계적 해석",
+    "file": "assets/scientists/boltzmann-v02.png",
+    "sha256": "91f1abcca1dad840b4096e09c182dbd6eeaba52dfca9d607b3b940af001a08df",
+    "kind": "generated",
+    "status": "v02_user_requested_outfit_pose_prop_variation",
+    "reference_role": "Existing scientist a/b images are style references only. Distinct new historical figure; not a replacement of originals.",
+    "generation_tool": "image_gen",
+    "generation_source": "/Users/keemhayeon/.codex/generated_images/01a17e01-6b16-76b2-bb9f-c7849c800cd5/exec-18ac55e6-cdbb-415b-9188-af52c95640e5.png",
+    "size": [
+      1140,
+      1380
+    ],
+    "transparency": [
+      0,
+      255
+    ],
+    "visual_review": "v01 인물 외형 유지; 복장·자세·소품 구분; 전신·손·투명 배경 시각 확인",
+    "outfit_pose_prop": "이끼색 조끼·걷은 소매·황토색 바지 / 서서 한 발 앞으로 / 색 구슬 상자"
+  }
+]

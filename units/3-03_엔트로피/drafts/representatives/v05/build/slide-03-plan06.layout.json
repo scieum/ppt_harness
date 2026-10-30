@@ -1,0 +1,18 @@
+{"schema":"openai.presentation.layout/v5","unit":"px","slide":{"id":"sl/8u0naz","index":2,"layout":{"id":"ly/gv2lsnyt","name":"Blank"},"backgroundColor":"rgba(0,0,0,1)","position":{"left":0,"top":0,"width":1920,"height":1080}},
+"elements":[
+{"id":"im/p8fa9k7y","kind":"image","position":{"left":1778.67,"top":40,"width":108,"height":77.33},"fit":"contain","alt":"사이음 공식 로고"},
+{"id":"sh/z2xs7ytw","kind":"textbox","name":"copyright","position":{"left":1440,"top":1034,"width":440,"height":30},"text":"© 2026. @sci_eum. All rights reserved.","style":{"fontSize":21,"typeface":"Pretendard","color":"#FFFFFF","alignment":"right"},"geometry":"rect","lineWidth":0},
+{"id":"sh/y1orytsb","kind":"textbox","name":"text","position":{"left":72,"top":76,"width":1530,"height":54},"text":"Part 1 엔트로피","style":{"fontSize":38,"typeface":"Pretendard","color":"#898989","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/98zad8by","kind":"textbox","name":"text","position":{"left":72,"top":134,"width":70,"height":64},"text":"01","style":{"fontSize":48.8,"typeface":"Pretendard","color":"#9FFF68","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/87qt43ad","kind":"textbox","name":"text","position":{"left":146,"top":134,"width":1550,"height":64},"text":"엔트로피","style":{"fontSize":48.8,"typeface":"Pretendard","color":"#FFFFFF","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/76hsbyts","kind":"textbox","name":"핵심 문장","position":{"left":100,"top":245,"width":1720,"height":112},"text":"엔트로피","style":{"fontSize":76.4,"typeface":"Pretendard","color":"#9FFF68","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/m58b2ts7","kind":"shape","name":"이어지는 하나의 정의","position":{"left":192,"top":402,"width":1537,"height":148},"geometry":"roundRect","fillColor":"#202420","lineWidth":0},
+{"id":"sh/hcjahsru","kind":"textbox","name":"rich","position":{"left":255,"top":420,"width":1410,"height":112},"text":"엔트로피는 무질서도를 나타내는 척도이며, 기호는 S이다.","style":{"fontSize":48,"typeface":"Pretendard","color":"#FFFFFF","alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/wbat8na9","kind":"textbox","name":"text","position":{"left":255,"top":573,"width":1410,"height":76},"text":"무질서도가 클수록 엔트로피가 크다.","style":{"fontSize":45,"typeface":"Pretendard","color":"#FFFFFF","alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"im/tgzi98rq","kind":"image","position":{"left":280,"top":665,"width":265,"height":318},"fit":"contain","alt":"기존 클라우지우스 캐릭터 — 회중시계"},
+{"id":"sh/b21c7y9c","kind":"textbox","name":"text","position":{"left":570,"top":727,"width":420,"height":65},"text":"클라우지우스","style":{"fontSize":42,"typeface":"Pretendard","color":"#9FFF68","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/c3ad03ax","kind":"textbox","name":"text","position":{"left":570,"top":800,"width":450,"height":62},"text":"엔트로피 개념 도입","style":{"fontSize":34,"typeface":"Pretendard","color":"#FFFFFF","alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"im/6d8zet8z","kind":"image","position":{"left":1020,"top":665,"width":263,"height":318},"fit":"contain","alt":"기존 볼츠만 캐릭터 — 입자 모형"},
+{"id":"sh/y5sv2ds3","kind":"textbox","name":"text","position":{"left":1310,"top":727,"width":430,"height":65},"text":"볼츠만","style":{"fontSize":42,"typeface":"Pretendard","color":"#9FFF68","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/z61cbi9o","kind":"textbox","name":"text","position":{"left":1310,"top":800,"width":465,"height":62},"text":"엔트로피의 통계적 해석","style":{"fontSize":34,"typeface":"Pretendard","color":"#FFFFFF","alignment":"left"},"geometry":"rect","lineWidth":0}
+]}

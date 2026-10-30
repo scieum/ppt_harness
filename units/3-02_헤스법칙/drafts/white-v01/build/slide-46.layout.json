@@ -1,0 +1,15 @@
+{"schema":"openai.presentation.layout/v5","unit":"px","slide":{"id":"sl/4sr97m","index":45,"layout":{"id":"ly/v6l072p8","name":"Blank"},"backgroundColor":"rgba(255,255,255,1)","position":{"left":0,"top":0,"width":1920,"height":1080}},
+"elements":[
+{"id":"sh/hor2t8f6","kind":"textbox","name":"copyright","position":{"left":1440,"top":1038,"width":440,"height":28},"text":"© 2026. @sci_eum. All rights reserved.","style":{"fontSize":17,"typeface":"Pretendard","color":"#202020","alignment":"right"},"geometry":"rect","lineWidth":0},
+{"id":"sh/gnil03el","kind":"textbox","name":"text","position":{"left":90,"top":86,"width":1400,"height":44},"text":"Part 4 실험으로 확인하는 헤스 법칙","style":{"fontSize":28,"typeface":"Pretendard","color":"#898989","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/7ipknyx4","kind":"textbox","name":"text","position":{"left":90,"top":134,"width":70,"height":64},"text":"02","style":{"fontSize":44,"typeface":"Pretendard","color":"#28691C","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/6hgjutwj","kind":"textbox","name":"text","position":{"left":158,"top":134,"width":1550,"height":64},"text":"측정값과 반응 엔탈피","style":{"fontSize":44,"typeface":"Pretendard","color":"#202020","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/tk72p8fa","kind":"textbox","name":"핵심 문장","position":{"left":180,"top":294,"width":1560,"height":96},"text":"실험 온도와 용액의 질량","style":{"fontSize":64,"typeface":"Pretendard","color":"#202020","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"tb/dwr25ora","kind":"table","position":{"left":192,"top":452,"width":1537,"height":420},"text":"반응 단계\t질량 (g)\t처음 (°C)\t나중 (°C)\tΔt (°C)\n용해\t208\t25.0\t34.5\t9.5\n중화\t408\t25.0\t31.1\t6.1\n직접 반응\t408\t25.0\t36.0\t11.0","rows":4,"cols":5},
+{"id":"sh/ju5kjex8","kind":"shape","name":"표 둥근 외곽 마스크","position":{"left":192,"top":452,"width":20,"height":20},"geometry":"custom","fillColor":"#FFFFFF","lineWidth":0},
+{"id":"sh/itwjqtwn","kind":"shape","name":"표 둥근 외곽 마스크","position":{"left":1709,"top":452,"width":20,"height":20},"geometry":"custom","fillColor":"#FFFFFF","lineWidth":0},
+{"id":"sh/8b2lgnqp","kind":"shape","name":"표 둥근 외곽 마스크","position":{"left":1709,"top":852,"width":20,"height":20},"geometry":"custom","fillColor":"#FFFFFF","lineWidth":0},
+{"id":"sh/twbmps7a","kind":"shape","name":"표 둥근 외곽 마스크","position":{"left":192,"top":852,"width":20,"height":20},"geometry":"custom","fillColor":"#FFFFFF","lineWidth":0},
+{"id":"sh/69k3ed8z","kind":"textbox","name":"text","position":{"left":220,"top":395,"width":1480,"height":55},"text":"모든 용액의 비열 4.2 J/(g·°C), 밀도 1.0 g/mL로 가정","style":{"fontSize":30,"typeface":"Pretendard","color":"#686868","alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"im/ona5cnyl","kind":"image","position":{"left":1778.67,"top":40,"width":108,"height":77.33},"fit":"contain","alt":"사이음 흰 배경용 원본 로고"}
+]}

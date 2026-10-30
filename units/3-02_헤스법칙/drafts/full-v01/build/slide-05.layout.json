@@ -1,0 +1,11 @@
+{"schema":"openai.presentation.layout/v5","unit":"px","slide":{"id":"sl/yt03q0","index":4,"layout":{"id":"ly/10v2d8z6","name":"Blank"},"backgroundColor":"rgba(0,0,0,1)","position":{"left":0,"top":0,"width":1920,"height":1080}},
+"elements":[
+{"id":"im/ojadovih","kind":"image","position":{"left":0,"top":0,"width":1920,"height":1080},"fit":"contain","alt":"표지와 같은 네 학생과 산 모형 배경"},
+{"id":"sh/ylkzylcr","kind":"shape","name":"표지와 같은 녹색 그라데이션","position":{"left":0,"top":0,"width":1920,"height":1080},"geometry":"rect","lineWidth":0},
+{"id":"sh/zmdg7qtc","kind":"shape","name":"Part 배경 51% 검정 덮개","position":{"left":0,"top":0,"width":1920,"height":1080},"geometry":"rect","fillColor":"rgba(0,0,0,0.51)","lineWidth":0},
+{"id":"im/d83u10jy","kind":"image","position":{"left":1778.67,"top":40,"width":108,"height":77.33},"fit":"contain","alt":"사이음 화이트 원본 로고"},
+{"id":"sh/9svid0be","kind":"textbox","name":"copyright","position":{"left":1440,"top":1034,"width":440,"height":30},"text":"© 2026. @sci_eum. All rights reserved.","style":{"fontSize":21,"typeface":"Pretendard","color":"#FFFFFF","alignment":"right"},"geometry":"rect","lineWidth":0},
+{"id":"sh/mp4z2lc3","kind":"textbox","name":"text","position":{"left":139,"top":259,"width":1000,"height":112},"text":"Part 1","style":{"fontSize":76.4,"typeface":"Pretendard","color":"#9FFF68","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/7qdgbqto","kind":"textbox","name":"text","position":{"left":139,"top":387,"width":1660,"height":145},"text":"헤스 법칙","style":{"fontSize":100,"typeface":"Pretendard","color":"#FFFFFF","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/ov2hsbup","kind":"textbox","name":"text","position":{"left":143,"top":606,"width":1640,"height":114},"text":"같은 반응이 다른 경로로 일어나면 출입하는 열도 달라질까?","style":{"fontSize":40,"typeface":"Pretendard","color":"#FFFFFF","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0}
+]}

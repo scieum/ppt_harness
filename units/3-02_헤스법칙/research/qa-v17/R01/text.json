@@ -1,0 +1,210 @@
+[
+  {
+    "page": 1,
+    "text": "MCP 적용부터 제작까지\n\r\n100% 활용하기\r\n유용한 MCP, MCP 조합 워크플로우, MCP 제작법까지 \r\n2026년 08월 30일 오후 9시 LIVE"
+  },
+  {
+    "page": 2,
+    "text": "오늘 라이브는 이렇게 진행할 예정입니다.\r\nPART 1\r\nMCP의 개념과\n\r\n연결 방법\r\nPART 2\r\n유용한 MCP 소개\n\r\n활용 방법 추천\r\nPART 3\r\n로컬 환경에서 쓸\n\r\nMCP 직접 제작하기\r\nPART 4\r\n과제 안내,\n\r\n주관 행사 소개"
+  },
+  {
+    "page": 3,
+    "text": "잠깐 워밍업 세션 해볼까요?"
+  },
+  {
+    "page": 4,
+    "text": "Part 1\r\nMCP의 개념과\n\r\n연결 방법\r\n기본 개념을 살펴보고, 연결하는 방법에 대해 배웁니다."
+  },
+  {
+    "page": 5,
+    "text": "Part 1 MCP의 개념과 연결 방법\r\n01 MCP의 개념\r\nAI는 어떻게 다른 서비스에서 정보를 읽어오거나\n\r\n 작업을 할 수 있을까요?"
+  },
+  {
+    "page": 6,
+    "text": "Part 1 MCP의 개념과 연결 방법\r\n01 MCP의 개념\r\nMCP는 AI가 외부 도구에 직접 접근해서 데이터를 읽고 쓰는 프로토콜\r\nMCP(Model Context Protocol)\r\n모델 맥락 통신, 연결\r\n내 AI 모델이 외부 툴이나 서비스에서 맥락or정보를\r\n읽을 수 있게 통신할 수 있게 연결 해주는 기술"
+  },
+  {
+    "page": 7,
+    "text": "Part 1 MCP의 개념과 연결 방법\r\n01 MCP의 개념\r\nMCP 서버? 그런거 안써도 다 연결되던데!\r\n주요 AI 모델들에서 제공하는 연결 기능도 모두 MCP 서버를 사용한 거에요!\r\nAI \n\r\n플랫폼\r\nAI 앱이 외부 도구·데이터에\n\r\n연결하기 위한 개방형 표준\r\nMCP서버를, 클릭 몇 번으로  \r\n연결할 수 있게 정리해 둠 \n\r\n(ex. 클로드의 Connect / 코덱스의 App 등)"
+  },
+  {
+    "page": 8,
+    "text": "Part 2\r\n유용한 MCP 소개 &\n\r\n활용 방법 추천\r\n유용한 MCP들을 소개합니다!"
+  },
+  {
+    "page": 9,
+    "text": "Part 2 유용한 MCP 소개 & 활용 방법 추천\r\n01 유용한 MCP\r\n유용하게 쓸 수 있는 \n\r\n필수 MCP는 이런것들이 있어요!\r\n파일\r\nSupabase MCP\r\nNotion MCP\r\nSlack MCP\r\nContext 7 \r\nPlaywright\r\n역할\r\nDB조회, 테이블 관리\r\n문서 읽기 쓰기 \r\n메시지 검색/전송\r\n최신 프레임워크 문서 참조\r\n웹 페이지를 확인 할 때 \r\n사용케이스 \r\n사용자 테이블의 스키마 보여줘\r\n기획서 읽고 구현해줘 \r\n메시지 검색/전송 \r\nclaude code가 오래된 문서를 쓸 때\n\r\n최신 문서를 참조해 줌 \r\nLLM이 실제 브라우저 환경에서  \r\n웹 페이지와 상호작용 하도록 도와줌\r\n설치 방법\r\nclaude mcp add supabase --transport http ...\r\nclaude mcp add notion --transport http https://mcp.notion.com/mcp\r\nclaude mcp add slack --transport http https://mcp.slack.com/mcp\r\nclaude mcp add context7 -- npx -y @upstash/context7-mcp\r\nclaude mcp add playwright npx @playwright/mcp@latest"
+  },
+  {
+    "page": 10,
+    "text": "Part 2 유용한 MCP 소개 & 활용 방법 추천\r\n01 유용한 MCP\r\n디자인 시스템을 CLI 도구에 \n\r\nMCP로 불러올 수도 있어요!\r\n당근의 시드 디자인 시스템  \r\nhttps://seed-design.io/"
+  },
+  {
+    "page": 11,
+    "text": "Part 2 유용한 MCP 소개 & 활용 방법 추천\r\n01 유용한 MCP\r\n하루걸음 하루걸음\r\n오늘\r\n1,240P 1,240P\r\n하루 목표를\n\r\n정해볼까요?\r\n언제든 설정에서 바꿀 수 있어요\r\n6,000보 가볍게 시작\r\n8,000보 추천\r\n10,000보 확실하게\r\n직접 입력\r\n30대 직장인의 하루 평균은 약 7,200보예요.\n\r\n8,000보면 조금만 더 걸으면 되는 목표예요.\r\n오늘 걸음\r\n6,432\r\n목표 8,000보 · 80%\r\n이번 주\r\n월\r\n1,568보만 더 걸으면 달성이에요\r\n3일 연속 달성 중\r\n오늘도 채우면 4일째예요\r\n평균 7,100보\r\n화 수 목 금 토 일\r\n이 목표로 시작하기 걸음 수 입력\r\n하루걸음 1,240P\r\n주간 기록\r\n8월 17일 8월 23일\r\n목표 8,000\r\n하루걸음 1,240P\r\n설정\r\n목표\r\n하루 목표 8,000보\r\n걸음 수\r\n입력 방식 직접 입력\r\n오늘 걸음 수 수정 6,432보\r\n기록\r\n전체 기록 삭제\r\n월\r\n5.2k\r\n화\r\n6.9k\r\n수\r\n5.4k\r\n목\r\n8.1k\r\n금\r\n8.4k\r\n토\r\n9.2k\r\n일\r\n6.4k\r\n7,100\r\n주 평균 목표 달성\r\n3일 9,240\r\n최고 기록\r\n연속 달성\r\n현재 연속 3일\r\n최장 연속 6일\r\n이번 달 달성 14일 / 21일\r\n하루걸음\r\n오늘\r\n1,240P\r\n오늘 걸음\r\n6,432\r\n목표 8,000보 · 80%\r\n1,568보만 더 걸으면 달성이에요\r\n3일 연속 달성 중\r\n오늘도 채우면 4일째예요\r\n기기 연동 전이라 직접 입력해요\r\n화 수 목 금 토\r\n+500 +1,000 +2,000\r\n오늘 걸음 수 이번 주 평균 7,100보\r\n6,432 월\r\n보일\r\n걸음 수 입력 저장하기\r\n하루걸음\r\n오늘\r\n1,240P\r\n목표 달성\r\n8,240\r\n목표 8,000보 · 103%\r\n목표보다 240보 더 걸었어요\r\n4일 연속 달성 중이에요\r\n이번 주 평균 7,358보\r\n월 화 수 목 금 토 일\r\n걸음 수 입력"
+  },
+  {
+    "page": 12,
+    "text": "Part 2 유용한 MCP 소개 & 활용 방법 추천\r\n01 유용한 MCP\r\nFigma MCP로 가져올 수 있는 디자인 시스템 4가지\r\n1 SEED (당근) Figma MCP\n\r\nhttps://seed-design.io/ai-integration/figma-mcp\r\n2 shadcn/ui MCP Server\n\r\nhttps://ui.shadcn.com/docs/mcp\r\n3\r\nChakra UI MCP Server\n\r\nhttps://chakra-ui.com/docs/get-started/ai/mcp-server\r\n4 Material UI (MUI) 공식 MCP\n\r\nhttps://mui.com/material-ui/getting-started/mcp/"
+  },
+  {
+    "page": 13,
+    "text": "Part 2 유용한 MCP 소개 & 활용 방법 추천\r\n02 MCP 조합 워크플로우 \r\nMCP를 조합하면 \n\r\n다양한 워크플로우에 활용할 수 있어요!"
+  },
+  {
+    "page": 14,
+    "text": "Part 2 유용한 MCP 소개 & 활용 방법 추천\r\n02 MCP 조합 워크플로우 \r\nQA 자동화 전체 파이프라인에 MCP를 활용해 보세요\r\nFigma MCP \r\n디자인 원본 스펙 확인\r\nPlaywright MCP \r\n실제 구현 및 제어(브라우저 확인)\r\nTalk to Figma \r\n어노테이션 남기기 (주석)\r\nMCP 연결\r\n에이전트 작업 Design-qa 에이전트\r\n산출물 생성 QA 리포트 생성  Figma에 코멘트 자동 생성"
+  },
+  {
+    "page": 15,
+    "text": "Part 2 유용한 MCP 소개 & 활용 방법 추천\r\n02 MCP 조합 워크플로우 \r\n새로 나온 Aside MCP와도 \n\r\n조합해서 사용할 수 있어요! \r\nY Combinator 지원을 받은 스타트업이 만든 Chromium 기반 AI 브라우저. \r\n확장 프로그램이 아니라 브라우저 자체가 별도 앱이고, 그 안에 에이전트가 내장돼 있음 \r\ncurl -fsSL https://releases.aside.com/install.sh | bash \r\naside --version 로 버전확인 후 사용 "
+  },
+  {
+    "page": 16,
+    "text": "Part 2 유용한 MCP 소개 & 활용 방법 추천\r\n02 MCP 조합 워크플로우 \r\n다음과 같은 MCP 설치가 필요해요\r\nFigma MCP\r\n피그마 디자인 데이터 읽기\r\n설치법\r\nclaude plugin install figma@claude￾plugins-official\r\nPlaywright\r\n실제 브라우저 렌더링\r\n설치법\r\nclaude mcp add playwright npx -y \r\n@playwright/mcp\r\nTalk to Figma\r\n피그마에 직접 쓰기 (어노테이션)\r\n설치법\r\n앱→설정→ CLI에 맞는 코드 붙여넣어 설치\r\n*MCP Magic 앱 설치 필요"
+  },
+  {
+    "page": 17,
+    "text": ""
+  },
+  {
+    "page": 18,
+    "text": "Part 2 유용한 MCP 소개 & 활용 방법 추천\r\n02 MCP 조합 워크플로우 \r\n랜딩 페이지 제작에 \n\r\n이 MCP 조합을 사용해보세요!\r\nFigma MCP \r\n상세페이지 시안 생성\r\nHiggsfield MCP \r\n상세페이지 이미지 생성 \r\nMCP 연결\r\n에이전트 작업 상세페이지 제작 자동화 에이전트 \r\n산출물 생성 상세페이지 베리에이션 작업물 "
+  },
+  {
+    "page": 19,
+    "text": "Part 2 유용한 MCP 소개 & 활용 방법 추천\r\n02 MCP 조합 워크플로우 \r\n다음과 같은 MCP 설치가 필요해요\r\nHiggsfield\r\n실제 브라우저 렌더링\r\n설치법\r\nSet up Higgsfield for me so I can \r\ngenerate images and videos from here.\n\n\r\n1. Install the CLI: run `npm i -g \r\n@higgsfield/cli`.\n\r\n2. Authenticate: run `higgsfield auth \r\nlogin` and complete the sign-in in the \r\nbrowser it opens.\n\r\n3. Install the companion skills: run `npx \r\nskills add higgsfield-ai/skills`.\n\n\r\nOnce that's done, let me know when it's \r\nready.\r\nFigma MCP\r\n피그마 디자인 데이터 읽기\r\n설치법\r\nclaude plugin install figma@claude￾plugins-official"
+  },
+  {
+    "page": 20,
+    "text": ""
+  },
+  {
+    "page": 21,
+    "text": "Part 2 유용한 MCP 소개 & 활용 방법 추천\r\n02 MCP 조합 워크플로우 \r\n화면 정의서를 Spec.md로 추출하고(Figma AI)  \r\nWhimsical과 조합해서 사용해 보세요\r\nWhimsical MCP \r\n인터랙티브 컴포넌트 소환 \r\nFigma AI agent \r\n화면 기획문서 기반으로 spec.md 추출 \r\nMCP 연결\r\n에이전트 작업 와이어프레임 생성 에이전트\r\n산출물 생성 Figma 에 조합한 와이어 프레임 화면과 Flow Chart"
+  },
+  {
+    "page": 22,
+    "text": "Part 2 유용한 MCP 소개 & 활용 방법 추천\r\n02 MCP 조합 워크플로우 \r\n다음과 같은 MCP 설치가 필요해요\r\nFigma AI agent \r\n화면의 기획서를 바탕으로 Spec.md를 추출합니다. \r\n사용방법\r\nFigma에 정의된 화면 기획서를 선택하고 \n\r\n이 문서 토대로 spec.md 파일 작성해줘.\r\nWhimsical MCP \r\n구조적인 판단, 플로우 생성을 빠르게 \r\n설치법\r\nclaude mcp add --transport http \r\nwhimsical https://mcp.whimsical.com/\r\nmcp  \r\n또는 plugin whimsical 설치 \r\nFigma MCP\r\n피그마 디자인 산출물로 뽑아내야 할 때 \r\n설치법\r\nclaude plugin install figma@claude￾plugins-official\n\n\n\r\n또는 plugin Figma 설치 "
+  },
+  {
+    "page": 23,
+    "text": ""
+  },
+  {
+    "page": 24,
+    "text": "Part 3\r\n로컬 환경에서 쓸\n\r\nMCP 직접 제작하기\r\n직접 필요한 MCP 서버를 제작하고 사용해봐요!"
+  },
+  {
+    "page": 25,
+    "text": "Part 3 로컬 환경에서 쓸 MCP 직접 제작하기 \r\n00 오늘 만들어볼 MCP는?\r\n로컬 폰트와 폰트 사이트를 대조하는 MCP\r\nMCP의 역할\r\n내 로컬에 설치된 폰트 분석 / 폰트사이트(눈누)의 인기 폰트 검색\n\r\n폰트 저작권을 분석한 폰트 추천 / 폰트 자동 다운로드\r\n준비 사항\r\nIDE (커서, VScode 등) / 유료 요금제 AI "
+  },
+  {
+    "page": 26,
+    "text": "Part 3 로컬 환경에서 쓸 MCP 직접 제작하기 \r\n01 파이썬 설치 및 확인\r\n파이썬 3.10 이상 버전을 설치해 주세요 \r\n다운로드 후 터미널에서 3.10 이상 버전이 나오면 설치 완료\r\nPython Download"
+  },
+  {
+    "page": 27,
+    "text": "Part 3 로컬 환경에서 쓸 MCP 직접 제작하기 \r\n01 파이썬 설치 및 확인\r\n⚠️ OS 별로 설치 시 주의 사항을 확인해 주세요.\r\nMAC\r\n설치가 끝나면 뜨는 폴더 창에서 Install \r\nCertificates.command 를 클릭해 설치\r\nWindow\r\n설치 첫 화면 맨 아래 \n\r\nAdd python.exe to PATH 체크박스를 꼭 체크"
+  },
+  {
+    "page": 28,
+    "text": "Part 3 로컬 환경에서 쓸 MCP 직접 제작하기 \r\n01 파이썬 설치 및 확인\r\npip에서 mcp 도구와 폰트 검색 도구를 설치합니다.\r\npip란? 전 세계 개발자들이 만든 파이썬 코드를 담아두는 곳. 파이썬의 앱스토어 같은 곳\r\n1\r\n2\r\npip3 install mcp fonttools     (공통)\r\npip3 install pip install mcp fonttools (윈도우에서 위 코드가 작동 안하면)"
+  },
+  {
+    "page": 29,
+    "text": "Part 3 로컬 환경에서 쓸 MCP 직접 제작하기 \r\n02 폴더 생성과 py 파일 넣기\r\n바탕화면에 폴더 생성 후 py 파일을 넣어서 준비해 주세요\r\nfont_sync_mcp.py\r\n바탕화면에 ‘mcpfont’ 폴더 생성 → py 폴더를 다운받아 폴더 안에 넣기"
+  },
+  {
+    "page": 30,
+    "text": "Part 3 로컬 환경에서 쓸 MCP 직접 제작하기 \r\n02 폴더 생성과 py 파일 넣기\r\nIDE에서 준비한 폴더를 열어주세요"
+  },
+  {
+    "page": 31,
+    "text": "Part 3 로컬 환경에서 쓸 MCP 직접 제작하기 \r\n03 로컬 환경 점검하기\r\n아래 프롬프트를 넣어서 로컬 환경을 확인해 보세요\r\n지금 내 컴퓨터 환경을 점검해줘.\n\n\r\n1. 파이썬 버전과 실행 파일의 절대 경로\n\r\n2. pip로 mcp, fonttools 패키지가 깔려 있는지\n\r\n3. 내 OS와 폰트가 설치되는 폴더 경로\n\r\n4. 클로드 데스크톱 앱이 설치돼 있는지, 설정 파일 위치는 어디인지\n\n\r\n결과를 표로 정리하고, 빠진 게 있으면 뭘 설치해야 하는지 알려줘. 아직 설치는 하지 마. 모두 갖춰진 결과가 나오면 점검 완료!"
+  },
+  {
+    "page": 32,
+    "text": "Part 3 로컬 환경에서 쓸 MCP 직접 제작하기 \r\n04 MCP 서버 구축하기\r\npy 파일 유무에 따라 두가지 방향으로 나뉩니다\r\n트랙 A \r\n이미 py가 갖춰진 경우\r\n빠르게 서버 구축이 가능한 경우입니다. font_sync_\n\r\nmcp.py 를 mcpfont 폴더에 넣고 프롬프트 입력\r\n이 폴더의 font_sync_mcp.py 를 읽고\n\r\n뭘 하는 파일인지 설명해줘.\n\r\n그리고 지금 내 환경에서 돌리는 데 \n\r\n필요한 패키지를 설치해줘.\r\n트랙 B\r\n처음부터 만들어 가야 하는 경우\r\n요구사항을 잘게 쪼개서 주는 게 핵심입니다. \n\r\n프롬프트에 아래 항목들을 넣어 AI와 만들어 보세요.\r\n파이썬으로 로컬 MCP 서버를 하나 만들어줘.\n\n\r\n‘목적 / 꼭 지켜야 하는 점 / 필요한(설치해야할) 파일이나\r\n패키지 / 필요한 도구나 기술’ 을 담아주세요"
+  },
+  {
+    "page": 33,
+    "text": "Part 3 로컬 환경에서 쓸 MCP 직접 제작하기 \r\n04 MCP 서버 구축하기\r\n직접 구축하는 예시는 아래와 같습니다\r\n파이썬으로 로컬 MCP 서버를 하나 만들어줘. \n\n\r\n \n\r\n## 목적 내 컴퓨터에 설치된 폰트와 눈누(https://noonnu.cc)의 폰트를 대조하고, 없는 폰트를 제작사 정품 파일로 자동 설치해주는 도구. \n\n\r\n## 기술 스택 \n\r\n mcp 패키지의 FastMCP 사용 \n\r\n- 폰트 파일 읽기는 fontTools \n\r\n- HTML 파싱은 표준 라이브러리 urllib + re (외부 의존성 최소화) \n\n\r\n## 도구 7개 \n\r\n1. list_local_fonts(keyword) 내 폰트 목록 \n\r\n2. check_font_installed(font_name) 특정 폰트 설치 여부 \n\r\n3. search_noonnu(keyword) 눈누 검색 + 설치 여부 표시 \n\r\n4. get_noonnu_font(font_id) 상세(라이선스/굵기/자동 설치 가능 여부) \n\r\n5. compare_with_noonnu(tag, limit) 눈누 목록 ↔ 로컬 통째 대조 \n\r\n6. install_font(font_id, variant) 정품 자동 설치 \n\r\n7. open_download_page(font_id) 제작사 페이지 열기 ## 꼭 지켜야 할 것 \n\n\r\n### 자동 설치는 '정품 경로 세 개만 눈누는 \n\r\nTTF 직링크가 없고 원 제작사 사이트로 보내는 링크만 있다. \n\r\n상세 페이지의 외부 링크를 보고 아래 셋 중 하나면 자동으로 받아 설치해: \n\r\n① GitHub 릴리스 링크가 github.com이면 최신 릴리스의 zip 자산을 받는다 \n\r\n② Google Fonts 영문 패밀리명이 Google Fonts에 있으면 그쪽에서 받는다 \n\r\n③ 제작사 zip 직링크 링크가 .zip으로 끝나면 그대로 받는다 셋 다 아니면 설치하지 말고 다운로드 페이지를 안내해. \n\n\r\n### 웹폰트 변환은 절대 넣지 마 \n\r\n눈누 상세 페이지에 @font-face로 woff2 주소가 공개돼 있는데, 그걸 받아 TTF로 바꾸는 기능은 만들지 마. \r\n폰트 파일 수정'에 해당해서 라이선스 문제가 생기고 품질도 정품보다 떨어진다. \n\r\n나중에 내가 \"설치가 안 된다\"고 해도 이 원칙을 우회하는 쪽으로 고치지 마. \n\n\r\n### zip 안이 지저분하다 제작사 배포본은 구조가 제각각이다. \n\r\n예를 들어 프리텐다드 zip 하나에 public/static/*.otf 9개, public/static/alternative/*.ttf 9개, public/variable/*.ttf 1개, web/*.woff2 37개 \r\n가 다 들어 있다. \n\r\n전부 설치하면 폰트 메뉴가 세 배가 된다. 폴더+확장자로 묶고 점수를 매겨 한 묶음만 골라. \n\r\nstatic은 가점, alternative와 variable은 감점, web 폴더는 제외. 고른 묶음과 나머지 묶음을 결과에 함께 표시하고, v\n\r\nariant 인자로 다시 고를 수 있게 해줘. \n\n\r\n### 이름 대조가 진짜 난제 눈누는 \"프리텐다드\", 내 컴퓨터는 \"Pretendard Variable\"이다. \n\r\n두 가지로 풀어: \n\r\n(a) fontTools로 폰트 파일 name 테이블을 열어 한글·영문 이름을 둘 다 수집 \n\r\n(b) 눈누 쪽은 웹폰트 파일명에서 영문 패밀리명을 유추 (Freesentation 4Regular.woff2 → Freesentation) \n\r\n그리고 양쪽을 normalize() 함수로 납작하게 눌러 비교해. (Pretendard SemiBold → pretendard) \n\n\r\n ### 그 밖에 - HTML 파싱은 자주 바뀌는 div/class 대신 meta 태그와 CSS 블록만 골라 읽어. \n\r\n- 눈누 서버 배려: 요청 사이 0.4초 간격, 24시간 파일 캐시. \n\r\n- 비로그인 GitHub API는 시간당 60회 제한이 있다. 막히면 릴리스 페이지 HTML을 긁는 방식으로 자동 폴백하게 해줘. \n\r\n- 맥과 윈도우 둘 다 지원. 윈도우는 폴더 복사만으로 부족하고 레지스트리 등록(HKCU Fonts)까지 필요하다. \n\r\n- 각 @mcp.tool()의 설명문에 '언제 쓰는지'와 '예시'를 반드시 넣어. AI는 코드를 안 읽고 설명문만 읽는다. \n\r\n __main__에 --scan 옵션을 달아서 서버를 안 켜고도 로컬 폰트 스캔 결과만 확인할 수 있게 해줘. \n\n\r\n먼저 전체 구조를 설명하고, 내가 좋다고 하면 그때 파일을 만들어줘.\n\n\n"
+  },
+  {
+    "page": 34,
+    "text": "Part 3 로컬 환경에서 쓸 MCP 직접 제작하기 \r\n05 MCP 서버 테스트 하기\r\n등록전 구축된 서버를 테스트 합니다.\r\n만든 파일을 테스트해줘.\n\n\r\n1. --scan 옵션으로 돌려서 내 폰트가 제대로 읽히는지 확인\n\r\n2. 그냥 실행해서 서버가 에러 없이 켜지는지 확인 (커서만 깜빡이면 정상, Ctrl+C로 종료)\n\r\n3. normalize() 함수에 \"Pretendard SemiBold\", \"S-CoreDream-9Black\", \"Freesentation-4Regular.woff2\" 를 넣어보고 \r\n결과가 의도대로 납작해지는지 확인\n\r\n4. 프리텐다드 zip을 실제로 받아 묶음 분류가 맞는지 확인\n\r\n (static/otf 9개가 선택되고 variable, alternative가 후보로 남아야 함)\n\n\r\n에러가 나면 원인을 설명하고 고쳐줘.\r\n지금 테스트에서 문제가 없으면 추후 에러 발생 시 \n\r\n코드 자체 문제가 아니기에 원인 탐색이 쉬워집니다. 왜 테스트가 필요한가요?"
+  },
+  {
+    "page": 35,
+    "text": "Part 3 로컬 환경에서 쓸 MCP 직접 제작하기 \r\n05 MCP 서버 테스트 하기\r\n4가지 테스트 모두 통과하면 완료! → 에러 발생 시 수정 요청"
+  },
+  {
+    "page": 36,
+    "text": "Part 3 로컬 환경에서 쓸 MCP 직접 제작하기 \r\n06 MCP 서버 등록하기\r\n지속적인 사용을 위한 MCP 등록 진행\r\n이 MCP 서버를 (내가 사용하는 AI 이름 넣기)에 등록해줘.\n\r\n모든 프로젝트에서 쓸 수 있게 user 스코프로 등록하고,\n\r\n파이썬과 py 파일 경로는 절대 경로로 넣어줘.\n\r\n등록 후에 claude mcp list 로 연결 상태까지 확인해줘."
+  },
+  {
+    "page": 37,
+    "text": "Part 3 로컬 환경에서 쓸 MCP 직접 제작하기 \r\n06 MCP 서버 등록하기\r\n등록이 완료되면 /mcp로 확인하기\r\nMCP 등록 완료 화면 /mcp에 등록된 모습"
+  },
+  {
+    "page": 38,
+    "text": "Part 3 로컬 환경에서 쓸 MCP 직접 제작하기 \r\n07 MCP 사용하기\r\n자연어 프롬프트로 MCP를 사용해 보세요\r\n프롬프트 예시\r\n내 컴퓨터에 나눔으로 시작하는 폰트 리스트 알려줘\r\n눈누 명조 폰트 인기 20개 중에 내가 없는 거 알려줘\r\n책 인쇄용으로 쓸 저작권 문제 없는 고딕 폰트 찾아서 알려줘\r\nOOO 폰트 로컬에 다운로드 진행해줘\r\n굵기 6개 이상 폰트 찾아줘 / ooo폰트 굵기 400, 700만 다운로드 해줘\r\n상황\r\n내 폰트 탐색\r\n눈누 폰트 추천 받기\r\n목적에 맞는 추천 받기\r\n자동 다운로드\r\n구체적 조건 주기"
+  },
+  {
+    "page": 39,
+    "text": "Part 4\r\n과제 안내, 행사 소개 \r\n이번 사이클 과제 및 주관행사를 소개합니다"
+  },
+  {
+    "page": 40,
+    "text": "첫번째 실험 안내\r\n유용한 mcp 소개하기\r\n내가 사용해본 유용한 MCP를 소개하고 공유해보아요!"
+  },
+  {
+    "page": 41,
+    "text": "Part 4 과제 안내, 주관 행사 소개\r\n01 1차 실험 미션\r\n1차 실험 주제를 공개합니다!\r\n주제\r\n유용한 mcp 소개하기\r\n진행 방식\r\n유용한 MCP를 설치 방법(연결 방법)과 유용한 점,\n\r\n효율적인 사용법 등을 포함해서 소개합니다\r\n 실험 결과 제출\r\nMCP 설치 링크(사이트 URL) or 설치 프롬프트, \r\nMCP의 유용한 점 or 사용 후 개선된 점 등 텍스트 작성"
+  },
+  {
+    "page": 42,
+    "text": "Part 4 과제 안내, 주관 행사 소개\r\n01 1차 실험 미션\r\n1차 실험 진행 일정\r\n일 월 화 수 목 금 토\r\n8/30\r\n라이브 스터디\r\n31 9/1 2\r\n1차 실험 진행\r\n3 4 5\r\n1주차\r\n6 7 8\r\n1차 실험 진행\r\n9 10 11 12\r\n2주차\r\n1차 실험 종료!"
+  },
+  {
+    "page": 43,
+    "text": "Part 4 과제 안내, 주관 행사 소개\r\n02 9월 라이브 안내\r\nAI FREAKS 채널 대표 김원준님의 스페셜 세션\r\n매일 발송되는 나만의\n\r\nAI 소식 알리미 만들기\r\nLIVE 일시 9월 3일 목요일 21:00~"
+  },
+  {
+    "page": 44,
+    "text": "Part 4 과제 안내, 주관 행사 소개\r\n02 9월 라이브 안내\r\n방구석 프레이머와 함께하는 90분 라이브\r\nFramer AI 세션 &\n\r\n마이크로 해커톤\r\nLIVE 일시 9월 10일 (목) 20:00~"
+  },
+  {
+    "page": 45,
+    "text": "Part 4 과제 안내, 주관 행사 소개\r\n02 9월 라이브 안내\r\n배달의 민족 UX Writer가 들려주는 \r\nUX 라이팅 AI 툴을 만들고  \r\n운영하며 바뀐 업무 방식\r\nLIVE 일시 9월 19일 (토) 14:00~"
+  },
+  {
+    "page": 46,
+    "text": "Part 4 과제 안내, 주관 행사 소개\r\n02 9월 라이브 안내\r\n해커톤은 사전 신청을 받고 있습니다!\r\n참여를 희망하시면 아래 신청 폼을 작성해 주세요!"
+  },
+  {
+    "page": 47,
+    "text": "퍼스트펭귄 챌린지 안내\r\n01 퍼스트펭귄 챌린지란?\r\n퍼스트펭귄 챌린지란?\r\n사이클 실험 과제 업로드 후\n\r\n과제 PR 게시글을 챌린지방에 올리면 자동으로 퍼스트펭귄 등급 도전에 참여하게 됩니다.\r\n1\r\n실험 과제 참여\r\n사이클 실험 과제\r\n하 과 \r\n2\r\n챌린지방 업로드\r\n실험 과제에 \r\n 업로드\r\n3\r\n이모지 투표\r\n챌린지 방에\r\n이지로 \r\n4\r\n퍼스트 펭귄 승급\r\n \r\n 이로 급 "
+  },
+  {
+    "page": 48,
+    "text": "퍼스트펭귄 챌린지 안내\r\n01 퍼스트펭귄 챌린지란?\r\n사이클 과제 업로드 후,\n\r\n챌린지방에 소개해주세요\r\n링크만 공유하는 것보다, 내 과제에 대한 간단한 PR 글을 올려주시면\n\r\n멤버들의 투표에 도움이 됩니다."
+  },
+  {
+    "page": 49,
+    "text": "퍼스트펭귄 챌린지 안내\r\n02 퍼스트펭귄 위너 발표\r\n1회차 퍼스트펭귄 챌린지 위너를 소개합니다! \r\n최지혜/1기 님"
+  },
+  {
+    "page": 50,
+    "text": "퍼스트펭귄 챌린지 안내\r\n02 퍼스트펭귄 위너 발표\r\n퍼스트 펭귄이\n\r\n누릴 수 있는 혜택\r\nBenefit 1\r\n멤버십 비용 쭉 무료 \r\n퍼펭이 되신 분들은 멤버십을  \r\n쭉 무료로 이용하실수 있습니다. \r\nBenefit 2\r\n유료 커피챗 세션 운영 \r\n유료 커피챗을 열어서 운영할 수 있어요.\n\r\n퍼스트 펭귄-커피챗 방에 자유롭게 홍보해주세요. \r\nBenefit 3\r\n홍보 페이지 개설\r\n허들링 클럽 사이트에 PR 페이지를 올려 드립니다.  \r\n허들링 클럽이 홍보해드려요. \r\nBenefit 4\r\nPR방에 자유롭게 홍보 가능\r\n본인이 운영하거나 홍보하고 싶은것들을 PR방에 자유롭게 올려요."
+  },
+  {
+    "page": 51,
+    "text": "퍼스트펭귄 챌린지 안내\r\n02 퍼스트펭귄 위너 발표\r\n위너는 다음 두 가지를 마치면\n\r\n퍼스트펭귄으로 활동하게 돼요\r\n의무사항\r\nAI 소식지 인터뷰\r\n위너 축하 인터뷰를 함께 진행해주세요.\n\r\n질문과 일정은 운영진이 따로 안내드립니다!\r\n의무사항\r\n퍼펭 승급 라이브 1회\r\n주제는 자유롭게 정하셔도 좋아요.\n\r\n멤버들과 나누고 싶은 이야기로 라이브를 진행해\r\n주세요."
+  },
+  {
+    "page": 52,
+    "text": "퍼스트펭귄 챌린지 안내\r\n02 퍼스트펭귄 위너 발표\r\n아직 챌린지 도전 안했다면? \r\n이번 사이클에서 퍼스트펭귄 챌린지 도전해보세요!\r\n첼린지방 가기"
+  }
+]

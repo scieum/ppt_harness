@@ -1,0 +1,51 @@
+{
+  "unit": "3-01 엔탈피와 열화학 반응식",
+  "plan_approved": true,
+  "images": "ready and source/identity reviewed",
+  "prototype": {
+    "version": "dark-callout-v9",
+    "slides": 8,
+    "structural_validation": "passed",
+    "local_visual_review": "all8 checked with explicit real font registration",
+    "strict_G08_reference_export_reconciliation": "passed against explicitly adopted v9 baseline",
+    "human_design_confirmation": "approved current user 2026-10-20"
+  },
+  "production": "local reference-based 31-slide revision complete; human review pending",
+  "delivery": "revised PPTX DOCX HTML available; Figma pending",
+  "stages": {
+    "image": {
+      "status": "source_review_complete"
+    },
+    "prototype": {
+      "status": "review_pending"
+    },
+    "production": {
+      "status": "local_revision_complete"
+    }
+  },
+  "last_user_feedback": "허들링클럽 삽화·표·컴포넌트 차용 및 개념 묶음별 번호 유지",
+  "remaining": [
+    "Human review of revised 31-slide deck",
+    "Figma remote verification remains pending"
+  ],
+  "reference_reread": {
+    "date": "2026-10-20",
+    "science_decks": 9,
+    "slides": 248,
+    "report": "research/reference-reread/review.md",
+    "slides_rebuilt": true
+  },
+  "huddling_review": {
+    "decks": 2,
+    "pages": 181,
+    "report": "research/huddling/adoption.md",
+    "modified_slides": [
+      20,
+      25,
+      27,
+      29,
+      30,
+      31
+    ]
+  }
+}

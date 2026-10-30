@@ -1,0 +1,17 @@
+{"schema":"openai.presentation.layout/v5","unit":"px","slide":{"id":"sl/xmaq1w","index":2,"layout":{"id":"ly/r2lcbmx0","name":"Blank"},"backgroundColor":"rgba(255,255,255,1)","position":{"left":0,"top":0,"width":1920,"height":1080}},
+"elements":[
+{"id":"im/oru9wfeh","kind":"image","position":{"left":154.67,"top":424,"width":1610.67,"height":386.67},"fit":"contain","alt":"objectives_box"},
+{"id":"im/nql83adw","kind":"image","position":{"left":1670.67,"top":564,"width":217.33,"height":460},"fit":"contain","alt":"guide_character"},
+{"id":"im/2pcru5wb","kind":"image","position":{"left":1778.67,"top":40,"width":108,"height":77.33},"fit":"contain","alt":"sci_eum_logo"},
+{"id":"sh/cvy5cfql","kind":"textbox","name":"copyright","position":{"left":1535,"top":1035.73,"width":342,"height":30},"text":"© 2026. @sci_eum. All rights reserved.","style":{"fontSize":17,"typeface":"Pretendard","color":"#111111","alignment":"right"},"geometry":"rect","lineWidth":0},
+{"id":"sh/dg765076","kind":"textbox","name":"title","position":{"left":326.7,"top":182.95,"width":1268,"height":127},"text":"이번 단원의 학습 목표","style":{"fontSize":94,"typeface":"Pretendard","color":"#111111","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/qtgna58v","kind":"shape","name":"number_circle_1","position":{"left":258.67,"top":484.33,"width":56,"height":56},"geometry":"roundRect","fillColor":"#000000","lineWidth":0},
+{"id":"sh/rupo3ap0","kind":"textbox","name":"number_1","position":{"left":258.67,"top":483.11,"width":56,"height":56},"text":"1","style":{"fontSize":43,"typeface":"Pretendard","color":"#FFFFFF","alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/0ji5gfqx","kind":"textbox","name":"objective_1","position":{"left":337.33,"top":483.18,"width":892.66,"height":64},"text":"엔탈피의 의미를 알고, 열화학 반응식을 표현할 수 있다.","style":{"fontSize":42,"typeface":"Pretendard","color":"#4A4A4A","alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/1kr69k7i","kind":"shape","name":"number_circle_2","position":{"left":258.67,"top":589.33,"width":56,"height":56},"geometry":"roundRect","fillColor":"#000000","lineWidth":0},
+{"id":"sh/58zud07y","kind":"textbox","name":"number_2","position":{"left":258.67,"top":588.11,"width":56,"height":56},"text":"2","style":{"fontSize":43,"typeface":"Pretendard","color":"#FFFFFF","alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/k7qdkv6d","kind":"textbox","name":"objective_2","position":{"left":337.33,"top":588.18,"width":892.66,"height":64},"text":"같은 기준으로 연료의 효율성을 비교할 수 있다.","style":{"fontSize":42,"typeface":"Pretendard","color":"#4A4A4A","alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/j6hcbqps","kind":"shape","name":"number_circle_3","position":{"left":258.67,"top":694.33,"width":56,"height":56},"geometry":"roundRect","fillColor":"#000000","lineWidth":0},
+{"id":"sh/i58vilo7","kind":"textbox","name":"number_3","position":{"left":258.67,"top":693.11,"width":56,"height":56},"text":"3","style":{"fontSize":43,"typeface":"Pretendard","color":"#FFFFFF","alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/twjuh07u","kind":"textbox","name":"objective_3","position":{"left":337.33,"top":693.18,"width":892.66,"height":64},"text":"결합 에너지와 반응 엔탈피의 관계를 설명할 수 있다.","style":{"fontSize":42,"typeface":"Pretendard","color":"#4A4A4A","alignment":"left"},"geometry":"rect","lineWidth":0}
+]}

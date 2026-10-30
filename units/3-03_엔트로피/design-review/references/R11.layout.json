@@ -1,0 +1,203 @@
+{
+  "artifact_sha256": "55c3b53334c4675e6469466fedf6a150abba9ca3053e3920a70795b0eb5910c4",
+  "render_sha256": "4424115e42450e72862d2174a224c6edd1b1b9132d813cbd1651d13b709de060",
+  "exporter": "preserved after.json OOXML-image geometry; raw object IDs",
+  "canvas": [
+    1920,
+    1080
+  ],
+  "objects": [
+    {
+      "role": "source-object-2",
+      "kind": "pic",
+      "bbox": [
+        0.7993072916666667,
+        0.9567870370370369,
+        0.17916666666666667,
+        0.035805555555555556
+      ],
+      "fill": null,
+      "font_family": "unavailable: text stored as raster image",
+      "font_size": null,
+      "font_weight": null,
+      "alignment": null,
+      "character_asset_id": null
+    },
+    {
+      "role": "source-object-3",
+      "kind": "pic",
+      "bbox": [
+        0.16805729166666666,
+        0.21975,
+        0.6645833333333333,
+        0.11358333333333334
+      ],
+      "fill": null,
+      "font_family": "unavailable: text stored as raster image",
+      "font_size": null,
+      "font_weight": null,
+      "alignment": null,
+      "character_asset_id": null
+    },
+    {
+      "role": "source-object-4",
+      "kind": "pic",
+      "bbox": [
+        0.26805729166666664,
+        0.3308611111111111,
+        0.46458333333333335,
+        0.04937962962962963
+      ],
+      "fill": null,
+      "font_family": "unavailable: text stored as raster image",
+      "font_size": null,
+      "font_weight": null,
+      "alignment": null,
+      "character_asset_id": null
+    },
+    {
+      "role": "source-object-5",
+      "kind": "pic",
+      "bbox": [
+        0.017359375,
+        0.0654351851851852,
+        0.14027604166666666,
+        0.05185185185185185
+      ],
+      "fill": null,
+      "font_family": "unavailable: text stored as raster image",
+      "font_size": null,
+      "font_weight": null,
+      "alignment": null,
+      "character_asset_id": null
+    },
+    {
+      "role": "source-object-6",
+      "kind": "pic",
+      "bbox": [
+        0.0375,
+        0.1160462962962963,
+        0.20555729166666667,
+        0.0654351851851852
+      ],
+      "fill": null,
+      "font_family": "unavailable: text stored as raster image",
+      "font_size": null,
+      "font_weight": null,
+      "alignment": null,
+      "character_asset_id": null
+    },
+    {
+      "role": "source-object-7",
+      "kind": "pic",
+      "bbox": [
+        0.21458333333333332,
+        0.40247222222222223,
+        0.2555572916666667,
+        0.4185185185185185
+      ],
+      "fill": null,
+      "font_family": "unavailable: text stored as raster image",
+      "font_size": null,
+      "font_weight": null,
+      "alignment": null,
+      "character_asset_id": null
+    },
+    {
+      "role": "source-object-8",
+      "kind": "pic",
+      "bbox": [
+        0.5291666666666667,
+        0.40247222222222223,
+        0.25625,
+        0.4185185185185185
+      ],
+      "fill": null,
+      "font_family": "unavailable: text stored as raster image",
+      "font_size": null,
+      "font_weight": null,
+      "alignment": null,
+      "character_asset_id": null
+    },
+    {
+      "role": "source-object-9",
+      "kind": "pic",
+      "bbox": [
+        0.21458333333333332,
+        0.8432129629629629,
+        0.25347395833333336,
+        0.07530555555555556
+      ],
+      "fill": null,
+      "font_family": "unavailable: text stored as raster image",
+      "font_size": null,
+      "font_weight": null,
+      "alignment": null,
+      "character_asset_id": null
+    },
+    {
+      "role": "source-object-10",
+      "kind": "pic",
+      "bbox": [
+        0.24305729166666667,
+        0.8518518518518519,
+        0.19930729166666666,
+        0.05678703703703704
+      ],
+      "fill": null,
+      "font_family": "unavailable: text stored as raster image",
+      "font_size": null,
+      "font_weight": null,
+      "alignment": null,
+      "character_asset_id": null
+    },
+    {
+      "role": "source-object-11",
+      "kind": "pic",
+      "bbox": [
+        0.5305572916666667,
+        0.8432129629629629,
+        0.25347395833333336,
+        0.07530555555555556
+      ],
+      "fill": null,
+      "font_family": "unavailable: text stored as raster image",
+      "font_size": null,
+      "font_weight": null,
+      "alignment": null,
+      "character_asset_id": null
+    },
+    {
+      "role": "source-object-12",
+      "kind": "pic",
+      "bbox": [
+        0.5583333333333333,
+        0.8518518518518519,
+        0.19930729166666666,
+        0.05678703703703704
+      ],
+      "fill": null,
+      "font_family": "unavailable: text stored as raster image",
+      "font_size": null,
+      "font_weight": null,
+      "alignment": null,
+      "character_asset_id": null
+    },
+    {
+      "role": "source-object-13",
+      "kind": "pic",
+      "bbox": [
+        0.926390625,
+        0.035805555555555556,
+        0.057640625,
+        0.0728425925925926
+      ],
+      "fill": null,
+      "font_family": "unavailable: text stored as raster image",
+      "font_size": null,
+      "font_weight": null,
+      "alignment": null,
+      "character_asset_id": null
+    }
+  ]
+}

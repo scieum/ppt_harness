@@ -1,0 +1,24 @@
+{
+  "version": "v11",
+  "slides": 26,
+  "scope": "천재90~91",
+  "user_design_approved": false,
+  "status": "검토 전달본",
+  "previous": "v10 글씨체·위치·초록색 및 내용 부족 수정 요청",
+  "pptx": "output/3-03_엔트로피_전체26장_v11.pptx",
+  "preserved": [
+    20,
+    21
+  ],
+  "added": [
+    8,
+    9,
+    12,
+    14,
+    16,
+    17,
+    19,
+    25
+  ],
+  "qa": "26장 개별 렌더 화면 확인, 패키지·레이아웃 검사 통과. PowerPoint 앱 재생 미검수. 전체 G01~G10 통과 선언 아님."
+}

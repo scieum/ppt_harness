@@ -1,0 +1,10 @@
+{"schema":"openai.presentation.layout/v5","unit":"px","slide":{"id":"sl/isym2c","index":0,"layout":{"id":"ly/o3ed0v6x","name":"Blank"},"backgroundColor":"rgba(255,255,255,1)","position":{"left":0,"top":0,"width":1920,"height":1080}},
+"elements":[
+{"id":"im/0fit0725","kind":"image","position":{"left":0,"top":0,"width":1920,"height":1080},"fit":"contain","alt":"표지와 같은 엔트로피 장면"},
+{"id":"sh/y5gbad0v","kind":"shape","name":"Part 51% 어두운 덮개","position":{"left":0,"top":0,"width":1920,"height":1080},"geometry":"rect","fillColor":"rgba(0,0,0,0.51)","lineWidth":0},
+{"id":"sh/j6psji1g","kind":"textbox","name":"text","position":{"left":150,"top":323,"width":1500,"height":90},"text":"Part 2","style":{"fontSize":60,"typeface":"Pretendard","color":"#9FFF68","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/w3yt83ip","kind":"textbox","name":"text","position":{"left":150,"top":434,"width":1620,"height":140},"text":"엔트로피 변화","style":{"fontSize":96,"typeface":"Pretendard","color":"#FFFFFF","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/x47ah8ja","kind":"textbox","name":"text","position":{"left":154,"top":621,"width":1610,"height":95},"text":"변화가 일어나기 전과 후의 엔트로피는 어떻게 비교할까?","style":{"fontSize":42,"typeface":"Pretendard","color":"#FFFFFF","alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"im/ni9sbm1w","kind":"image","position":{"left":1778.67,"top":40,"width":108,"height":77.33},"fit":"contain","alt":"사이음 공식 로고"},
+{"id":"sh/b2psfy14","kind":"textbox","name":"copyright","position":{"left":1440,"top":1034,"width":440,"height":30},"text":"© 2026. @sci_eum. All rights reserved.","style":{"fontSize":21,"typeface":"Pretendard","color":"#FFFFFF","alignment":"right"},"geometry":"rect","lineWidth":0}
+]}

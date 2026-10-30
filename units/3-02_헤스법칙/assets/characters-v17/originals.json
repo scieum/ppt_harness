@@ -1,0 +1,26 @@
+[
+  {
+    "id": "brown-boy",
+    "source": "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/assets/characters/body/references/body_student_water_cup.png",
+    "copy": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-02_헤스법칙/assets/characters-v17/brown-boy-original.png",
+    "sha256": "8045eecfde6a0ad01f2f05a9a47246568ab43d60d4a6f2b8b64f26a2885469a0"
+  },
+  {
+    "id": "glasses-boy",
+    "source": "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/assets/characters/body/references/body_student_flask_observation.png",
+    "copy": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-02_헤스법칙/assets/characters-v17/glasses-boy-original.png",
+    "sha256": "6c163e1552786bc14ccdb3c9513c47e456ccf371b3e5e27b83c64d45ef5cc904"
+  },
+  {
+    "id": "long-hair-girl",
+    "source": "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/assets/characters/body/references/body_student_two_flasks.png",
+    "copy": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-02_헤스법칙/assets/characters-v17/long-hair-girl-original.png",
+    "sha256": "9b436745499b47772b9c38ff953d3e5fa3253f7c6a55ffdc02ac36d01dc72e66"
+  },
+  {
+    "id": "wavy-hair-girl",
+    "source": "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/assets/characters/body/references/body_student_winter_ball.png",
+    "copy": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-02_헤스법칙/assets/characters-v17/wavy-hair-girl-original.png",
+    "sha256": "39e27b75219978f82d9c0caaefd099729eacee5e09ce0cc0416a9403d38e64fd"
+  }
+]

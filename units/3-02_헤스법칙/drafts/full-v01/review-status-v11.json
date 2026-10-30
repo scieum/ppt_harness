@@ -1,0 +1,13 @@
+{
+  "version": "v11",
+  "changed_slides": [
+    19,
+    20
+  ],
+  "changes": [
+    "원본 반응식 2종 배경 투명화",
+    "위아래 수식 공통 배율1.44 적용"
+  ],
+  "visual_review": "19·20장 렌더링 확인, 배경 제거 및 글자 크기 일치",
+  "user_design_approval": "pending"
+}

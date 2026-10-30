@@ -1,0 +1,17 @@
+{"schema":"openai.presentation.layout/v5","unit":"px","slide":{"id":"sl/du2sxg","index":3,"layout":{"id":"ly/10v2d8z6","name":"Blank"},"backgroundColor":"rgba(0,0,0,1)","position":{"left":0,"top":0,"width":1920,"height":1080}},
+"elements":[
+{"id":"im/cnexwnmh","kind":"image","position":{"left":1778.67,"top":40,"width":108,"height":77.33},"fit":"contain","alt":"사이음 화이트 원본 로고"},
+{"id":"sh/6pgjq90f","kind":"textbox","name":"copyright","position":{"left":1440,"top":1038,"width":440,"height":28},"text":"© 2026. @sci_eum. All rights reserved.","style":{"fontSize":17,"typeface":"Pretendard","color":"#FFFFFF","alignment":"right"},"geometry":"rect","lineWidth":0},
+{"id":"sh/7q9kju10","kind":"textbox","name":"text","position":{"left":326,"top":177,"width":1268,"height":126},"text":"학습 목표","style":{"fontSize":100,"typeface":"Pretendard","color":"#FFFFFF","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/gvi1wjih","kind":"shape","name":"학습 목표 한 상자","position":{"left":154,"top":424,"width":1611,"height":451},"geometry":"roundRect","fillColor":"#242424","lineWidth":0},
+{"id":"sh/hwr2poj2","kind":"shape","position":{"left":258.5,"top":509.5,"width":55,"height":55},"geometry":"ellipse","fillColor":"#9FFF68","lineWidth":0},
+{"id":"sh/ut0ju90b","kind":"textbox","name":"text","position":{"left":260,"top":505,"width":52,"height":62},"text":"1","style":{"fontSize":36,"typeface":"Pretendard","color":"#FFFFFF","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/vu9kne1w","kind":"textbox","name":"rich","position":{"left":337,"top":497,"width":1290,"height":80},"text":"반응 경로와 반응 엔탈피의 관계를 설명한다.","style":{"fontSize":42,"typeface":"Pretendard","color":"#BBBBBB","alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/wzy1kfid","kind":"shape","position":{"left":258.5,"top":629.5,"width":55,"height":55},"geometry":"ellipse","fillColor":"#9FFF68","lineWidth":0},
+{"id":"sh/x07idkjy","kind":"textbox","name":"text","position":{"left":260,"top":625,"width":52,"height":62},"text":"2","style":{"fontSize":36,"typeface":"Pretendard","color":"#FFFFFF","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/hw3u5svm","kind":"textbox","name":"rich","position":{"left":337,"top":617,"width":1290,"height":80},"text":"헤스 법칙으로 측정하기 어려운 반응의 ΔH를 구한다.","style":{"fontSize":42,"typeface":"Pretendard","color":"#BBBBBB","alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/wvudc7e1","kind":"shape","position":{"left":258.5,"top":749.5,"width":55,"height":55},"geometry":"ellipse","fillColor":"#9FFF68","lineWidth":0},
+{"id":"sh/vulc32dg","kind":"textbox","name":"text","position":{"left":260,"top":745,"width":52,"height":62},"text":"3","style":{"fontSize":36,"typeface":"Pretendard","color":"#FFFFFF","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/u9cvaxwv","kind":"textbox","name":"rich","position":{"left":337,"top":737,"width":1290,"height":80},"text":"중화 실험 자료를 해석하여 헤스 법칙을 확인한다.","style":{"fontSize":42,"typeface":"Pretendard","color":"#BBBBBB","alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"im/udkvi14b","kind":"image","position":{"left":1590,"top":620,"width":290,"height":340},"fit":"contain","alt":"등록 웨이브 머리 여학생의 목표 확인 포즈"}
+]}

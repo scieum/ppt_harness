@@ -1,0 +1,235 @@
+{
+  "artifact_sha256": "a9e961cead38d9b4a5215da60bf916c8854060580c651c210c44b87c2aeb060f",
+  "render_sha256": "af2b9702751d9f32ad9ed068b5a1688e77c41574d229d0637e9744cf5eaa757e",
+  "exporter": "Artifact Tool slide.export layout/v5; actual element IDs",
+  "canvas": [
+    1920,
+    1080
+  ],
+  "objects": [
+    {
+      "role": "im/lgbyt4va",
+      "kind": "image",
+      "bbox": [
+        0.926390625,
+        0.037037037037037035,
+        0.05625,
+        0.07160185185185185
+      ],
+      "fill": null,
+      "font_family": null,
+      "font_size": null,
+      "font_weight": 400,
+      "alignment": null,
+      "character_asset_id": "사이음 공식 로고"
+    },
+    {
+      "role": "sh/je5kryx4",
+      "kind": "textbox",
+      "bbox": [
+        0.75,
+        0.9574074074074074,
+        0.22916666666666666,
+        0.027777777777777776
+      ],
+      "fill": null,
+      "font_family": "Pretendard",
+      "font_size": 21,
+      "font_weight": 400,
+      "alignment": "right",
+      "character_asset_id": null
+    },
+    {
+      "role": "sh/ytw3ytgz",
+      "kind": "textbox",
+      "bbox": [
+        0.0375,
+        0.07037037037037037,
+        0.796875,
+        0.05
+      ],
+      "fill": null,
+      "font_family": "Pretendard",
+      "font_size": 38,
+      "font_weight": 700,
+      "alignment": "left",
+      "character_asset_id": null
+    },
+    {
+      "role": "sh/tk72x8fm",
+      "kind": "textbox",
+      "bbox": [
+        0.0375,
+        0.12407407407407407,
+        0.036458333333333336,
+        0.05925925925925926
+      ],
+      "fill": null,
+      "font_family": "Pretendard",
+      "font_size": 48.8,
+      "font_weight": 700,
+      "alignment": "left",
+      "character_asset_id": null
+    },
+    {
+      "role": "sh/8jylo3y1",
+      "kind": "textbox",
+      "bbox": [
+        0.07604166666666666,
+        0.12407407407407407,
+        0.8072916666666666,
+        0.05925925925925926
+      ],
+      "fill": null,
+      "font_family": "Pretendard",
+      "font_size": 48.8,
+      "font_weight": 700,
+      "alignment": "left",
+      "character_asset_id": null
+    },
+    {
+      "role": "sh/7ipkvixg",
+      "kind": "textbox",
+      "bbox": [
+        0.052083333333333336,
+        0.25,
+        0.8958333333333334,
+        0.1037037037037037
+      ],
+      "fill": null,
+      "font_family": "Pretendard",
+      "font_size": 76.4,
+      "font_weight": 700,
+      "alignment": "center",
+      "character_asset_id": null
+    },
+    {
+      "role": "sh/6hg3mdgv",
+      "kind": "textbox",
+      "bbox": [
+        0.078125,
+        0.35833333333333334,
+        0.84375,
+        0.06018518518518518
+      ],
+      "fill": null,
+      "font_family": "Pretendard",
+      "font_size": 36.4,
+      "font_weight": 700,
+      "alignment": "center",
+      "character_asset_id": null
+    },
+    {
+      "role": "tb/wr2d0re9",
+      "kind": "table",
+      "bbox": [
+        0.10364583333333334,
+        0.44907407407407407,
+        0.7932291666666667,
+        0.39351851851851855
+      ],
+      "fill": null,
+      "font_family": null,
+      "font_size": null,
+      "font_weight": 400,
+      "alignment": null,
+      "character_asset_id": null
+    },
+    {
+      "role": "sh/one1sjyh",
+      "kind": "shape",
+      "bbox": [
+        0.10364583333333334,
+        0.44907407407407407,
+        0.0125,
+        0.022222222222222223
+      ],
+      "fill": "#FFFFFF",
+      "font_family": null,
+      "font_size": null,
+      "font_weight": 400,
+      "alignment": null,
+      "character_asset_id": null
+    },
+    {
+      "role": "sh/adw3qlwz",
+      "kind": "shape",
+      "bbox": [
+        0.884375,
+        0.44907407407407407,
+        0.0125,
+        0.022222222222222223
+      ],
+      "fill": "#FFFFFF",
+      "font_family": null,
+      "font_size": null,
+      "font_weight": 400,
+      "alignment": null,
+      "character_asset_id": null
+    },
+    {
+      "role": "sh/vep4jqxk",
+      "kind": "shape",
+      "bbox": [
+        0.884375,
+        0.8203703703703704,
+        0.0125,
+        0.022222222222222223
+      ],
+      "fill": "#FFFFFF",
+      "font_family": null,
+      "font_size": null,
+      "font_weight": 400,
+      "alignment": null,
+      "character_asset_id": null
+    },
+    {
+      "role": "sh/wfylsve5",
+      "kind": "shape",
+      "bbox": [
+        0.10364583333333334,
+        0.8203703703703704,
+        0.0125,
+        0.022222222222222223
+      ],
+      "fill": "#FFFFFF",
+      "font_family": null,
+      "font_size": null,
+      "font_weight": 400,
+      "alignment": null,
+      "character_asset_id": null
+    },
+    {
+      "role": "sh/x07ml0fq",
+      "kind": "shape",
+      "bbox": [
+        0.10364583333333334,
+        0.8712962962962963,
+        0.7932291666666667,
+        0.07222222222222222
+      ],
+      "fill": "#484847",
+      "font_family": null,
+      "font_size": null,
+      "font_weight": 400,
+      "alignment": null,
+      "character_asset_id": null
+    },
+    {
+      "role": "sh/i1g3u5wb",
+      "kind": "textbox",
+      "bbox": [
+        0.1171875,
+        0.8796296296296297,
+        0.765625,
+        0.05555555555555555
+      ],
+      "fill": null,
+      "font_family": "Pretendard",
+      "font_size": 39,
+      "font_weight": 400,
+      "alignment": "center",
+      "character_asset_id": null
+    }
+  ]
+}

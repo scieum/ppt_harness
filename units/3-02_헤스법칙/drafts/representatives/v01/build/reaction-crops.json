@@ -1,0 +1,35 @@
+[
+  {
+    "id": "eq-carbon-total",
+    "pdf_page": 119,
+    "printed_page": 119,
+    "bbox_reference_1_2": [
+      120,
+      371,
+      405,
+      395
+    ]
+  },
+  {
+    "id": "eq-co-oxidation",
+    "pdf_page": 119,
+    "printed_page": 119,
+    "bbox_reference_1_2": [
+      120,
+      428,
+      405,
+      451
+    ]
+  },
+  {
+    "id": "W119-co-graph",
+    "pdf_page": 119,
+    "printed_page": 119,
+    "bbox_reference_1_2": [
+      163,
+      478,
+      402,
+      620
+    ]
+  }
+]

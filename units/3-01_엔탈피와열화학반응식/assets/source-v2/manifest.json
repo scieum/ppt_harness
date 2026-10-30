@@ -1,0 +1,314 @@
+[
+  {
+    "id": "graph-exo",
+    "source": "교과서 75쪽",
+    "rect_1376x1791": [
+      220,
+      785,
+      558,
+      1096
+    ],
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-01_엔탈피와열화학반응식/assets/source-v2/graph-exo.png",
+    "method": "Original PDF rendered at 360 dpi; region extraction only"
+  },
+  {
+    "id": "graph-endo",
+    "source": "교과서 75쪽",
+    "rect_1376x1791": [
+      589,
+      785,
+      928,
+      1096
+    ],
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-01_엔탈피와열화학반응식/assets/source-v2/graph-endo.png",
+    "method": "Original PDF rendered at 360 dpi; region extraction only"
+  },
+  {
+    "id": "eq-enthalpy",
+    "source": "교과서 75쪽",
+    "rect_1376x1791": [
+      250,
+      504,
+      900,
+      540
+    ],
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-01_엔탈피와열화학반응식/assets/source-v2/eq-enthalpy.png",
+    "method": "Original PDF rendered at 360 dpi; region extraction only"
+  },
+  {
+    "id": "eq-cao",
+    "source": "교과서 76쪽",
+    "rect_1376x1791": [
+      480,
+      455,
+      1127,
+      487
+    ],
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-01_엔탈피와열화학반응식/assets/source-v2/eq-cao.png",
+    "method": "Original PDF rendered at 360 dpi; region extraction only"
+  },
+  {
+    "id": "eq-nh4",
+    "source": "교과서 76쪽",
+    "rect_1376x1791": [
+      525,
+      501,
+      1080,
+      534
+    ],
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-01_엔탈피와열화학반응식/assets/source-v2/eq-nh4.png",
+    "method": "Original PDF rendered at 360 dpi; region extraction only"
+  },
+  {
+    "id": "coefficient-state",
+    "source": "교과서 76쪽",
+    "rect_1376x1791": [
+      490,
+      1267,
+      1118,
+      1628
+    ],
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-01_엔탈피와열화학반응식/assets/source-v2/coefficient-state.png",
+    "method": "Original PDF rendered at 360 dpi; region extraction only"
+  },
+  {
+    "id": "reaction-table",
+    "source": "교과서 77쪽",
+    "rect_1376x1791": [
+      163,
+      421,
+      984,
+      690
+    ],
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-01_엔탈피와열화학반응식/assets/source-v2/reaction-table.png",
+    "method": "Original PDF rendered at 360 dpi; region extraction only"
+  },
+  {
+    "id": "eq-caco3",
+    "source": "교과서 77쪽",
+    "rect_1376x1791": [
+      375,
+      986,
+      867,
+      1018
+    ],
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-01_엔탈피와열화학반응식/assets/source-v2/eq-caco3.png",
+    "method": "Original PDF rendered at 360 dpi; region extraction only"
+  },
+  {
+    "id": "calorimeter",
+    "source": "교과서 77쪽",
+    "rect_1376x1791": [
+      973,
+      1335,
+      1238,
+      1597
+    ],
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-01_엔탈피와열화학반응식/assets/source-v2/calorimeter.png",
+    "method": "Original PDF rendered at 360 dpi; region extraction only"
+  },
+  {
+    "id": "eq-q",
+    "source": "교과서 77쪽",
+    "rect_1376x1791": [
+      490,
+      1494,
+      638,
+      1528
+    ],
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-01_엔탈피와열화학반응식/assets/source-v2/eq-q.png",
+    "method": "Original PDF rendered at 360 dpi; region extraction only"
+  },
+  {
+    "id": "fuel-blank",
+    "source": "교과서 78쪽",
+    "rect_1376x1791": [
+      394,
+      1134,
+      1213,
+      1371
+    ],
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-01_엔탈피와열화학반응식/assets/source-v2/fuel-blank.png",
+    "method": "Original PDF rendered at 360 dpi; region extraction only"
+  },
+  {
+    "id": "eq-methane",
+    "source": "교과서 79쪽",
+    "rect_1376x1791": [
+      228,
+      494,
+      918,
+      529
+    ],
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-01_엔탈피와열화학반응식/assets/source-v2/eq-methane.png",
+    "method": "Original PDF rendered at 360 dpi; region extraction only"
+  },
+  {
+    "id": "eq-butane",
+    "source": "교과서 79쪽",
+    "rect_1376x1791": [
+      203,
+      541,
+      947,
+      578
+    ],
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-01_엔탈피와열화학반응식/assets/source-v2/eq-butane.png",
+    "method": "Original PDF rendered at 360 dpi; region extraction only"
+  },
+  {
+    "id": "eq-ethanol",
+    "source": "교과서 79쪽",
+    "rect_1376x1791": [
+      204,
+      877,
+      956,
+      912
+    ],
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-01_엔탈피와열화학반응식/assets/source-v2/eq-ethanol.png",
+    "method": "Original PDF rendered at 360 dpi; region extraction only"
+  },
+  {
+    "id": "eq-water-liquid",
+    "source": "교과서 79쪽",
+    "rect_1376x1791": [
+      296,
+      916,
+      956,
+      949
+    ],
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-01_엔탈피와열화학반응식/assets/source-v2/eq-water-liquid.png",
+    "method": "Original PDF rendered at 360 dpi; region extraction only"
+  },
+  {
+    "id": "molecules",
+    "source": "교과서 79쪽",
+    "rect_1376x1791": [
+      163,
+      1233,
+      999,
+      1409
+    ],
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-01_엔탈피와열화학반응식/assets/source-v2/molecules.png",
+    "method": "Original PDF rendered at 360 dpi; region extraction only"
+  },
+  {
+    "id": "eq-states",
+    "source": "교과서 79쪽",
+    "rect_1376x1791": [
+      450,
+      1515,
+      806,
+      1586
+    ],
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-01_엔탈피와열화학반응식/assets/source-v2/eq-states.png",
+    "method": "Original PDF rendered at 360 dpi; region extraction only"
+  },
+  {
+    "id": "graph-break",
+    "source": "교과서 80쪽",
+    "rect_1376x1791": [
+      394,
+      430,
+      776,
+      716
+    ],
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-01_엔탈피와열화학반응식/assets/source-v2/graph-break.png",
+    "method": "Original PDF rendered at 360 dpi; region extraction only"
+  },
+  {
+    "id": "graph-form",
+    "source": "교과서 80쪽",
+    "rect_1376x1791": [
+      825,
+      430,
+      1207,
+      716
+    ],
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-01_엔탈피와열화학반응식/assets/source-v2/graph-form.png",
+    "method": "Original PDF rendered at 360 dpi; region extraction only"
+  },
+  {
+    "id": "eq-break",
+    "source": "교과서 80쪽",
+    "rect_1376x1791": [
+      594,
+      956,
+      1010,
+      994
+    ],
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-01_엔탈피와열화학반응식/assets/source-v2/eq-break.png",
+    "method": "Original PDF rendered at 360 dpi; region extraction only"
+  },
+  {
+    "id": "bond-table",
+    "source": "교과서 80쪽",
+    "rect_1376x1791": [
+      393,
+      1190,
+      1214,
+      1628
+    ],
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-01_엔탈피와열화학반응식/assets/source-v2/bond-table.png",
+    "method": "Original PDF rendered at 360 dpi; region extraction only"
+  },
+  {
+    "id": "eq-water-gas",
+    "source": "교과서 81쪽",
+    "rect_1376x1791": [
+      412,
+      333,
+      735,
+      368
+    ],
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-01_엔탈피와열화학반응식/assets/source-v2/eq-water-gas.png",
+    "method": "Original PDF rendered at 360 dpi; region extraction only"
+  },
+  {
+    "id": "reaction-model",
+    "source": "교과서 81쪽",
+    "rect_1376x1791": [
+      164,
+      540,
+      1015,
+      778
+    ],
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-01_엔탈피와열화학반응식/assets/source-v2/reaction-model.png",
+    "method": "Original PDF rendered at 360 dpi; region extraction only"
+  },
+  {
+    "id": "eq-processes",
+    "source": "교과서 81쪽",
+    "rect_1376x1791": [
+      184,
+      931,
+      651,
+      1013
+    ],
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-01_엔탈피와열화학반응식/assets/source-v2/eq-processes.png",
+    "method": "Original PDF rendered at 360 dpi; region extraction only"
+  },
+  {
+    "id": "eq-bond",
+    "source": "교과서 81쪽",
+    "rect_1376x1791": [
+      201,
+      1336,
+      945,
+      1374
+    ],
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-01_엔탈피와열화학반응식/assets/source-v2/eq-bond.png",
+    "method": "Original PDF rendered at 360 dpi; region extraction only"
+  },
+  {
+    "id": "fuel-completed",
+    "source": "지도서 109쪽",
+    "rect_1376x1791": [
+      225,
+      887,
+      1043,
+      1105
+    ],
+    "file": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-01_엔탈피와열화학반응식/assets/source-v2/fuel-completed.png",
+    "method": "Original PDF rendered at 360 dpi; region extraction only"
+  }
+]

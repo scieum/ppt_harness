@@ -1,0 +1,402 @@
+[
+  {
+    "page": 1,
+    "text": "기획부터 디자인까지 쭉! \n\r\nAI 디자인 하네스 만들기\r\n직접 하네스를 만들고 UIBowl 구독권 선착순 선물까지!\r\n2026년 09월 29일 오후 9시 LIVE"
+  },
+  {
+    "page": 2,
+    "text": "PART 1\r\n지난 라이브\n\r\n요약\r\n오늘 라이브는 이렇게 진행됩니다\r\nPART 3\r\n하네스 \r\n실습\r\nPART 2\r\n사전설치\n\r\n상태 점검\r\nPART 4\r\n마무리"
+  },
+  {
+    "page": 3,
+    "text": "라이브가 끝나면 손에 남는 것\r\nGitHub에 올라간 나만의 하네스 저장소 하나입니다"
+  },
+  {
+    "page": 4,
+    "text": "오늘은 하네스를 직접 만들어보는 실습을 진행해요\r\n완성된 하네스를 실제로 돌려 결과물을 검증하는 건 진행하지 않아요"
+  },
+  {
+    "page": 5,
+    "text": "오늘 작업에서는 아래 6가지가 필요해요\r\nClaude Code\r\no Codex\r\n Po \r\nFigma MCP 연결\r\nFigma Po \r\nUI Bowl MCP 연결\r\n \r\nGitHub\r\n \r\n작업 폴더 내 서비스 PRD 5블록\r\n "
+  },
+  {
+    "page": 6,
+    "text": "Part 1\r\n리캡\r\n지난 라이브에서 다룬 개념을 빠르게 짚고 갑니다"
+  },
+  {
+    "page": 7,
+    "text": "01\r\n하네스란?\r\nAI의 판단 여지를 좁혀 일관된 결과를 만드는 장치입니다"
+  },
+  {
+    "page": 8,
+    "text": "Part 1 리캡\r\n01 하네스란?\r\nAI에게 그냥 디자인을 시키면 늘 3가지에서 제한이 걸려요\r\n규칙 없이 그때그때 판단하기 때문입니다\r\n1 매번 달라지는 결과물\r\n \r\n 이 \r\n2 결국 직접 수정이 필요함\r\n \r\n 이 \r\n3 제한된 확장성\r\n \r\n다 이 "
+  },
+  {
+    "page": 9,
+    "text": "Part 1 리캡\r\n01 하네스란?\r\n말의 고삐처럼 어디로 갈지 미리 정해둬요\r\nAI가 정해진 틀 안에서만 움직이게 만듭니다"
+  },
+  {
+    "page": 10,
+    "text": "Part 1 리캡\r\n02 하네스의 4가지 부품\r\n부품\r\n1 Phase\r\n2 산출물\r\n3 게이트\r\n4 에이전트\r\n하네스의 4가지 부품\r\n단계를 자르고, 파일을 남기고, 관문을 두고, 담당을 나눕니다\r\n역할\r\n단계\r\n한 줄 설명\r\n일을 3~5 덩어리로 자른 것\r\n 다\r\n각 단계가 남기는 파일. 상태\r\n다음 단계로 넘어가는 통과 조건.\r\n기계 다 관문\r\n자기 다\r\n각 단계 전문가 담당자"
+  },
+  {
+    "page": 11,
+    "text": "Part 1 리캡\r\n03 좋은 하네스의 기준\r\n기준\r\n1 SSOT\r\n2 강제성\r\n3 역할 분리\r\n4 게이트\r\n좋은 하네스의 4가지 기준\r\n좋은 하네스를 만들려면 명확한 판단 기준을 갖고 생성해야 해요\r\n뜻 어기면\r\n규칙은 딱 한 파일에만 존재 규칙이 여러 군데 흩어져 서로 어긋남\r\n문서(선언) + 에이전트(안내) + 스크립트(자동 차단) 3층 문서만 있으면 아무도 안 지킨다\r\n만능 1명보다 전문가 여럿 한 에이전트가 다 하면 결국 아무 규칙도 안 지킨다\r\n단계 사이 통과 조건 나중에 재작업이 폭발한다"
+  },
+  {
+    "page": 12,
+    "text": "Part 1 리캡\r\n05 구조 투어\r\n하네스는 개념이 아니라 파일 세트이자  \r\n환경설정입니다. \r\n폴더를 열면 Phase와 게이트, 에이전트가 파일로 존재합니다\r\nCLAUDE.md\r\n.claude/agents/\r\n.claude/commands/ \r\nscripts/\r\ndesign/ \r\nanalysis.md\r\ndesign-rules.md\r\ntokens.md\r\nscreens.md\r\ndesignflowharn\r\ness-main\r\n하네스 헌법\r\n6개 에이전트(자연어 기반 실행)\r\n6개 스킬 명령(/로 직접 실행)\r\n검증 스크립트\r\n산출물"
+  },
+  {
+    "page": 13,
+    "text": "Part 2\r\n도메인\r\n하네스 설계는 내 도메인에서 시작합니다"
+  },
+  {
+    "page": 14,
+    "text": "01\r\n도메인 주도 설계\r\n내 서비스 맥락에 맞는 설계를 끌어내는 방법입니다"
+  },
+  {
+    "page": 15,
+    "text": "Part 2 도메인\r\n01 도메인 주도 설계\r\n도메인 주도 설계란?\r\n비즈니스나 서비스 원칙에 기반해 설계하는 방식이에요\r\n무엇을 만들지부터 정한다 무엇을 지켜야 하는지부터 정한다\r\n화면부터 그린다 서비스 원칙부터 정한다\r\nAI가 아는 일반론으로 만든다 내 서비스 원칙에서 출발한다"
+  },
+  {
+    "page": 16,
+    "text": "Part 2 도메인\r\n01 도메인 주도 설계\r\n도메인 스토리텔링이란?\r\n내가 작업할 도메인에 대한 내용을 인터뷰 형식으로 간략하게 문의해달라고 AI한테 요청합니다.\n\r\n제품을 설계하기 위한 방법이지만 하네스에도 적용하면 우리 서비스 맥락에 맞는 설계를 할 확률이 높아집니다.\r\n버디\r\n허들링 클럽은 디자이너들이 AI \r\n실험을 하는 커뮤니티야 AI\r\n실험은 한 번에 몇 개까지 열리나요?\r\n버디\r\n한 사이클에 2개의 실험이 있고, \r\n한 번에 1개만 열려.\r\nAI\r\n한 사이클 당 2개의 실험이 진행되\r\n고, 실험은 한 달에 하나만 노출된다. \r\n규칙이 정리됐습니다"
+  },
+  {
+    "page": 17,
+    "text": "Part 2 도메인\r\n01 도메인 주도 설계\r\n왜 반영해야 할까요?\r\nAI가 우리 서비스의 맥락을 가지고 있지 않은 상태에서 요청하면  \r\n실무에 바로 적용하기 힘든 UI가 나올수 있어요. \r\n게이트 조건을 뭘로 할까?\r\n 이\r\n화면당 요소 10개 이하\r\n어디서나 쓰는 일반론\r\n 반\r\n미션은 한 달에 하나만 노출\r\n우리 서비스에서만 나오는 조건"
+  },
+  {
+    "page": 18,
+    "text": "Part 2 도메인\r\n01 도메인 주도 설계\r\n하네스 작업 할 때도 그대로\n\r\nAI가 학습하게 적용할 수 있어요\r\n도메인 스토리텔링은 도메인 주도 설계에서 요구사항 파악에 사용됩니다. \n\r\n이 방법을 활용하면 우리 서비스 맥락에 맞는 설계가 나올 확률이 높아집니다\r\n이 파트에서 쓰임\r\n제품 설계\r\n똑같이 쓰임\r\n하네스 설계"
+  },
+  {
+    "page": 19,
+    "text": "02\r\n두가지 도메인\r\n둘 다 필요하고, 각각 하네스의 다른 부분을 만듭니다"
+  },
+  {
+    "page": 20,
+    "text": "Part 2 도메인\r\n02 두가지 도메인\r\n이야기의 주인공\r\n어디서 나오나\r\n문장 예시\r\n여기서 나오는 것\r\n하네스의 어느 부분\r\n서비스 도메인과 작업 도메인\r\n주인공도 다르고, 나오는 곳도 다릅니다\r\n서비스 도메인 R0-A 주어가 ‘사용자‘ 일 때 작업 도메인 R0-B 주어가 ‘나‘ 일 때\r\n서비스 사용자 나 디자이너\r\nPRD 내 실제 경험\r\n‘멤버가 이번 달 미션을 확인한다'\r\n화면 목록 · 도메인 용어 · \n\r\n무엇이 좋은 결과인가 · 금지사항\r\n기준과 기본값의 내용\r\n‘디자이너가 레퍼런스를 모은다'\r\nPhase · 게이트의 위치 · 에이전트 경계\r\n파이프라인의 구조"
+  },
+  {
+    "page": 21,
+    "text": "Part 2 도메인\r\n02 두가지 도메인\r\n작업 스토리는 게이트를 ’어디에’둘지 알려주고, \n\r\n서비스 스토리는 그 게이트를 ‘무엇으로‘ 통과시킬지 알려줘요\r\n작업 스토리만 있으면 게이트는 생기는데 통과 조건이 ‘개수 세기’로 전락합니다. \n\r\n서비스 스토리만 있으면 언제 멈춰야 하는지를 모릅니다.\r\n 작업 스토리 R0-B 서비스 스토리 R0-A\r\n게이트\r\n게이트를 '어디에' 둘지\n\r\n멈칫한 지점이 곧 관문 자리\r\n게이트\r\n그 게이트를 '무엇으로'\n\r\n통과시킬지, PRD의 '어기면\n\r\n안 되는 것'이 곧 합격선"
+  },
+  {
+    "page": 22,
+    "text": "Part 2 도메인\r\n02 주어가 ‘사용자‘ 일 때\r\nR0-A 주어가 ‘사용자‘ 일 때\r\n멤버 가 이번 달 미션을 확인한다’ 와 같이\r\n주어가 ‘서비스 사용자’면 R0-A에요\r\n멤버 가 이번 달 미션을 확인한다\r\n멤버 가 미션을 완료하고 인증한다\r\n멤버 가 내 자산에서 참여 기록을 본다\r\n운영진 이 이번 달 미션을 등록한다\r\n멤버 가 허들링 픽에서 추천 콘텐츠를 본다\r\nR0-A\r\nR0-A\r\nR0-A\r\nR0-A\r\nR0-A"
+  },
+  {
+    "page": 23,
+    "text": "Part 2 도메인\r\n02 주어가 ‘사용자‘ 일 때\r\nR0-A 주어가 ‘사용자‘ 일 때\r\n여기서 게이트의 합격선이 나와요\r\n무엇이 좋은 결과인가를 PRD가 알려줍니다\r\n1 PRD에 이렇게 쓰여 있다 2 그래서 이건 어기면 안 된다 3 게이트는 이걸 이렇게 센다\r\n화면당 미션 카드 1개. \n\r\n2개 이상이면 실패 \"미션은 한 달에 하나만 열린다\" 한 달에 두 개 이상 노출 금지"
+  },
+  {
+    "page": 24,
+    "text": "Part 2 도메인\r\n02 두가지 도메인\r\n디자이너\r\nR0-B 주어가 ‘나‘ 일 때\r\n가 개발자에게 목록을 전달한다’ 와 같이\r\n주어가 ‘나’면 R0-B에요\r\n디자이너\r\n디자이너\r\n디자이너\r\n디자이너\r\n디자이너\r\n디자이너\r\n가 개발된 화면을 브라우저에서 연다\r\n가 피그마 원본과 나란히 놓고 비교한다\r\n가 다른 부분을 스크린샷 찍어 표시한다\r\n가 수정 요청 목록을 문서로 정리한다\r\n가 \"이 정도면 넘겨도 되나\" 하고 멈칫한다\r\n가 개발자에게 목록을 전달한다\r\nR0-B\r\nR0-B\r\nR0-B\r\nR0-B\r\nR0-B\r\nR0-B"
+  },
+  {
+    "page": 25,
+    "text": "Part 2 도메인\r\n02 두가지 도메인\r\nR0-B 주어가 ‘나‘ 일 때\r\n여기서 게이트의 위치가 나와요\r\n어디서 멈칫했는지가 곧 관문 자리입니다\r\n디자이너\r\n디자이너\r\n디자이너\r\n디자이너\r\n디자이너\r\n디자이너\r\n가 개발된 화면을 브라우저에서 연다\r\n가 피그마 원본과 나란히 놓고 비교한다\r\n가 다른 부분을 스크린샷 찍어 표시한다\r\n가 \"이 정도면 넘겨도 되나\" 하고 멈칫한다\r\n가 \"이 정도면 넘겨도 되나\" 하고 멈칫한다\r\n가 개발자에게 목록을 전달한다\r\n게이트 위치\r\n가 수정 요청 목록을 문서로 정리한다 디자이너\r\n디자이너 가 개발자에게 목록을 전달한다\r\n에이전트 경계\r\n게이트"
+  },
+  {
+    "page": 26,
+    "text": "03\r\nPRD는 작업 순서까지\n\r\n알려주지 않습니다\r\n무엇을 만들지는 PRD가, 어떻게 할지는 내가 정합니다"
+  },
+  {
+    "page": 27,
+    "text": "Part 2 도메인\r\n03 PRD의 한계\r\nPRD가 정해주는 건 무엇을 만드는가까지!\r\n어떤 순서로 하고 어디서 멈칫하는지는 해본 경험에서만 나옵니다\r\nR0-A 서비스 스토리 R0-B 작업 스토리\r\n출처 · PRD\r\n작업의 \"범위\" \r\n게이트의 \"합격선\" \r\n출처 · 내 실제 경험\r\n작업의 \"순서\"\r\n\"멈칫 지점\"\r\n결론 순서와 멈칫 지점은 PRD에 없습니다 그 일을 직접 해본 사람만 알 수 있기 때문입니다"
+  },
+  {
+    "page": 28,
+    "text": "Part 2 도메인\r\n03 PRD의 한계\r\nR0-A는 R0-B의 재료가 아니라 판정하는 기준이에요\r\n둘을 섞으면 하네스가 현실에서 안 돌아갑니다\r\nR0-A 주어가 ‘사용자‘ 일 때 R0-B 주어가 ‘나‘ 일 때"
+  },
+  {
+    "page": 29,
+    "text": "Part 2 도메인\r\n03 PRD의 한계\r\n결과는 산출물, 각 단계는 Phase로 구분해요.\r\n명사는 산출물 파일로, 동사는 Phase로, 넘기는 순간은 에이전트 경계로\r\nPhase 1\r\nPhase 2\r\nPhase 3\r\nPhase 4\r\n디자이너가 개발된 화면을 브라우저에서 열어 피그마 원본과 나란히 놓고 비교한다\r\n디자이너가 다른 부분을 스크린샷 찍어 표시한다\r\n디자이너가 수정 요청 목록을 문서로 정리한다\r\n이 정도면 넘겨도 되나..? (멈칫)\r\n디자이너가 개발자에게 목록을 전달한다\r\n에이전트 경계\r\n→\r\n→\r\n→\r\n→\r\n산출물\r\n산출물\r\n산출물\r\nscreenshots/\r\ndiff-list.md\r\nqa-report.md\r\n게이트\r\n→ 개발자로 넘어감"
+  },
+  {
+    "page": 30,
+    "text": "Part 2 도메인\r\n03 PRD의 한계\r\n이제 여러분 도메인으로 뽑아볼 차례에요\r\n두 스토리를 각각 파일로 만드는 게 첫 번째 실습입니다\r\nR0-A 서비스 스토리 R0-B 작업 스토리\r\nS1-A 프롬프트 S1-B 프롬프트\r\nstory-service.md story-work.md"
+  },
+  {
+    "page": 31,
+    "text": "Part 3\r\n하네스 실습\r\n각자의 도메인으로 직접 하네스 뼈대를 만듭니다"
+  },
+  {
+    "page": 32,
+    "text": "01\r\n준비 확인\r\n5분 · 터미널과 PRD가 준비됐는지 확인합니다"
+  },
+  {
+    "page": 33,
+    "text": "Part 3 하네스 실습\r\n01 준비 확인\r\n작업 폴더로 이동해 Claude Code또는 codex를 실행해요\r\ncd ~/Desktop/[작업 폴더] 그리고 claude\r\n작업 폴더"
+  },
+  {
+    "page": 34,
+    "text": "Part 3 하네스 실습\r\n01 준비 확인\r\n실습 전, 준비 상태를 점검해요\r\nMCP가 connected 상태이고 PRD를 복사할 수 있으면 다음으로 갑니다\r\n/mcp "
+  },
+  {
+    "page": 35,
+    "text": "02\r\nPRD에서 서비스\n\r\n유저스토리 뽑기\r\n7분 · 게이트의 합격선이 될 기준을 찾습니다"
+  },
+  {
+    "page": 36,
+    "text": "Part 3 하네스 실습\r\n02 서비스 유저스토리 뽑기\r\n유저스토리 5문장과 어기면 안 되는 것 1~2개를 먼저 뽑아요\r\n이 기준이 나중에 게이트의 합격선이 됩니다\r\n멤버가 이번 달 미션을 확인한다\r\n멤버가 스킬을 탐색한다\r\n멤버가 산출물을 제출한다\r\n멤버가 자산으로 전환한다\r\n멤버가 다른 멤버 자산을 구매한다\r\n무료/유료/판매용이 화면에서 구분된다\r\n학습에서 자산화까지의 흐름이 화면으로 드러난다"
+  },
+  {
+    "page": 37,
+    "text": "Part 3 하네스 실습\r\n02 서비스 유저스토리 뽑기\r\n준비한 PRD를 복사할 수 있는 상태로 열기\r\nPRD가 없으시다면 제공되는 템플릿을 채우거나, 제공 샘플 PRD를 그대로 쓰면 됩니다\r\n옵션 A 옵션 B\r\nPRD 없으\r\n , "
+  },
+  {
+    "page": 38,
+    "text": "Part 3 하네스 실습\r\n02 서비스 유저스토리 뽑기\r\n체크리스트로 주어와 기준을 확인해봐요\r\n아래 4가지 중 3개 이상이면 S1-B에서 진행해주세요\r\n유저스토리가 5문장 이내다\r\n모든 문장의 주어가 서비스 사용자다 (내가 아니라)\r\n‘어기면 안 되는 것'이 1개 이상 있다\r\n그 기준이 확인 가능한 형태다\r\n 모든 면에 상태가 있어 한다"
+  },
+  {
+    "page": 39,
+    "text": "Part 3 하네스 실습\r\n02 서비스 유저스토리 뽑기\r\n막혔을 때는 이렇게 대응해봐요\r\n안심하고 해당하는 증상을 찾아 대응을 그대로 따라해보세요\r\n증상\r\nAI가 PRD에 없는 걸 그럴듯하게 채워요\r\n대응\r\n\"그건 PRD에 없어. 지우고 나한테 물어봐\"라고 되돌린다\r\n\"어기면 안 되는 것\"이 안 나와요 \"이 서비스에서 이게 빠지면 반려당한다\" 싶은 걸 직접 1개 적는다\r\n기준이 \"사용성이 좋아야 한다\"처럼 모호해요 \"화면을 보고 O/X로 판정할 수 있게 바꿔줘\"라고 요청한다\r\nPRD가 너무 길어 다 못 붙여넣어요 2장 5블록에 해당하는 부분만 발췌해서 붙여넣는다"
+  },
+  {
+    "page": 40,
+    "text": "Part 3 하네스 실습\r\n02 서비스 유저스토리 뽑기\r\nPRD 있을때 S1-A 프롬프트 R0-A 주어가 ‘사용자‘ 일 때\r\n‘지어내지 마’ 가 핵심이에요\r\nAI가 없는 걸 채우면 게이트 합격선이 내 서비스와 무관해집니다\r\n내 서비스 PRD 경로를 알려줄게. \n\n\r\n@PRD명 \n\n\r\n여기서 유저스토리를 뽑아줘.\n\r\n- \"[서비스 사용자]가 [무엇을] [한다]\" 형식으로 5문장 이내\n\r\n- PRD에 없는 내용은 절대 지어내지 마. 빠진 게 있으면 나한테 물어봐.\n\r\n- 그리고 \"이 서비스에서 어기면 안 되는 것\" 1~2개를 PRD에서 찾아줘.\n\r\n (PRD에 없으면 없다고 말해줘 — 내가 직접 정할게)\n\n\r\n뽑은 걸 표로 보여주고 맞는지 나한테 확인받아.\n\r\n확인되면 story-service.md 로 저장해줘."
+  },
+  {
+    "page": 41,
+    "text": "Part 3 하네스 실습\r\n02 서비스 유저스토리 뽑기\r\nPRD 없을때 옵션 A · C-1 템플릿\r\n최소 PRD 5블록 템플릿 (즉석 작성용)\r\nPRD를 못 가져왔다면 이 틀에 5분 안에 채우세요. 3번만은 꼭 쓰세요. 나머지는 한 줄씩이어도 됩니다.\r\n1. 한 줄 정의\n\r\n ○○는 [누구]가 [무엇]을 [어떻게] 하는 서비스다.\n\n\r\n2. 주요 사용자 1명\n\r\n 누구:\n\r\n 지금 무엇에 지쳐 있나:\n\n\r\n3. 사용자 시나리오 2~3개 ← 가장 중요\n\r\n 시나리오 1 ·\n\r\n 1) 사용자가 ○○를 한다\n\r\n 2) 사용자가 ○○를 한다\n\r\n 3) 사용자가 ○○를 한다\n\r\n 시나리오 2 ·\n\r\n 1)\n\r\n 2)\n\r\n 3)\n\n\r\n4. 만들 화면 3~5개 (이름만)\n\r\n -\n\r\n -\n\r\n -\n\n\r\n5. 지켜야 할 것 / 안 할 것 ← 게이트 합격선의 재료\n\r\n 지켜야 할 것:\n\r\n 안 할 것:"
+  },
+  {
+    "page": 42,
+    "text": "Part 3 하네스 실습\r\n02 서비스 유저스토리 뽑기\r\n옵션 A · C-1 템플릿 중 지켜야할 것/안할 것 쓰는 요령\r\n기준: 완성된 화면을 보고 O,X로 판정할 수 있으면 게이트가 됩니다.\r\n사용성이 좋아야 한다 모든 목록 화면에 빈 상태 화면이 있어야 한다\r\n브랜드에 맞아야 한다 CTA 버튼은 화면당 1개만 둔다\r\n정보가 명확해야 한다 가격은 항상 세금 포함 금액으로 표기한다"
+  },
+  {
+    "page": 43,
+    "text": "Part 3 하네스 실습\r\n02 서비스 유저스토리 뽑기\r\nPRD 없을때 옵션 B · C-2 샘플 템플릿\r\n샘플 PRD (그대로 복사해서 써도 돼요)\r\n실제 프로젝트 PRD를 5블록으로 축약한 것입니다. \r\n PRD \r\n1. 한 줄 정의\n\r\n 허들링 앱은 AI 실무 학습자료·스킬 라이브러리·멤버 산출물을\n\r\n 한곳에서 학습하고 자산화하는 플랫폼이다.\n\n\r\n2. 주요 사용자 1명\n\r\n 누구: 유료 멤버. 20~40대 1인 사업가 / 디자이너 / 기획자 / 개발자.\n\r\n 지금 무엇에 지쳐 있나:\n\r\n AI 도구를 실무에 쓰고 싶은데 자료가 Discord·웹·강의자료에 흩어져 있어\n\r\n 매번 다시 찾는 데 지쳐 있다. 무료/유료/판매용이 뒤섞여 구분도 안 된다.\n\n\r\n3. 사용자 시나리오\n\r\n 시나리오 1 · 이번 달 학습 시작\n\r\n 1) 멤버가 홈에서 이번 달 미션을 확인한다\n\r\n 2) 멤버가 미션에 맞는 스킬 라이브러리를 탐색한다\n\r\n 3) 멤버가 스킬 카드를 골라 실무에 적용한다\n\r\n 시나리오 2 · 산출물 자산화\n\r\n 1) 멤버가 미션 수행 후 결과물을 제출한다\n\r\n 2) 멤버가 피드백을 받고 수정한다\n\r\n 3) 승인된 산출물이 내 자산으로 전환된다\n\r\n 시나리오 3 · 다른 멤버 자산 탐색\n\r\n 1) 멤버가 검증된 다른 멤버의 자산을 둘러본다\n\r\n 2) 멤버가 실무에 바로 쓸 자산을 구매한다\n\n\r\n4. 만들 화면 (5개)\n\r\n 홈 / 스킬 라이브러리 / 미션 상세 / 내 자산 / 허들링 픽\n\n\r\n5. 지켜야 할 것 / 안 할 것\n\r\n 지켜야 할 것:\n\r\n - 무료 / 유료 / 판매용 자료가 화면에서 명확히 구분되어야 한다\n\r\n - 콘텐츠 → 미션 → 제출 → 피드백 → 자산화 흐름이 화면으로 드러나야 한다\n\r\n 안 할 것:\n\r\n - 실시간 채팅 (Discord가 담당)\n\r\n - 결제 정산\n\r\n - 리뷰 / 평점 시스템\n"
+  },
+  {
+    "page": 44,
+    "text": "Part 3 하네스 실습\r\n02 서비스 유저스토리 뽑기\r\nC-2 샘플 템플릿으로 R0-A 를 돌리면 이렇게 나와요\r\n1\r\n4\r\n멤버가 이번 달 미션을 확인한다 2 스킬을 탐색한다 \r\n자산으로 전환한다 5 다른 멤버 자산을 구매한다\r\n3 산출물을 제출한다 1 유저스토리\r\n1\r\n2\r\n무료·유료·판매용이 화면에서 구분된다 \r\n학습→자산화 흐름이 화면으로 드러난다 2 어기면 안 되는 것\r\n1\r\n2\r\n모든 카드 컴포넌트에 무료/유료 배지가 있는가\r\n미션 상세에 제출 진입점이 있는가 3 → 게이트 후보"
+  },
+  {
+    "page": 45,
+    "text": "03\r\n내 작업 흐름 7문장\r\n13분 · 게이트의 위치를 찾습니다"
+  },
+  {
+    "page": 46,
+    "text": "Part 3 하네스 실습\r\n03 내 작업 흐름 7문장\r\nAI 없이 손으로 했던 마지막 경험을 말해요\r\n이상적인 방식 말고 실제로 했던 순서 그대로\r\n방금 만든 것\r\nstory-service.md\r\n↓\r\n멤버가 이번 달 미션을 확인한다\r\n주어 = 서비스 사용자\r\n지금부터 만들 것\r\nstory-work.md\r\n↓\r\n자이가 을 다\r\n주어 = 나"
+  },
+  {
+    "page": 47,
+    "text": "Part 3 하네스 실습\r\n03 내 작업 흐름 7문장\r\n좋은 문장과 나쁜 문장을 구분해봐요\r\n주어가 '나'이고, AI 없이 하던 방식이고, 남는 파일이 있어야 하며, 너무 크거나 잘게 쪼개지 않은 5~7문장이면 됩니다\r\n나쁜 문장\r\n디자인 시스템을 관리한다\r\n왜?\r\n주어 없음. 너무 큼\r\nAS-IS가 아님\r\nAI 없이 하던 방식이어야 \r\n이건 R0-A(서비스)지 R0-B가 아님\r\n고친 문장\r\n디자이너가 피그마 파일에서 사용 중인 색상값을 전부 뽑는다\r\nAI가 컴포넌트를 검사한다 디자이너가 컴포넌트를 하나씩 열어 토큰과 대조한다\r\n사용자가 상품을 검색한다 디자이너가 검색 화면 시안을 3개 만든다\r\n좋은 결과물을 만든다 남는 파일이 없음 디자이너가 수정 목록을 노션 페이지에 적는다\r\n(문장 12개) 너무 잘게 쪼갬 비슷한 것끼리 묶어서 7개 이하로"
+  },
+  {
+    "page": 48,
+    "text": "Part 3 하네스 실습\r\n03 내 작업 흐름 7문장\r\n체크리스트로 조건을 지켰는지 확인해봐요\r\n아래 5가지 중 4개 이상이면 S2에서 진행해주세요\r\n문장이 5~7개다 (8개 넘으면 묶는다)\r\n 모든 면에 상가 있어 한다\r\n모든 문장의 주어가 나(또는 우리 팀)다\r\n서 사가 아다\r\n\"AI가 ~한다\"는 문장이 하나도 없다 \r\n있으면 ASIS가 아\r\n문장에서 뽑은 명사(산출물)가 3개 이상이다\r\n멈칫한 지점이 1곳 이상 표시돼 있다"
+  },
+  {
+    "page": 49,
+    "text": "Part 3 하네스 실습\r\n03 내 작업 흐름 7문장\r\n막혔을 때는 이렇게 대응해봐요\r\n안심하고 해당하는 증상을 찾아 대응을 그대로 따라해보세요\r\n증상 대응\r\n문장이 안 떠올라요 부록 A의 예시 3개를 보고 가장 비슷한 걸 골라 단어만 바꿔본다\r\nR0-A와 자꾸 섞여요 \"주어가 서비스 사용자면 R0-A, 나면 R0-B\"로 구분한다\r\n\"누군가에게 보여주고 OK 받은 적 있나?\" \"다시 한 적 있나?\"를 \n\r\n스스로 물어본다. 그 지점이 게이트다 멈칫한 지점이 없어요\r\nAI가 문장을 대신 써줘요 \"내가 직접 말할 테니 받아쓰기만 해\"라고 다시 요청한다"
+  },
+  {
+    "page": 50,
+    "text": "Part 3 하네스 실습\r\n03 내 작업 흐름 7문장\r\nS1-B 프롬프트 R0-B 주어가 ‘나‘ 일 때\r\n이번엔 story-work.md 를 만들어요\r\nAI 없이 손으로 했던 마지막 경험을 5~7문장으로 말하면 됩니다\r\n좋아. 이제 내가 이 서비스를 위해 어떻게 작업하는지를 얘기할게.\n\n\r\n방금 만든 story-service.md 는 \"무엇을 위한 일인지\"의 기준이고,\n\r\n지금부터는 \"내가 실제로 어떻게 했는지\"야. 둘은 다른 얘기니까 섞지 마.\n\n\r\n이 일을 AI 없이 손으로 했던 마지막 경험을\n\r\n\"[누가] [무엇을] [한다]\" 문장 5~7개로 말할 테니 받아줘.\n\n\r\n내가 문장을 다 말하면,\n\r\n- 명사(산출물이 될 것)\n\r\n- 내가 멈칫했다고 표시한 지점(게이트가 될 것)\n\r\n- 다른 사람/도구로 넘어가는 지점(에이전트 경계가 될 것)\n\r\n이 세 가지를 뽑아서 표로 보여주고, 맞는지 나한테 확인받아줘.\n\n\r\n먼저 내가 어떻게 답하면 되는지 좋은 예시 하나만 보여줘.\n"
+  },
+  {
+    "page": 51,
+    "text": "Part 3 하네스 실습\r\n03 내 작업 흐름 7문장\r\nAI 답변 S1-B 프롬프트\r\nAI는 이런 식으로 답을 보여줘요\r\n여러분 화면에서는 각자의 작업 흐름으로 나옵니다. 형식만 참고하세요\r\n❯ 1. 나는 uibowl에서 경쟁사 레퍼런스를 수집한다.\n\r\n 2. 레퍼런스를 토대로 분석하고 우리 서비스에 반영할 부분을 가져온다.\n\r\n 3. 분석내용을 토대로 우리 서비스 화면 설계 문서를 구체화한다.\n\r\n 4. figma에 레퍼런스와 화면설계서를 반영한 ui키스크린 2~3개를\n\r\n 390*844사이즈로 그린다.\n\r\n 5. 내부 관계자들과협의 후 컨셉 시안을 확정한다.\n\r\n 6. 컨펌된 시안을 기반으로 디자인 토큰과 컴포넌트를 제작하고, 화면\n\r\n 디자인에 들어간다.\n\r\n 7. 완성된 시안에서 토큰이나 컴포넌트가 우리 가이드에 위반된 부분이\n\r\n 없는지 검토한다."
+  },
+  {
+    "page": 52,
+    "text": "04\r\n내 기준으로\n\r\n세부 보완하기\r\n평소 쓰는 기준을 넣어 하네스를 내 것으로 만듭니다"
+  },
+  {
+    "page": 53,
+    "text": "Part 3 하네스 실습\r\n04 세부 보완\r\n하네스 뼈대에 내 작업에 맞는 스타일 입혀주기\r\n설계한 하네스가 평소 작업 스타일과 맞도록 기존 작업 문서를 넣어주세요\r\n종류 예시 사용 도메인\r\n토큰 가이드 색상 · 간격 · 폰트 기준값 UI 디자인 도메인\r\n컴포넌트 가이드 버튼 · 카드 등 재사용 규칙 디자인 시스템 도메인\r\n체크리스트 QA 항목 · 핸드오프 항목 검수 · 리뷰 도메인\r\n템플릿 문서 양식 · 보고 형식 문서 작성 도메인\r\n레퍼런스 잘 나온 지난 결과물 1~2개 전부 가장 효과 좋음"
+  },
+  {
+    "page": 54,
+    "text": "Part 3 하네스 실습\r\n04 세부 보완\r\n정리된 기준 문서가 없다면?\n\r\n잘 나온 디자인 결과물 레퍼런스를 넣어주기\r\n만족스러운 레퍼런스를 design.md 형식으로 넣어주면, \n\r\nAI가 해당 문서를 기준으로 삼아요\r\ndesignd \r\n## Colors\n\r\n- ink #141414 · 제목, 본문, 주요 버튼\n\r\n- canvas #ffffff · 기본 배경\n\r\n- canvas-soft #f3f3f3 · 강조 카드 배경\n\r\n- accent #0066ff · '인기' 배지에만 (CTA에는 쓰지 않음)\n\n\r\n## Typography · Pretendard\n\r\n- display 32 / Bold · heading-1 28 / Bold\n\r\n- body 15 / Regular · caption 12 / Regular\n\n\r\n## Spacing · 8px 단위\n\r\n4 · 8 · 12 · 16 · 24 · 32 · 48 · 64\n\n\r\n## Radius\n\r\n0 · 16 입력·타일 · 24 카드 · full 모든 버튼\n\n\r\n## Don't\n\r\n- 그림자 쓰지 않기\n\r\n- accent 색을 CTA에 쓰지 않기\r\ndesign.md\r\n게이트 판정 기준\r\nAI 작업 기준"
+  },
+  {
+    "page": 55,
+    "text": "Part 3 하네스 실습\r\n04 세부 보완\r\ndesign.md는 이런 순서로 구성해요\r\n게이트 라운드(R5)에서 design.md 문서가 디자인 규칙을 판정하는  \r\n*rules.yaml의 통과 조건으로 옮겨져요\r\n*rules.yaml: 게이트가 채점하는 정답표\r\n1 Overview 서비스 한 줄 소개와 비주얼 성격 게이트엔 쓰지 않아요\r\n2 Colors 역할별 hex 값 ink · canvas · canvas-soft · accent … 허용 색 목록\r\n3 Typography 서체와 타이포그래피 표 크기, 굵기, 줄간격 허용 타이포 조합\r\n4 Layout · Shapes 간격 토큰, 기준 화면 크기, 모서리 값 허용 간격 · 모서리\r\n5 Components · Do's and Don'ts 버튼·카드 규칙과 금지 사항 셀 수 있는 것만 게이트로 통과"
+  },
+  {
+    "page": 56,
+    "text": "Part 3 하네스 실습\r\n04 세부 보완\r\nS3-A 세부 보완단계 템플릿\r\n세부 보완 단계 추가하기 (그대로 복사해서 사용해도 됩니다)\r\n이제 세부사항을 보완하자.  \r\n내가 평소 쓰는 기준을 컨텍스트로 줄게. 아래 내용을 반영해서 \r\n하네스의 기본값 파일(default-*.md)과 게이트 조건을 구체화해줘.  \r\n[여기에 내 기준을 붙여넣기 — 색상값 / 체크리스트 / 템플릿 / 잘 나온 예시] \r\ndesign.md 하나를 가져와서 사용해도 된다.   \r\n반영할 때: \r\n- 기본값 파일을 따로 만들어줘. 내가 값을 안 정해도 진행되도록. \r\n- 게이트 조건에 이 기준을 위반하면 걸리도록 넣어줘. \r\n- 내가 준 것 외에 네가 임의로 추가한 값이 있으면 따로 표시해줘.\n"
+  },
+  {
+    "page": 57,
+    "text": "Part 3 하네스 실습\r\n04 세부 보완\r\n디자인 가이드가 없을때 S3-B · 가이드 복사하기\r\ndesign.md 예시용 프롬프트 \r\n디자인 가이드가 없으면 아래 design.md 전체를 복사해\n\r\ndocs/design.md로 저장하고 내 서비스 값으로 바꾸세요\r\n## Overview\n\n\r\nHuddling (허들링) is an AI practice lab and asset library — learning materials, skill/\r\nprompt cards, and member-made assets — and its own interface is engineered to get \r\nout of the way. The system is strictly monochrome: near-black ink (`{colors.ink}` — \r\n#141414) on a pure white canvas (`{colors.canvas}`), with structure carried by a ladder \r\nof barely-perceptible neutral tints rather than by shadows or color. The learning \r\ncontent, skill cards, example outputs, and member assets the app exists to show are \r\nthe only saturated elements on any page — the chrome frames them the way a gallery \r\nwall frames paintings.\n\n\r\nThe geometry does the brand work that color refuses to do. Every interactive element \r\nis a stadium pill (`{rounded.full}`): the floating navigation bar, every button, the \r\nsegmented billing toggle, the overlay badges. Containers sit at a calm `{rounded.md}` \r\n(24px), media tiles at `{rounded.sm}` (16px), and app icons render as iOS-style \r\nsquircles at 30% corner radius. Type is set in Pretendard with strong weight contrast — \r\nBold 700 for every heading, Regular 400 for text, Light 300 for lead subtitles — which \r\ngives the monochrome pages a strong typographic voice without a single decorative \r\nflourish.\n\n\r\nOne color is allowed to interrupt: an electric blue accent (`{colors.accent}` — #0066ff), \r\nused exclusively for commercial signals — the \"Popular\" plan badge and the yearly￾savings callout on pricing. Its scarcity is the point; when blue appears, it is asking for a \r\ndecision.\n\n\r\n**Key Characteristics:**\n\n\r\n- Gallery-white monochrome palette — `{colors.ink}` on `{colors.canvas}`, zero brand \r\nchroma outside the single `{colors.accent}` blue\n\r\n- Stadium-pill interaction language: nav bar, buttons, toggles, and badges all at \r\n`{rounded.full}`\n\r\n- Shadow-free elevation — hierarchy built from a neutral tint ladder (`{colors.canvas￾soft}`, `{colors.field}`, `{colors.hairline}`) and 1px hairlines\n\r\n- Pretendard with weight contrast: 700 headings at 1.3–1.35 line-height, 400 body at \r\n1.5, 300 light subtitles\n\r\n- iOS-style squircle icon tiles (30% radius) as a recurring visual motif across library \r\ncounters and brand marquees\n\r\n- Content supplies the color: app screenshots, brand icons, and grayscale curator \r\nportraits carry all visual richness\n\r\n- Full-bleed near-black `{colors.ink}` footer with rounded top corners closes every \r\npage in polarity inversion\n\n\r\n## Colors\n\n\r\nSource pages: home, pricing, awards, signup.\n\n\r\n### Brand & Accent\n\n\r\n- **Ink Black** (`{colors.primary}` — #141414): The brand color. Fills every primary \r\nCTA pill, the footer band, and all display typography. Huddling's identity is this near￾black, softened just off pure black to sit comfortably next to photography.\n\r\n- **Electric Blue** (`{colors.accent}` — #0066ff): The only chromatic accent in the \r\nsystem. Reserved for commercial emphasis — the \"Popular\" pricing badge and savings \r\ncallouts. Never used decoratively, never used for CTAs.\n\n\r\n### Surface\n\n\r\n- **Canvas** (`{colors.canvas}` — #ffffff): Default page and card background across \r\nall pages.\n\r\n- **Soft Canvas** (`{colors.canvas-soft}` — #f3f3f3): The workhorse tint — a 6% ink \r\nwash over white. Fills the floating nav pill, the featured pricing card, FAQ accordion \r\nrows, soft utility pills, segmented-control tracks, and the highlighted comparison-table \r\ncolumn.\n\r\n- **Field** (`{colors.field}` — #f0f0f0): An 8% ink wash used as the fill for form inputs, \r\ngiving fields presence without borders.\n\r\n- **Soft Hairline** (`{colors.hairline-soft}` — #f0f0f0): 1px card outlines — the faintest \r\npossible edge, used on white-on-white cards (pricing, testimonials).\n\r\n- **Hairline** (`{colors.hairline}` — #e0e0e0): The stronger 16% control border, used \r\non outlined pill buttons and interactive chrome.\n\n\r\n### Text\n\n\r\n- **Ink** (`{colors.ink}` — #141414): Headings, body copy, and nav links.\n\r\n- **Soft Ink** (`{colors.ink-soft}` — #262626): Slightly lifted dark used for secondary \r\nlockups and the awards wordmark.\n\r\n- **Muted** (`{colors.text-muted}` — #707070): Secondary copy — supporting \r\nparagraphs, plan descriptions, vote counts, underlined inline links.\n\r\n- **Faint** (`{colors.text-faint}` — #adadad): Tertiary text — placeholders, de￾emphasized footer links, fine print.\n\n\r\n### Semantic\n\n\r\n- The system ships no dedicated success/warning/error palette on its marketing \r\nsurfaces; state communication stays within the monochrome ladder, with \r\n`{colors.accent}` as the sole positive-emphasis signal.\n\n\r\n## Typography\n\n\r\n### Font Family\n\n\r\n**Pretendard** — a Korean–Latin neo-grotesque used exclusively, across every \r\nscreen and every role. On the web it is loaded as **Pretendard Variable**; in Figma use \r\nthe static weights (Light 300 · Regular 400 · SemiBold 600 · Bold 700). The brand's \r\nvoice comes from weight contrast: headings at Bold 700, running text at Regular 400, \r\nand lead subtitles at a light 300. Fallback stack: `-apple-system, BlinkMacSystemFont, \r\n\"Apple SD Gothic Neo\", \"Noto Sans KR\", sans-serif`.\n\n\r\nSizes below are set for the mobile baseline frame (390×844). Korean glyphs need more \r\nvertical room than Latin, so headings sit at 1.3–1.35 and body text at 1.5.\n\n\r\n### Hierarchy\n\n\r\n| Token | Size | Weight | Line Height | Letter Spacing | Use |\n\r\n| ------------------------ | ---- | ------ | ----------- | -------------- | -------------------------------------------------------- |\n | `{typography.display}` | 32px | 700 | 1.3 | 0 | Home hero statements and key counters |\n | `{typography.heading-1}` | 28px | 700 | 1.3 | 0 | Screen titles |\n\r\n| `{typography.heading-2}` | 24px | 700 | 1.35 | 0 | Section headings on content screens |\n | `{typography.heading-3}` | 20px | 700 | 1.35 | 0 | Card-level headlines, auth headings |\n | `{typography.heading-4}` | 18px | 700 | 1.35 | 0 | Sub-section headings |\n\r\n| `{typography.title}` | 17px | 600 | 1.4 | 0 | Feature titles, emphasized rows |\n\r\n| `{typography.body-lg}` | 17px | 300 | 1.5 | 0 | Lead paragraphs — the light counterpoint to 700 headings |\n | `{typography.body}` | 15px | 400 | 1.5 | 0 | Default body copy |\n\r\n| `{typography.body-sm}` | 13px | 400 | 1.5 | 0 | Supporting copy, feature lists, legal text |\n | `{typography.link}` | 15px | 600 | 1.5 | 0 | Nav links and button labels |\n\r\n| `{typography.label}` | 12px | 600 | 1.4 | 0 | Badge and pill labels |\n\r\n| `{typography.caption}` | 12px | 400 | 1.4 | 0 | Captions, metadata, form fine print |\n\n\r\n### Principles\n\n\r\n- **Weight contrast is the drama.** Pairing 700 headings against 300 light subtitles \r\n(e.g. 32px display over 17px light lead) creates hierarchy without color or ornament.\n\r\n- **Controlled leading.** Headings sit at 1.3–1.35 — tight, but with enough room for \r\nKorean glyphs. Body text opens up to 1.5.\n\r\n- **Zero letter-spacing everywhere.** Pretendard is trusted at its natural fit; no \r\ntracking adjustments at any size.\n\n\r\n## Layout\n\n\r\n### Spacing System\n\n\r\n- **Base unit**: 8px, with 4px half-steps for fine rhythm\n\r\n- **Tokens**: `{spacing.xxs}` 4px · `{spacing.xs}` 8px · `{spacing.sm}` 12px · \r\n`{spacing.md}` 16px · `{spacing.lg}` 24px · `{spacing.xl}` 32px · `{spacing.section}` \r\n48px · `{spacing.section-lg}` 64px\n\r\n- Buttons are fixed-height pills padded horizontally at `{spacing.md}`; inputs pad \r\n`{spacing.sm} {spacing.md}`\n\r\n- Screen side padding is `{spacing.md}` (16px); sections are separated by \r\n`{spacing.section}` (48px), and `{spacing.section-lg}` (64px) separates major home￾screen acts\n\n\r\n### Grid & Container\n\n\r\n- Content rides a centered column: single-column centered lockups for heroes and \r\naward winners, a 2-up card grid for pricing plans, 3-up for portrait tiles, and a 4-column \r\nmasonry for testimonials.\n\r\n- The floating nav pill is detached from the viewport edge and horizontally centered, \r\nrather than a full-width bar — the page canvas visibly wraps around it.\n\r\n- Marquee strips (brand logos, app screenshots) run full-bleed beyond the content \r\ncolumn.\n\n\r\n### Whitespace Philosophy\n\n\r\nWhitespace is the primary grouping device. Sections are separated by \r\n`{spacing.section}` to `{spacing.section-lg}` of empty canvas with no divider rules; \r\nwithin cards, generous `{spacing.lg}` padding keeps content off the hairline edges. \r\nThe homepage alternates dense collage moments (icon clouds, screenshot grids) with \r\nnear-empty typographic interludes — compression and release.\n\n\r\n### Responsive Strategy\n\n\r\n#### Screen Size\n\n\r\nMVP is designed mobile-first on a single baseline.\n\n\r\n| Name | Width × Height | Notes |\n | ---------------- | -------------- | ------------------------------------------------------------ |\n | Baseline | 390 × 844 | Default design frame for all key screens (Figma) |\n | Minimum | 360px width | Layouts must hold without horizontal scroll; long text wraps |\n | Tablet / Desktop | — | Out of MVP scope — to be defined after MVP |\n\n\r\n- Side padding: `{spacing.md}` (16px) on both sides at every width.\n\r\n- Content is single-column by default; grids collapse to one column at the minimum \r\nwidth.\n\n\r\n#### Touch Targets\n\n\r\n- Pill buttons and nav CTAs are fixed-height stadium shapes comfortably above the \r\n44px minimum; form inputs pad to a similar height via `{spacing.sm} {spacing.md}`.\n\r\n- The segmented billing toggle presents each option as a full pill target, not a small radio \r\ndot.\n\n\r\n#### Collapsing Strategy\n\n\r\n- The floating `nav-pill` persists on scroll and across breakpoints, tightening to \r\nlogomark + CTA on narrow screens.\n\r\n- Multi-column grids (pricing 2-up, portraits 3-up, testimonials 4-up) collapse column￾by-column rather than reflowing horizontally.\n\r\n- The signup page's two-panel split (form left, angled screenshot marquee right) drops \r\nthe marquee panel entirely on narrow viewports, keeping the centered form column.\n\n\r\n#### Image Behavior\n\n\r\n- App screenshots and device mockups keep fixed aspect ratios and `{rounded.md}` \r\ncorners at all sizes.\n\r\n- Marquee strips overflow the viewport intentionally and animate horizontally; they \r\ncrop rather than scale.\n\r\n- Curator portraits stay square-ish tiles, lazily loaded, always grayscale.\n\n\r\n## Elevation & Depth\n\n\r\n| Level | Treatment | Use |\n | ------- | ----------------------------------------------- | ----------------------------------------------------- |\n | 0 | Flat on `{colors.canvas}` | Default — most of every page |\n | 1 | `{colors.canvas-soft}` fill, no border | Nav pill, featured pricing card, FAQ rows, soft pills |\n | 2 | 1px `{colors.hairline-soft}` outline on white | Pricing and testimonial cards |\n\r\n| 3 | 1px inset ring | Comparison-table highlight column edge |\n | Inverse | `{colors.ink}` fill, `{colors.on-primary}` text | Footer band, primary CTAs |\n\n\r\nThe system is essentially shadow-free: no drop shadows appear on any card, button, \r\nor nav element. Elevation is communicated by _fill difference_ (white vs. 6–8% ink tints) \r\nand by hairlines, which keeps every surface print-flat and lets the screenshot content \r\nsupply all depth cues. The one soft-shadow exception is the active segment of the \r\nsegmented control, which lifts off its `{colors.canvas-soft}` track as a white pill.\n\n\r\n### Decorative Depth\n\n\r\n- **Glass monoliths** — the awards hero renders tall trophy pillars in a white-to-gray \r\nvertical gradient, reading as frosted glass against the `{colors.canvas-soft}` band; the \r\npage's only atmospheric gradient.\n\r\n- **Photography as depth** — floating app-icon squircles, angled screenshot collages \r\n(signup's rotated marquee panel), and device mockups create parallax-like layering on \r\na flat canvas.\n\r\n- **Polarity inversion** — the `{colors.ink}` footer with `{rounded.md}` top corners \r\nacts as a heavy baseboard, giving each page a physical end-stop.\n\n\r\n## Shapes\n\n\r\n### Border Radius Scale\n\n\r\n| Token | Value | Use |\n | ---------------- | ------ | ----------------------------------------------------------------- |\n | `{rounded.none}` | 0px | Full-bleed media strips and marquee images |\n | `{rounded.sm}` | 16px | Inputs, video tiles, testimonial cards, FAQ rows |\n | `{rounded.md}` | 24px | Content cards, device mockups, portrait tiles, footer top corners |\n | `{rounded.full}` | 9999px | Every pill: nav, buttons, badges, toggles |\n\n\r\n### Photography Geometry\n\n\r\n- App screenshots render inside device-shaped frames at `{rounded.md}`.\n\r\n- App icons use the signature 30% squircle radius (`app-icon-squircle`) — the iOS icon \r\nsilhouette — at every size from 32px chips to 96px hero tiles.\n\r\n- Curator portraits are near-square tiles at `{rounded.md}`, always black-and-white, \r\nwith name captions overlaid in `{colors.on-primary}` on a `badge-overlay` scrim near \r\nthe lower edge.\n\r\n- Avatars in testimonial cards are small circles (`{rounded.full}`) with a tiny company \r\nlogo badge overlapping the bottom-right corner.\n\n\r\n## Components\n\n\r\n### Buttons\n\n\r\n**`button-primary`** — \"Join for free\", \"Get started\", \"Continue\", \"View winners\"\n\n\r\n- Fill `{colors.primary}`, label `{colors.on-primary}` in `{typography.link}`, shape \r\n`{rounded.full}`, padding `0px {spacing.md}` on a fixed-height pill\n\r\n- The single CTA style everywhere: nav, pricing cards, auth form, awards hero\n\n\r\n**`button-outline`** — \"Continue with Google\", secondary \"Get started\"\n\n\r\n- Fill `{colors.canvas}`, label `{colors.ink}`, 1px `{colors.hairline}` border, shape \r\n`{rounded.full}`\n\r\n- The de-emphasized twin of the primary pill; used when two actions sit side by side or \r\nfor third-party auth\n\n\r\n**`button-pill-soft`** — \"Explore ↗\", \"Huddling ↗\", \"Read more\"\n\n\r\n- Fill `{colors.canvas-soft}`, label `{colors.ink}`, shape `{rounded.full}`\n\r\n- Tertiary utility pill for outbound and in-page links; no border, relies on its tint fill\n\n\r\n### Cards & Containers\n\n\r\n**`pricing-card`** — default plan tier (Team)\n\n\r\n- `{colors.canvas}` fill, 1px `{colors.hairline-soft}` outline, `{rounded.md}` corners\n\r\n- Plan name in `{typography.heading-4}`, price figure large with stacked \r\n`{typography.caption}` qualifiers, feature list rows in `{typography.body-sm}` with \r\n`{colors.text-muted}` icons\n\n\r\n**`pricing-card-featured`** — highlighted plan tier (Pro)\n\n\r\n- `{colors.canvas-soft}` fill, borderless, `{rounded.md}` corners — emphasis by tint, \r\nnot by outline or polarity flip\n\r\n- Carries the `badge-popular` chip beside the plan name and a full-width `button￾primary` CTA, while the default tier gets `button-outline`\n\n\r\n**`testimonial-card`** — user quote tile\n\n\r\n- `{colors.canvas}` fill, 1px `{colors.hairline-soft}` outline, `{rounded.sm}` corners\n\r\n- Circular avatar with overlapping company mini-badge, name in `{typography.link}`, \r\ncompany in `{colors.text-muted}` `{typography.body-sm}`, quote in \r\n`{typography.body}`\n\r\n- Laid out as a 4-column masonry of varying heights\n\n\r\n**`faq-row`** — accordion item\n\n\r\n- Full-width `{colors.canvas-soft}` bar, `{rounded.sm}` corners, question in \r\n`{typography.body}` with a trailing chevron; rows stack with `{spacing.sm}` gaps\n\n\r\n**`portrait-tile`** — curator/juror grid cell\n\n\r\n- Grayscale photograph at `{rounded.md}`, name + role caption overlaid at bottom \r\ncenter in `{colors.on-primary}`\n\r\n- The strict black-and-white treatment keeps the people grid inside the monochrome \r\nsystem\n\n\r\n### Inputs & Forms\n\n\r\n**`text-input`**\n\n\r\n- `{colors.field}` fill, no border, `{colors.ink}` text with `{colors.text-faint}` placeholder, \r\n`{rounded.sm}` corners, padding `{spacing.sm} {spacing.md}`\n\n\r\n**`text-input-focused`**\n\n\r\n- Same chrome plus a 2px `{colors.ink}` ring — focus is signaled in ink, consistent with \r\nthe monochrome system\n\n\r\n### Navigation\n\n\r\n**`nav-pill`** — Top Nav (Desktop)\n\n\r\n- A floating, horizontally-centered stadium bar in `{colors.canvas-soft}`: logomark + \r\nwordmark left, text links (\"Pricing\", \"Awards\", \"Log in\") in `{typography.link}` right, \r\ncapped by a `button-primary` CTA\n\r\n- Detaches from the page edge with visible canvas above it; persists as a sticky \r\nelement on scroll\n\n\r\n**Top Nav (Mobile)**\n\n\r\n- The pill tightens to logomark + CTA; links collapse behind the pill\n\n\r\n**Sub-nav (Awards)**\n\n\r\n- Minimal corner marks instead of a bar: logomark + section name top-left, a `button￾pill-soft` \"Huddling ↗\" return link top-right\n\n\r\n### Signature Components\n\n\r\n**`app-icon-squircle`** — the recurring 30%-radius icon tile; floats in loose clouds \r\naround library counters, lines up in \"Other nominees\" rows, and anchors `brand-chip` \r\nentries\n\n\r\n**`brand-chip`** — marquee lockup of squircle icon + brand name in \r\n`{typography.heading-3}` ink; scrolls horizontally in full-bleed strips of recognizable \r\nproducts\n\n\r\n**`badge-popular`** — compact `{colors.accent}` chip with `{colors.on-primary}` \r\nlabel marking the featured pricing tier; the only blue element on the page\n\n\r\n**`badge-overlay`** — translucent gray pill (rgba(115, 115, 115, 0.56)) with `{colors.on￾primary}` `{typography.label}` text, laid over photography and screenshots (category \r\ntags, portrait captions)\n\n\r\n**`segmented-control`** + **`segmented-control-active`** — billing-period toggle: a \r\n`{colors.canvas-soft}` stadium track holding two pill options; the active option is a \r\n`{colors.canvas}` white pill, the inactive label sits in `{colors.text-muted}`\n\n\r\n**`award-lockup`** — centered winner presentation: laurel-flanked category eyebrow \r\nin `{colors.text-muted}`, winner name in `{typography.heading-3}`, description in \r\n`{colors.text-muted}` `{typography.body}`, vote share in `{typography.body-sm}`, \r\nclosed by a `button-pill-soft` \"Explore ↗\"\n\n\r\n**`compare-table`** — the pricing comparison grid: feature rows divided by 1px \r\n`{colors.canvas-soft}` rules, the recommended plan's column washed in \r\n`{colors.canvas-soft}` with an inset ring edge\n\n\r\n**`footer`** — full-width `{colors.ink}` band with `{rounded.md}` top corners: white \r\nwordmark at display scale, tagline in `{colors.text-faint}`, two columns of `{colors.text￾faint}` links that read in `{colors.on-primary}` for emphasis rows\n\n\r\n### Examples (illustrative)\n\n\r\n> Kit-mirror demonstration surfaces. Each `ex-*` entry references brand-native \r\nprimitives via token syntax so downstream consumers re-skin the same 10 surfaces \r\nconsistently; none carries invented literal values.\n\n\r\n**`ex-pricing-tier`** — Default Pricing tier card. Re-uses feature-card chrome with \r\nbrand canvas-soft surface.\n\n\r\n- Properties: `backgroundColor`, `textColor`, `borderColor`, `rounded`, `padding`\n\n\r\n**`ex-pricing-tier-featured`** — Featured/highlighted tier — polarity-flipped surface \r\n(dark fill + light text in light mode, light fill + dark text in dark mode).\n\n\r\n- Properties: `backgroundColor`, `textColor`, `rounded`, `padding`\n\n\r\n**`ex-product-selector`** — What's Included summary card — re-purposed for SaaS / \r\nB2B verticals (NOT a literal product gallery).\n\n\r\n- Properties: `backgroundColor`, `rounded`, `padding`\n\n\r\n**`ex-cart-drawer`** — Subscription summary — re-purposed for SaaS / B2B (line \r\nitems per add-on, not literal cart).\n\n\r\n- Properties: `backgroundColor`, `rounded`, `padding`, `item-divider`\n\n\r\n**`ex-app-shell-row`** — Sidebar nav row inside the App Shell example. Active state \r\nuses brand primary as the indicator.\n\n\r\n- Properties: `backgroundColor`, `activeIndicator`, `rounded`, `padding`\n\n\r\n**`ex-data-table-cell`** — Default data-table th + td chrome. Header uses mono-caps \r\neyebrow typography; body uses body-sm.\n\n\r\n- Properties: `headerBackground`, `headerTypography`, `bodyTypography`, \r\n`cellPadding`, `rowBorder`\n\n\r\n**`ex-auth-form-card`** — Sign-in / sign-up card. Re-uses feature-card chrome with \r\ntext-input primitives inside.\n\n\r\n- Properties: `backgroundColor`, `rounded`, `padding`\n\n\r\n**`ex-modal-card`** — Modal dialog surface — same chrome as feature-card with \r\nelevated shadow.\n\n\r\n- Properties: `backgroundColor`, `rounded`, `padding`\n\n\r\n**`ex-empty-state-card`** — Empty-state illustration frame.\n\n\r\n- Properties: `backgroundColor`, `rounded`, `padding`, `captionTypography`\n\n\r\n**`ex-toast`** — Toast notification surface — feature-card shape + medium shadow.\n\n\r\n- Properties: `backgroundColor`, `rounded`, `padding`, `typography`\n\n\r\n## Do's and Don'ts\n\n\r\n### Do\n\n\r\n- Keep the canvas `{colors.canvas}` white and let imported content (screenshots, \r\nicons, logos) supply all saturation.\n\r\n- Use `{rounded.full}` for every interactive element — a rectangular button does not \r\nexist in this system.\n\r\n- Build emphasis with the tint ladder: `{colors.canvas-soft}` fill for featured surfaces, \r\n`{colors.hairline-soft}` outlines for resting cards.\n\r\n- Reserve `{colors.accent}` for commercial signals (featured badges, savings callouts) \r\n— one or two blue elements per page at most.\n\r\n- Set every heading in Pretendard Bold 700 with line-height 1.3–1.35.\n\r\n- Pair Bold 700 headings with 300-weight `{typography.body-lg}` subtitles for \r\nhierarchy without color.\n\r\n- Render app icons as 30% squircles and portraits in grayscale to keep third-party \r\nimagery inside the system.\n\r\n- Close pages with the inverse `{colors.ink}` footer, rounded at the top.\n\n\r\n### Don't\n\n\r\n- Don't add drop shadows — elevation is fills and hairlines only.\n\r\n- Don't use `{colors.accent}` for CTAs; primary actions are always `{colors.primary}` \r\nink pills.\n\r\n- Don't introduce additional accent hues, gradients on UI chrome, or colored section \r\nbands.\n\r\n- Don't outline the featured pricing tier — feature it with the `{colors.canvas-soft}` fill \r\nand `badge-popular` instead.\n\r\n- Don't apply letter-spacing or all-caps styling; the type system runs at natural tracking \r\nin sentence case.\n\r\n- Don't put borders on form fields at rest — inputs are `{colors.field}` tint fills; the border \r\nappears only as the 2px ink focus ring.\n\r\n- Don't let full-color photography of people into the curator/juror grids; portraits are \r\nstrictly black-and-white.\n\r\n- Don't square off pill geometry at small sizes — badges, chips, and toggles stay \r\nstadium-shaped."
+  },
+  {
+    "page": 58,
+    "text": "05\r\nAI와 인터뷰로\n\r\n하네스 뼈대 만들기\r\nAI가 묻고 내가 답하며 CLAUDE.md 초안을 만듭니다"
+  },
+  {
+    "page": 59,
+    "text": "Part 3 하네스 실습\r\n05 역질문으로 뼈대 만들기\r\n하네스를 만드는 순서는 이렇습니다\r\nAI가 인터뷰어가 되어 라운드별로 질문하고, \n\r\n답을 받을 때마다 하네스 파일을 하나씩 만들어요\r\n1\r\n시작 프롬프트 붙여넣기\r\n빈 작업 폴더에서 AI를\n\r\n인터뷰어로 만듭니다.\r\n2\r\n라운드마다 답하기\r\nAI가 한 라운드씩 질문하고\n\r\n사용자가 대답합니다.\r\n3\r\n리뷰 받고 보완하기\r\n마지막 라운드에서 점수를 받고,\n\r\n깎인 항목을 골라 보완합니다."
+  },
+  {
+    "page": 60,
+    "text": "Part 3 하네스 실습\r\n05 역질문으로 뼈대 만들기\r\n하네스 인터뷰가 뭘까요?\r\nAI 에이전트가 본격적인 작업을 시작하기 전,\n\r\n심층적인 질문을 던져 요구사항의 모호성을 낮추고 명확한 청사진을 그리는 설계 방식\r\n지시하기\r\n“하네스 만들어줘”\r\n↓\r\nAI가 빈칸을 추측으로 채워요\n\r\n그럴듯하지만 정확도와 퀄리티가 떨어져요\r\n인터뷰 받기\r\n“만들기 전에 나한테 먼저 물어봐”\r\n↓\r\n설계에 비어 있는 부분을 AI가 인터뷰하고\n\r\n설계 구조를 구체화해요"
+  },
+  {
+    "page": 61,
+    "text": "Part 3 하네스 실습\r\n05 역질문으로 뼈대 만들기\r\n설계의 핵심 5가지는 이렇게 물어봐요\r\n한 라운드(R)에 한 주제씩, 3~4개 질문에 답하면 다음 라운드로 넘어가요\r\nR0 준비물 → R1 서비스·작업 스토리 작성 → R2~R6 설계 5가지 → R7 오케스트레이터 → R8 검증과 리뷰\r\nR2\r\n목적\r\n매번 무엇이\n\r\n달라지나요?\r\nR3\r\n단계\r\n작업을 몇 단계로\n\r\n나눌까요?\r\nR4\r\n산출물\r\n단계마다 어떤\n\r\n파일이 남나요?\r\nR5\r\n게이트\r\n무엇을 통과하면\n\r\n다음으로 갈까요?\r\nR6\r\n역할\r\n각 단계는\n\r\n누가 맡을까요?\r\nTIP 모르는 질문엔 AI가 함께 제안하는 기본값을 골라주세요"
+  },
+  {
+    "page": 62,
+    "text": "Part 3 하네스 실습\r\n05 역질문으로 뼈대 만들기\r\nR2 목적 설정\r\n하네스가 반복해서 무엇을 만드는지 한 문장으로 정해요\r\n여기서 정한 한 문장이 CLAUDE.md 첫 줄이 돼요\r\nCd 다 구를 쓰면 AE.md 첫 줄\r\nAI가 이렇게 물어봐요\r\n1 실행할 때마다 무엇이 달라지나요? 면 인 기 \r\n2 이 하네스를 쓰는 사람은 누구인가요?\r\n3 완료 기준을 한 문장으로 말하면? CLAUDE.md"
+  },
+  {
+    "page": 63,
+    "text": "Part 3 하네스 실습\r\n05 역질문으로 뼈대 만들기\r\nR3 파이프라인\r\n작업 흐름별 3~5단계로 phase를 구분해요\r\n단계마다 무엇을 입력하고 출력할지 정의해요\r\n복귀 경로 예시\r\n# 게이트 순서와 실패 시 복귀 경로\n\r\ngates:\n\r\n order: [p1, p2, p3, p3-approval, p4, p5]\n\r\n return_to:\n\r\n p2_needs_research: p1 # 반영 포인트 부족 → 리서치로\n\r\n p3-approval: p2 # 내부 컨펌 반려 → 설계로\r\nAI가 이렇게 물어봐요\r\n1 몇 단계로 나눌까요? 단계 이름은? (리서치 → 설계 → 시 )\r\n2 단계마다 무엇을 읽고(입력) 무엇을 남기나요(출력)?\r\n3 어느 단계에서 앞 단계로 되돌아가나요?"
+  },
+  {
+    "page": 64,
+    "text": "Part 3 하네스 실습\r\n05 역질문으로 뼈대 만들기\r\nR4 산출물\r\n단계마다 남길 파일을 정해요\r\n파일 이름, 판정 기준을 모을 파일 하나, 이어서 하는 방법까지 정해요\r\nrules.yaml\r\ntemplates/\r\nAI가 이렇게 물어봐요\r\n1 단계별 파일 이름은? 어느 폴더에 두나요?\r\n2 판정 기준(수치·개수)을 모을 파일 1개는?\r\n3 중간에 끊겨도 이어서 할 수 있어야 하나요? 진행 상\r\n태는 어디에 두나요?\r\nharness\r\nstate.json\r\nruns/<slug>"
+  },
+  {
+    "page": 65,
+    "text": "Part 3 하네스 실습\r\n05 역질문으로 뼈대 만들기\r\nR5 게이트\r\n다음 단계로 넘어가는 합격선을 정해요\r\n통과 조건은 기계가 셀 수 있게, 사람 승인은 한 곳에서만 받아요\r\nAI가 이렇게 물어봐요\r\n1 단계마다 통과 조건을 개수·형식·허용 목록으로 말하면?\r\n2 사람 승인은 정확히 어디 한 곳에서 받나요?\r\n3 실패하면 어디로 돌아가고, 몇 번 실패하면 멈추나요?\r\n4 서비스에서 어기면 안 되는 것을 위반하면 걸리는 조건은?\r\nrules.yaml\r\nscripts/verify.mjs harness\r\np3-concept/approval.md\r\nruns/<slug>"
+  },
+  {
+    "page": 66,
+    "text": "Part 3 하네스 실습\r\n05 역질문으로 뼈대 만들기\r\n그런데, 왜 역할보다 게이트를 먼저 물어볼까요?\r\n통과 기준이 먼저 정해져야,\n\r\n누가 어디까지 책임질지 나눌 수 있기 때문입니다\r\n게이트\r\n에이전트 A Gate 1 에이전트 B Gate 2 에이전트 C Gate 3 에이전트\r\n에이전트 B\r\n에이전트 A\r\n역할 범위 역할 범위 역할 범위 역할 범위"
+  },
+  {
+    "page": 67,
+    "text": "Part 3 하네스 실습\r\n05 역질문으로 뼈대 만들기\r\n우리 서비스에 맞는 하네스를 만들기 위해,\n\r\n게이트에 PRD 문서의 서비스 조건 반영하기\r\nPRD 문서에서 뽑은 ‘어기면 안 되는 것’ 조건으로 게이트 만들어주기\r\n구조 조건만 반영 서비스 조건 추가\r\n어떤 서비스든 똑같이 통과해요\r\n“카드 컴포넌트 5개 이상”\n\r\n→ 배지가 빠져도 통과 ✕\r\n내 서비스 규칙을 지켜야 통과해요\r\n“모든 카드에 무료/유료 배지가 있다”\n\r\n→ 배지가 빠지면 멈춤 ✓"
+  },
+  {
+    "page": 68,
+    "text": "Part 3 하네스 실습\r\n05 역질문으로 뼈대 만들기\r\nR6 역할\r\n누가 만들고 누가 판정할지 나눠요\r\n에이전트마다 쓸 수 있는 폴더 하나, 판정만 하는 에이전트는 따로 둬요\r\nAI가 이렇게 물어봐요\r\n1 단계마다 누가 일하나요? 각자 편집할 수 있는 폴더 1개는?\r\n2 읽기 전용 판정자는 무엇을 할 수 있고, 무엇을 못 하나요?\r\n3 어떤 말로 하네스를 부르나요? (자연어 트리거)\r\nagents/*.md\r\nsettings.json .claude"
+  },
+  {
+    "page": 69,
+    "text": "Part 3 하네스 실습\r\n05 역질문으로 뼈대 만들기\r\nR7 오케스트레이터\r\n지금까지 정한 것을 전역 규칙 하나로 묶고, 승인해요\r\n전체 라운드가 끝나면 전역 규칙(CLAUDE.md·AGENTS.md) 초안을 보고\n\r\n승인하면 인터뷰가 끝나요\r\nAI가 이렇게 물어봐요\r\n1 파일 역할 표(누가 어떤 파일을 쓰는지)가 맞나요?\r\n2 판정 결과(통과·실패·대기·오류·차단)마다 무엇을 하나요?\r\n3 첫 실행 때 꼭 물어볼 것과, 절대 하면 안 되는 일은?\r\nCLAUDE.md r AGENTS.md\r\n.claude/skills/run-harness/SKILL.md harness"
+  },
+  {
+    "page": 70,
+    "text": "Part 3 하네스 실습\r\n05 역질문으로 뼈대 만들기\r\n인터뷰 질문에는 구체적으로 답하기\r\n질문마다 구체적인 예시와 조건을 명시할수록 하네스 설계가 정확해져요\r\n좋은 답\r\n\"매번 색상 기준이 달라진다\"처럼 구체적인 불만 명시\r\n3~5개\r\n확장자까지 정확히 적기 1\r\n구조 조건 + 서비스 조건\r\n \"목 5개 이상\" \" 목록 에 상 \"\r\n에이전트 1개 = 폴더 1개\r\n피할 답\r\n\"퀄리티를 높이고 싶다\"\r\n7개 초과 개기 \r\n\"보고서\" 같은 뭉뚱그린 이름\r\n구조 조건만 있음, 애매한 게이트 통과 규칙\r\n한 에이전트가 2개 폴더를 편집\r\n질문\r\n목적\r\n 단계\r\n산출물\r\n게이트\r\n역할"
+  },
+  {
+    "page": 71,
+    "text": "Part 3 하네스 실습\r\n05 역질문으로 뼈대 만들기\r\n프롬프트를 넣으면 이렇게 물어봐요\r\n1라운드부터 질문 3~4개와 ‘모르겠으면 이 기본값’이 함께 나와요"
+  },
+  {
+    "page": 72,
+    "text": "Part 3 하네스 실습\r\n05 역질문으로 뼈대 만들기\r\n질문에 막혔을 땐 이렇게 말하세요\r\n에러 케이스 해결 답변 예시\r\nAI가 질문 없이 바로 파일을 만든다 “아직 만들지 마. R1 질문부터 해줘”\r\n모든 라운드별 작업을 한번에 다 물어본다 “R1만 먼저 물어봐. 내가 답하면 R2로 가”\r\n단계가 8개 넘게 늘어난다 “비슷한 단계끼리 묶어서 5개 이하로 줄여줘”\r\n게이트가 개수 세기뿐이다 “story-service.md 기준을 게이트로 1개 더 넣어줘”\r\n시간이 부족하다 “R5까지만 하고, R6(역할)부터는 기본값으로 진행해줘”"
+  },
+  {
+    "page": 73,
+    "text": "Part 3 하네스 실습\r\n05 역질문으로 뼈대 만들기\r\n답이 헷갈릴 땐, 설계 원칙 9가지로 정해요\r\n인터뷰 중 판단이 갈리면 이 원칙을 기준으로 답하세요\r\n1 판정은 스크립트가 한다\r\n에이전트는 의견만, 통과/실패는 스크립트가\r\n2 규칙은 한 파일에 배치하기\r\n수치를 판정할 때는 rules.yaml에만 둬요\r\n3 기준 문서는 docs/에\r\n사람이 쓰는 문서와 기계가 읽는 규칙을 나눠요\r\n4 모든 규칙은 셀 수 있게 수치화하기\r\n셀 수 없으면 게이트가 아니라 의견이에요\r\n5 사람 승인은 파일 하나로 정하기\r\n승인 뒤 입력이 바뀌면 자동으로 무효\r\n6 에이전트는 직접 쓰지 않는다\r\n결과를 돌려주면 메인 세션이 저장해요\r\n7 도구 결과는 대조한다\r\n넘겨받은 결과를 실제 도구 상태와 비교해요\r\n8 실패에는 돌아갈 길과 한도를 두기\r\n돌아갈 곳을 정하고, 반복되면 사람을 불러요\r\n9 정하지 않은 값은 출처를 붙인다\r\n'임의 값은 사람이 확인할 목록이 돼요"
+  },
+  {
+    "page": 74,
+    "text": "Part 3 하네스 실습\r\n05 역질문으로 뼈대 만들기\r\n하네스 세팅을 다 완료했는지 헷갈릴 땐,\n\r\n셀프로 체크해보기!\r\nPhase가 3~5개다\r\n각 Phase의 출력 파일명이 확장자까지 정해졌다\r\n판정 수치가 rules.yaml 한 파일에만 있다\r\n모든 게이트 조건이 숫자나 존재 여부로 셀 수 있다\r\n게이트 중 최소 1개가 내 서비스 기준을 반영한다\r\n사람이 승인하는 지점이 정확히 1곳이다\r\n에이전트별 편집 폴더가 겹치지 않는다\r\n폴더만 보고 어디까지 했는지 알 수 있다"
+  },
+  {
+    "page": 75,
+    "text": "Part 3 하네스 실습\r\n05 역질문으로 뼈대 만들기\r\n세부 보완 추가 후, 다음과 같이 진단해보기\r\n기본값마다  \r\n출처가 붙어 있나요?\r\n규칙 파일에\n\r\n요구한 기준이 들어갔나요?\r\nAI가 임의로 표시된 값을 \r\n확인했나요?"
+  },
+  {
+    "page": 76,
+    "text": "Part 3 하네스 실습\r\n05 역질문으로 뼈대 만들기\r\n완성된 하네스는 4겹의 파일이 생성돼요\r\n오른쪽으로 갈수록 하네스가 강제하는 구조로 설계해요.\n\r\n같은 프롬프트라도 상세 구조는 조금씩 다르게 나올수 있어요. \r\n1\r\n기준 문서\r\n작업 기준 제공\r\n(예시)\r\nstory-service.md\r\nstory-work.md\r\nprd.md\r\ndesign.md\r\n2\r\n규칙\r\n게이트가 읽는 값\r\n(예시)\r\nharness/rules.yaml\r\nharness/defaults.yaml\r\nharness/templates/*.md\r\nharness/guides/*.md\r\n3\r\n실행\r\n작업과 판정을 위한 값\r\n(예시)\r\n.claude/agents/*.md\r\n.claude/skills/run-harness\r\nharness/scripts/verify.mjs\r\nCLAUDE.md\r\n4\r\n강제\r\n어기면 막히는 장치\r\n(예시)\r\n.claude/settings.json\r\nguard-write.mjs\r\nguard-judge-bash.mjs\r\nruns/<slug>/state.json\r\napproval.md (사람만)"
+  },
+  {
+    "page": 77,
+    "text": "Part 3 하네스 실습\r\n05 역질문으로 뼈대 만들기\r\n하네스를 돌려본 뒤, \r\n체크리스트로 완성도를 점검해요\r\n하네스 제작 과정에서 놓친 한계점을 보완할 수 있어요\r\n실행을 다시 열었을 때 예전 승인이 그대로 통과하지 않나요?\r\n승인 시점의 입력 파일 해시를 저장해 두었는지 확인해요\r\n게이트가 믿는 export 파일이 실제 도구 상태와 같은지 누가 확인하나요?\r\n판정자가 도구에서 직접 지문을 받아 비교하는지 봐요\r\n가이드에 🚦 표시한 규칙이 전부 스크립트에서 검사되나요?\r\n가이드엔 있는데 검사가 없는 규칙이 가장 흔한 틈이에요\r\n키워드 검사가 \"하지 않는다\" 같은 문장까지 잡지 않나요?\r\n검사 범위를 표의 특정 열이나 섹션으로 좁혔는지 확인해요\r\n폴더나 단계 이름을 바꾼 뒤 옛 경로가 남은 문서는 없나요?\r\n에이전트 입력 목록, 스킬, 템플릿의 입력:\" 줄을 찾아봐요\r\nhook 설정과 guard 스크립트가 git에 들어갔나요?\r\n빠지면 동료가 받은 저장소에서는 권한 강제가 사라져요\r\n게이트 판정을 테스트로 다시 돌릴 수 있나요?\r\n규칙을 고칠 때마다 기존 판정이 깨졌는지 한 번에 확인해요"
+  },
+  {
+    "page": 78,
+    "text": "Part 3 하네스 실습\r\n05 역질문으로 뼈대 만들기\r\n아무것도 모르겠다면?\n\r\n하네스 인터뷰 플레이북 보고 시작하기!\r\n완성본 파일과 라운드별 설명서를 보고 하네스 구조를 만들어보세요\r\n하네스 플레이북 보기 하네스 완성본 보기"
+  },
+  {
+    "page": 79,
+    "text": "Part 3 하네스 실습\r\n05 역질문으로 뼈대 만들기\r\n이제 완성한 하네스를\n\r\n저장소에 저장해볼까요?\r\n우리가 만든 하네스를 GitHub에 업로드해보기 "
+  },
+  {
+    "page": 80,
+    "text": "Part 3 하네스 실습\r\n05 역질문으로 뼈대 만들기\r\n하네스 시작 프롬프트\r\n하네스 뼈대 설계하기 (그대로 복사해서 사용해도 됩니다)\r\n너는 지금부터 \"하네스 인터뷰어\"야. 내가 사람 손으로 하던 작업을\n\r\nClaude Code 하네스(작업 에이전트 + 게이트 + 판정 스크립트)로 만들려고 해.\n\r\n(또는 Codex는 Codex로 바꿔서)  \n\r\n진행규칙 \r\n바로 만들지 말고, 아래 순서로 나에게 역질문해줘. \r\n- 한 번에 한 라운드만, 3~4개 질문씩.  \r\n- 모든 질문에 \"모르겠으면 이 기본값\" 을 같이 제시 \r\n- 내가 답하면 그 라운드의 산출물(파일 1개)을 확정하고 다음 라운드로 \r\n- 규칙은 스크립트가 셀 수 있는 형태로 바꿔서 되물어줘.\n\r\n (예: \"깔끔하게\" → \"모서리는 0/16/24만 허용\") \r\n-파일은 내가 승인한 뒤에만 만들어.   \r\nR0~R1은 앞단계에서 제작되었으므로 @story-service.md ,  \r\n@story-work.md는 작성된 파일을 참조한다.  \r\nR0- 준비물 확인(컨텍스트 문서 체크) PRD, design.md 등 확인 필요  \r\nR1-A 서비스 맥락: 내가 PRD를 붙여넣을게. \r\n   → 거기서 \"[서비스 사용자]가 [무엇을] [한다]\" 유저스토리를 5문장 이내로 뽑아줘. \r\n   → \"이 서비스에서 어기면 안 되는 것\" 1~2개도 PRD에서 찾아줘. \r\n   - PRD에 없는 내용은 절대 지어내지 마. 빠진 게 있으면 나한테 물어봐. \r\n   - 확인받고 story-service.md 로 저장.  \r\nR1-B 작업 흐름: 이 일을 AI 없이 손으로 했던 마지막 경험을 \r\n   \"[누가] [무엇을] [한다]\" 문장 5~7개로 내가 설명할게. \r\n   - 이상적인 방식 말고, 실제로 했던 순서 그대로 \r\n   - 중간에 멈칫했거나 누군가에게 넘긴 지점은 내가 표시할게 \r\n   → 네가 이 문장들에서 명사(산출물) / 멈칫(게이트 위치) / 넘김(에이전트 경계)을 \r\n     뽑아 보여주고, 확인받은 뒤 story-work.md 로 저장. \r\n   ※ R0-A는 R0-B의 재료가 아니라 판정 기준이야. 둘을 섞지 마.  \r\nR2 목적: 무엇이 매번 달라지나 / 사용자 / 완료 기준 한 문장 \r\nR3 파이프라인: 3~5단계 분할 / 단계별 입출력 / 되돌아가는 지점 \r\nR4 산출물: 단계별 파일명 / 규칙 SSOT 파일 1개 / 재개 가능 여부 \r\nR5 게이트: 기계가 셀 수 있는 통과 조건 / 사람 승인 지점 1곳 / 실패 시 복귀 \r\n   ★ 최소 1개는 R0-A의 \"어기면 안 되는 것\"을 위반하면 걸리는 조건 \r\nR6 역할: 에이전트별 편집 폴더 1개 / 읽기전용 판정자 / 자연어 트리거 \r\nR7 오케스트레이터 재확인(CLAUDE.md를 활용한다.) \r\nR8 검증과 리뷰  \r\n전체 라운드가 끝나면 CLAUDE.md (또는 AGENTS.md) 초안을 보여주고 내 승인을 받\r\n아.\n"
+  },
+  {
+    "page": 81,
+    "text": "06\r\nGitHub에\n\r\n하네스 올리기\r\n오늘 만든 하네스를 저장소에 올리고 제출 링크를 준비합니다"
+  },
+  {
+    "page": 82,
+    "text": "Part 3 하네스 실습\r\n06 GitHub 업로드\r\n하네스를 왜 GitHub에 올릴까요?\r\nGitHub는 피그마의 공유 링크와 버전 히스토리 같은 곳이에요.\n\r\n작업한 내용을 저장할 수 있어요.\r\n링크로 공유 여러 개의 파일을 주소 하나로 공유할 수 있어요\r\n수정 기록 언제 무엇을 고쳤는지 남고, 되돌릴 수 있어요\r\n팀 확장 다른 컴퓨터나 팀원도 같은 하네스로 작업할 수 있어요"
+  },
+  {
+    "page": 83,
+    "text": "Part 3 하네스 실습\r\n06 GitHub 업로드\r\n깃허브 업로드 1 단계\r\n먼저 빈 저장소를 만들기\r\nREADME · .gitignore · license는 모두 체크 해제하세요\n\r\n체크하면 올릴 때 충돌이 납니다\r\n저장소 \r\n1 github.com 우측 상단에서 New repository 클릭\r\n2 my-harness로 이름 짓기 \r\n3 공유 설정을 Public으로 선택하기 \r\n*Private으로 선택하면 제출을 확인할 수 없어요!\r\n4 README / .gitignore / license는 전부 체크 해제하기\r\n5 Create repository 선택하기"
+  },
+  {
+    "page": 84,
+    "text": "Part 3 하네스 실습\r\n06 GitHub 업로드\r\n깃허브 업로드 2 단계\r\n터미널에서 바로 깃허브로 업로드하기\r\n만든 저장소 주소를 복사해 두고 순서대로 입력하세요\r\n1 git init 4 git branch -M main\r\n5 git remote add origin  \r\nhttps://github.com/내아이디/my-harness.git 2 git add .\r\n3 git commit -m \"하네스 뼈대 완성\" 6 git push -u origin main"
+  },
+  {
+    "page": 85,
+    "text": "Part 3 하네스 실습\r\n06 GitHub 업로드\r\n업로드 방법 잘 모르겠으면? \n\r\nAI에게 맡기기!\r\n명령어가 낯설다면 Claude Code나 Codex에게 아래 프롬프트를 입력하세요\r\n이 폴더를 깃 저장소로 만들고 \r\nhttps://github.com/내아이디/my-harness.git 에 올려줘. \r\n중간에 물어볼 게 있으면 물어보고 진행해."
+  },
+  {
+    "page": 86,
+    "text": "Part 3 하네스 실습\r\n06 GitHub 업로드\r\n저장소에 harness 등  \r\n파일이 채워지면 업로드 성공"
+  },
+  {
+    "page": 87,
+    "text": "Part 3 하네스 실습\r\n06 GitHub 업로드\r\n혹시 이런 에러가 난다면?\r\n에러 케이스 해결방법\r\nremote origin already exists git remote remove origin 후 다시 add\r\nfailed to push ... rejected 저장소 만들 때 README를 체크한 경우. git pull \r\norigin main --rebase 후 다시 push\r\n로그인/인증 창이 뜸 GitHub 계정으로 로그인. 비밀번호 대신 토큰을 요구하\r\n면 브라우저 인증 선택"
+  },
+  {
+    "page": 88,
+    "text": "Part 4\r\n마무리\r\n오늘 만든 것을 돌아보고, 다음 실험을 안내합니다"
+  },
+  {
+    "page": 89,
+    "text": "01\r\n오늘 배운 것\r\n오늘 만든 하네스의 구조와 기억할 5가지를 정리해요"
+  },
+  {
+    "page": 90,
+    "text": "Part 4 마무리\r\n01 오늘 배운 것\r\n하네스를 설계하는 파이프라인\r\nPRD와 내 경험에서 출발해 역질문으로 하네스를 완성했어요\r\n서비스 도메인\r\nPRD · story-service.md\r\n작업 도메인\r\n내 경험 · story-work.md 하네스 재료\r\n하네스 인터뷰로 설계하기\r\n목적 · 단계 · 산출물 · 게이트 · 역할\r\n설계\r\ndesign.md\r\n색 · 타이포 · 간격 · 컴포넌트 규칙 세부 보완\r\n결과물 Phase 에이전트 게이트 산출물"
+  },
+  {
+    "page": 91,
+    "text": "Part 4 마무리\r\n01 오늘 배운 것\r\n3\r\nPRD 문서를 기반으로\n\r\n게이트 판정 기준 만들기\r\n하네스를 잘 설계하는 5가지 팁\r\n하네스를 직접 설계하며 확인한 것들이에요\r\n1 2\r\n작업 흐름으로\n\r\n게이트 위치 정하기\r\n두 가지 도메인에서\n\r\n설계 출발하기\r\n2\r\n서비스(PRD)와 작업(내 경험)\r\n4\r\nAI에게 지시하지 말고\n\r\n라운드별로 질문받기\r\n5\r\n게이트는 반드시\n\r\n숫자나 파일 존재 여부로 셀 수 있게 만들기"
+  },
+  {
+    "page": 92,
+    "text": "02\r\n산출물 제출\r\n이메일과 GitHub 저장소 주소를 남겨주세요"
+  },
+  {
+    "page": 93,
+    "text": "Part 4 마무리\r\n01 오늘 배운 것\r\n그럼, 라이브에서 만들어본\n\r\n하네스를 함께 공유해볼까요?\r\n생성한 깃허브 저장소 주소를 복사해주세요!"
+  },
+  {
+    "page": 94,
+    "text": "Part 4 마무리\r\n02 산출물 제출\r\n시간 초과 에러가 뜬다면, \n\r\n로컬 폴더를 zip으로 압축해서 제출하기\r\n작업한 폴더를 우클릭 후, 압축 파일로 만들어주세요\r\nmy-harness my-harness"
+  },
+  {
+    "page": 95,
+    "text": "Part 4 마무리\r\n02 산출물 제출\r\n하네스 실습 완성본을 제출해주세요\r\nGitHub에 올린 하네스 저장소 링크를 제출하시면,\n\r\n확인 후 UI Bowl 1개월 무료 이용권을 이메일로 보내드려요.\r\n실습 제출하기"
+  },
+  {
+    "page": 96,
+    "text": "Part 4 마무리\r\n02 산출물 제출\r\n피그잼에 오늘 라이브의 소감을\n\r\n남겨주세요\r\n피그잼 가기"
+  },
+  {
+    "page": 97,
+    "text": "03\r\n과제 안내\r\n두 주제 중 하나를 골라 실험합니다. 둘 다 해도 좋아요"
+  },
+  {
+    "page": 98,
+    "text": "Part 4 마무리\r\n03 과제 안내\r\n1차 실험 주제를 공개합니다!\r\n두 주제 중 하나를 고르세요. 둘 다 해도 좋아요\r\n트랙 A \r\n오늘 만든 하네스 인증하기 \r\n진행 방식\r\n하네스를 실제 작업에 돌려보고,  \r\n산출물을 만들어봅니다.\r\n 실험 결과 제출\r\n산출물(스크린샷 또는 파일) \n\r\nGitHub 저장소 링크\r\n트랙 B\r\n새 하네스 도메인 스토리 텔링 해보기 \r\n진행 방식\r\nPRD를 기반으로 도메인 스토리텔링을 진행하고  \r\n유저 스토리를 추출해봅니다. \r\n 실험 결과 제출\r\nstory-service.md  \r\nstory-work.md 제출하기 "
+  },
+  {
+    "page": 99,
+    "text": "Part 4 마무리\r\n03 과제 안내\r\n1주차\r\n2주차\r\n3주차\r\n1차 실험 일정\r\n일 월 화 수 목 금 토\r\n9/27 9/28 9/29\r\n라이브 스터디\r\n9/30 10/1\r\n1차 실험 진행\r\n2 3\r\n4 5 6 7\r\n1차 실험 진행\r\n8 9 10\r\n11\r\n1차 실험 진행\r\n12 13 14\r\n2차 실험 진행\r\n15 16 17"
+  },
+  {
+    "page": 100,
+    "text": "9월 후기 이벤트 당첨자를 발표합니다!\r\n당첨자에게는 커피 쿠폰 1개를 DM으로 제공할 예정입니다.\r\n이혜련/1기 님\r\n \r\n김소현/1기 님\r\n "
+  }
+]

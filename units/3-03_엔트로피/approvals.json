@@ -1,0 +1,13 @@
+[
+  {
+    "unit": "3-03_엔트로피",
+    "actor": "human",
+    "decision": "approve",
+    "message_ref": "current-chat:user:2026-10-28:ㅇㅋ 진행",
+    "plan_hash": "a8fc314709a1a92b27cdae13f8ee8a0b5ad258b660ac4a8e5eeed9d4fb36ba8f",
+    "evidence": {
+      "path": "checks/plan-approval-20261028.txt",
+      "sha256": "6f49dfa0a9a05c71a04dbbabb51118a6095bc5dd1dd6fdd55e0af2d0e4d69775"
+    }
+  }
+]

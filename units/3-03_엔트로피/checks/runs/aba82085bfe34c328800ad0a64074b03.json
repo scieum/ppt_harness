@@ -1,0 +1,31 @@
+{
+  "run_id": "aba82085bfe34c328800ad0a64074b03",
+  "time_utc": "2026-10-27T15:46:02.538349+00:00",
+  "mode": "production",
+  "rules_version": "1.1.0",
+  "rules_sha256": "ae966e7cd082dc57010b835e46ffde4b8aa12ffae3ae129acf70242a123cbbdf",
+  "unit": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-03_엔트로피",
+  "results": [
+    {
+      "id": "G01",
+      "status": "passed",
+      "detail": "conditions satisfied"
+    },
+    {
+      "id": "G02",
+      "status": "passed",
+      "detail": "conditions satisfied"
+    },
+    {
+      "id": "G03",
+      "status": "passed",
+      "detail": "conditions satisfied"
+    },
+    {
+      "id": "G07",
+      "status": "passed",
+      "detail": "conditions satisfied"
+    }
+  ],
+  "passed": true
+}

@@ -1,0 +1,235 @@
+{
+  "artifact_sha256": "a9e961cead38d9b4a5215da60bf916c8854060580c651c210c44b87c2aeb060f",
+  "render_sha256": "3f9d6c5d6384295cea4beb1faf330bbfaf651851104af440adc1529585bffbe9",
+  "exporter": "Artifact Tool slide.export layout/v5; actual element IDs",
+  "canvas": [
+    1920,
+    1080
+  ],
+  "objects": [
+    {
+      "role": "im/l83y9k7i",
+      "kind": "image",
+      "bbox": [
+        0.926390625,
+        0.037037037037037035,
+        0.05625,
+        0.07160185185185185
+      ],
+      "fill": null,
+      "font_family": null,
+      "font_size": null,
+      "font_weight": 400,
+      "alignment": null,
+      "character_asset_id": "사이음 공식 로고"
+    },
+    {
+      "role": "sh/7udoj2h8",
+      "kind": "textbox",
+      "bbox": [
+        0.75,
+        0.9574074074074074,
+        0.22916666666666666,
+        0.027777777777777776
+      ],
+      "fill": null,
+      "font_family": "Pretendard",
+      "font_size": 21,
+      "font_weight": 400,
+      "alignment": "right",
+      "character_asset_id": null
+    },
+    {
+      "role": "sh/6t4naxgn",
+      "kind": "textbox",
+      "bbox": [
+        0.17014062500000002,
+        0.16419444444444445,
+        0.6604166666666667,
+        0.11728703703703704
+      ],
+      "fill": null,
+      "font_family": "Pretendard",
+      "font_size": 100,
+      "font_weight": 700,
+      "alignment": "center",
+      "character_asset_id": null
+    },
+    {
+      "role": "sh/h0f6pcza",
+      "kind": "shape",
+      "bbox": [
+        0.08055729166666666,
+        0.3925925925925926,
+        0.838890625,
+        0.41728703703703707
+      ],
+      "fill": "#F5F5F5",
+      "font_family": null,
+      "font_size": null,
+      "font_weight": 400,
+      "alignment": null,
+      "character_asset_id": null
+    },
+    {
+      "role": "sh/gz65g7yp",
+      "kind": "shape",
+      "bbox": [
+        0.13472395833333334,
+        0.4641944444444444,
+        0.029166666666666667,
+        0.05185185185185185
+      ],
+      "fill": "#000000",
+      "font_family": null,
+      "font_size": null,
+      "font_weight": 400,
+      "alignment": null,
+      "character_asset_id": null
+    },
+    {
+      "role": "sh/vyxon2h4",
+      "kind": "textbox",
+      "bbox": [
+        0.13472395833333334,
+        0.4623425925925926,
+        0.029166666666666667,
+        0.05555555555555555
+      ],
+      "fill": null,
+      "font_family": "Pretendard",
+      "font_size": 42,
+      "font_weight": 700,
+      "alignment": "center",
+      "character_asset_id": null
+    },
+    {
+      "role": "sh/ux4nexgj",
+      "kind": "textbox",
+      "bbox": [
+        0.17569270833333334,
+        0.4586388888888889,
+        0.6756927083333333,
+        0.061731481481481484
+      ],
+      "fill": null,
+      "font_family": "Pretendard",
+      "font_size": 44.51,
+      "font_weight": 700,
+      "alignment": "left",
+      "character_asset_id": null
+    },
+    {
+      "role": "sh/54f6tcz6",
+      "kind": "shape",
+      "bbox": [
+        0.13472395833333334,
+        0.5753055555555556,
+        0.029166666666666667,
+        0.05185185185185185
+      ],
+      "fill": "#000000",
+      "font_family": null,
+      "font_size": null,
+      "font_weight": 400,
+      "alignment": null,
+      "character_asset_id": null
+    },
+    {
+      "role": "sh/4365k7yl",
+      "kind": "textbox",
+      "bbox": [
+        0.13472395833333334,
+        0.5734537037037037,
+        0.029166666666666667,
+        0.05555555555555555
+      ],
+      "fill": null,
+      "font_family": "Pretendard",
+      "font_size": 42,
+      "font_weight": 700,
+      "alignment": "center",
+      "character_asset_id": null
+    },
+    {
+      "role": "sh/u5cjmtgr",
+      "kind": "textbox",
+      "bbox": [
+        0.17569270833333334,
+        0.5697500000000001,
+        0.6756927083333333,
+        0.061731481481481484
+      ],
+      "fill": null,
+      "font_family": "Pretendard",
+      "font_size": 44.51,
+      "font_weight": 700,
+      "alignment": "left",
+      "character_asset_id": null
+    },
+    {
+      "role": "sh/f6lkvyhc",
+      "kind": "shape",
+      "bbox": [
+        0.13472395833333334,
+        0.6864166666666667,
+        0.029166666666666667,
+        0.05185185185185185
+      ],
+      "fill": "#000000",
+      "font_family": null,
+      "font_size": null,
+      "font_weight": 400,
+      "alignment": null,
+      "character_asset_id": null
+    },
+    {
+      "role": "sh/g7u1o3yx",
+      "kind": "textbox",
+      "bbox": [
+        0.13472395833333334,
+        0.6845648148148149,
+        0.029166666666666667,
+        0.05555555555555555
+      ],
+      "fill": null,
+      "font_family": "Pretendard",
+      "font_size": 42,
+      "font_weight": 700,
+      "alignment": "center",
+      "character_asset_id": null
+    },
+    {
+      "role": "sh/h832xozi",
+      "kind": "textbox",
+      "bbox": [
+        0.17569270833333334,
+        0.6808611111111111,
+        0.6756927083333333,
+        0.061731481481481484
+      ],
+      "fill": null,
+      "font_family": "Pretendard",
+      "font_size": 44.51,
+      "font_weight": 700,
+      "alignment": "left",
+      "character_asset_id": null
+    },
+    {
+      "role": "im/5cvatore",
+      "kind": "image",
+      "bbox": [
+        0.870140625,
+        0.5222222222222223,
+        0.11319270833333334,
+        0.42592592592592593
+      ],
+      "fill": null,
+      "font_family": null,
+      "font_size": null,
+      "font_weight": 400,
+      "alignment": null,
+      "character_asset_id": "목표 안내 원본"
+    }
+  ]
+}

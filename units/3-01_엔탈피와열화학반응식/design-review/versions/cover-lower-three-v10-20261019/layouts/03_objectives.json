@@ -1,0 +1,229 @@
+{
+  "number": 3,
+  "kind": "objectives",
+  "title": "수업 목표",
+  "nodes": [
+    {
+      "type": "image",
+      "role": "objectives_box",
+      "bbox": [
+        154.66666666666669,
+        424.0,
+        1610.6666666666667,
+        386.66666666666663
+      ],
+      "asset_sha256": "973bf9505960fa8a068c386b62203263280d4bf739cfd66b7a990da5f952348c",
+      "source": {
+        "kind": "objectives",
+        "role": "objectives_box"
+      }
+    },
+    {
+      "type": "image",
+      "role": "guide_character",
+      "bbox": [
+        1670.6666666666667,
+        564.0,
+        217.33333333333334,
+        460.0
+      ],
+      "asset_sha256": "9ee77dfd2a1eb3506422852cdbeca335e29aa65c5cd17a5663c37cc522e164d0",
+      "source": {
+        "kind": "objectives",
+        "role": "guide_character"
+      }
+    },
+    {
+      "type": "image",
+      "role": "sci_eum_logo",
+      "bbox": [
+        1778.6666666666667,
+        40.0,
+        108.0,
+        77.33333333333333
+      ],
+      "asset_sha256": "9d044366936fcad9204ba43766e76b0b6408fb314be39dc252ce631a611fe9db",
+      "source": {
+        "kind": "contents",
+        "role": "sci_eum_logo"
+      }
+    },
+    {
+      "type": "text",
+      "role": "copyright",
+      "text": "© 2026. @sci_eum. All rights reserved.",
+      "bbox": [
+        1535,
+        1037,
+        342,
+        30
+      ],
+      "font": "Pretendard",
+      "fontSize": 17,
+      "weight": "Medium",
+      "color": "#111111",
+      "align": "right",
+      "lineHeight": 21.25
+    },
+    {
+      "type": "text",
+      "role": "title",
+      "text": "이번 단원의 학습 목표",
+      "bbox": [
+        326.7,
+        190,
+        1268,
+        127
+      ],
+      "font": "Pretendard",
+      "fontSize": 94,
+      "weight": "Bold",
+      "color": "#111111",
+      "align": "center",
+      "lineHeight": 117.5
+    },
+    {
+      "type": "rect",
+      "role": "number_circle_1",
+      "bbox": [
+        258.6666666666667,
+        484.33333333333337,
+        56,
+        56
+      ],
+      "fill": "#000000",
+      "radius": 28
+    },
+    {
+      "type": "text",
+      "role": "number_1",
+      "text": "1",
+      "bbox": [
+        258.6666666666667,
+        486.33333333333337,
+        56,
+        56
+      ],
+      "font": "Pretendard",
+      "fontSize": 43,
+      "weight": "Medium",
+      "color": "#FFFFFF",
+      "align": "center",
+      "lineHeight": 53.75
+    },
+    {
+      "type": "text",
+      "role": "objective_1",
+      "text": "엔탈피의 의미를 알고, 열화학 반응식을 표현할 수 있다.",
+      "bbox": [
+        337.33333333333337,
+        486.33333333333337,
+        892.6640625,
+        64
+      ],
+      "font": "Pretendard",
+      "fontSize": 42,
+      "weight": "Medium",
+      "color": "#4A4A4A",
+      "align": "left",
+      "lineHeight": 52.5
+    },
+    {
+      "type": "rect",
+      "role": "number_circle_2",
+      "bbox": [
+        258.6666666666667,
+        589.3333333333334,
+        56,
+        56
+      ],
+      "fill": "#000000",
+      "radius": 28
+    },
+    {
+      "type": "text",
+      "role": "number_2",
+      "text": "2",
+      "bbox": [
+        258.6666666666667,
+        591.3333333333334,
+        56,
+        56
+      ],
+      "font": "Pretendard",
+      "fontSize": 43,
+      "weight": "Medium",
+      "color": "#FFFFFF",
+      "align": "center",
+      "lineHeight": 53.75
+    },
+    {
+      "type": "text",
+      "role": "objective_2",
+      "text": "같은 기준으로 연료의 효율성을 비교할 수 있다.",
+      "bbox": [
+        337.33333333333337,
+        591.3333333333334,
+        892.6640625,
+        64
+      ],
+      "font": "Pretendard",
+      "fontSize": 42,
+      "weight": "Medium",
+      "color": "#4A4A4A",
+      "align": "left",
+      "lineHeight": 52.5
+    },
+    {
+      "type": "rect",
+      "role": "number_circle_3",
+      "bbox": [
+        258.6666666666667,
+        694.3333333333334,
+        56,
+        56
+      ],
+      "fill": "#000000",
+      "radius": 28
+    },
+    {
+      "type": "text",
+      "role": "number_3",
+      "text": "3",
+      "bbox": [
+        258.6666666666667,
+        696.3333333333334,
+        56,
+        56
+      ],
+      "font": "Pretendard",
+      "fontSize": 43,
+      "weight": "Medium",
+      "color": "#FFFFFF",
+      "align": "center",
+      "lineHeight": 53.75
+    },
+    {
+      "type": "text",
+      "role": "objective_3",
+      "text": "결합 에너지와 반응 엔탈피의 관계를 설명할 수 있다.",
+      "bbox": [
+        337.33333333333337,
+        696.3333333333334,
+        892.6640625,
+        64
+      ],
+      "font": "Pretendard",
+      "fontSize": 42,
+      "weight": "Medium",
+      "color": "#4A4A4A",
+      "align": "left",
+      "lineHeight": 52.5
+    }
+  ],
+  "notes": "천재교육 물질과 에너지 p.74의 세 학습 목표. 지도서 PDF pp.106–110과 대조. 안내 인물은 원본 목표 장표의 기존 자산으로 유지.",
+  "source_recipe": {
+    "template": "approved original objectives title/gray box/guide exact positions; 3 objectives replace source 2 items within same original box; no extra box"
+  },
+  "artifact_sha256": "4e3079237f306c59eaf6009db00f44737e553a34e7f6ba1f6ff102af3a5a2904"
+}

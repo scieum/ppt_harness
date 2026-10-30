@@ -1,0 +1,522 @@
+{
+  "artifact_sha256": "a594fa0b148c2e62743b391cc6d73d75de1194c71f638d783c097dad97d09d19",
+  "render_sha256": "3129fd6026c4be346d8649a6bf5326a6c9f17e778267afddfea73cce58be94d2",
+  "exporter": "artifact-tool layout/v5 normalized actual named objects; grouped roles retain raw member geometry",
+  "canvas": [
+    1920,
+    1080
+  ],
+  "objects": [
+    {
+      "role": "sci_eum_logo",
+      "kind": "image",
+      "bbox": [
+        1778.67,
+        40,
+        108.0,
+        77.33
+      ],
+      "fill": [
+        "none"
+      ],
+      "font_family": [
+        null
+      ],
+      "font_size": [
+        null
+      ],
+      "font_weight": [
+        400
+      ],
+      "alignment": [
+        null
+      ],
+      "character_asset_id": null,
+      "members": [
+        {
+          "id": "im/byh07a9o",
+          "kind": "image",
+          "position": {
+            "left": 1778.67,
+            "top": 40,
+            "width": 108,
+            "height": 77.33
+          },
+          "fit": "contain",
+          "alt": "sci_eum_logo"
+        }
+      ]
+    },
+    {
+      "role": "part_heading",
+      "kind": "textbox",
+      "bbox": [
+        72,
+        78,
+        1500,
+        52
+      ],
+      "fill": [
+        "none"
+      ],
+      "font_family": [
+        "Pretendard"
+      ],
+      "font_size": [
+        38
+      ],
+      "font_weight": [
+        700
+      ],
+      "alignment": [
+        "left"
+      ],
+      "character_asset_id": null,
+      "members": [
+        {
+          "id": "sh/10fyxwri",
+          "kind": "textbox",
+          "name": "part_heading",
+          "position": {
+            "left": 72,
+            "top": 78,
+            "width": 1500,
+            "height": 52
+          },
+          "text": "PART 3 결합 에너지와 반응 엔탈피",
+          "style": {
+            "fontSize": 38,
+            "typeface": "Pretendard",
+            "color": "#909090",
+            "bold": true,
+            "alignment": "left"
+          },
+          "geometry": "rect",
+          "lineWidth": 0
+        }
+      ]
+    },
+    {
+      "role": "topic_number",
+      "kind": "textbox",
+      "bbox": [
+        72,
+        137,
+        73,
+        67
+      ],
+      "fill": [
+        "none"
+      ],
+      "font_family": [
+        "Pretendard"
+      ],
+      "font_size": [
+        48.8
+      ],
+      "font_weight": [
+        700
+      ],
+      "alignment": [
+        "left"
+      ],
+      "character_asset_id": null,
+      "members": [
+        {
+          "id": "sh/gzmx4rax",
+          "kind": "textbox",
+          "name": "topic_number",
+          "position": {
+            "left": 72,
+            "top": 137,
+            "width": 73,
+            "height": 67
+          },
+          "text": "04",
+          "style": {
+            "fontSize": 48.8,
+            "typeface": "Pretendard",
+            "color": "#57962F",
+            "bold": true,
+            "alignment": "left"
+          },
+          "geometry": "rect",
+          "lineWidth": 0
+        }
+      ]
+    },
+    {
+      "role": "topic_heading",
+      "kind": "textbox",
+      "bbox": [
+        157,
+        137,
+        1500,
+        67
+      ],
+      "fill": [
+        "none"
+      ],
+      "font_family": [
+        "Pretendard"
+      ],
+      "font_size": [
+        48.8
+      ],
+      "font_weight": [
+        700
+      ],
+      "alignment": [
+        "left"
+      ],
+      "character_asset_id": null,
+      "members": [
+        {
+          "id": "sh/3mxgz69o",
+          "kind": "textbox",
+          "name": "topic_heading",
+          "position": {
+            "left": 157,
+            "top": 137,
+            "width": 1500,
+            "height": 67
+          },
+          "text": "물 생성 반응의 결합 모형",
+          "style": {
+            "fontSize": 48.8,
+            "typeface": "Pretendard",
+            "color": "#111111",
+            "bold": true,
+            "alignment": "left"
+          },
+          "geometry": "rect",
+          "lineWidth": 0
+        }
+      ]
+    },
+    {
+      "role": "title",
+      "kind": "textbox",
+      "bbox": [
+        72,
+        285,
+        1776,
+        100
+      ],
+      "fill": [
+        "none"
+      ],
+      "font_family": [
+        "Pretendard"
+      ],
+      "font_size": [
+        76.4
+      ],
+      "font_weight": [
+        700
+      ],
+      "alignment": [
+        "center"
+      ],
+      "character_asset_id": null,
+      "members": [
+        {
+          "id": "sh/21of61s3",
+          "kind": "textbox",
+          "name": "title",
+          "position": {
+            "left": 72,
+            "top": 285,
+            "width": 1776,
+            "height": 100
+          },
+          "text": "원자 수는 보존되고, 결합은 달라진다",
+          "style": {
+            "fontSize": 76.4,
+            "typeface": "Pretendard",
+            "color": "#111111",
+            "bold": true,
+            "alignment": "center"
+          },
+          "geometry": "rect",
+          "lineWidth": 0
+        }
+      ]
+    },
+    {
+      "role": "explanation",
+      "kind": "textbox",
+      "bbox": [
+        72,
+        398,
+        1776,
+        70
+      ],
+      "fill": [
+        "none"
+      ],
+      "font_family": [
+        "Pretendard"
+      ],
+      "font_size": [
+        36.4
+      ],
+      "font_weight": [
+        700
+      ],
+      "alignment": [
+        "center"
+      ],
+      "character_asset_id": null,
+      "members": [
+        {
+          "id": "sh/pofy1wre",
+          "kind": "textbox",
+          "name": "explanation",
+          "position": {
+            "left": 72,
+            "top": 398,
+            "width": 1776,
+            "height": 70
+          },
+          "text": "2H₂(g) + O₂(g) → 2H₂O(g)",
+          "style": {
+            "fontSize": 36.4,
+            "typeface": "Pretendard",
+            "color": "#888888",
+            "bold": true,
+            "alignment": "center"
+          },
+          "geometry": "rect",
+          "lineWidth": 0
+        }
+      ]
+    },
+    {
+      "role": "page",
+      "kind": "textbox",
+      "bbox": [
+        72,
+        1037,
+        200,
+        30
+      ],
+      "fill": [
+        "none"
+      ],
+      "font_family": [
+        "Pretendard"
+      ],
+      "font_size": [
+        20
+      ],
+      "font_weight": [
+        400
+      ],
+      "alignment": [
+        "left"
+      ],
+      "character_asset_id": null,
+      "members": [
+        {
+          "id": "sh/on6x8rat",
+          "kind": "textbox",
+          "name": "page",
+          "position": {
+            "left": 72,
+            "top": 1037,
+            "width": 200,
+            "height": 30
+          },
+          "text": "26 / 31",
+          "style": {
+            "fontSize": 20,
+            "typeface": "Pretendard",
+            "color": "#999999",
+            "alignment": "left"
+          },
+          "geometry": "rect",
+          "lineWidth": 0
+        }
+      ]
+    },
+    {
+      "role": "copyright",
+      "kind": "textbox",
+      "bbox": [
+        1535,
+        1037,
+        342,
+        30
+      ],
+      "fill": [
+        "none"
+      ],
+      "font_family": [
+        "Pretendard"
+      ],
+      "font_size": [
+        17
+      ],
+      "font_weight": [
+        400
+      ],
+      "alignment": [
+        "right"
+      ],
+      "character_asset_id": null,
+      "members": [
+        {
+          "id": "sh/bqxg369k",
+          "kind": "textbox",
+          "name": "copyright",
+          "position": {
+            "left": 1535,
+            "top": 1037,
+            "width": 342,
+            "height": 30
+          },
+          "text": "© 2026. @sci_eum. All rights reserved.",
+          "style": {
+            "fontSize": 17,
+            "typeface": "Pretendard",
+            "color": "#111111",
+            "alignment": "right"
+          },
+          "geometry": "rect",
+          "lineWidth": 0
+        }
+      ]
+    },
+    {
+      "role": "figure",
+      "kind": "image",
+      "bbox": [
+        310,
+        487,
+        1300,
+        368
+      ],
+      "fill": [
+        "none"
+      ],
+      "font_family": [
+        null
+      ],
+      "font_size": [
+        null
+      ],
+      "font_weight": [
+        400
+      ],
+      "alignment": [
+        null
+      ],
+      "character_asset_id": null,
+      "members": [
+        {
+          "id": "im/n610fu9w",
+          "kind": "image",
+          "position": {
+            "left": 310,
+            "top": 487,
+            "width": 1300,
+            "height": 368
+          },
+          "fit": "contain",
+          "alt": "FIG_REACTION"
+        }
+      ]
+    },
+    {
+      "role": "conclusion-box",
+      "kind": "shape",
+      "bbox": [
+        245,
+        885,
+        1430,
+        100
+      ],
+      "fill": [
+        "#595959"
+      ],
+      "font_family": [
+        null
+      ],
+      "font_size": [
+        null
+      ],
+      "font_weight": [
+        400
+      ],
+      "alignment": [
+        null
+      ],
+      "character_asset_id": null,
+      "members": [
+        {
+          "id": "sh/oz2pofip",
+          "kind": "shape",
+          "name": "conclusion-box",
+          "position": {
+            "left": 245,
+            "top": 885,
+            "width": 1430,
+            "height": 100
+          },
+          "geometry": "roundRect",
+          "fillColor": "#595959",
+          "lineWidth": 0
+        }
+      ]
+    },
+    {
+      "role": "conclusion",
+      "kind": "textbox",
+      "bbox": [
+        275,
+        909,
+        1370,
+        58
+      ],
+      "fill": [
+        "none"
+      ],
+      "font_family": [
+        "Pretendard Medium"
+      ],
+      "font_size": [
+        44.51
+      ],
+      "font_weight": [
+        500
+      ],
+      "alignment": [
+        "center"
+      ],
+      "character_asset_id": null,
+      "members": [
+        {
+          "id": "sh/p0vqhkza",
+          "kind": "textbox",
+          "name": "conclusion",
+          "position": {
+            "left": 275,
+            "top": 909,
+            "width": 1370,
+            "height": 58
+          },
+          "text": "H 원자 4개와 O 원자 2개를 끝까지 확인한다",
+          "style": {
+            "fontSize": 44.51,
+            "typeface": "Pretendard Medium",
+            "color": "#FFFFFF",
+            "alignment": "center"
+          },
+          "geometry": "rect",
+          "lineWidth": 0
+        }
+      ]
+    }
+  ]
+}

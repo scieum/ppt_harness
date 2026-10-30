@@ -1,0 +1,340 @@
+[
+  {
+    "id": "A_COVER",
+    "file": {
+      "path": "assets/generated/white-lime-official-uniform-five-20261019/classroom-handwarmers-uniform.png",
+      "sha256": "1f5b28a310b3c0412441897ed724e1d1dd35ced7483ad63b9008b48585d724df"
+    },
+    "kind": "generated",
+    "purpose": "A_COVER",
+    "review": "passed",
+    "reviewer": "Codex visual comparison of four characters, school uniform, goggles and pouch count",
+    "provenance": "Built-in imagegen; original four-character identity and original 1-01 school uniform references; normal classroom, no goggles; generation and prompt recorded in version folder"
+  },
+  {
+    "id": "A_DELTA",
+    "file": {
+      "path": "assets/A_DELTA.png",
+      "sha256": "b449c2471af869acad1e62dfa98adfbbb2a163588168bd706c8fdec7ed75e124"
+    },
+    "kind": "crop",
+    "purpose": "A_DELTA",
+    "review": "passed",
+    "reviewer": "Codex source crop inspection",
+    "source_id": "pdf01",
+    "page": 75,
+    "crop_reference_1600": [
+      228,
+      450,
+      799,
+      484
+    ]
+  },
+  {
+    "id": "A_REACTION",
+    "file": {
+      "path": "assets/A_REACTION.png",
+      "sha256": "7f6786c1098710cd637581d6f8242df7f03f5c076b8d105cb7bcbc73670e6595"
+    },
+    "kind": "crop",
+    "purpose": "A_REACTION",
+    "review": "passed",
+    "reviewer": "Codex source crop inspection",
+    "source_id": "pdf01",
+    "page": 76,
+    "crop_reference_1600": [
+      430,
+      405,
+      1005,
+      436
+    ]
+  },
+  {
+    "id": "A_EQ1",
+    "file": {
+      "path": "assets/A_EQ1.png",
+      "sha256": "9f13a103fc83a73249e3f709189c42fa5dba5264b977640d5d5cd22c119bc742"
+    },
+    "kind": "crop",
+    "purpose": "A_EQ1",
+    "review": "passed",
+    "reviewer": "Codex source crop inspection",
+    "source_id": "pdf01",
+    "page": 76,
+    "crop_reference_1600": [
+      545,
+      1270,
+      978,
+      1310
+    ]
+  },
+  {
+    "id": "A_EQ2",
+    "file": {
+      "path": "assets/A_EQ2.png",
+      "sha256": "92bef0e8471c57bc1dad20b258c4643c3160a0787f8280abbd3a96e42e163ccf"
+    },
+    "kind": "crop",
+    "purpose": "A_EQ2",
+    "review": "passed",
+    "reviewer": "Codex source crop inspection",
+    "source_id": "pdf01",
+    "page": 76,
+    "crop_reference_1600": [
+      560,
+      1383,
+      800,
+      1436
+    ]
+  },
+  {
+    "id": "CHAR_HOOK",
+    "file": {
+      "path": "assets/generated/cover-original-theory-part-left-goals-hook-v7-20261019/body-handwarmer-expressive.png",
+      "sha256": "da02e7d0d961e20ec65ca9d2bb9af58f7363dbbb0166102c6bea8361490d9fe1"
+    },
+    "kind": "generated",
+    "purpose": "본문 도입: 손난로를 볼에 대고 따뜻함을 느끼는 기존 본문 자산 그림체의 1인 누끼",
+    "review": "passed",
+    "reviewer": "Codex white-background alpha and pose/style review",
+    "provenance": "Built-in image_gen using original body_student_water_cup reference. One character, official school vest, no goggles, close-up expressive action; no background panel."
+  },
+  {
+    "id": "CHAR_GUIDE",
+    "file": {
+      "path": "assets/generated/white-lime-official-uniform-five-20261019/original-objectives-guide.png",
+      "sha256": "9ee77dfd2a1eb3506422852cdbeca335e29aa65c5cd17a5663c37cc522e164d0"
+    },
+    "kind": "existing",
+    "purpose": "기존 캐릭터를 활용한 설명용 삽화",
+    "review": "passed",
+    "reviewer": "Codex visual comparison of four characters, school uniform, goggles and pouch count",
+    "provenance": "Original objectives guide asset"
+  },
+  {
+    "id": "CHAR_EXO",
+    "file": {
+      "path": "assets/CHAR_EXO.png",
+      "sha256": "2e17ca82e2b70717438ac29eda4bf3e24892b3b106c4361d3f5696ae33e76b81"
+    },
+    "kind": "generated",
+    "purpose": "기존 캐릭터를 활용한 설명용 삽화",
+    "review": "passed",
+    "reviewer": "Codex visual review",
+    "provenance": "Built-in image_gen; original four character identity reference; C:\\Users\\User\\.codex\\generated_images\\01a151c0-aa7f-7dd2-a23c-20860e4d90a8\\exec-0b43a6e4-9749-4b13-8712-9a4854daaccc.png"
+  },
+  {
+    "id": "CHAR_ENDO",
+    "file": {
+      "path": "assets/CHAR_ENDO.png",
+      "sha256": "48f62ddce4f465ec18015fe018c6a76ef53c0c6d936b7123817420701e7a22bd"
+    },
+    "kind": "generated",
+    "purpose": "기존 캐릭터를 활용한 설명용 삽화",
+    "review": "passed",
+    "reviewer": "Codex visual review",
+    "provenance": "Built-in image_gen; original four character identity reference; C:\\Users\\User\\.codex\\generated_images\\01a151c0-aa7f-7dd2-a23c-20860e4d90a8\\exec-fd78e809-672e-4617-b058-92b43ce5f0fb.png"
+  },
+  {
+    "id": "CHAR_STATE",
+    "file": {
+      "path": "assets/CHAR_STATE.png",
+      "sha256": "0cfe587fa75b70097222f5d62e86d92f3d3f1b56e3671298e16afcb6a605db8a"
+    },
+    "kind": "generated",
+    "purpose": "기존 캐릭터를 활용한 설명용 삽화",
+    "review": "passed",
+    "reviewer": "Codex visual review",
+    "provenance": "Built-in image_gen; original four character identity reference; C:\\Users\\User\\.codex\\generated_images\\01a151c0-aa7f-7dd2-a23c-20860e4d90a8\\exec-dc515c80-911d-40d6-b64b-160ab0edcfd5.png"
+  },
+  {
+    "id": "CHAR_CAL",
+    "file": {
+      "path": "assets/CHAR_CAL.png",
+      "sha256": "8647d30b7a58ced658041477c8e1c9bd5c554cc349191f067f2c1d9e5fcc68ed"
+    },
+    "kind": "generated",
+    "purpose": "기존 캐릭터를 활용한 설명용 삽화",
+    "review": "passed",
+    "reviewer": "Codex visual review",
+    "provenance": "Built-in image_gen; original four character identity reference; C:\\Users\\User\\.codex\\generated_images\\01a151c0-aa7f-7dd2-a23c-20860e4d90a8\\exec-e45e4247-5549-4626-9b9c-237029ee9cab.png"
+  },
+  {
+    "id": "CHAR_BREAK",
+    "file": {
+      "path": "assets/CHAR_BREAK.png",
+      "sha256": "d0098bcf61c4f6572c858e2049cda80dcba12680710b90f6864c00472718610e"
+    },
+    "kind": "generated",
+    "purpose": "기존 캐릭터를 활용한 설명용 삽화",
+    "review": "passed",
+    "reviewer": "Codex visual review",
+    "provenance": "Built-in image_gen; original four character identity reference; C:\\Users\\User\\.codex\\generated_images\\01a151c0-aa7f-7dd2-a23c-20860e4d90a8\\exec-0b6291b6-d0cb-4d31-9e68-94152c997918.png"
+  },
+  {
+    "id": "CHAR_FORM",
+    "file": {
+      "path": "assets/CHAR_FORM.png",
+      "sha256": "c8bd525200bed27df1b09c03bff1cfca0ea8ed74cbba77075d2237e9d0ccc809"
+    },
+    "kind": "generated",
+    "purpose": "기존 캐릭터를 활용한 설명용 삽화",
+    "review": "passed",
+    "reviewer": "Codex visual review",
+    "provenance": "Built-in image_gen; original four character identity reference; C:\\Users\\User\\.codex\\generated_images\\01a151c0-aa7f-7dd2-a23c-20860e4d90a8\\exec-e6362327-9d50-461c-b1ed-995bad84478c.png"
+  },
+  {
+    "id": "CHAR_REACTION",
+    "file": {
+      "path": "assets/CHAR_REACTION.png",
+      "sha256": "8e1ea5bf7fa73ee0658e026944d93dffe6908dbca1c75514dac6e41e283263aa"
+    },
+    "kind": "generated",
+    "purpose": "기존 캐릭터를 활용한 설명용 삽화",
+    "review": "passed",
+    "reviewer": "Codex visual review",
+    "provenance": "Built-in image_gen; original four character identity reference; C:\\Users\\User\\.codex\\generated_images\\01a151c0-aa7f-7dd2-a23c-20860e4d90a8\\exec-e98b3c57-ba98-4c60-b353-0407b159c004.png"
+  },
+  {
+    "id": "CHAR_DISCUSS",
+    "file": {
+      "path": "assets/CHAR_DISCUSS.png",
+      "sha256": "e523b7527d3cc7a9f94ad3fd21ee1e20157a4130469b9093bbba16d784e6b61c"
+    },
+    "kind": "generated",
+    "purpose": "기존 캐릭터를 활용한 설명용 삽화",
+    "review": "passed",
+    "reviewer": "Codex visual review",
+    "provenance": "Built-in image_gen; original four character identity reference; C:\\Users\\User\\.codex\\generated_images\\01a151c0-aa7f-7dd2-a23c-20860e4d90a8\\exec-1ad70e8f-59cf-4db5-867b-4eb0f2a74bfc.png"
+  },
+  {
+    "id": "PHOTO_BOILER",
+    "file": {
+      "path": "assets/PHOTO_BOILER.png",
+      "sha256": "ca19e9ef431d56dc1525a2bbc08a4b2209d34a0485cf93be8e48a6f0af18114b"
+    },
+    "kind": "crop",
+    "purpose": "교과서 예시 사진 또는 수식",
+    "source_id": "pdf01",
+    "page": 78,
+    "review": "passed",
+    "reviewer": "Codex source page and crop review"
+  },
+  {
+    "id": "PHOTO_CAR",
+    "file": {
+      "path": "assets/PHOTO_CAR.png",
+      "sha256": "a093e2e9e8e85aaab33f48025a02d2917e9a23d1a615b5109e165dd20949b7b4"
+    },
+    "kind": "crop",
+    "purpose": "교과서 예시 사진 또는 수식",
+    "source_id": "pdf01",
+    "page": 78,
+    "review": "passed",
+    "reviewer": "Codex source page and crop review"
+  },
+  {
+    "id": "EQ_Q",
+    "file": {
+      "path": "assets/EQ_Q.png",
+      "sha256": "845d1f345c35f83e33bd4779ba2ab473de6f41cff1bc2dcae487df8dc6af5236"
+    },
+    "kind": "crop",
+    "purpose": "교과서 예시 사진 또는 수식",
+    "source_id": "pdf01",
+    "page": 77,
+    "review": "passed",
+    "reviewer": "Codex source page and crop review"
+  },
+  {
+    "id": "EQ_FUEL1",
+    "file": {
+      "path": "assets/EQ_FUEL1.png",
+      "sha256": "748245364a1dcfdee92fb7192ef14b3107be2ea93adb231de18c55d83a7c58c6"
+    },
+    "kind": "crop",
+    "purpose": "교과서 예시 사진 또는 수식",
+    "source_id": "pdf01",
+    "page": 79,
+    "review": "passed",
+    "reviewer": "Codex source page and crop review"
+  },
+  {
+    "id": "EQ_FUEL2",
+    "file": {
+      "path": "assets/EQ_FUEL2.png",
+      "sha256": "7a17812603a2ad4759b306a7cf184460645910702c9ef51d3040a5ba47666a82"
+    },
+    "kind": "crop",
+    "purpose": "교과서 예시 사진 또는 수식",
+    "source_id": "pdf01",
+    "page": 79,
+    "review": "passed",
+    "reviewer": "Codex source page and crop review"
+  },
+  {
+    "id": "EQ_BREAK",
+    "file": {
+      "path": "assets/EQ_BREAK.png",
+      "sha256": "9607e1a7747a5034a8d2d19ec18c5181f71645e260386c8613a9addcf2f768da"
+    },
+    "kind": "crop",
+    "purpose": "교과서 예시 사진 또는 수식",
+    "source_id": "pdf01",
+    "page": 80,
+    "review": "passed",
+    "reviewer": "Codex source page and crop review"
+  },
+  {
+    "id": "EQ_WATER",
+    "file": {
+      "path": "assets/EQ_WATER.png",
+      "sha256": "6d443fc9267d949ef5adb79bd03b7bad06f5e4aba684b636087337e2920b8306"
+    },
+    "kind": "crop",
+    "purpose": "교과서 예시 사진 또는 수식",
+    "source_id": "pdf01",
+    "page": 81,
+    "review": "passed",
+    "reviewer": "Codex source page and crop review"
+  },
+  {
+    "id": "EQ_BOND",
+    "file": {
+      "path": "assets/EQ_BOND.png",
+      "sha256": "2cc24df7cc08ee654ab433d34ff8f8d457aec7a8cca6eaaa0b855526c11465c3"
+    },
+    "kind": "crop",
+    "purpose": "교과서 예시 사진 또는 수식",
+    "source_id": "pdf01",
+    "page": 81,
+    "review": "passed",
+    "reviewer": "Codex source page and crop review"
+  },
+  {
+    "id": "EQ_STATE",
+    "file": {
+      "path": "assets/EQ_STATE.png",
+      "sha256": "9d2e9453ded8d401d16a1cf354418e95e47bed2d1ed33f937de455904a7a4fc0"
+    },
+    "kind": "crop",
+    "purpose": "교과서 예시 사진 또는 수식",
+    "source_id": "pdf01",
+    "page": 79,
+    "review": "passed",
+    "reviewer": "Codex source page and crop review"
+  },
+  {
+    "id": "EQ_CHECK",
+    "file": {
+      "path": "assets/EQ_CHECK.png",
+      "sha256": "e4d684aaeb100eb31d1c75cf2c056a724d172127d760470d6811da1aebe1a622"
+    },
+    "kind": "crop",
+    "purpose": "교과서 예시 사진 또는 수식",
+    "source_id": "pdf01",
+    "page": 77,
+    "review": "passed",
+    "reviewer": "Codex source page and crop review"
+  }
+]

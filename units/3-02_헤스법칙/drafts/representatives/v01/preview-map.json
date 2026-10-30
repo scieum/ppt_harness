@@ -1,0 +1,20 @@
+[
+  {
+    "preview": 3,
+    "planned_page": 6,
+    "sha256": "eb05ccdda1617a687462122f6624ce43d99a7fb7fdbfdb2d0f75173faa2f646f",
+    "filename": "slide-03.png"
+  },
+  {
+    "preview": 4,
+    "planned_page": 8,
+    "sha256": "ec768cfad02670827be8f4d3e3bde2326c2e9a374bd08dca5b4341b1013e5a60",
+    "filename": "slide-04.png"
+  },
+  {
+    "preview": 5,
+    "planned_page": 17,
+    "sha256": "5821bf4063840cda46ac506158f68ce2ba4f8a705b881401afdef3b8546dd712",
+    "filename": "slide-05.png"
+  }
+]

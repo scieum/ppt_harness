@@ -1,0 +1,79 @@
+[
+  {
+    "id": "W22",
+    "role": "comparison",
+    "citation": "2022 완자 물질과 에너지 PDF/인쇄118~124",
+    "curriculum": "2022 개정",
+    "evidence": {
+      "path": "research/W-extract.txt",
+      "sha256": "14c26342c3c9fc3b7f64081a38405061dc4bfa4efc3629e5f668c4e593047846"
+    },
+    "verification_status": "read"
+  },
+  {
+    "id": "W15",
+    "role": "comparison",
+    "citation": "사용자 지정 완자 화학Ⅱ15개정 원본 미열람",
+    "curriculum": "2015 개정",
+    "evidence": {
+      "path": "research/availability.md",
+      "sha256": "f268d87181b1a3589956151afef4c4417793940965cf2cc23f6888030f2b8786"
+    },
+    "verification_status": "partial"
+  },
+  {
+    "id": "T",
+    "role": "primary",
+    "citation": "천재 물질과 에너지 인쇄82~87 탐색 후보; 원본 미열람",
+    "curriculum": "2022 개정",
+    "evidence": {
+      "path": "research/availability.md",
+      "sha256": "f268d87181b1a3589956151afef4c4417793940965cf2cc23f6888030f2b8786"
+    },
+    "verification_status": "partial"
+  },
+  {
+    "id": "C15",
+    "role": "secondary",
+    "citation": "천재 화학Ⅱ 교과서 원본 미열람",
+    "curriculum": "2015 개정",
+    "evidence": {
+      "path": "research/availability.md",
+      "sha256": "f268d87181b1a3589956151afef4c4417793940965cf2cc23f6888030f2b8786"
+    },
+    "verification_status": "partial"
+  },
+  {
+    "id": "G22",
+    "role": "comparison",
+    "citation": "천재 물질과 에너지 지도서 보존발췌 PDF104~105·19",
+    "curriculum": "2022 개정",
+    "evidence": {
+      "path": "research/G22-preserved-extract.json",
+      "sha256": "c60cd24947364d113ce73143f32ea887257df8983d97459bb35db01424b5318e"
+    },
+    "verification_status": "partial"
+  },
+  {
+    "id": "G15",
+    "role": "comparison",
+    "citation": "천재 화학Ⅱ 지도서 보존발췌 일부; 헤스 본문 비교 미완료",
+    "curriculum": "2015 개정",
+    "evidence": {
+      "path": "research/G15-preserved-extract.json",
+      "sha256": "e881e7980679cb54a2abf04cba22ca896b60f7594416e190c3ec34d4b689a5fa"
+    },
+    "verification_status": "partial"
+  },
+  {
+    "id": "STD22",
+    "role": "standard",
+    "citation": "교육부2022-33호 별책9; 공식 게시물 확인·기존 전재 발췌 대조",
+    "curriculum": "2022 개정",
+    "evidence": {
+      "path": "research/standard.txt",
+      "sha256": "961494a9f0b638581735c31719b94359192100bdb4e7704d04262415f6b72685"
+    },
+    "verification_status": "partial"
+  }
+]

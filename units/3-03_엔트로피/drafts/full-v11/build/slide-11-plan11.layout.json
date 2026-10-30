@@ -1,0 +1,16 @@
+{"schema":"openai.presentation.layout/v5","unit":"px","slide":{"id":"sl/37xm4z","index":0,"layout":{"id":"ly/2t4ju9oj","name":"Blank"},"backgroundColor":"rgba(0,0,0,1)","position":{"left":0,"top":0,"width":1920,"height":1080}},
+"elements":[
+{"id":"im/6hozupkf","kind":"image","position":{"left":1778.67,"top":40,"width":108,"height":77.33},"fit":"contain","alt":"사이음 공식 로고"},
+{"id":"sh/w7qh4by9","kind":"textbox","name":"copyright","position":{"left":1440,"top":1034,"width":440,"height":30},"text":"© 2026. @sci_eum. All rights reserved.","style":{"fontSize":21,"typeface":"Pretendard","color":"#FFFFFF","alignment":"right"},"geometry":"rect","lineWidth":0},
+{"id":"sh/x8zixgfu","kind":"textbox","name":"text","position":{"left":72,"top":76,"width":1530,"height":54},"text":"Part 2 엔트로피 변화","style":{"fontSize":38,"typeface":"Pretendard","color":"#898989","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/i9sz6lgz","kind":"textbox","name":"text","position":{"left":72,"top":134,"width":70,"height":64},"text":"01","style":{"fontSize":48.8,"typeface":"Pretendard","color":"#9FFF68","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/ju10zqxk","kind":"textbox","name":"text","position":{"left":146,"top":134,"width":1550,"height":64},"text":"엔트로피 변화","style":{"fontSize":48.8,"typeface":"Pretendard","color":"#FFFFFF","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/kvah8vy5","kind":"textbox","name":"핵심 문장","position":{"left":100,"top":260,"width":1720,"height":112},"text":"엔트로피 변화는 최종값과 초기값의 차이","style":{"fontSize":76.4,"typeface":"Pretendard","color":"#FFFFFF","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/5wji10fq","kind":"textbox","name":"text","position":{"left":180,"top":385,"width":1560,"height":65},"text":"엔트로피 변화는 처음과 나중의 엔트로피 차이이다.","style":{"fontSize":38,"typeface":"Pretendard","color":"#A6A6A6","alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"im/badgfals","kind":"image","position":{"left":490,"top":527,"width":940,"height":148.79},"fit":"contain","alt":"신규 생성 교과서 세리프 수식 delta"},
+{"id":"sh/zyxgnmxg","kind":"shape","name":"line","position":{"left":960,"top":717,"width":1,"height":217},"geometry":"custom","lineColor":"#555555","lineWidth":2},
+{"id":"sh/7ip0nmto","kind":"textbox","name":"text","position":{"left":240,"top":748,"width":650,"height":60},"text":"최종 엔트로피가 더 크면","style":{"fontSize":43,"typeface":"Pretendard","color":"#FFFFFF","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/mhgjuhc3","kind":"textbox","name":"text","position":{"left":240,"top":842,"width":650,"height":65},"text":"엔트로피 증가","style":{"fontSize":46,"typeface":"Pretendard","color":"#9FFF68","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/9k7ipwbu","kind":"textbox","name":"text","position":{"left":1030,"top":748,"width":650,"height":60},"text":"최종 엔트로피가 더 작으면","style":{"fontSize":43,"typeface":"Pretendard","color":"#FFFFFF","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/8jy1wru9","kind":"textbox","name":"text","position":{"left":1030,"top":842,"width":650,"height":65},"text":"엔트로피 감소","style":{"fontSize":46,"typeface":"Pretendard","color":"#9FFF68","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0}
+]}

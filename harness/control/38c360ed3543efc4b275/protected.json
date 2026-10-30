@@ -1,0 +1,95 @@
+{
+  "unit": "/Users/keemhayeon/Downloads/Codex/scieum_ppt/units/3-01_엔탈피와열화학반응식",
+  "roots": [
+    "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/inbox/textbook/chunjae",
+    "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/units/3-01_엔탈피와열화학반응식/design-review/versions/cover-lower-three-v10-20261019"
+  ],
+  "files": {
+    "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/inbox/textbook/chunjae": {
+      "kind": "directory"
+    },
+    "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/inbox/textbook/chunjae/고_물질과에너지(임희준)_교과서.pdf": {
+      "kind": "file",
+      "sha256": "dbbb7c819dd76a523331a5e9235c7fabaa816b19f7f5c1bc1067a3c07a3adbf1"
+    },
+    "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/inbox/textbook/chunjae/고_물질과에너지(임희준)_지도서.pdf": {
+      "kind": "file",
+      "sha256": "8562ac249a18b44a861bacb62d973ec9eef8985796d98921d79a005a367c80b8"
+    },
+    "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/inbox/textbook/chunjae/고등_화학2_노태희(15개정)_교과서.pdf": {
+      "kind": "file",
+      "sha256": "08d0e0b662496fd58876d694ab9d6ac9b698e2caaa2d44ab017389381d393dff"
+    },
+    "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/inbox/textbook/chunjae/고등_화학2_노태희(15개정)_지도서.pdf": {
+      "kind": "file",
+      "sha256": "a2284b98616120eaf038bfc5820311c3f474ed974eca0925d57689f7c35ed727"
+    },
+    "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/units/3-01_엔탈피와열화학반응식/design-review/versions/cover-lower-three-v10-20261019": {
+      "kind": "directory"
+    },
+    "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/units/3-01_엔탈피와열화학반응식/design-review/versions/cover-lower-three-v10-20261019/feedback-evidence.json": {
+      "kind": "file",
+      "sha256": "f01f8996a5b96d8d7b28cfd9011a8eddd61cf4e72c7562d125256e47a45c74c9"
+    },
+    "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/units/3-01_엔탈피와열화학반응식/design-review/versions/cover-lower-three-v10-20261019/figma-preflight.json": {
+      "kind": "file",
+      "sha256": "cb21e40fb920e57dac701c07c5cc5be5bdaeca25dc1823658061cc9fd66cd541"
+    },
+    "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/units/3-01_엔탈피와열화학반응식/design-review/versions/cover-lower-three-v10-20261019/figma-upload-results.json": {
+      "kind": "file",
+      "sha256": "4c21f8af942464294cd1969f7f945ddd370763b042f18ca4746b28177730dacb"
+    },
+    "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/units/3-01_엔탈피와열화학반응식/design-review/versions/cover-lower-three-v10-20261019/index.html": {
+      "kind": "file",
+      "sha256": "f1b694e593eb053979ac32c8dd1a1a0f5523049b870102146b290f33b5136f0b"
+    },
+    "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/units/3-01_엔탈피와열화학반응식/design-review/versions/cover-lower-three-v10-20261019/layouts/01_cover.json": {
+      "kind": "file",
+      "sha256": "29f28bfe72564319d04f3bb7a25d94ef3e27553ddc6d3bc7c616b63e12408957"
+    },
+    "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/units/3-01_엔탈피와열화학반응식/design-review/versions/cover-lower-three-v10-20261019/layouts/02_contents.json": {
+      "kind": "file",
+      "sha256": "407e33adf35900ce3cec3fd3f552efe8c2601b3db0894468135ba50d4f763b80"
+    },
+    "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/units/3-01_엔탈피와열화학반응식/design-review/versions/cover-lower-three-v10-20261019/layouts/03_objectives.json": {
+      "kind": "file",
+      "sha256": "23b19c920346b0280538b9e610aa10c6100d396552149510a0f1708afb3e3b9d"
+    },
+    "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/units/3-01_엔탈피와열화학반응식/design-review/versions/cover-lower-three-v10-20261019/layouts/04_part.json": {
+      "kind": "file",
+      "sha256": "b63c3d2d3ebf15308844b3cee31ff04d56a0252549fb3d218518cbf224b51637"
+    },
+    "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/units/3-01_엔탈피와열화학반응식/design-review/versions/cover-lower-three-v10-20261019/layouts/05_hook.json": {
+      "kind": "file",
+      "sha256": "3492f8d7f896271f7bc2207b8b4e2f571c3027b6ca80363f9b6ffcb80da111aa"
+    },
+    "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/units/3-01_엔탈피와열화학반응식/design-review/versions/cover-lower-three-v10-20261019/renders/01_cover.png": {
+      "kind": "file",
+      "sha256": "e749c9961b2e0f4a5d0d2fa57646b0220c88d935923d03ee13302355685c7237"
+    },
+    "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/units/3-01_엔탈피와열화학반응식/design-review/versions/cover-lower-three-v10-20261019/renders/02_contents.png": {
+      "kind": "file",
+      "sha256": "220ae9ea9f1b76f26958a3014d0070fc8e8d6a9f9207bde30e0ecc9852084707"
+    },
+    "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/units/3-01_엔탈피와열화학반응식/design-review/versions/cover-lower-three-v10-20261019/renders/03_objectives.png": {
+      "kind": "file",
+      "sha256": "ab021566854c4464463cb50eecfb520dd3c0d05bdcb0174578c4a6b26ab6d15e"
+    },
+    "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/units/3-01_엔탈피와열화학반응식/design-review/versions/cover-lower-three-v10-20261019/renders/04_part.png": {
+      "kind": "file",
+      "sha256": "0116a1846ec973c67e7ef886cce555d4df6d310b909e4ec934ce2468617f156d"
+    },
+    "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/units/3-01_엔탈피와열화학반응식/design-review/versions/cover-lower-three-v10-20261019/renders/05_hook.png": {
+      "kind": "file",
+      "sha256": "ec2cee8744607324652fa61f2a53a461cc04d6fef4f6350d0eeaf10698217308"
+    },
+    "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/units/3-01_엔탈피와열화학반응식/design-review/versions/cover-lower-three-v10-20261019/scene.json": {
+      "kind": "file",
+      "sha256": "2cf00a50c32887195694554c98b844fa6848e91b763c869bdefbfa0a119386dd"
+    },
+    "/Users/keemhayeon/Library/CloudStorage/OneDrive-한국교원대학교/Codex/scieum_ppt/units/3-01_엔탈피와열화학반응식/design-review/versions/cover-lower-three-v10-20261019/targeted-checks.json": {
+      "kind": "file",
+      "sha256": "5af03db94ea405b4e5eaacbcf82cc640094c27294306ad6bf208d08cf18b4260"
+    }
+  }
+}

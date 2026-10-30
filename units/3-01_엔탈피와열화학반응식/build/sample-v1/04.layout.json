@@ -1,0 +1,11 @@
+{"schema":"openai.presentation.layout/v5","unit":"px","slide":{"id":"sl/kg0d1g","index":3,"layout":{"id":"ly/hozulcvm","name":"Blank"},"backgroundColor":"rgba(255,255,255,1)","position":{"left":0,"top":0,"width":1920,"height":1080}},
+"elements":[
+{"id":"im/5kr690ny","kind":"image","position":{"left":1778.67,"top":40,"width":108,"height":77.33},"fit":"contain","alt":"sci_eum_logo"},
+{"id":"sh/vq5cb2tg","kind":"textbox","name":"copyright","position":{"left":1535,"top":1037,"width":342,"height":30},"text":"© 2026. @sci_eum. All rights reserved.","style":{"fontSize":17,"typeface":"Aptos","color":"#111111","alignment":"right"},"geometry":"rect","lineWidth":0},
+{"id":"sh/apwb2hcv","kind":"textbox","name":"part_heading","position":{"left":72,"top":78,"width":1200,"height":64},"text":"Part 0 동기 유발","style":{"fontSize":43,"typeface":"Aptos","color":"#909090","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/5g7uhwbi","kind":"textbox","name":"topic_number","position":{"left":72,"top":144,"width":90,"height":66},"text":"01","style":{"fontSize":50,"typeface":"Aptos","color":"#57962F","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/kfet8rad","kind":"textbox","name":"topic_heading","position":{"left":162,"top":144,"width":600,"height":66},"text":"손난로와 열","style":{"fontSize":50,"typeface":"Aptos","color":"#111111","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/je5cfmts","kind":"textbox","name":"title","position":{"left":192,"top":295,"width":1536,"height":115},"text":"흔들기만 했는데도 따뜻해지는 손난로!?","style":{"fontSize":78,"typeface":"Aptos","color":"#111111","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/itwb6hc7","kind":"textbox","name":"observation_explanation","position":{"left":200,"top":425,"width":1520,"height":64},"text":"포장을 뜯고 흔든 손난로가 따뜻해진다. 손난로 안에서는 어떤 변화가 일어날까?","style":{"fontSize":32,"typeface":"Aptos","color":"#888888","alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"im/gr2pof6l","kind":"image","position":{"left":600,"top":495,"width":720,"height":542.5},"fit":"contain","alt":"body_cutout"}
+]}

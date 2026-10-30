@@ -1,0 +1,12 @@
+{"schema":"openai.presentation.layout/v5","unit":"px","slide":{"id":"sl/mm7o8f","index":18,"layout":{"id":"ly/qhobmt0n","name":"Blank"},"backgroundColor":"rgba(255,255,255,1)","position":{"left":0,"top":0,"width":1920,"height":1080}},
+"elements":[
+{"id":"im/9kjy503q","kind":"image","position":{"left":1778.67,"top":40,"width":108,"height":77.33},"fit":"contain","alt":"sci_eum_logo"},
+{"id":"sh/rep0zalw","kind":"textbox","name":"part_heading","position":{"left":72,"top":78,"width":1500,"height":52},"text":"PART 2 연료의 효율성","style":{"fontSize":38,"typeface":"Pretendard","color":"#909090","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/qdgzq54b","kind":"textbox","name":"topic_number","position":{"left":72,"top":137,"width":73,"height":67},"text":"05","style":{"fontSize":48.8,"typeface":"Pretendard","color":"#57962F","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/1kri5k3y","kind":"textbox","name":"topic_heading","position":{"left":157,"top":137,"width":1500,"height":67},"text":"네 연료의 비교","style":{"fontSize":48.8,"typeface":"Pretendard","color":"#111111","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/0jihwf2d","kind":"textbox","name":"title","position":{"left":72,"top":285,"width":1776,"height":100},"text":"같은 질량 기준에서는 수소의 방출열이 가장 크다","style":{"fontSize":76.4,"typeface":"Pretendard","color":"#111111","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/zip03als","kind":"textbox","name":"explanation","position":{"left":72,"top":398,"width":1776,"height":70},"text":"제시된 네 연료의 완전 연소와 교과서 상태 조건 기준","style":{"fontSize":36.4,"typeface":"Pretendard","color":"#888888","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/ehgzup47","kind":"textbox","name":"page","position":{"left":72,"top":1037,"width":200,"height":30},"text":"19 / 31","style":{"fontSize":20,"typeface":"Pretendard","color":"#999999","alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/honyt03e","kind":"textbox","name":"copyright","position":{"left":1535,"top":1037,"width":342,"height":30},"text":"© 2026. @sci_eum. All rights reserved.","style":{"fontSize":17,"typeface":"Pretendard","color":"#111111","alignment":"right"},"geometry":"rect","lineWidth":0},
+{"id":"tb/14nqdkv2","kind":"table","position":{"left":210,"top":500,"width":1500,"height":430},"text":"연료\t몰질량 (g/mol)\t방출열 (kJ/mol)\t방출열 (kJ/g)\n메테인\t16\t890.5\t55.7\n뷰테인\t58\t2877\t49.6\n에탄올\t46\t1367\t29.7\n수소\t2\t285.8\t142.9","rows":5,"cols":4}
+]}

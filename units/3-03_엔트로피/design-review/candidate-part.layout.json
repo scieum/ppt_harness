@@ -1,0 +1,91 @@
+{
+  "artifact_sha256": "a9e961cead38d9b4a5215da60bf916c8854060580c651c210c44b87c2aeb060f",
+  "render_sha256": "b1d68fc77d7ae2406d709998f22ad61b0c2fceed5a5934cfba8fc8040b456691",
+  "exporter": "Artifact Tool slide.export layout/v5; actual element IDs",
+  "canvas": [
+    1920,
+    1080
+  ],
+  "objects": [
+    {
+      "role": "im/t43i58va",
+      "kind": "image",
+      "bbox": [
+        0.926390625,
+        0.037037037037037035,
+        0.05625,
+        0.07160185185185185
+      ],
+      "fill": null,
+      "font_family": null,
+      "font_size": null,
+      "font_weight": 400,
+      "alignment": null,
+      "character_asset_id": "사이음 공식 로고"
+    },
+    {
+      "role": "sh/z6x4net8",
+      "kind": "textbox",
+      "bbox": [
+        0.75,
+        0.9574074074074074,
+        0.22916666666666666,
+        0.027777777777777776
+      ],
+      "fill": null,
+      "font_family": "Pretendard",
+      "font_size": 21,
+      "font_weight": 400,
+      "alignment": "right",
+      "character_asset_id": null
+    },
+    {
+      "role": "sh/y54nu9cn",
+      "kind": "textbox",
+      "bbox": [
+        0.06180729166666667,
+        0.2814814814814815,
+        0.4166666666666667,
+        0.09136111111111112
+      ],
+      "fill": null,
+      "font_family": "Pretendard",
+      "font_size": 70,
+      "font_weight": 700,
+      "alignment": "left",
+      "character_asset_id": null
+    },
+    {
+      "role": "sh/x4vmlob2",
+      "kind": "textbox",
+      "bbox": [
+        0.06180729166666667,
+        0.37037037037037035,
+        0.6576406250000001,
+        0.14567592592592593
+      ],
+      "fill": null,
+      "font_family": "Pretendard",
+      "font_size": 110,
+      "font_weight": 700,
+      "alignment": "left",
+      "character_asset_id": null
+    },
+    {
+      "role": "sh/c3m5sjux",
+      "kind": "textbox",
+      "bbox": [
+        0.06180729166666667,
+        0.5234537037037037,
+        0.875,
+        0.06481481481481481
+      ],
+      "fill": null,
+      "font_family": "Pretendard",
+      "font_size": 44,
+      "font_weight": 400,
+      "alignment": "left",
+      "character_asset_id": null
+    }
+  ]
+}

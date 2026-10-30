@@ -1,0 +1,12 @@
+{"schema":"openai.presentation.layout/v5","unit":"px","slide":{"id":"sl/dsxj9l","index":0,"layout":{"id":"ly/id4fy5wj","name":"Blank"},"backgroundColor":"rgba(12,125,8,1)","position":{"left":0,"top":0,"width":1920,"height":1080}},
+"elements":[
+{"id":"im/hgbads7u","kind":"image","position":{"left":0,"top":0,"width":1920,"height":1080},"fit":"contain","alt":"등록 원본 네 학생 — 재생성 없음"},
+{"id":"sh/rm5k361s","kind":"shape","name":"왼쪽 녹색 그라데이션","position":{"left":0,"top":0,"width":1920,"height":1080},"geometry":"rect","lineWidth":0},
+{"id":"sh/6lwjal07","kind":"textbox","name":"대단원명","position":{"left":139,"top":206,"width":1470,"height":145},"text":"Ⅲ. 화학 변화의 자발성","style":{"fontSize":110,"typeface":"Pretendard","color":"#FFFFFF","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/5kn21gj2","kind":"textbox","name":"소단원명","position":{"left":139,"top":347,"width":1400,"height":145},"text":"03. 엔트로피","style":{"fontSize":110,"typeface":"Pretendard","color":"#FFFFFF","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/4zu18bih","kind":"textbox","name":"저자","position":{"left":143,"top":554,"width":400,"height":60},"text":"사이음 저","style":{"fontSize":40,"typeface":"Pretendard","color":"#FFFFFF","alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/jyl0z61w","kind":"textbox","name":"AI 안내","position":{"left":45,"top":1035,"width":1300,"height":30},"text":"본 수업 자료에 사용된 일부 이미지는 생성형 AI 기술을 활용하여 제작되었습니다.","style":{"fontSize":21,"typeface":"Pretendard","color":"#FFFFFF","alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"im/3itsf2pk","kind":"image","position":{"left":1778.67,"top":40,"width":108,"height":77.33},"fit":"contain","alt":"사이음 공식 로고"},
+{"id":"im/k7y9w3q1","kind":"image","position":{"left":1601.33,"top":42.67,"width":154.67,"height":66.67},"fit":"contain","alt":"T셀파 공식 로고 — 첫 장만"},
+{"id":"sh/ofy1kvil","kind":"textbox","name":"copyright","position":{"left":1440,"top":1034,"width":440,"height":30},"text":"© 2026. @sci_eum. All rights reserved.","style":{"fontSize":21,"typeface":"Pretendard","color":"#000000","alignment":"right"},"geometry":"rect","lineWidth":0}
+]}

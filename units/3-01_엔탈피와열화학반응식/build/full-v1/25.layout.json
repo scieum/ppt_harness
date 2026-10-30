@@ -1,0 +1,14 @@
+{"schema":"openai.presentation.layout/v5","unit":"px","slide":{"id":"sl/gb0o0p","index":24,"layout":{"id":"ly/qhobmt0n","name":"Blank"},"backgroundColor":"rgba(255,255,255,1)","position":{"left":0,"top":0,"width":1920,"height":1080}},
+"elements":[
+{"id":"im/725436pw","kind":"image","position":{"left":1778.67,"top":40,"width":108,"height":77.33},"fit":"contain","alt":"sci_eum_logo"},
+{"id":"sh/9srm54r6","kind":"textbox","name":"part_heading","position":{"left":72,"top":78,"width":1500,"height":52},"text":"PART 3 결합 에너지와 반응 엔탈피","style":{"fontSize":38,"typeface":"Pretendard","color":"#909090","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/8rilwzql","kind":"textbox","name":"topic_number","position":{"left":72,"top":137,"width":73,"height":67},"text":"03","style":{"fontSize":48.8,"typeface":"Pretendard","color":"#57962F","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/vut47e9c","kind":"textbox","name":"topic_heading","position":{"left":157,"top":137,"width":1500,"height":67},"text":"결합 에너지","style":{"fontSize":48.8,"typeface":"Pretendard","color":"#111111","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/atkny98r","kind":"textbox","name":"title","position":{"left":72,"top":285,"width":1776,"height":100},"text":"기체 상태의 결합 1 mol 해리에 필요한 에너지다","style":{"fontSize":76.4,"typeface":"Pretendard","color":"#111111","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/xgbm94ri","kind":"textbox","name":"explanation","position":{"left":72,"top":398,"width":1776,"height":70},"text":"결합 에너지는 양수이며, 다원자 분자에서는 평균값을 사용한다","style":{"fontSize":36.4,"typeface":"Pretendard","color":"#888888","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/wv250jqx","kind":"textbox","name":"page","position":{"left":72,"top":1037,"width":200,"height":30},"text":"25 / 31","style":{"fontSize":20,"typeface":"Pretendard","color":"#999999","alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/ryp4va98","kind":"textbox","name":"copyright","position":{"left":1535,"top":1037,"width":342,"height":30},"text":"© 2026. @sci_eum. All rights reserved.","style":{"fontSize":17,"typeface":"Pretendard","color":"#111111","alignment":"right"},"geometry":"rect","lineWidth":0},
+{"id":"tb/zqlov2xg","kind":"table","position":{"left":180,"top":535,"width":1560,"height":230},"text":"결합\tH–H\tO=O\tO–H\tH–F\tF–F\n결합 에너지\n(kJ/mol)\t436\t498\t460\t570\t159","rows":2,"cols":6},
+{"id":"sh/gvahsbed","kind":"shape","name":"takeaway-box","position":{"left":245,"top":885,"width":1430,"height":100},"geometry":"roundRect","fillColor":"#595959","lineWidth":0},
+{"id":"sh/1wjylgvy","kind":"textbox","name":"takeaway","position":{"left":275,"top":909,"width":1370,"height":58},"text":"결합 1 mol 기준 · 해리에 필요한 에너지 · 양수","style":{"fontSize":44.51,"typeface":"Pretendard Medium","color":"#FFFFFF","alignment":"center"},"geometry":"rect","lineWidth":0}
+]}

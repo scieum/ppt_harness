@@ -1,0 +1,283 @@
+{
+  "number": 2,
+  "kind": "contents",
+  "title": "수업 목차",
+  "nodes": [
+    {
+      "type": "image",
+      "role": "part_blocks",
+      "bbox": [
+        208.0,
+        441.33333333333337,
+        1366.6666666666667,
+        398.6666666666667
+      ],
+      "asset_sha256": "39490b4089c03157073799d5d01905af16c8f9e7984538bc9475d9501c71d603",
+      "source": {
+        "kind": "contents",
+        "role": "part_blocks"
+      }
+    },
+    {
+      "type": "image",
+      "role": "original_object_04",
+      "bbox": [
+        453.3333333333333,
+        504.0,
+        254.66666666666666,
+        208.0
+      ],
+      "asset_sha256": "c955955e47ac00fd3e8ff3b09b2c06ac19664368dd549214891d62878fcb0fb0",
+      "source": {
+        "kind": "contents",
+        "role": "original_object_04"
+      }
+    },
+    {
+      "type": "image",
+      "role": "original_object_05",
+      "bbox": [
+        840.0,
+        504.0,
+        254.66666666666666,
+        208.0
+      ],
+      "asset_sha256": "c955955e47ac00fd3e8ff3b09b2c06ac19664368dd549214891d62878fcb0fb0",
+      "source": {
+        "kind": "contents",
+        "role": "original_object_05"
+      }
+    },
+    {
+      "type": "image",
+      "role": "original_object_06",
+      "bbox": [
+        1228.0,
+        502.6666666666667,
+        254.66666666666666,
+        226.66666666666666
+      ],
+      "asset_sha256": "97440485af8e17a61974e1d842aa68f1f5b6d579a4dc9a1fd25143057a299e73",
+      "source": {
+        "kind": "contents",
+        "role": "original_object_06"
+      }
+    },
+    {
+      "type": "image",
+      "role": "original_object_13",
+      "bbox": [
+        1557.3333333333333,
+        441.33333333333337,
+        37.333333333333336,
+        166.66666666666666
+      ],
+      "asset_sha256": "0624af2ed83c17683f097c7fa2f71838faac28b326266c40974b20f003305d05",
+      "source": {
+        "kind": "contents",
+        "role": "original_object_13"
+      }
+    },
+    {
+      "type": "image",
+      "role": "original_object_14",
+      "bbox": [
+        1537.3333333333335,
+        454.6666666666667,
+        42.66666666666667,
+        94.66666666666667
+      ],
+      "asset_sha256": "f640fa72736a7598956bb7184ca0d9267aae13fb54013ebff9be87e43fdabfbc",
+      "source": {
+        "kind": "contents",
+        "role": "original_object_14"
+      }
+    },
+    {
+      "type": "image",
+      "role": "original_object_15",
+      "bbox": [
+        1537.3333333333335,
+        745.3333333333333,
+        42.66666666666667,
+        94.66666666666667
+      ],
+      "asset_sha256": "f640fa72736a7598956bb7184ca0d9267aae13fb54013ebff9be87e43fdabfbc",
+      "source": {
+        "kind": "contents",
+        "role": "original_object_15"
+      }
+    },
+    {
+      "type": "image",
+      "role": "original_object_16",
+      "bbox": [
+        1552.0,
+        700.0,
+        42.66666666666667,
+        94.66666666666667
+      ],
+      "asset_sha256": "f640fa72736a7598956bb7184ca0d9267aae13fb54013ebff9be87e43fdabfbc",
+      "source": {
+        "kind": "contents",
+        "role": "original_object_16"
+      }
+    },
+    {
+      "type": "image",
+      "role": "sci_eum_logo",
+      "bbox": [
+        1778.6666666666667,
+        40.0,
+        108.0,
+        77.33333333333333
+      ],
+      "asset_sha256": "9d044366936fcad9204ba43766e76b0b6408fb314be39dc252ce631a611fe9db",
+      "source": {
+        "kind": "contents",
+        "role": "sci_eum_logo"
+      }
+    },
+    {
+      "type": "text",
+      "role": "copyright",
+      "text": "© 2026. @sci_eum. All rights reserved.",
+      "bbox": [
+        1535,
+        1037,
+        342,
+        30
+      ],
+      "font": "Pretendard",
+      "fontSize": 17,
+      "weight": "Medium",
+      "color": "#111111",
+      "align": "right",
+      "lineHeight": 21.25
+    },
+    {
+      "type": "text",
+      "role": "title",
+      "text": "이번 단원의 목차",
+      "bbox": [
+        326.7,
+        277,
+        1268,
+        127
+      ],
+      "font": "Pretendard",
+      "fontSize": 94,
+      "weight": "Bold",
+      "color": "#111111",
+      "align": "center",
+      "lineHeight": 117.5
+    },
+    {
+      "type": "text",
+      "role": "part_1",
+      "text": "PART 1",
+      "bbox": [
+        473.3,
+        543,
+        280,
+        44
+      ],
+      "font": "Pretendard",
+      "fontSize": 36,
+      "weight": "Bold",
+      "color": "#9FFF68",
+      "align": "left",
+      "lineHeight": 45.0
+    },
+    {
+      "type": "text",
+      "role": "part_title_1",
+      "text": "엔탈피와\n열화학 반응식",
+      "bbox": [
+        484.0,
+        598,
+        295,
+        110
+      ],
+      "font": "Pretendard",
+      "fontSize": 38,
+      "weight": "Regular",
+      "color": "#FFFFFF",
+      "align": "left",
+      "lineHeight": 49
+    },
+    {
+      "type": "text",
+      "role": "part_2",
+      "text": "PART 2",
+      "bbox": [
+        857.3,
+        543,
+        280,
+        44
+      ],
+      "font": "Pretendard",
+      "fontSize": 36,
+      "weight": "Bold",
+      "color": "#9FFF68",
+      "align": "left",
+      "lineHeight": 45.0
+    },
+    {
+      "type": "text",
+      "role": "part_title_2",
+      "text": "연료의\n효율성",
+      "bbox": [
+        868.0,
+        598,
+        295,
+        110
+      ],
+      "font": "Pretendard",
+      "fontSize": 38,
+      "weight": "Regular",
+      "color": "#FFFFFF",
+      "align": "left",
+      "lineHeight": 49
+    },
+    {
+      "type": "text",
+      "role": "part_3",
+      "text": "PART 3",
+      "bbox": [
+        1242.7,
+        543,
+        280,
+        44
+      ],
+      "font": "Pretendard",
+      "fontSize": 36,
+      "weight": "Bold",
+      "color": "#9FFF68",
+      "align": "left",
+      "lineHeight": 45.0
+    },
+    {
+      "type": "text",
+      "role": "part_title_3",
+      "text": "결합 에너지와\n반응 엔탈피",
+      "bbox": [
+        1253.4,
+        598,
+        295,
+        110
+      ],
+      "font": "Pretendard",
+      "fontSize": 38,
+      "weight": "Regular",
+      "color": "#FFFFFF",
+      "align": "left",
+      "lineHeight": 49
+    }
+  ],
+  "notes": "천재교육 물질과 에너지 pp.74–81. PART 1 엔탈피와 열화학 반응식, PART 2 연료의 효율성, PART 3 결합 에너지와 반응 엔탈피 순서로 전개한다.",
+  "source_recipe": {
+    "template": "approved Huddling original chevron geometry copied as original separated assets; only course labels/keycolor substituted"
+  },
+  "artifact_sha256": "a48bd0ca20f71b1320462b881bf38c8700cbb529bf75097357b25fb813ea0939"
+}

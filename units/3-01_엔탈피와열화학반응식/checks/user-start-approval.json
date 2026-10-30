@@ -1,0 +1,7 @@
+{
+  "actor": "human",
+  "user_message": "시작해보자",
+  "context": "Immediately after delivery of plan.md for 31 slides, 50 minutes, V10 design basis, two new illustrations. User authorizes execution of that plan.",
+  "approved_plan_file": "checks/approved-plan-original.md",
+  "approved_plan_sha256": "1b168b2e4dd508563902f398bd4f8018bfbd4621b4d08b7661129d4eb57a7a54"
+}

@@ -1,0 +1,21 @@
+{"schema":"openai.presentation.layout/v5","unit":"px","slide":{"id":"sl/8n8g7y","index":37,"layout":{"id":"ly/rutkret0","name":"Blank"},"backgroundColor":"rgba(255,255,255,1)","position":{"left":0,"top":0,"width":1920,"height":1080}},
+"elements":[
+{"id":"im/alwby5kz","kind":"image","position":{"left":1778.67,"top":40,"width":108,"height":77.33},"fit":"contain","alt":"sci_eum_logo"},
+{"id":"sh/wny503ml","kind":"textbox","name":"part_heading","position":{"left":72,"top":78,"width":1500,"height":52},"text":"정리 · 형성평가","style":{"fontSize":38,"typeface":"Pretendard","color":"#909090","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/xo76t8n6","kind":"textbox","name":"topic_heading","position":{"left":72,"top":137,"width":1500,"height":67},"text":"정리와 확인","style":{"fontSize":48.8,"typeface":"Pretendard","color":"#111111","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/i9gn2d4r","kind":"textbox","name":"title","position":{"left":72,"top":285,"width":1776,"height":100},"text":"발열 반응과 흡열 반응","style":{"fontSize":76.4,"typeface":"Pretendard","color":"#111111","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/japovi5c","kind":"textbox","name":"copyright","position":{"left":1535,"top":1037,"width":342,"height":30},"text":"© 2026. @sci_eum. All rights reserved.","style":{"fontSize":17,"typeface":"Pretendard","color":"#111111","alignment":"right"},"geometry":"rect","lineWidth":0},
+{"id":"sh/kby543mh","kind":"shape","name":"table-rounded-background","position":{"left":200,"top":475,"width":1520,"height":400},"geometry":"rect","fillColor":"#252525","lineWidth":0},
+{"id":"tb/kf65onql","kind":"table","position":{"left":200,"top":475,"width":1520,"height":400},"text":"비교 기준\t발열 반응\t흡열 반응\n열의 이동\t반응하는 물질 → 주위\t주위 → 반응하는 물질\n반응 전후 엔탈피\t감소한다\t증가한다\n엔탈피 합의 비교\t생성물 < 반응물\t생성물 > 반응물\n반응 엔탈피의 부호\tΔH < 0\tΔH > 0","rows":5,"cols":3},
+{"id":"sh/6dgn6d4n","kind":"shape","name":"table-row-rule-1","position":{"left":200,"top":555,"width":1520,"height":1.5},"geometry":"rect","fillColor":"#777777","lineWidth":0},
+{"id":"sh/7e9ozi58","kind":"shape","name":"table-row-rule-2","position":{"left":200,"top":635,"width":1520,"height":1.5},"geometry":"rect","fillColor":"#777777","lineWidth":0},
+{"id":"sh/3exwni98","kind":"shape","name":"table-row-rule-3","position":{"left":200,"top":715,"width":1520,"height":1.5},"geometry":"rect","fillColor":"#777777","lineWidth":0},
+{"id":"sh/2t4vud8n","kind":"shape","name":"table-row-rule-4","position":{"left":200,"top":795,"width":1520,"height":1.5},"geometry":"rect","fillColor":"#777777","lineWidth":0},
+{"id":"sh/pgfepsre","kind":"shape","name":"table-rounded-corner-0","position":{"left":200,"top":475,"width":24,"height":24},"geometry":"custom","fillColor":"#FFFFFF","lineWidth":0},
+{"id":"sh/of6dwnqt","kind":"shape","name":"table-rounded-corner-1","position":{"left":1696,"top":475,"width":24,"height":24},"geometry":"custom","fillColor":"#FFFFFF","lineWidth":0},
+{"id":"sh/fqdwjy9w","kind":"shape","name":"table-rounded-corner-2","position":{"left":1696,"top":851,"width":24,"height":24},"geometry":"custom","fillColor":"#FFFFFF","lineWidth":0},
+{"id":"sh/ep4vqd8r","kind":"shape","name":"table-rounded-corner-3","position":{"left":200,"top":851,"width":24,"height":24},"geometry":"custom","fillColor":"#FFFFFF","lineWidth":0},
+{"id":"sh/1svel8r2","kind":"textbox","name":"recap-other-relations","position":{"left":170,"top":902,"width":1580,"height":55},"text":"계수를 n배 하면 ΔH도 n배 · 물질의 상태가 달라지면 ΔH도 달라진다","style":{"fontSize":33,"typeface":"Pretendard","color":"#555555","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/grmds3qh","kind":"shape","name":"summary-bond-bar","position":{"left":200,"top":965,"width":1520,"height":65},"geometry":"roundRect","fillColor":"#595959","lineWidth":0},
+{"id":"sh/zmhwv29g","kind":"textbox","name":"summary-bond-equation","position":{"left":220,"top":979,"width":1480,"height":45},"text":"ΔH ≈ 결합을 끊는 데 흡수한 에너지 − 결합 형성 시 방출한 에너지","style":{"fontSize":32,"typeface":"Pretendard","color":"#FFFFFF","alignment":"center"},"geometry":"rect","lineWidth":0}
+]}

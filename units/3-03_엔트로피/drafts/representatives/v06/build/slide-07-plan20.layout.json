@@ -1,0 +1,12 @@
+{"schema":"openai.presentation.layout/v5","unit":"px","slide":{"id":"sl/6equmf","index":6,"layout":{"id":"ly/wvudwnm1","name":"Blank"},"backgroundColor":"rgba(0,0,0,1)","position":{"left":0,"top":0,"width":1920,"height":1080}},
+"elements":[
+{"id":"im/7qp87exs","kind":"image","position":{"left":1778.67,"top":40,"width":108,"height":77.33},"fit":"contain","alt":"사이음 공식 로고"},
+{"id":"sh/tg3uxs3q","kind":"textbox","name":"copyright","position":{"left":1440,"top":1034,"width":440,"height":30},"text":"© 2026. @sci_eum. All rights reserved.","style":{"fontSize":21,"typeface":"Pretendard","color":"#FFFFFF","alignment":"right"},"geometry":"rect","lineWidth":0},
+{"id":"sh/8fud4nml","kind":"textbox","name":"text","position":{"left":72,"top":76,"width":1530,"height":54},"text":"Part 2 계와 주위","style":{"fontSize":38,"typeface":"Pretendard","color":"#898989","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/ja1crylo","kind":"textbox","name":"text","position":{"left":72,"top":134,"width":70,"height":64},"text":"02","style":{"fontSize":48.8,"typeface":"Pretendard","color":"#9FFF68","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/y9svyt43","kind":"textbox","name":"text","position":{"left":146,"top":134,"width":1550,"height":64},"text":"계와 주위의 에너지 이동","style":{"fontSize":48.8,"typeface":"Pretendard","color":"#FFFFFF","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/lcjut83u","kind":"textbox","name":"핵심 문장","position":{"left":100,"top":245,"width":1720,"height":112},"text":"열은 계와 주위 사이를 이동한다","style":{"fontSize":76.4,"typeface":"Pretendard","color":"#FFFFFF","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/kbad03m9","kind":"textbox","name":"text","position":{"left":150,"top":370,"width":1620,"height":72},"text":"발열에서는 주위가 열을 얻고, 흡열에서는 주위가 열을 잃는다.","style":{"fontSize":36.4,"typeface":"Pretendard","color":"#A6A6A6","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/365w32l8","kind":"shape","name":"열 이동 원본 과학 그림","position":{"left":192,"top":493,"width":1537,"height":500},"geometry":"roundRect","fillColor":"#FFFFFF","lineWidth":0},
+{"id":"im/3i9sfyxk","kind":"image","position":{"left":225,"top":515,"width":1470,"height":460},"fit":"contain","alt":"계와 주위 사이 에너지 이동 방향과 주위 온도 변화"}
+]}

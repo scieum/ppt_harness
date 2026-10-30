@@ -1,0 +1,17 @@
+{
+  "slides": 31,
+  "visual_review": "All 31 full-size slides reviewed before Huddling pass; 20,25,27,29,30,31 reviewed again after component changes; header group presence checked on all body slides",
+  "docx_pages": 32,
+  "docx_review": "All 32 pages reviewed; pages 7,20,24 reviewed again after notes corrections",
+  "docx_changed_pages": [
+    7,
+    20,
+    24
+  ],
+  "source_review": "26 textbook/guide crops reviewed at extraction resolution",
+  "limitations": [
+    "Native PowerPoint playback not tested",
+    "Figma not updated"
+  ],
+  "human_approval": false
+}

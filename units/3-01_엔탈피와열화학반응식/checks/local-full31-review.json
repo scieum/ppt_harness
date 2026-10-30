@@ -1,0 +1,270 @@
+{
+  "status": "local artifacts reviewed; Figma incomplete",
+  "reviewer": "Codex",
+  "slides": 31,
+  "minutes": 50,
+  "artifacts": {
+    "drafts/deck.pptx": "cea71935cd59fed80fdd56be07fda67211c95d567fb3aad70f8b7c02f46ff8fe",
+    "drafts/script.docx": "db9ea5f1e4cdfbd1f5c61d726466d0150f4fae65a034c9d5da9740a9b35c51e5"
+  },
+  "visual_review": {
+    "pptx": "31 rendered slides inspected; revised 7,10,21 separately inspected at full resolution",
+    "docx": "32 pages rendered with bundled LibreOffice and explicit local Pretendard fontconfig; all page PNGs visually inspected",
+    "html": "31 slides; sequential answer reveal and reset verified in isolated headless Chrome"
+  },
+  "science": "Fuel mass conversions and bond energy arithmetic checked; state and quantity conditions retained; native state text 74 runs checked; parentheses upright",
+  "native_powerpoint_playback": "not tested; animation OOXML structure checked",
+  "slides_review": [
+    {
+      "number": 1,
+      "render_sha256": "1a48afc690db77c2f7a0f102843404d570799b469cac49e956af23e4cd78abb4",
+      "source": "천재교육 2022 개정 물질과 에너지 교과서 PDF/인쇄 74쪽; 지도서 106~110쪽(관련 소단원 지도).",
+      "science": "passed against recorded source and conditions",
+      "curriculum": "approved first subsection scope; supplemental calorimetry marked",
+      "visual": "passed"
+    },
+    {
+      "number": 2,
+      "render_sha256": "df1643d180c6add89af891fa82fea9ea23d47222d1d87aa754dfa3652be119b6",
+      "source": "천재교육 2022 개정 물질과 에너지 교과서 PDF/인쇄 74~81쪽; 지도서 106~110쪽(관련 소단원 지도).",
+      "science": "passed against recorded source and conditions",
+      "curriculum": "approved first subsection scope; supplemental calorimetry marked",
+      "visual": "passed"
+    },
+    {
+      "number": 3,
+      "render_sha256": "e105b8b7c0d3bee126daaf839c1a1fb4a526779cb9391bac1a26806cf41b772a",
+      "source": "천재교육 2022 개정 물질과 에너지 교과서 PDF/인쇄 74쪽; 지도서 106~110쪽(관련 소단원 지도).",
+      "science": "passed against recorded source and conditions",
+      "curriculum": "approved first subsection scope; supplemental calorimetry marked",
+      "visual": "passed"
+    },
+    {
+      "number": 4,
+      "render_sha256": "61a1eb2a843bd980a46fc3f8571f2be33b7cbb3cb64e09063d8e272c3b0d2935",
+      "source": "천재교육 2022 개정 물질과 에너지 교과서 PDF/인쇄 74쪽; 지도서 106~110쪽(관련 소단원 지도).",
+      "science": "passed against recorded source and conditions",
+      "curriculum": "approved first subsection scope; supplemental calorimetry marked",
+      "visual": "passed"
+    },
+    {
+      "number": 5,
+      "render_sha256": "3cdad15d6c9534dafaba80dee192f5f1346471aa284b1014b96b3f7efeb1f60f",
+      "source": "천재교육 2022 개정 물질과 에너지 교과서 PDF/인쇄 76쪽; 지도서 106~110쪽(관련 소단원 지도).",
+      "science": "passed against recorded source and conditions",
+      "curriculum": "approved first subsection scope; supplemental calorimetry marked",
+      "visual": "passed"
+    },
+    {
+      "number": 6,
+      "render_sha256": "9c89b7283164712c3095cdfd1bef12894389c27dca1eb5a9cd936a345efee4f1",
+      "source": "천재교육 2022 개정 물질과 에너지 교과서 PDF/인쇄 74~75쪽; 지도서 106~110쪽(관련 소단원 지도).",
+      "science": "passed against recorded source and conditions",
+      "curriculum": "approved first subsection scope; supplemental calorimetry marked",
+      "visual": "passed"
+    },
+    {
+      "number": 7,
+      "render_sha256": "8f01e067afe54aac664492bce0a1b39fb852a293b7f993fc54a76b163bcfae30",
+      "source": "천재교육 2022 개정 물질과 에너지 교과서 PDF/인쇄 76쪽; 지도서 106~110쪽(관련 소단원 지도).",
+      "science": "passed against recorded source and conditions",
+      "curriculum": "approved first subsection scope; supplemental calorimetry marked",
+      "visual": "passed"
+    },
+    {
+      "number": 8,
+      "render_sha256": "445909b309e127ea9f21fb6d46e04d8ffbbd0f17a4291930df8e2ae3791cf894",
+      "source": "천재교육 2022 개정 물질과 에너지 교과서 PDF/인쇄 76~77쪽; 지도서 106~110쪽(관련 소단원 지도).",
+      "science": "passed against recorded source and conditions",
+      "curriculum": "approved first subsection scope; supplemental calorimetry marked",
+      "visual": "passed"
+    },
+    {
+      "number": 9,
+      "render_sha256": "2808ae3f355b7d1f768bdbd663671d13001a79d224381f4164729a81794b687a",
+      "source": "천재교육 2022 개정 물질과 에너지 교과서 PDF/인쇄 76, 79쪽; 지도서 106~110쪽(관련 소단원 지도).",
+      "science": "passed against recorded source and conditions",
+      "curriculum": "approved first subsection scope; supplemental calorimetry marked",
+      "visual": "passed"
+    },
+    {
+      "number": 10,
+      "render_sha256": "553e0215950f92486a40943d7f32f39d0e128b349188857dc0c1d83fe36da7b1",
+      "source": "천재교육 2022 개정 물질과 에너지 교과서 PDF/인쇄 75쪽; 지도서 106~110쪽(관련 소단원 지도).",
+      "science": "passed against recorded source and conditions",
+      "curriculum": "approved first subsection scope; supplemental calorimetry marked",
+      "visual": "passed"
+    },
+    {
+      "number": 11,
+      "render_sha256": "b50014f394a246ea43f956bd48d1352f4e4a490a629a9ac9b552d7d10da286aa",
+      "source": "천재교육 2022 개정 물질과 에너지 교과서 PDF/인쇄 77쪽; 지도서 106~110쪽(관련 소단원 지도).",
+      "science": "passed against recorded source and conditions",
+      "curriculum": "approved first subsection scope; supplemental calorimetry marked",
+      "visual": "passed"
+    },
+    {
+      "number": 12,
+      "render_sha256": "10e4f65987443849dd698b97079b871f4381f3a10b2aeb20ed52619cd63580df",
+      "source": "천재교육 2022 개정 물질과 에너지 교과서 PDF/인쇄 77쪽; 지도서 106~110쪽(관련 소단원 지도).",
+      "science": "passed against recorded source and conditions",
+      "curriculum": "approved first subsection scope; supplemental calorimetry marked",
+      "visual": "passed"
+    },
+    {
+      "number": 13,
+      "render_sha256": "6f18d9847dcd9ce43549bf2b0346a4a16ee733b5bf8df4c9d76358bb6ddc2b79",
+      "source": "천재교육 2022 개정 물질과 에너지 교과서 PDF/인쇄 77쪽; 지도서 106~110쪽(관련 소단원 지도).",
+      "science": "passed against recorded source and conditions",
+      "curriculum": "approved first subsection scope; supplemental calorimetry marked",
+      "visual": "passed"
+    },
+    {
+      "number": 14,
+      "render_sha256": "d508d9777210113e75cf05c75322173cabf1bb3486427bf4682cdf58408e361b",
+      "source": "천재교육 2022 개정 물질과 에너지 교과서 PDF/인쇄 78~79쪽; 지도서 106~110쪽(관련 소단원 지도).",
+      "science": "passed against recorded source and conditions",
+      "curriculum": "approved first subsection scope; supplemental calorimetry marked",
+      "visual": "passed"
+    },
+    {
+      "number": 15,
+      "render_sha256": "6a628c3b2daa3ac7962f0124558db85984bbb14762352b1b55efed498dd9bc4a",
+      "source": "천재교육 2022 개정 물질과 에너지 교과서 PDF/인쇄 78쪽; 지도서 106~110쪽(관련 소단원 지도).",
+      "science": "passed against recorded source and conditions",
+      "curriculum": "approved first subsection scope; supplemental calorimetry marked",
+      "visual": "passed"
+    },
+    {
+      "number": 16,
+      "render_sha256": "483103e3f1782cc305cecb7390cca4895a9761aef7b6351d42ba47da68527da4",
+      "source": "천재교육 2022 개정 물질과 에너지 교과서 PDF/인쇄 79쪽; 지도서 106~110쪽(관련 소단원 지도).",
+      "science": "passed against recorded source and conditions",
+      "curriculum": "approved first subsection scope; supplemental calorimetry marked",
+      "visual": "passed"
+    },
+    {
+      "number": 17,
+      "render_sha256": "dc8e920552660eb71e7594c2258d7a132a3807708524059b20bf4799bd9f337e",
+      "source": "천재교육 2022 개정 물질과 에너지 교과서 PDF/인쇄 78~79쪽; 지도서 106~110쪽(관련 소단원 지도).",
+      "science": "passed against recorded source and conditions",
+      "curriculum": "approved first subsection scope; supplemental calorimetry marked",
+      "visual": "passed"
+    },
+    {
+      "number": 18,
+      "render_sha256": "8c2ff6dc723e80456e2b65c974348775235002cebd2924b65f98c40453b02c49",
+      "source": "천재교육 2022 개정 물질과 에너지 교과서 PDF/인쇄 79쪽; 지도서 106~110쪽(관련 소단원 지도).",
+      "science": "passed against recorded source and conditions",
+      "curriculum": "approved first subsection scope; supplemental calorimetry marked",
+      "visual": "passed"
+    },
+    {
+      "number": 19,
+      "render_sha256": "52ee2dd403a6a50032e8e2ef1639917fe9f404e62a69954481da3330a08e562a",
+      "source": "천재교육 2022 개정 물질과 에너지 교과서 PDF/인쇄 78~79쪽; 지도서 106~110쪽(관련 소단원 지도).",
+      "science": "passed against recorded source and conditions",
+      "curriculum": "approved first subsection scope; supplemental calorimetry marked",
+      "visual": "passed"
+    },
+    {
+      "number": 20,
+      "render_sha256": "ca336e17bd3bc4044c0ea462aef9467245421eccf2ff89fa56bac3036e155b45",
+      "source": "천재교육 2022 개정 물질과 에너지 교과서 PDF/인쇄 78~79쪽; 지도서 106~110쪽(관련 소단원 지도).",
+      "science": "passed against recorded source and conditions",
+      "curriculum": "approved first subsection scope; supplemental calorimetry marked",
+      "visual": "passed"
+    },
+    {
+      "number": 21,
+      "render_sha256": "a89e366c05ceb3564d7bf48b815b13a5cdb7f606416717fa7ba65b072f1c2341",
+      "source": "천재교육 2022 개정 물질과 에너지 교과서 PDF/인쇄 78~79쪽; 지도서 106~110쪽(관련 소단원 지도).",
+      "science": "passed against recorded source and conditions",
+      "curriculum": "approved first subsection scope; supplemental calorimetry marked",
+      "visual": "passed"
+    },
+    {
+      "number": 22,
+      "render_sha256": "be6b20e693818d365b15150e220ed17d2cd3788d5bb4ffe91bc9924ed7d7c99d",
+      "source": "천재교육 2022 개정 물질과 에너지 교과서 PDF/인쇄 80~81쪽; 지도서 106~110쪽(관련 소단원 지도).",
+      "science": "passed against recorded source and conditions",
+      "curriculum": "approved first subsection scope; supplemental calorimetry marked",
+      "visual": "passed"
+    },
+    {
+      "number": 23,
+      "render_sha256": "7b4afae459bf3e2eb41591a06104f49d658558a3956a8667729ff12937964ab2",
+      "source": "천재교육 2022 개정 물질과 에너지 교과서 PDF/인쇄 80쪽; 지도서 106~110쪽(관련 소단원 지도).",
+      "science": "passed against recorded source and conditions",
+      "curriculum": "approved first subsection scope; supplemental calorimetry marked",
+      "visual": "passed"
+    },
+    {
+      "number": 24,
+      "render_sha256": "bdefec3af3e452d6f5f2cb95d3d41b37f7b70366fefbf27388db5bbe4bf0882b",
+      "source": "천재교육 2022 개정 물질과 에너지 교과서 PDF/인쇄 80쪽; 지도서 106~110쪽(관련 소단원 지도).",
+      "science": "passed against recorded source and conditions",
+      "curriculum": "approved first subsection scope; supplemental calorimetry marked",
+      "visual": "passed"
+    },
+    {
+      "number": 25,
+      "render_sha256": "1ec9524ab434334b515ab3329fd3d9d7f667866e45f1822de83a8a738b8b51d6",
+      "source": "천재교육 2022 개정 물질과 에너지 교과서 PDF/인쇄 80쪽; 지도서 106~110쪽(관련 소단원 지도).",
+      "science": "passed against recorded source and conditions",
+      "curriculum": "approved first subsection scope; supplemental calorimetry marked",
+      "visual": "passed"
+    },
+    {
+      "number": 26,
+      "render_sha256": "3129fd6026c4be346d8649a6bf5326a6c9f17e778267afddfea73cce58be94d2",
+      "source": "천재교육 2022 개정 물질과 에너지 교과서 PDF/인쇄 81쪽; 지도서 106~110쪽(관련 소단원 지도).",
+      "science": "passed against recorded source and conditions",
+      "curriculum": "approved first subsection scope; supplemental calorimetry marked",
+      "visual": "passed"
+    },
+    {
+      "number": 27,
+      "render_sha256": "5c34123d395a7c6f3b6f8203c67ac5b5d215e9d991456c8dbd8be328a6f41fc4",
+      "source": "천재교육 2022 개정 물질과 에너지 교과서 PDF/인쇄 81쪽; 지도서 106~110쪽(관련 소단원 지도).",
+      "science": "passed against recorded source and conditions",
+      "curriculum": "approved first subsection scope; supplemental calorimetry marked",
+      "visual": "passed"
+    },
+    {
+      "number": 28,
+      "render_sha256": "2e09d43de2301dd983ac66693cf22473ece76e9a3d4a8c45960240bfba2403a9",
+      "source": "천재교육 2022 개정 물질과 에너지 교과서 PDF/인쇄 80~81쪽; 지도서 106~110쪽(관련 소단원 지도).",
+      "science": "passed against recorded source and conditions",
+      "curriculum": "approved first subsection scope; supplemental calorimetry marked",
+      "visual": "passed"
+    },
+    {
+      "number": 29,
+      "render_sha256": "73c40c4ffd79ffcf5ea790a244c4d216953d4cec75328aa565ccee3615740b54",
+      "source": "천재교육 2022 개정 물질과 에너지 교과서 PDF/인쇄 79~81쪽; 지도서 106~110쪽(관련 소단원 지도).",
+      "science": "passed against recorded source and conditions",
+      "curriculum": "approved first subsection scope; supplemental calorimetry marked",
+      "visual": "passed"
+    },
+    {
+      "number": 30,
+      "render_sha256": "b88b56cc582a2b63e24398e7174cf14acf53800c5d48563f0dc245c305bc39bc",
+      "source": "천재교육 2022 개정 물질과 에너지 교과서 PDF/인쇄 74~81쪽; 지도서 106~110쪽(관련 소단원 지도).",
+      "science": "passed against recorded source and conditions",
+      "curriculum": "approved first subsection scope; supplemental calorimetry marked",
+      "visual": "passed"
+    },
+    {
+      "number": 31,
+      "render_sha256": "b45feba889b8797a59e3cceb38b1ad7cb2dad276d4cd6fe41a1acd69466a5214",
+      "source": "천재교육 2022 개정 물질과 에너지 교과서 PDF/인쇄 74, 80~81쪽; 지도서 106~110쪽(관련 소단원 지도).",
+      "science": "passed against recorded source and conditions",
+      "curriculum": "approved first subsection scope; supplemental calorimetry marked",
+      "visual": "passed"
+    }
+  ],
+  "remaining": [
+    "Figma full31 upload and remote verification blocked by Starter plan MCP limit"
+  ]
+}

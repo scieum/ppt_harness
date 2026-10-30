@@ -1,0 +1,20 @@
+{
+  "version": "v14",
+  "slides": 25,
+  "status": "검토 전달본",
+  "user_design_approved": false,
+  "changed": [
+    7,
+    8,
+    10,
+    14
+  ],
+  "preserved": [
+    19,
+    20
+  ],
+  "pptx": "output/3-03_엔트로피_전체25장_v14.pptx",
+  "sha256": "87ecd94aff0dfb899aaf692303599084d85d40555d21bf85b509ca2f8b073fe8",
+  "visual_review": "변경4장 개별 렌더 확인. 나머지21장 이전 대응 미리보기 해시 동일.",
+  "validation": "build/validation-v14.json; PowerPoint 앱 미검수"
+}

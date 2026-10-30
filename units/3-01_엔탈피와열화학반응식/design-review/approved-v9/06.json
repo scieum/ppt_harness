@@ -1,0 +1,591 @@
+{
+  "artifact_sha256": "a594fa0b148c2e62743b391cc6d73d75de1194c71f638d783c097dad97d09d19",
+  "render_sha256": "6a628c3b2daa3ac7962f0124558db85984bbb14762352b1b55efed498dd9bc4a",
+  "exporter": "artifact-tool layout/v5 normalized actual named objects; grouped roles retain raw member geometry",
+  "canvas": [
+    1920,
+    1080
+  ],
+  "objects": [
+    {
+      "role": "sci_eum_logo",
+      "kind": "image",
+      "bbox": [
+        1778.67,
+        40,
+        108.0,
+        77.33
+      ],
+      "fill": [
+        "none"
+      ],
+      "font_family": [
+        null
+      ],
+      "font_size": [
+        null
+      ],
+      "font_weight": [
+        400
+      ],
+      "alignment": [
+        null
+      ],
+      "character_asset_id": null,
+      "members": [
+        {
+          "id": "im/lwj2l07y",
+          "kind": "image",
+          "position": {
+            "left": 1778.67,
+            "top": 40,
+            "width": 108,
+            "height": 77.33
+          },
+          "fit": "contain",
+          "alt": "sci_eum_logo"
+        }
+      ]
+    },
+    {
+      "role": "part_heading",
+      "kind": "textbox",
+      "bbox": [
+        72,
+        78,
+        1500,
+        52
+      ],
+      "fill": [
+        "none"
+      ],
+      "font_family": [
+        "Pretendard"
+      ],
+      "font_size": [
+        38
+      ],
+      "font_weight": [
+        700
+      ],
+      "alignment": [
+        "left"
+      ],
+      "character_asset_id": null,
+      "members": [
+        {
+          "id": "sh/be5o7m5w",
+          "kind": "textbox",
+          "name": "part_heading",
+          "position": {
+            "left": 72,
+            "top": 78,
+            "width": 1500,
+            "height": 52
+          },
+          "text": "PART 2 연료의 효율성",
+          "style": {
+            "fontSize": 38,
+            "typeface": "Pretendard",
+            "color": "#909090",
+            "bold": true,
+            "alignment": "left"
+          },
+          "geometry": "rect",
+          "lineWidth": 0
+        }
+      ]
+    },
+    {
+      "role": "topic_number",
+      "kind": "textbox",
+      "bbox": [
+        72,
+        137,
+        73,
+        67
+      ],
+      "fill": [
+        "none"
+      ],
+      "font_family": [
+        "Pretendard"
+      ],
+      "font_size": [
+        48.8
+      ],
+      "font_weight": [
+        700
+      ],
+      "alignment": [
+        "left"
+      ],
+      "character_asset_id": null,
+      "members": [
+        {
+          "id": "sh/qdwne1ob",
+          "kind": "textbox",
+          "name": "topic_number",
+          "position": {
+            "left": 72,
+            "top": 137,
+            "width": 73,
+            "height": 67
+          },
+          "text": "01",
+          "style": {
+            "fontSize": 48.8,
+            "typeface": "Pretendard",
+            "color": "#57962F",
+            "bold": true,
+            "alignment": "left"
+          },
+          "geometry": "rect",
+          "lineWidth": 0
+        }
+      ]
+    },
+    {
+      "role": "topic_heading",
+      "kind": "textbox",
+      "bbox": [
+        157,
+        137,
+        1500,
+        67
+      ],
+      "fill": [
+        "none"
+      ],
+      "font_family": [
+        "Pretendard"
+      ],
+      "font_size": [
+        48.8
+      ],
+      "font_weight": [
+        700
+      ],
+      "alignment": [
+        "left"
+      ],
+      "character_asset_id": null,
+      "members": [
+        {
+          "id": "sh/l476dgny",
+          "kind": "textbox",
+          "name": "topic_heading",
+          "position": {
+            "left": 157,
+            "top": 137,
+            "width": 1500,
+            "height": 67
+          },
+          "text": "연소 반응의 이용",
+          "style": {
+            "fontSize": 48.8,
+            "typeface": "Pretendard",
+            "color": "#111111",
+            "bold": true,
+            "alignment": "left"
+          },
+          "geometry": "rect",
+          "lineWidth": 0
+        }
+      ]
+    },
+    {
+      "role": "title",
+      "kind": "textbox",
+      "bbox": [
+        72,
+        285,
+        1776,
+        100
+      ],
+      "fill": [
+        "none"
+      ],
+      "font_family": [
+        "Pretendard"
+      ],
+      "font_size": [
+        76.4
+      ],
+      "font_weight": [
+        700
+      ],
+      "alignment": [
+        "center"
+      ],
+      "character_asset_id": null,
+      "members": [
+        {
+          "id": "sh/03y5kb6d",
+          "kind": "textbox",
+          "name": "title",
+          "position": {
+            "left": 72,
+            "top": 285,
+            "width": 1776,
+            "height": 100
+          },
+          "text": "연소에서 방출된 열을 난방과 동력에 이용한다",
+          "style": {
+            "fontSize": 76.4,
+            "typeface": "Pretendard",
+            "color": "#111111",
+            "bold": true,
+            "alignment": "center"
+          },
+          "geometry": "rect",
+          "lineWidth": 0
+        }
+      ]
+    },
+    {
+      "role": "explanation",
+      "kind": "textbox",
+      "bbox": [
+        72,
+        398,
+        1776,
+        70
+      ],
+      "fill": [
+        "none"
+      ],
+      "font_family": [
+        "Pretendard"
+      ],
+      "font_size": [
+        36.4
+      ],
+      "font_weight": [
+        700
+      ],
+      "alignment": [
+        "center"
+      ],
+      "character_asset_id": null,
+      "members": [
+        {
+          "id": "sh/zi5ob65s",
+          "kind": "textbox",
+          "name": "explanation",
+          "position": {
+            "left": 72,
+            "top": 398,
+            "width": 1776,
+            "height": 70
+          },
+          "text": "보일러와 자동차는 어떤 에너지 변화를 이용할까?",
+          "style": {
+            "fontSize": 36.4,
+            "typeface": "Pretendard",
+            "color": "#888888",
+            "bold": true,
+            "alignment": "center"
+          },
+          "geometry": "rect",
+          "lineWidth": 0
+        }
+      ]
+    },
+    {
+      "role": "page",
+      "kind": "textbox",
+      "bbox": [
+        72,
+        1037,
+        200,
+        30
+      ],
+      "fill": [
+        "none"
+      ],
+      "font_family": [
+        "Pretendard"
+      ],
+      "font_size": [
+        20
+      ],
+      "font_weight": [
+        400
+      ],
+      "alignment": [
+        "left"
+      ],
+      "character_asset_id": null,
+      "members": [
+        {
+          "id": "sh/yhwni1o7",
+          "kind": "textbox",
+          "name": "page",
+          "position": {
+            "left": 72,
+            "top": 1037,
+            "width": 200,
+            "height": 30
+          },
+          "text": "15 / 31",
+          "style": {
+            "fontSize": 20,
+            "typeface": "Pretendard",
+            "color": "#999999",
+            "alignment": "left"
+          },
+          "geometry": "rect",
+          "lineWidth": 0
+        }
+      ]
+    },
+    {
+      "role": "copyright",
+      "kind": "textbox",
+      "bbox": [
+        1535,
+        1037,
+        342,
+        30
+      ],
+      "fill": [
+        "none"
+      ],
+      "font_family": [
+        "Pretendard"
+      ],
+      "font_size": [
+        17
+      ],
+      "font_weight": [
+        400
+      ],
+      "alignment": [
+        "right"
+      ],
+      "character_asset_id": null,
+      "members": [
+        {
+          "id": "sh/9876hgnu",
+          "kind": "textbox",
+          "name": "copyright",
+          "position": {
+            "left": 1535,
+            "top": 1037,
+            "width": 342,
+            "height": 30
+          },
+          "text": "© 2026. @sci_eum. All rights reserved.",
+          "style": {
+            "fontSize": 17,
+            "typeface": "Pretendard",
+            "color": "#111111",
+            "alignment": "right"
+          },
+          "geometry": "rect",
+          "lineWidth": 0
+        }
+      ]
+    },
+    {
+      "role": "panels",
+      "kind": "group",
+      "bbox": [
+        250,
+        495,
+        1420,
+        485
+      ],
+      "fill": [
+        "#1F2429",
+        "none",
+        "none",
+        "none",
+        "#1F2429",
+        "none",
+        "none",
+        "none"
+      ],
+      "font_family": [
+        null,
+        null,
+        "Pretendard",
+        "Pretendard",
+        null,
+        null,
+        "Pretendard",
+        "Pretendard"
+      ],
+      "font_size": [
+        null,
+        null,
+        36,
+        36,
+        null,
+        null,
+        36,
+        36
+      ],
+      "font_weight": [
+        400,
+        400,
+        700,
+        400,
+        400,
+        400,
+        700,
+        400
+      ],
+      "alignment": [
+        null,
+        null,
+        "center",
+        "center",
+        null,
+        null,
+        "center",
+        "center"
+      ],
+      "character_asset_id": null,
+      "members": [
+        {
+          "id": "sh/87y5ob69",
+          "kind": "shape",
+          "name": "PHOTO_BOILER-frame",
+          "position": {
+            "left": 250,
+            "top": 495,
+            "width": 650,
+            "height": 485
+          },
+          "geometry": "roundRect",
+          "fillColor": "#1F2429",
+          "lineWidth": 0
+        },
+        {
+          "id": "im/dcj2d47y",
+          "kind": "image",
+          "position": {
+            "left": 276,
+            "top": 519,
+            "width": 598,
+            "height": 292
+          },
+          "geometry": "roundRect",
+          "fit": "cover",
+          "alt": "가정용 난방 보일러"
+        },
+        {
+          "id": "sh/va9kze14",
+          "kind": "textbox",
+          "name": "PHOTO_BOILER-title",
+          "position": {
+            "left": 270,
+            "top": 837,
+            "width": 610,
+            "height": 56
+          },
+          "text": "가정용 난방 보일러",
+          "style": {
+            "fontSize": 36,
+            "typeface": "Pretendard",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "center"
+          },
+          "geometry": "rect",
+          "lineWidth": 0
+        },
+        {
+          "id": "sh/wbi18j2p",
+          "kind": "textbox",
+          "name": "PHOTO_BOILER-description",
+          "position": {
+            "left": 270,
+            "top": 905,
+            "width": 610,
+            "height": 56
+          },
+          "text": "연료가 연소하며 방출한 열로 난방",
+          "style": {
+            "fontSize": 36,
+            "typeface": "Pretendard",
+            "color": "#FFFFFF",
+            "alignment": "center"
+          },
+          "geometry": "rect",
+          "lineWidth": 0
+        },
+        {
+          "id": "sh/hcr21oja",
+          "kind": "shape",
+          "name": "PHOTO_CAR-frame",
+          "position": {
+            "left": 1020,
+            "top": 495,
+            "width": 650,
+            "height": 485
+          },
+          "geometry": "roundRect",
+          "fillColor": "#1F2429",
+          "lineWidth": 0
+        },
+        {
+          "id": "im/p8j29472",
+          "kind": "image",
+          "position": {
+            "left": 1046,
+            "top": 519,
+            "width": 598,
+            "height": 292
+          },
+          "geometry": "roundRect",
+          "fit": "cover",
+          "alt": "가솔린 자동차"
+        },
+        {
+          "id": "sh/jytk3y1g",
+          "kind": "textbox",
+          "name": "PHOTO_CAR-title",
+          "position": {
+            "left": 1040,
+            "top": 837,
+            "width": 610,
+            "height": 56
+          },
+          "text": "가솔린 자동차",
+          "style": {
+            "fontSize": 36,
+            "typeface": "Pretendard",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "center"
+          },
+          "geometry": "rect",
+          "lineWidth": 0
+        },
+        {
+          "id": "sh/4z2lcj21",
+          "kind": "textbox",
+          "name": "PHOTO_CAR-description",
+          "position": {
+            "left": 1040,
+            "top": 905,
+            "width": 610,
+            "height": 56
+          },
+          "text": "연료의 연소 에너지를 운동에 이용",
+          "style": {
+            "fontSize": 36,
+            "typeface": "Pretendard",
+            "color": "#FFFFFF",
+            "alignment": "center"
+          },
+          "geometry": "rect",
+          "lineWidth": 0
+        }
+      ]
+    }
+  ]
+}

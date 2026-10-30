@@ -1,0 +1,51 @@
+{
+  "unit": "3-02_헤스법칙",
+  "rules_version": "1.1.0",
+  "stages": {
+    "research": {
+      "status": "pending",
+      "reason": "failed preflight rollback"
+    },
+    "plan": {
+      "status": "pending",
+      "reason": "failed preflight rollback"
+    },
+    "approval": {
+      "status": "pending",
+      "note": "근거 보완 및 계획 확정 후 사용자 승인 예정"
+    },
+    "image": {
+      "status": "pending",
+      "reason": "failed preflight rollback"
+    },
+    "prototype": {
+      "status": "pending",
+      "reason": "failed preflight rollback"
+    },
+    "production": {
+      "status": "failed",
+      "run_id": "2e95aececad845a8ac900edc1e0b2fbd"
+    },
+    "design_confirmation": {
+      "status": "pending",
+      "reason": "failed preflight rollback"
+    },
+    "review": {
+      "status": "pending",
+      "reason": "failed preflight rollback"
+    }
+  },
+  "latest_check": "checks/report.json",
+  "approval_status": "승인 없음",
+  "rollback": {
+    "targets": [
+      "research",
+      "plan",
+      "plan",
+      "image",
+      "prototype",
+      "prototype"
+    ],
+    "run_id": "2e95aececad845a8ac900edc1e0b2fbd"
+  }
+}

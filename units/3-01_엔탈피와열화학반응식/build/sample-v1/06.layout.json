@@ -1,0 +1,16 @@
+{"schema":"openai.presentation.layout/v5","unit":"px","slide":{"id":"sl/vevfbm","index":5,"layout":{"id":"ly/hozulcvm","name":"Blank"},"backgroundColor":"rgba(255,255,255,1)","position":{"left":0,"top":0,"width":1920,"height":1080}},
+"elements":[
+{"id":"im/76h8j61o","kind":"image","position":{"left":1778.67,"top":40,"width":108,"height":77.33},"fit":"contain","alt":"sci_eum_logo"},
+{"id":"sh/to7m1wzq","kind":"textbox","name":"part_heading","position":{"left":72,"top":78,"width":1500,"height":60},"text":"PART 2 연료의 효율성","style":{"fontSize":43,"typeface":"Aptos","color":"#909090","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/snel8by5","kind":"textbox","name":"topic_number","position":{"left":72,"top":144,"width":90,"height":66},"text":"01","style":{"fontSize":50,"typeface":"Aptos","color":"#57962F","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/fqp436hw","kind":"textbox","name":"topic_heading","position":{"left":162,"top":144,"width":1570,"height":75},"text":"연소 반응의 이용","style":{"fontSize":50,"typeface":"Aptos","color":"#111111","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/epgna1gb","kind":"textbox","name":"title","position":{"left":160,"top":285,"width":1600,"height":100},"text":"연소에서 방출된 열을 난방과 동력에 이용한다","style":{"fontSize":64,"typeface":"Aptos","color":"#111111","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/1s7m5gz2","kind":"textbox","name":"explanation","position":{"left":160,"top":398,"width":1600,"height":70},"text":"보일러와 자동차는 어떤 에너지 변화를 이용할까?","style":{"fontSize":34,"typeface":"Aptos","color":"#888888","alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/gry5cbyh","kind":"textbox","name":"page","position":{"left":72,"top":1037,"width":200,"height":30},"text":"15 / 31","style":{"fontSize":20,"typeface":"Aptos","color":"#999999","alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/3up47qhs","kind":"textbox","name":"copyright","position":{"left":1535,"top":1037,"width":342,"height":30},"text":"© 2026. @sci_eum. All rights reserved.","style":{"fontSize":17,"typeface":"Aptos","color":"#111111","alignment":"right"},"geometry":"rect","lineWidth":0},
+{"id":"sh/2tgnelg7","kind":"shape","name":"PHOTO_BOILER-border","position":{"left":245,"top":515,"width":655,"height":378},"geometry":"rect","fillColor":"#333333","lineWidth":0},
+{"id":"im/vupcfm58","kind":"image","position":{"left":250,"top":520,"width":645,"height":368},"fit":"contain","alt":"PHOTO_BOILER"},
+{"id":"sh/x4jm50ne","kind":"shape","name":"PHOTO_CAR-border","position":{"left":1015,"top":515,"width":655,"height":378},"geometry":"rect","fillColor":"#333333","lineWidth":0},
+{"id":"im/hg7uhwne","kind":"image","position":{"left":1020,"top":520,"width":645,"height":368},"fit":"contain","alt":"PHOTO_CAR"},
+{"id":"sh/b2143qpo","kind":"textbox","name":"reading_instruction","position":{"left":250,"top":938,"width":1420,"height":58},"text":"같은 양의 연료라면, 방출하는 열도 같을까?","style":{"fontSize":40,"typeface":"Aptos","color":"#444444","alignment":"center"},"geometry":"rect","lineWidth":0}
+]}

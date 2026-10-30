@@ -1,0 +1,17 @@
+{"schema":"openai.presentation.layout/v5","unit":"px","slide":{"id":"sl/tfiwif","index":37,"layout":{"id":"ly/v6l072p8","name":"Blank"},"backgroundColor":"rgba(255,255,255,1)","position":{"left":0,"top":0,"width":1920,"height":1080}},
+"elements":[
+{"id":"sh/y54rah8j","kind":"textbox","name":"copyright","position":{"left":1440,"top":1038,"width":440,"height":28},"text":"© 2026. @sci_eum. All rights reserved.","style":{"fontSize":17,"typeface":"Pretendard","color":"#202020","alignment":"right"},"geometry":"rect","lineWidth":0},
+{"id":"sh/j6d83m9o","kind":"textbox","name":"text","position":{"left":90,"top":86,"width":1400,"height":44},"text":"Part 3 표준 생성 엔탈피","style":{"fontSize":28,"typeface":"Pretendard","color":"#898989","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/w3m987qd","kind":"textbox","name":"text","position":{"left":90,"top":134,"width":70,"height":64},"text":"02","style":{"fontSize":44,"typeface":"Pretendard","color":"#28691C","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/x4vq1cry","kind":"textbox","name":"text","position":{"left":158,"top":134,"width":1550,"height":64},"text":"생성 엔탈피로 계산","style":{"fontSize":44,"typeface":"Pretendard","color":"#202020","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/a14r6x87","kind":"textbox","name":"핵심 문장","position":{"left":180,"top":294,"width":1560,"height":96},"text":"세 물질의 표준 생성 엔탈피","style":{"fontSize":64,"typeface":"Pretendard","color":"#202020","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/b2d8z29s","kind":"textbox","name":"text","position":{"left":220,"top":402,"width":1480,"height":64},"text":"25°C, 1기압에서 각 물질 1 mol이 생성되는 반응","style":{"fontSize":32,"typeface":"Pretendard","color":"#686868","alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"im/5gnaho3e","kind":"image","position":{"left":330,"top":490,"width":1320,"height":452},"fit":"contain","alt":"새로 생성한 세 생성 반응 수식 이미지"},
+{"id":"sh/7ytov61w","kind":"shape","position":{"left":235,"top":562,"width":62,"height":62},"geometry":"ellipse","fillColor":"#397D23","lineWidth":0},
+{"id":"sh/6xknm10b","kind":"textbox","name":"text","position":{"left":235,"top":562,"width":62,"height":62},"text":"1","style":{"fontSize":30,"typeface":"Pretendard","color":"#FFFFFF","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/5wr6twjq","kind":"shape","position":{"left":235,"top":691,"width":62,"height":62},"geometry":"ellipse","fillColor":"#397D23","lineWidth":0},
+{"id":"sh/kvi5kri5","kind":"textbox","name":"text","position":{"left":235,"top":691,"width":62,"height":62},"text":"2","style":{"fontSize":30,"typeface":"Pretendard","color":"#FFFFFF","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"sh/ja94rm1k","kind":"shape","position":{"left":235,"top":821,"width":62,"height":62},"geometry":"ellipse","fillColor":"#397D23","lineWidth":0},
+{"id":"sh/i90ni10z","kind":"textbox","name":"text","position":{"left":235,"top":821,"width":62,"height":62},"text":"3","style":{"fontSize":30,"typeface":"Pretendard","color":"#FFFFFF","bold":true,"alignment":"center"},"geometry":"rect","lineWidth":0},
+{"id":"im/698725wf","kind":"image","position":{"left":1778.67,"top":40,"width":108,"height":77.33},"fit":"contain","alt":"사이음 흰 배경용 원본 로고"}
+]}

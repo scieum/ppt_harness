@@ -1,0 +1,12 @@
+{
+  "source": "천재교육 물질과 에너지39쪽 그림I-30, assets/formation-v24/t39-graphite.png and t39-diamond.png",
+  "method": "image_gen source-image edit: remove specimen photograph, labels and page; retain crystal ball-and-stick structure. Generated edit, not pixel-identical original crop. Color/alpha cleanup of generated image permitted by user.",
+  "prompt": "Extract only lower atomic ball-and-stick crystal structure on transparent background. Remove photograph, circle, captions, C labels and white page. Preserve atoms, bonds, geometry, angle and three graphite layers with pink guide lines. No new illustration.",
+  "alpha_cleanup": "threshold 220, morphological opening 3px",
+  "girl_trousers": {
+    "source": "assets/characters-v17/wavy-hair-girl-placed.png",
+    "generated": "/Users/keemhayeon/.codex/generated_images/01a17885-2601-7742-ab2d-af1cc66b229d/exec-b2ac700b-7478-4dbd-bd91-dbb490636cb2.png",
+    "method": "built-in image_gen edit",
+    "prompt": "Replace only plaid skirt and exposed legs with navy school uniform long trousers. Preserve face, black dot eyes, wavy long hair, identity, upper clothes, blue bow, blazer, hands, clipboard, pencil, lighting, doll style and pose. Transparent background, upper-thigh crop."
+  }
+}

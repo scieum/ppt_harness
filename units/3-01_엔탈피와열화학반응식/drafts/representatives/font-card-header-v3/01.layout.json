@@ -1,0 +1,12 @@
+{"schema":"openai.presentation.layout/v5","unit":"px","slide":{"id":"sl/de3p3i","index":0,"layout":{"id":"ly/r2lcbmx0","name":"Blank"},"backgroundColor":"rgba(255,255,255,1)","position":{"left":0,"top":0,"width":1920,"height":1080}},
+"elements":[
+{"id":"im/jep07m5k","kind":"image","position":{"left":0,"top":0,"width":1920,"height":1080},"fit":"contain","alt":"classroom_scene"},
+{"id":"sh/povup4ba","kind":"shape","name":"reference_green_fade","position":{"left":0,"top":0,"width":1920,"height":1080},"geometry":"rect","lineWidth":0},
+{"id":"im/5g7i9wnq","kind":"image","position":{"left":1778.67,"top":40,"width":108,"height":77.33},"fit":"contain","alt":"sci_eum_logo"},
+{"id":"sh/badcrutg","kind":"textbox","name":"copyright","position":{"left":1535,"top":1035.73,"width":342,"height":30},"text":"© 2026. @sci_eum. All rights reserved.","style":{"fontSize":17,"typeface":"Pretendard","color":"#111111","alignment":"right"},"geometry":"rect","lineWidth":0},
+{"id":"im/rip0bm5w","kind":"image","position":{"left":138.67,"top":546.67,"width":152,"height":64},"fit":"contain","alt":"author"},
+{"id":"im/sjih4rmh","kind":"image","position":{"left":1601.33,"top":42.67,"width":154.67,"height":66.67},"fit":"contain","alt":"tsherpa_logo"},
+{"id":"sh/cbmt0za1","kind":"textbox","name":"title-line0","position":{"left":138.7,"top":262.55,"width":1465.3,"height":154},"text":"Ⅲ. 화학 변화의 자발성","style":{"fontSize":90,"typeface":"Pretendard","color":"#FFFFFF","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/zexcvetc","kind":"textbox","name":"title-line1","position":{"left":138.7,"top":367.55,"width":1465.3,"height":154},"text":"01. 엔탈피와 열화학 반응식","style":{"fontSize":90,"typeface":"Pretendard","color":"#FFFFFF","bold":true,"alignment":"left"},"geometry":"rect","lineWidth":0},
+{"id":"sh/ydob29sr","kind":"textbox","name":"ai_notice","position":{"left":37.3,"top":1034.73,"width":1130,"height":30},"text":"본 수업 자료에 사용된 일부 이미지는 생성형 AI 기술을 활용하여 제작되었습니다.","style":{"fontSize":17,"typeface":"Pretendard","color":"#FFFFFF","alignment":"left"},"geometry":"rect","lineWidth":0}
+]}

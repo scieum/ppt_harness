@@ -1,0 +1,6 @@
+{
+  "tool": "image_gen",
+  "reference": "assets/reference-library/20261027/components/R03-p22-whiteboard-original.png",
+  "asset": "dark-board.png",
+  "prompt": "Edit the referenced blank classroom board asset for a polished black-theme chemistry lecture slide. Preserve the straight-on horizontal rectangular silhouette, ratio roughly 1.4:1, gently rounded corners, flat blank writing surface and no perspective tilt. Replace the blurry pale plastic frame with a slim crisp satin graphite metal frame, restrained soft highlights, simple realistic 3D miniature classroom prop matching clay doll illustrations. Writing surface is very dark forest charcoal green (#14231B), perfectly empty and even, extremely subtle matte texture, no glare. Slim lower chalk ledge with only one tiny white chalk piece at far right. No text, no symbols, no people, no legs or stand, no scene. The board nearly fills canvas with narrow transparent margin; all exterior background truly transparent. Sharp high-resolution edges, elegant, understated, not ornate, not neon, not weathered. Generate landscape 1400x1000-like proportions."
+}
